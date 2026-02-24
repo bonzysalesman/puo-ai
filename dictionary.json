@@ -46,9 +46,9 @@
           "hōle"
         ],
         "usage_example": {
-          "sesotho": "Joalokaha bochaba-tsatsi bo le hōle le bophirima-tsatsi, Ka ho tšoanang o suthiselitse litlōlo tsa rōna hōle le rōna.",
-          "english": "As far as the sunrise is from the sunset, so far has he put our transgressions far away from us.",
-          "source": "JW Bible - Psalm 103:12"
+          "sesotho": "Feela joalokaha bochabela bo le hole le bophirimela,Ka ho tšoanang o suthiselitse liphoso tsa rona hole le rona.",
+          "english": "As far off as the sunrise is from the sunset,So far off from us he has put our transgressions.",
+          "source": "JW Bible - st_ps103 (Verse v19103012)"
         }
       }
     ],
@@ -174,9 +174,9 @@
           "leholimo"
         ],
         "usage_example": {
-          "sesotho": "Molimo a bitsa sepakapaka Leholimo. Ea e-ba mantsiboea ’me ea e-ba hoseng, letsatsi la bobeli.",
-          "english": "God called the expanse Heaven. And there was evening and there was morning, a second day.",
-          "source": "JW Bible - Genesis 1 (Verse v1001008)"
+          "sesotho": "Ena ke histori ea ha ho ne ho etsoa maholimo le lefatše, letsatsing leo ka lona Jehova Molimo a neng a etsa leholimo le lefatše.",
+          "english": "This is a history of the heavens and the earth in the time they were created, in the day that Jehovah God made earth and heaven.",
+          "source": "JW Bible - st_gen2 (Verse v1002004)"
         }
       }
     ],
@@ -231,9 +231,9 @@
           "lefatše"
         ],
         "usage_example": {
-          "sesotho": "Tšimolohong Molimo o ile a bōpa maholimo le lefatše.",
-          "english": "In the beginning God created the heavens and the earth.",
-          "source": "JW Bible - Genesis 1 (Verse v1001001)"
+          "sesotho": "Empa moholi o ne o nyoloha fatše 'me o nosetsa lefatše lohle.",
+          "english": "But a mist would go up from the earth, and it watered the entire surface of the ground.",
+          "source": "JW Bible - st_gen2 (Verse v1002006)"
         }
       }
     ],
@@ -288,9 +288,9 @@
           "boliba"
         ],
         "usage_example": {
-          "sesotho": "Joale lefatše le ne le se na sebōpeho ebile le se na letho ’me lefifi le ne le le holim ’a boliba; matla a sebetsang a Molimo a ne a e-ea koana le koana holim ’a metsi.",
-          "english": "Now the earth was formless and desolate, and there was darkness upon the surface of the watery deep, and God’s active force was moving about over the surface of the waters.",
-          "source": "JW Bible - Genesis 1 (Verse v1001002)"
+          "sesotho": "Joale lefatše le ne le se na sebōpeho ebile le se na letho 'me lefifi le ne le le holim'a boliba; matla a sebetsang a Molimo a ne a e-ea koana le koana holim'a metsi.",
+          "english": "Now the earth was formless and desolate, and there was darkness upon the surface of the watery deep, and God's active force was moving about over the surface of the waters.",
+          "source": "JW Bible - st_gen1 (Verse v1001002)"
         }
       }
     ],
@@ -346,7 +346,7 @@
         "usage_example": {
           "sesotho": "Molimo a re: “Leseli le ke le be teng.” Joale leseli la e-ba teng.",
           "english": "And God said: “Let there be light.” Then there was light.",
-          "source": "JW Bible - Genesis 1 (Verse v1001003)"
+          "source": "JW Bible - st_gen1 (Verse v1001003)"
         }
       }
     ],
@@ -400,9 +400,9 @@
           "bosiu"
         ],
         "usage_example": {
-          "sesotho": "Molimo a bitsa leseli Motšehare, empa lefifi a le bitsa Bosiu. Ea e-ba mantsiboea ’me ea e-ba hoseng, letsatsi la pele.",
-          "english": "God called the light Day, but the darkness he called Night. And there was evening and there was morning, a first day.",
-          "source": "JW Bible - Genesis 1 (Verse v1001005)"
+          "sesotho": "le ho laola motšehare le bosiu le ho etsa karohano pakeng tsa leseli le lefifi. Joale Molimo a bona hore ho molemo.",
+          "english": "and to dominate by day and by night and to make a division between the light and the darkness. Then God saw that it was good.",
+          "source": "JW Bible - st_gen1 (Verse v1001018)"
         }
       }
     ],
@@ -454,9 +454,9 @@
           "sepakapaka"
         ],
         "usage_example": {
-          "sesotho": "Molimo a tsoela pele ho re: “Ho ke ho be le sepakapaka pakeng tsa metsi ’me ho ke ho be le karohano pakeng tsa metsi le metsi.”",
-          "english": "Then God said: “Let there be an expanse between the waters, and let there be a division between the waters and the waters.”",
-          "source": "JW Bible - Genesis 1 (Verse v1001006)"
+          "sesotho": "Molimo a bitsa sepakapaka Leholimo. Ea e-ba mantsiboea 'me ea e-ba hoseng, letsatsi la bobeli.",
+          "english": "God called the expanse Heaven. And there was evening and there was morning, a second day.",
+          "source": "JW Bible - st_gen1 (Verse v1001008)"
         }
       }
     ],
@@ -507,9 +507,9 @@
           "naha"
         ],
         "usage_example": {
-          "sesotho": "Molimo a tsoela pele ho re: “Metsi a ka tlas’a maholimo a ke a bokelloe sebakeng se le seng ’me ho ke ho hlahe naha e omileng.” ’Me ha e-ba joalo.",
-          "english": "Then God said: “Let the waters under the heavens be collected together into one place, and let the dry land appear.” And it was so.",
-          "source": "JW Bible - Genesis 1 (Verse v1001009)"
+          "sesotho": "Lebitso la noka ea bobeli ke Gihone, ke eona e potolohileng naha eohle ea Kushe.",
+          "english": "The name of the second river is Giʹhon; it is the one encircling the entire land of Cush.",
+          "source": "JW Bible - st_gen2 (Verse v1002013)"
         }
       }
     ],
@@ -564,9 +564,9 @@
           "leoatle"
         ],
         "usage_example": {
-          "sesotho": "Eaba Molimo o bōpa liphoofolo tsa litonanahali tsa leoatle le moea o mong le o mong o phelang o tsamaeang, tseo metsi a li hlahisitseng ka bongata ho ea ka mefuta ea tsona, le sebōpuoa se seng le se seng se fofang se nang le mapheo ho ea ka mofuta oa sona. ’Me Molimo a bona hore ho molemo.",
-          "english": "And God created the great sea creatures and all living creatures that move and swarm in the waters according to their kinds and every winged flying creature according to its kind. And God saw that it was good.",
-          "source": "JW Bible - Genesis 1 (Verse v1001021)"
+          "sesotho": "Ho ekelletsa moo, Molimo a ba hlohonolofatsa 'me Molimo a re ho bona: “Atang le ngatafale le tlale lefatše 'me le le buse, 'me le laole litlhapi tsa leoatle le libōpuoa tse fofang tsa maholimo le sebōpuoa se seng le se seng se phelang se hahabang lefatšeng.”",
+          "english": "Further, God blessed them, and God said to them: “Be fruitful and become many, fill the earth and subdue it, and have in subjection the fish of the sea and the flying creatures of the heavens and every living creature that is moving on the earth.”",
+          "source": "JW Bible - st_gen1 (Verse v1001028)"
         }
       }
     ],
@@ -617,9 +617,9 @@
           "peō"
         ],
         "usage_example": {
-          "sesotho": "Molimo a tsoela pele ho re: “Lefatše le ke le hlahise joang, limela tse behang peō, lifate tsa litholoana tse behang litholoana ho ea ka mefuta ea tsona, tseo peō ea tsona e leng ho tsona, holim ’a lefatše.” ’Me ha e-ba joalo.",
-          "english": "Then God said: “Let the earth cause grass to sprout, seed-bearing plants and fruit trees according to their kinds, yielding fruit along with seed on the earth.” And it was so.",
-          "source": "JW Bible - Genesis 1 (Verse v1001011)"
+          "sesotho": "Lefatše la qala ho hlahise joang, limela tse behang peō ho ea ka mefuta ea tsona le lifate tse behang litholoana, tseo peō ea tsona e leng ho tsona ho ea ka mefuta ea tsona. Joale Molimo a bona hore ho molemo.",
+          "english": "And the earth began to produce grass, seed-bearing plants and trees yielding fruit along with seed, according to their kinds. Then God saw that it was good.",
+          "source": "JW Bible - st_gen1 (Verse v1001012)"
         }
       }
     ],
@@ -669,9 +669,9 @@
           "mofuta"
         ],
         "usage_example": {
-          "sesotho": "Eaba Molimo o bōpa liphoofolo tsa litonanahali tsa leoatle le moea o mong le o mong o phelang o tsamaeang, tseo metsi a li hlahisitseng ka bongata ho ea ka mefuta ea tsona, le sebōpuoa se seng le se seng se fofang se nang le mapheo ho ea ka mofuta oa sona. ’Me Molimo a bona hore ho molemo.",
-          "english": "And God created the great sea creatures and all living creatures that move and swarm in the waters according to their kinds and every winged flying creature according to its kind. And God saw that it was good.",
-          "source": "JW Bible - Genesis 1 (Verse v1001021)"
+          "sesotho": "Molimo a tsoela pele ho re: “Lefatše le ke le hlahise meea e phelang ho ea ka mefuta ea eona, phoofolo e ruuoang le phoofolo e hahabang le sebata sa lefatše ho ea ka mofuta oa sona.” 'Me ha e-ba joalo.",
+          "english": "Then God said: “Let the earth bring forth living creatures according to their kinds, domestic animals and creeping animals and wild animals of the earth according to their kinds.” And it was so.",
+          "source": "JW Bible - st_gen1 (Verse v1001024)"
         }
       }
     ],
@@ -826,9 +826,9 @@
           "selemo"
         ],
         "usage_example": {
-          "sesotho": "Molimo a tsoela pele ho re: “Ho ke ho be le mehloli ea leseli sepakapakeng sa maholimo ho etsa karohano pakeng tsa motšehare le bosiu; ’me e tla ba lipontšo le linako tsa selemo le matsatsi le lilemo.",
+          "sesotho": "Molimo a tsoela pele ho re: “Ho ke ho be le mehloli ea leseli sepakapakeng sa maholimo ho etsa karohano pakeng tsa motšehare le bosiu; 'me e tla ba lipontšo le linako tsa selemo le matsatsi le lilemo.",
           "english": "Then God said: “Let there be luminaries in the expanse of the heavens to make a division between the day and the night, and they will serve as signs for seasons and for days and years.",
-          "source": "JW Bible - Genesis 1 (Verse v1001014)"
+          "source": "JW Bible - st_gen1 (Verse v1001014)"
         }
       }
     ],
@@ -925,9 +925,9 @@
           "liphoofolo tsa litonanahali"
         ],
         "usage_example": {
-          "sesotho": "Eaba Molimo o bōpa liphoofolo tsa litonanahali tsa leoatle le moea o mong le o mong o phelang o tsamaeang, tseo metsi a li hlahisitseng ka bongata ho ea ka mefuta ea tsona, le sebōpuoa se seng le se seng se fofang se nang le mapheo ho ea ka mofuta oa sona. ’Me Molimo a bona hore ho molemo.",
+          "sesotho": "Eaba Molimo o bōpa liphoofolo tsa litonanahali tsa leoatle le moea o mong le o mong o phelang o tsamaeang, tseo metsi a li hlahisitseng ka bongata ho ea ka mefuta ea tsona, le sebōpuoa se seng le se seng se fofang se nang le mapheo ho ea ka mofuta oa sona. 'Me Molimo a bona hore ho molemo.",
           "english": "And God created the great sea creatures and all living creatures that move and swarm in the waters according to their kinds and every winged flying creature according to its kind. And God saw that it was good.",
-          "source": "JW Bible - Genesis 1 (Verse v1001021)"
+          "source": "JW Bible - st_gen1 (Verse v1001021)"
         }
       }
     ],
@@ -1032,9 +1032,9 @@
           "phoofolo e hahabang"
         ],
         "usage_example": {
-          "sesotho": "Molimo a tsoela pele ho re: “Lefatše le ke le hlahise meea e phelang ho ea ka mefuta ea eona, phoofolo e ruuoang le phoofolo e hahabang le sebata sa lefatše ho ea ka mofuta oa sona.” ’Me ha e-ba joalo.",
+          "sesotho": "Molimo a tsoela pele ho re: “Lefatše le ke le hlahise meea e phelang ho ea ka mefuta ea eona, phoofolo e ruuoang le phoofolo e hahabang le sebata sa lefatše ho ea ka mofuta oa sona.” 'Me ha e-ba joalo.",
           "english": "Then God said: “Let the earth bring forth living creatures according to their kinds, domestic animals and creeping animals and wild animals of the earth according to their kinds.” And it was so.",
-          "source": "JW Bible - Genesis 1 (Verse v1001024)"
+          "source": "JW Bible - st_gen1 (Verse v1001024)"
         }
       }
     ],
@@ -1082,9 +1082,9 @@
           "sebata"
         ],
         "usage_example": {
-          "sesotho": "Molimo a tsoela pele ho re: “Lefatše le ke le hlahise meea e phelang ho ea ka mefuta ea eona, phoofolo e ruuoang le phoofolo e hahabang le sebata sa lefatše ho ea ka mofuta oa sona.” ’Me ha e-ba joalo.",
+          "sesotho": "Molimo a tsoela pele ho re: “Lefatše le ke le hlahise meea e phelang ho ea ka mefuta ea eona, phoofolo e ruuoang le phoofolo e hahabang le sebata sa lefatše ho ea ka mofuta oa sona.” 'Me ha e-ba joalo.",
           "english": "Then God said: “Let the earth bring forth living creatures according to their kinds, domestic animals and creeping animals and wild animals of the earth according to their kinds.” And it was so.",
-          "source": "JW Bible - Genesis 1 (Verse v1001024)"
+          "source": "JW Bible - st_gen1 (Verse v1001024)"
         }
       }
     ],
@@ -1139,9 +1139,9 @@
           "motho"
         ],
         "usage_example": {
-          "sesotho": "Molimo a tsoela pele ho re: “A re etse motho ka setšoantšo sa rōna, ho ea ka sebōpeho sa rōna, ’me ba laole litlhapi tsa leoatle le libōpuoa tse fofang tsa maholimo le liphoofolo tse ruuoang le lefatše lohle le phoofolo e ’ngoe le e ’ngoe e hahabang lefatšeng.”",
-          "english": "Then God said: “Let us make man in our image, according to our likeness, and let them have in subjection the fish of the sea and the flying creatures of the heavens and the domestic animals and all the earth and every creeping animal that is moving on the earth.”",
-          "source": "JW Bible - Genesis 1 (Verse v1001026)"
+          "sesotho": "Jehova Molimo a beha motho serapeng sa Edene hore a se leme le ho se hlokomela.",
+          "english": "Jehovah God took the man and settled him in the garden of Eʹden to cultivate it and to take care of it.",
+          "source": "JW Bible - st_gen2 (Verse v1002015)"
         }
       }
     ],
@@ -1196,9 +1196,9 @@
           "setšoantšo"
         ],
         "usage_example": {
-          "sesotho": "Molimo a tsoela pele ho re: “A re etse motho ka setšoantšo sa rōna, ho ea ka sebōpeho sa rōna, ’me ba laole litlhapi tsa leoatle le libōpuoa tse fofang tsa maholimo le liphoofolo tse ruuoang le lefatše lohle le phoofolo e ’ngoe le e ’ngoe e hahabang lefatšeng.”",
-          "english": "Then God said: “Let us make man in our image, according to our likeness, and let them have in subjection the fish of the sea and the flying creatures of the heavens and the domestic animals and all the earth and every creeping animal that is moving on the earth.”",
-          "source": "JW Bible - Genesis 1 (Verse v1001026)"
+          "sesotho": "Molimo a bōpa motho ka setšoantšo sa hae, a mo bōpa ka setšoantšo sa Molimo; a ba bōpa e le e motona le e motšehali.",
+          "english": "And God went on to create the man in his image, in God's image he created him; male and female he created them.",
+          "source": "JW Bible - st_gen1 (Verse v1001027)"
         }
       }
     ],
@@ -1250,8 +1250,8 @@
         ],
         "usage_example": {
           "sesotho": "Molimo a bōpa motho ka setšoantšo sa hae, a mo bōpa ka setšoantšo sa Molimo; a ba bōpa e le e motona le e motšehali.",
-          "english": "And God went on to create the man in his image, in God’s image he created him; male and female he created them.",
-          "source": "JW Bible - Genesis 1 (Verse v1001027)"
+          "english": "And God went on to create the man in his image, in God's image he created him; male and female he created them.",
+          "source": "JW Bible - st_gen1 (Verse v1001027)"
         }
       }
     ],
@@ -1305,8 +1305,8 @@
         ],
         "usage_example": {
           "sesotho": "Molimo a bōpa motho ka setšoantšo sa hae, a mo bōpa ka setšoantšo sa Molimo; a ba bōpa e le e motona le e motšehali.",
-          "english": "And God went on to create the man in his image, in God’s image he created him; male and female he created them.",
-          "source": "JW Bible - Genesis 1 (Verse v1001027)"
+          "english": "And God went on to create the man in his image, in God's image he created him; male and female he created them.",
+          "source": "JW Bible - st_gen1 (Verse v1001027)"
         }
       }
     ],
@@ -1359,9 +1359,9 @@
           "molemo"
         ],
         "usage_example": {
-          "sesotho": "Ka mor’a moo Molimo a bona hore leseli le molemo, ’me Molimo a hlahisa karohano pakeng tsa leseli le lefifi.",
+          "sesotho": "Ka mor'a moo Molimo a bona hore leseli le molemo, 'me Molimo a hlahisa karohano pakeng tsa leseli le lefifi.",
           "english": "After that God saw that the light was good, and God began to divide the light from the darkness.",
-          "source": "JW Bible - Genesis 1 (Verse v1001004)"
+          "source": "JW Bible - st_gen1 (Verse v1001004)"
         }
       }
     ],
@@ -1474,9 +1474,9 @@
           "letho"
         ],
         "usage_example": {
-          "sesotho": "Joale lefatše le ne le se na sebōpeho ebile le se na letho ’me lefifi le ne le le holim ’a boliba; matla a sebetsang a Molimo a ne a e-ea koana le koana holim ’a metsi.",
-          "english": "Now the earth was formless and desolate, and there was darkness upon the surface of the watery deep, and God’s active force was moving about over the surface of the waters.",
-          "source": "JW Bible - Genesis 1 (Verse v1001002)"
+          "sesotho": "Joale lefatše le ne le se na sebōpeho ebile le se na letho 'me lefifi le ne le le holim'a boliba; matla a sebetsang a Molimo a ne a e-ea koana le koana holim'a metsi.",
+          "english": "Now the earth was formless and desolate, and there was darkness upon the surface of the watery deep, and God's active force was moving about over the surface of the waters.",
+          "source": "JW Bible - st_gen1 (Verse v1001002)"
         }
       }
     ],
@@ -1527,9 +1527,9 @@
           "lefifi"
         ],
         "usage_example": {
-          "sesotho": "Joale lefatše le ne le se na sebōpeho ebile le se na letho ’me lefifi le ne le le holim ’a boliba; matla a sebetsang a Molimo a ne a e-ea koana le koana holim ’a metsi.",
-          "english": "Now the earth was formless and desolate, and there was darkness upon the surface of the watery deep, and God’s active force was moving about over the surface of the waters.",
-          "source": "JW Bible - Genesis 1 (Verse v1001002)"
+          "sesotho": "Ka mor'a moo Molimo a bona hore leseli le molemo, 'me Molimo a hlahisa karohano pakeng tsa leseli le lefifi.",
+          "english": "After that God saw that the light was good, and God began to divide the light from the darkness.",
+          "source": "JW Bible - st_gen1 (Verse v1001004)"
         }
       }
     ],
@@ -1584,9 +1584,9 @@
           "motšehare"
         ],
         "usage_example": {
-          "sesotho": "Molimo a bitsa leseli Motšehare, empa lefifi a le bitsa Bosiu. Ea e-ba mantsiboea ’me ea e-ba hoseng, letsatsi la pele.",
-          "english": "God called the light Day, but the darkness he called Night. And there was evening and there was morning, a first day.",
-          "source": "JW Bible - Genesis 1 (Verse v1001005)"
+          "sesotho": "le ho laola motšehare le bosiu le ho etsa karohano pakeng tsa leseli le lefifi. Joale Molimo a bona hore ho molemo.",
+          "english": "and to dominate by day and by night and to make a division between the light and the darkness. Then God saw that it was good.",
+          "source": "JW Bible - st_gen1 (Verse v1001018)"
         }
       }
     ],
@@ -1602,6 +1602,3076 @@
       "antonyms_st": [
         "bosiu"
       ]
+    }
+  },
+  {
+    "entry_id": "st_M_9001",
+    "headword_english": "God",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "Molimo",
+        "tone_marked": "Molimo"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "Mo-li-mo",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "root": "limo",
+      "noun_class": "1",
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "god_01",
+        "definition_en": "the supreme being, creator",
+        "sesotho_term": [
+          "Molimo"
+        ],
+        "usage_example": {
+          "sesotho": "Molimo a qeta ho bopa maholimo le lefatše le lintho tsohle tse ho tsona.",
+          "english": "Thus the heavens and the earth and everything in them were completed.",
+          "source": "JW Bible - st_gen2 (Verse v1002001)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "Creator",
+        "Deity"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_M_9002",
+    "headword_english": "Water",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "metsi",
+        "tone_marked": "metsi"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "me-tsi",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "tsi",
+      "noun_class": "6",
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "water_01",
+        "definition_en": "a colorless, transparent, odorless liquid",
+        "sesotho_term": [
+          "metsi"
+        ],
+        "usage_example": {
+          "sesotho": "Molimo a tsoela pele ho re: “Ho ke ho be le sepakapaka pakeng tsa metsi 'me ho ke ho be le karohano pakeng tsa metsi le metsi.”",
+          "english": "Then God said: “Let there be an expanse between the waters, and let there be a division between the waters and the waters.”",
+          "source": "JW Bible - st_gen1 (Verse v1001006)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "liquid",
+        "moisture"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_L_9003",
+    "headword_english": "Sun / Day",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "letsatsi",
+        "tone_marked": "letsatsi"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "le-tsa-tsi",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "root": "tsatsi",
+      "noun_class": "5",
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "sun_01",
+        "definition_en": "the star around which the earth orbits; a day",
+        "sesotho_term": [
+          "letsatsi"
+        ],
+        "usage_example": {
+          "sesotho": "Molimo a hlohonolofatsa letsatsi la bosupa 'me a re lea halalela hobane letsatsing leo o ile a phomola ka mor'a mosebetsi oohle oo a o entseng.",
+          "english": "And God went on to bless the seventh day and to declare it sacred, for on it God has been resting from all the work that he has created, all that he purposed to make.",
+          "source": "JW Bible - st_gen2 (Verse v1002003)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "day",
+        "solar body"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [
+        "night"
+      ],
+      "antonyms_st": [
+        "bosiu"
+      ]
+    }
+  },
+  {
+    "entry_id": "st_M_9004",
+    "headword_english": "Evening",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "mantsiboea",
+        "tone_marked": "mantsiboea"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "ma-ntsi-boe-a",
+        "syllable_count": 4
+      }
+    ],
+    "morphology": {
+      "root": "boe",
+      "noun_class": "6",
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "evening_01",
+        "definition_en": "the period of time at the end of the day",
+        "sesotho_term": [
+          "mantsiboea"
+        ],
+        "usage_example": {
+          "sesotho": "Ea e-ba mantsiboea 'me ea e-ba hoseng, letsatsi la bone.",
+          "english": "And there was evening and there was morning, a fourth day.",
+          "source": "JW Bible - st_gen1 (Verse v1001019)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "dusk",
+        "sunset"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [
+        "morning"
+      ],
+      "antonyms_st": [
+        "hoseng"
+      ]
+    }
+  },
+  {
+    "entry_id": "st_H_9005",
+    "headword_english": "Morning",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "hoseng",
+        "tone_marked": "hoseng"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "ho-seng",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "seng",
+      "noun_class": "15",
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "morning_01",
+        "definition_en": "the period of time between sunrise and noon",
+        "sesotho_term": [
+          "hoseng"
+        ],
+        "usage_example": {
+          "sesotho": "Ea e-ba mantsiboea 'me ea e-ba hoseng, letsatsi la bone.",
+          "english": "And there was evening and there was morning, a fourth day.",
+          "source": "JW Bible - st_gen1 (Verse v1001019)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "dawn",
+        "daybreak"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [
+        "evening"
+      ],
+      "antonyms_st": [
+        "mantsiboea"
+      ]
+    }
+  },
+  {
+    "entry_id": "st_M_9006",
+    "headword_english": "Heavens",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "maholimo",
+        "tone_marked": "maholimo"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "ma-ho-li-mo",
+        "syllable_count": 4
+      }
+    ],
+    "morphology": {
+      "root": "holimo",
+      "noun_class": "6",
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "heavens_01",
+        "definition_en": "the sky or universe as seen from the earth; plural of leholimo",
+        "sesotho_term": [
+          "maholimo"
+        ],
+        "usage_example": {
+          "sesotho": "Molimo a qeta ho bopa maholimo le lefatše le lintho tsohle tse ho tsona.",
+          "english": "Thus the heavens and the earth and everything in them were completed.",
+          "source": "JW Bible - st_gen2 (Verse v1002001)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "skies",
+        "firmament"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [
+        "earth"
+      ],
+      "antonyms_st": [
+        "lefatše"
+      ]
+    }
+  },
+  {
+    "entry_id": "st_B_9007",
+    "headword_english": "See / Behold",
+    "pos": [
+      {
+        "tag": "v.",
+        "full": "verb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bona",
+        "tone_marked": "bona"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "bo-na",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "bona",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "see_01",
+        "definition_en": "to perceive with the eyes; to behold",
+        "sesotho_term": [
+          "bona"
+        ],
+        "usage_example": {
+          "sesotho": "Ke ka lebaka leo monna a tla siea ntate oa hae le 'mè oa hae 'me a khomarele mosali oa hae, bobeli ba bona e tla ba nama e le 'ngoe.",
+          "english": "That is why a man will leave his father and his mother and he will stick to his wife, and they will become one flesh.",
+          "source": "JW Bible - st_gen2 (Verse v1002024)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "behold",
+        "view",
+        "observe"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_T_9008",
+    "headword_english": "Beginning",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "Tšimolohong",
+        "tone_marked": "Tšimolohong"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "Tši-mo-lo-ho-ng",
+        "syllable_count": 5
+      }
+    ],
+    "morphology": {
+      "root": "simoloha",
+      "noun_class": "15 (locative)",
+      "derivation": "Locative form of 'tšimoloho' (beginning)"
+    },
+    "senses": [
+      {
+        "sense_id": "beginning_01",
+        "definition_en": "the point in time or space at which something begins",
+        "sesotho_term": [
+          "Tšimolohong"
+        ],
+        "usage_example": {
+          "sesotho": "Tšimolohong Molimo o ile a bōpa maholimo le lefatše.",
+          "english": "In the beginning God created the heavens and the earth.",
+          "source": "JW Bible - st_gen1 (Verse v1001001)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "start",
+        "commencement",
+        "origin"
+      ],
+      "synonyms_st": [
+        "tšimoloho"
+      ],
+      "antonyms_en": [
+        "end",
+        "finish"
+      ],
+      "antonyms_st": [
+        "phello"
+      ]
+    }
+  },
+  {
+    "entry_id": "st_H_9101",
+    "headword_english": "Still / Only / Once",
+    "pos": [
+      {
+        "tag": "adv.",
+        "full": "adverb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "hoseng",
+        "tone_marked": "hoseng"
+      },
+      {
+        "orthographic": "seng",
+        "tone_marked": "seng"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "se-ng",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "seng",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "still_01",
+        "definition_en": "once; only; still",
+        "sesotho_term": [
+          "seng"
+        ],
+        "usage_example": {
+          "sesotho": "Molimo a tsoela pele ho re: “Metsi a ka tlas'a maholimo a ke a bokelloe sebakeng se le seng 'me ho ke ho hlahe naha e omileng.” 'Me ha e-ba joalo.",
+          "english": "Then God said: “Let the waters under the heavens be collected together into one place, and let the dry land appear.” And it was so.",
+          "source": "JW Bible - st_gen1 (Verse v1001009)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "once",
+        "only"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_T_9102",
+    "headword_english": "Them / These",
+    "pos": [
+      {
+        "tag": "pron.",
+        "full": "pronoun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "tsona",
+        "tone_marked": "tsona"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "tso-na",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "tsona",
+      "noun_class": "10/8",
+      "derivation": "Absolute pronoun"
+    },
+    "senses": [
+      {
+        "sense_id": "them_01",
+        "definition_en": "referring to things or animals previously mentioned",
+        "sesotho_term": [
+          "tsona"
+        ],
+        "usage_example": {
+          "sesotho": "Molimo a qeta ho bopa maholimo le lefatše le lintho tsohle tse ho tsona.",
+          "english": "Thus the heavens and the earth and everything in them were completed.",
+          "source": "JW Bible - st_gen2 (Verse v1002001)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "these",
+        "those"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_P_9103",
+    "headword_english": "Before / First / Forward",
+    "pos": [
+      {
+        "tag": "adv.",
+        "full": "adverb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "pele",
+        "tone_marked": "pele"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "pe-le",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "pele",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "before_01",
+        "definition_en": "at an earlier time; in front of",
+        "sesotho_term": [
+          "pele"
+        ],
+        "usage_example": {
+          "sesotho": "Lebitso la noka ea pele ke Pishone. Ke eona e potolohileng naha eohle ea Havila, e nang le khauta.",
+          "english": "The name of the first is Piʹshon; it is the one encircling the entire land of Havʹi·lah, where there is gold.",
+          "source": "JW Bible - st_gen2 (Verse v1002011)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "early",
+        "front",
+        "forward"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [
+        "after",
+        "behind"
+      ],
+      "antonyms_st": [
+        "kamorao"
+      ]
+    }
+  },
+  {
+    "entry_id": "st_H_9104",
+    "headword_english": "Above / High / On",
+    "pos": [
+      {
+        "tag": "adv.",
+        "full": "adverb"
+      },
+      {
+        "tag": "prep.",
+        "full": "preposition"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "holimo",
+        "tone_marked": "holimo"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "ho-li-mo",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "root": "holimo",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "above_01",
+        "definition_en": "in or to a higher place; over",
+        "sesotho_term": [
+          "holimo",
+          "holim'a"
+        ],
+        "usage_example": {
+          "sesotho": "Kahoo Molimo a e beha sepakapakeng sa maholimo hore e khanye holim'a lefatše,",
+          "english": "Thus God put them in the expanse of the heavens to shine upon the earth",
+          "source": "JW Bible - st_gen1 (Verse v1001017)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "over",
+        "above"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [
+        "below",
+        "under"
+      ],
+      "antonyms_st": [
+        "tlasa"
+      ]
+    }
+  },
+  {
+    "entry_id": "st_T_9105",
+    "headword_english": "Continue / Flow / Go forward",
+    "pos": [
+      {
+        "tag": "v.",
+        "full": "verb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "tsoela",
+        "tone_marked": "tsoela"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "tsoe-la",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "tsoa",
+      "noun_class": null,
+      "derivation": "Applied form of 'tsoa' (come out)"
+    },
+    "senses": [
+      {
+        "sense_id": "continue_01",
+        "definition_en": "to persist in an activity or process",
+        "sesotho_term": [
+          "tsoela"
+        ],
+        "usage_example": {
+          "sesotho": "Molimo a tsoela pele ho re: “Ho ke ho be le sepakapaka pakeng tsa metsi 'me ho ke ho be le karohano pakeng tsa metsi le metsi.”",
+          "english": "Then God said: “Let there be an expanse between the waters, and let there be a division between the waters and the waters.”",
+          "source": "JW Bible - st_gen1 (Verse v1001006)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "persist",
+        "proceed"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [
+        "stop"
+      ],
+      "antonyms_st": [
+        "emisa"
+      ]
+    }
+  },
+  {
+    "entry_id": "st_E_9106",
+    "headword_english": "Do / Make",
+    "pos": [
+      {
+        "tag": "v.",
+        "full": "verb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "etsa",
+        "tone_marked": "etsa"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "e-tsa",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "etsa",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "do_01",
+        "definition_en": "to perform an action",
+        "sesotho_term": [
+          "etsa"
+        ],
+        "usage_example": {
+          "sesotho": "Jehova Molimo a etsa mosali ka khopo eo a e nkileng ho monna eaba o mo tlisa ho monna.",
+          "english": "And Jehovah God built the rib that he had taken from the man into a woman, and he brought her to the man.",
+          "source": "JW Bible - st_gen2 (Verse v1002022)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "perform",
+        "create",
+        "produce"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_B_9201",
+    "headword_english": "Create / Form",
+    "pos": [
+      {
+        "tag": "v.",
+        "full": "verb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bōpa",
+        "tone_marked": "bōpa"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "bō-pa",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "bōpa",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "create_01",
+        "definition_en": "to bring something into existence",
+        "sesotho_term": [
+          "bōpa"
+        ],
+        "usage_example": {
+          "sesotho": "Tšimolohong Molimo o ile a bōpa maholimo le lefatše.",
+          "english": "In the beginning God created the heavens and the earth.",
+          "source": "JW Bible - st_gen1 (Verse v1001001)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "make",
+        "form",
+        "fashion"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [
+        "destroy"
+      ],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_B_9202",
+    "headword_english": "Call / Name",
+    "pos": [
+      {
+        "tag": "v.",
+        "full": "verb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bitsa",
+        "tone_marked": "bitsa"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "bi-tsa",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "bitsa",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "call_01",
+        "definition_en": "to give a name to; to summon",
+        "sesotho_term": [
+          "bitsa"
+        ],
+        "usage_example": {
+          "sesotho": "Molimo a bitsa sepakapaka Leholimo. Ea e-ba mantsiboea 'me ea e-ba hoseng, letsatsi la bobeli.",
+          "english": "God called the expanse Heaven. And there was evening and there was morning, a second day.",
+          "source": "JW Bible - st_gen1 (Verse v1001008)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "name",
+        "summon"
+      ],
+      "synonyms_st": [
+        "reha"
+      ],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_J_9203",
+    "headword_english": "Now",
+    "pos": [
+      {
+        "tag": "adv.",
+        "full": "adverb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "joale",
+        "tone_marked": "joale"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "joa-le",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "joale",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "now_01",
+        "definition_en": "at the present time",
+        "sesotho_term": [
+          "joale"
+        ],
+        "usage_example": {
+          "sesotho": "Monna a re: “Joale enoa ke lesapo la masapo a kaLe nama ea nama ea ka. O tla bitsoa MosaliHobane o nkiloe ho monna.”",
+          "english": "Then the man said: “This is at last bone of my bonesAnd flesh of my flesh. This one will be called Woman,Because from man she was taken.”",
+          "source": "JW Bible - st_gen2 (Verse v1002023)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "presently",
+        "currently"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [
+        "then"
+      ],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_K_9204",
+    "headword_english": "Division / Separation",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "karohano",
+        "tone_marked": "karohano"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "ka-ro-ha-no",
+        "syllable_count": 4
+      }
+    ],
+    "morphology": {
+      "root": "aroha",
+      "noun_class": "9",
+      "derivation": "Nominalization of 'arohana' (to separate)"
+    },
+    "senses": [
+      {
+        "sense_id": "division_01",
+        "definition_en": "the action of separating something into parts",
+        "sesotho_term": [
+          "karohano"
+        ],
+        "usage_example": {
+          "sesotho": "Ka mor'a moo Molimo a bona hore leseli le molemo, 'me Molimo a hlahisa karohano pakeng tsa leseli le lefifi.",
+          "english": "After that God saw that the light was good, and God began to divide the light from the darkness.",
+          "source": "JW Bible - st_gen1 (Verse v1001004)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "separation",
+        "partition"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [
+        "merger",
+        "union"
+      ],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_J_9205",
+    "headword_english": "So / Like that",
+    "pos": [
+      {
+        "tag": "adv.",
+        "full": "adverb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "joalo",
+        "tone_marked": "joalo"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "joa-lo",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "joalo",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "so_01",
+        "definition_en": "in that way; to that extent",
+        "sesotho_term": [
+          "joalo"
+        ],
+        "usage_example": {
+          "sesotho": "Monna le mosali oa hae ba ile ba lula ba sa apara. Leha ho le joalo, ba ne ba sa hlajoe ke lihlong.",
+          "english": "And both of them continued to be naked, the man and his wife; yet they were not ashamed.",
+          "source": "JW Bible - st_gen2 (Verse v1002025)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "thus",
+        "accordingly"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_P_9206",
+    "headword_english": "Between / Among",
+    "pos": [
+      {
+        "tag": "prep.",
+        "full": "preposition"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "pakeng",
+        "tone_marked": "pakeng"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "pa-ke-ng",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "paka",
+      "noun_class": "15 (locative)",
+      "derivation": "Locative of 'paka'"
+    },
+    "senses": [
+      {
+        "sense_id": "between_01",
+        "definition_en": "in the space separating two points",
+        "sesotho_term": [
+          "pakeng"
+        ],
+        "usage_example": {
+          "sesotho": "Ka mor'a moo Molimo a bona hore leseli le molemo, 'me Molimo a hlahisa karohano pakeng tsa leseli le lefifi.",
+          "english": "After that God saw that the light was good, and God began to divide the light from the darkness.",
+          "source": "JW Bible - st_gen1 (Verse v1001004)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "among",
+        "amidst"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_N_9207",
+    "headword_english": "One",
+    "pos": [
+      {
+        "tag": "adj.",
+        "full": "adjective"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ngoe",
+        "tone_marked": "ngoe"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "ngoe",
+        "syllable_count": 1
+      }
+    ],
+    "morphology": {
+      "root": "ngoe",
+      "noun_class": null,
+      "derivation": "Numeral stem"
+    },
+    "senses": [
+      {
+        "sense_id": "one_01",
+        "definition_en": "the number 1; a single person or thing",
+        "sesotho_term": [
+          "ngoe"
+        ],
+        "usage_example": {
+          "sesotho": "Ke ka lebaka leo monna a tla siea ntate oa hae le 'mè oa hae 'me a khomarele mosali oa hae, bobeli ba bona e tla ba nama e le 'ngoe.",
+          "english": "That is why a man will leave his father and his mother and he will stick to his wife, and they will become one flesh.",
+          "source": "JW Bible - st_gen2 (Verse v1002024)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "single",
+        "individual"
+      ],
+      "synonyms_st": [
+        "nngoe"
+      ],
+      "antonyms_en": [
+        "many"
+      ],
+      "antonyms_st": [
+        "ngata"
+      ]
+    }
+  },
+  {
+    "entry_id": "st_P_9301",
+    "headword_english": "Animal",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "phoofolo",
+        "tone_marked": "phoofolo"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "phoo-fo-lo",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "root": "phoofolo",
+      "noun_class": "9",
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "animal_01",
+        "definition_en": "a living organism that feeds on organic matter",
+        "sesotho_term": [
+          "phoofolo"
+        ],
+        "usage_example": {
+          "sesotho": "Molimo a tsoela pele ho re: “Lefatše le ke le hlahise meea e phelang ho ea ka mefuta ea eona, phoofolo e ruuoang le phoofolo e hahabang le sebata sa lefatše ho ea ka mofuta oa sona.” 'Me ha e-ba joalo.",
+          "english": "Then God said: “Let the earth bring forth living creatures according to their kinds, domestic animals and creeping animals and wild animals of the earth according to their kinds.” And it was so.",
+          "source": "JW Bible - st_gen1 (Verse v1001024)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "creature",
+        "beast"
+      ],
+      "synonyms_st": [
+        "sebata"
+      ],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_L_9302",
+    "headword_english": "Creatures",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "libōpuoa",
+        "tone_marked": "libōpuoa"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "li-bō-pu-oa",
+        "syllable_count": 4
+      }
+    ],
+    "morphology": {
+      "root": "bōpa",
+      "noun_class": "8/10",
+      "derivation": "Passive nominalization of 'bōpa' (create)"
+    },
+    "senses": [
+      {
+        "sense_id": "creature_01",
+        "definition_en": "living beings, especially animals",
+        "sesotho_term": [
+          "libōpuoa"
+        ],
+        "usage_example": {
+          "sesotho": "Molimo a tsoela pele ho re: “Metsi a ke a nyeunye boieane ba meea e phelang 'me libōpuoa tse fofang li ke li fofe holim'a lefatše sepakapakeng sa maholimo.”",
+          "english": "Then God said: “Let the waters swarm with living creatures, and let flying creatures fly above the earth across the expanse of the heavens.”",
+          "source": "JW Bible - st_gen1 (Verse v1001020)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "beings",
+        "animals"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_L_9303",
+    "headword_english": "Plants / Vegetation",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "limela",
+        "tone_marked": "limela"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "li-me-la",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "root": "mela",
+      "noun_class": "4",
+      "derivation": "Nominalization of 'mela' (grow/sprout)"
+    },
+    "senses": [
+      {
+        "sense_id": "plant_01",
+        "definition_en": "living organisms such as trees, shrubs, herbs, grasses, ferns, and mosses",
+        "sesotho_term": [
+          "limela"
+        ],
+        "usage_example": {
+          "sesotho": "Ho ne ho e-s'o ka ho e-ba le lihlahla le limela lefatšeng hobane Jehova Molimo o ne a e-s'o nese pula 'me ho ne ho se na motho ea ka lemang.",
+          "english": "No bush of the field was yet on the earth and no vegetation of the field had begun sprouting, because Jehovah God had not made it rain on the earth and there was no man to cultivate the ground.",
+          "source": "JW Bible - st_gen2 (Verse v1002005)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "vegetation",
+        "flora"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_L_9304",
+    "headword_english": "Fruits",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "litholoana",
+        "tone_marked": "litholoana"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "li-tho-loa-na",
+        "syllable_count": 4
+      }
+    ],
+    "morphology": {
+      "root": "tholoana",
+      "noun_class": "10",
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "fruit_01",
+        "definition_en": "the sweet and fleshy product of a tree or other plant that contains seed",
+        "sesotho_term": [
+          "litholoana"
+        ],
+        "usage_example": {
+          "sesotho": "Jehova Molimo a fa motho taelo ena: “U ka ja litholoana tsa lifate tsohle tse serapeng hore u khotsofale.",
+          "english": "Jehovah God also gave this command to the man: “From every tree of the garden you may eat to satisfaction.",
+          "source": "JW Bible - st_gen2 (Verse v1002016)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "produce",
+        "crop"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_L_9305",
+    "headword_english": "Rule / Govern / Control",
+    "pos": [
+      {
+        "tag": "v.",
+        "full": "verb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "laola",
+        "tone_marked": "laola"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "lao-la",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "laola",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "rule_01",
+        "definition_en": "to exercise ultimate power or authority over",
+        "sesotho_term": [
+          "laola"
+        ],
+        "usage_example": {
+          "sesotho": "le ho laola motšehare le bosiu le ho etsa karohano pakeng tsa leseli le lefifi. Joale Molimo a bona hore ho molemo.",
+          "english": "and to dominate by day and by night and to make a division between the light and the darkness. Then God saw that it was good.",
+          "source": "JW Bible - st_gen1 (Verse v1001018)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "govern",
+        "command",
+        "dominate"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [
+        "obey",
+        "submit"
+      ],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_H_9306",
+    "headword_english": "Crawling / Creeping",
+    "pos": [
+      {
+        "tag": "v.",
+        "full": "verb"
+      },
+      {
+        "tag": "adj.",
+        "full": "adjective"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "hahabang",
+        "tone_marked": "hahabang"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "ha-ha-ba-ng",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "root": "hahaba",
+      "noun_class": null,
+      "derivation": "Relative form of 'hahaba' (to crawl)"
+    },
+    "senses": [
+      {
+        "sense_id": "crawling_01",
+        "definition_en": "moving slowly along the ground",
+        "sesotho_term": [
+          "hahabang"
+        ],
+        "usage_example": {
+          "sesotho": "Molimo a tsoela pele ho re: “Lefatše le ke le hlahise meea e phelang ho ea ka mefuta ea eona, phoofolo e ruuoang le phoofolo e hahabang le sebata sa lefatše ho ea ka mofuta oa sona.” 'Me ha e-ba joalo.",
+          "english": "Then God said: “Let the earth bring forth living creatures according to their kinds, domestic animals and creeping animals and wild animals of the earth according to their kinds.” And it was so.",
+          "source": "JW Bible - st_gen1 (Verse v1001024)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "creeping"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_F_9307",
+    "headword_english": "Flying",
+    "pos": [
+      {
+        "tag": "v.",
+        "full": "verb"
+      },
+      {
+        "tag": "adj.",
+        "full": "adjective"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "fofang",
+        "tone_marked": "fofang"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "fo-fa-ng",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "fofa",
+      "noun_class": null,
+      "derivation": "Relative form of 'fofa' (to fly)"
+    },
+    "senses": [
+      {
+        "sense_id": "flying_01",
+        "definition_en": "moving through the air",
+        "sesotho_term": [
+          "fofang"
+        ],
+        "usage_example": {
+          "sesotho": "Motho a reha liphoofolo tsohle tse ruuoang mabitso le libopuoa tse fofang le liphoofolo tsohle tse hlaha empa motho eena o ne a se na mothusi ea mo tšoanelang.",
+          "english": "So the man named all the domestic animals and the flying creatures of the heavens and every wild animal of the field, but for man there was no helper as a complement of him.",
+          "source": "JW Bible - st_gen2 (Verse v1002020)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "soaring",
+        "airborne"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_P_9308",
+    "headword_english": "Living / Active",
+    "pos": [
+      {
+        "tag": "v.",
+        "full": "verb"
+      },
+      {
+        "tag": "adj.",
+        "full": "adjective"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "phelang",
+        "tone_marked": "phelang"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "phe-la-ng",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "phela",
+      "noun_class": null,
+      "derivation": "Relative form of 'phela' (to live)"
+    },
+    "senses": [
+      {
+        "sense_id": "living_01",
+        "definition_en": "alive; having life",
+        "sesotho_term": [
+          "phelang"
+        ],
+        "usage_example": {
+          "sesotho": "Molimo a tsoela pele ho re: “Metsi a ke a nyeunye boieane ba meea e phelang 'me libōpuoa tse fofang li ke li fofe holim'a lefatše sepakapakeng sa maholimo.”",
+          "english": "Then God said: “Let the waters swarm with living creatures, and let flying creatures fly above the earth across the expanse of the heavens.”",
+          "source": "JW Bible - st_gen1 (Verse v1001020)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "active",
+        "alive",
+        "existent"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [
+        "dead",
+        "extinct"
+      ],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_P_9201",
+    "headword_english": "Finish / End",
+    "pos": [
+      {
+        "tag": "v.",
+        "full": "verb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "phetha",
+        "tone_marked": "phetha"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "phe-tha",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "phetha",
+      "noun_class": null,
+      "derivation": "From the verb '-phetha'"
+    },
+    "senses": [
+      {
+        "sense_id": "finish_01",
+        "definition_en": "to complete or fulfill",
+        "sesotho_term": [
+          "phetha",
+          "qeta"
+        ],
+        "usage_example": {
+          "sesotho": "Molimo a qeta ho bopa maholimo le lefatše le lintho tsohle tse ho tsona.",
+          "english": "Thus the heavens and the earth and everything in them were completed.",
+          "source": "JW Bible - st_gen2 (Verse v1002001)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "complete",
+        "fulfill",
+        "end"
+      ],
+      "synonyms_st": [
+        "qeta"
+      ],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_H_9203",
+    "headword_english": "Sanctify",
+    "pos": [
+      {
+        "tag": "v.",
+        "full": "verb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "halaletsa",
+        "tone_marked": "halaletsa"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "ha-la-le-tsa",
+        "syllable_count": 4
+      }
+    ],
+    "morphology": {
+      "root": "halala",
+      "noun_class": null,
+      "derivation": "Causative of '-halala'"
+    },
+    "senses": [
+      {
+        "sense_id": "sanctify_01",
+        "definition_en": "to make holy or set apart",
+        "sesotho_term": [
+          "halaletsa",
+          "halalela"
+        ],
+        "usage_example": {
+          "sesotho": "Molimo a hlohonolofatsa letsatsi la bosupa 'me a re lea halalela hobane letsatsing leo o ile a phomola ka mor'a mosebetsi oohle oo a o entseng.",
+          "english": "And God went on to bless the seventh day and to declare it sacred, for on it God has been resting from all the work that he has created, all that he purposed to make.",
+          "source": "JW Bible - st_gen2 (Verse v1002003)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "consecrate",
+        "bless"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_N_9204",
+    "headword_english": "Rain",
+    "pos": [
+      {
+        "tag": "v. phr.",
+        "full": "verb phrase"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "nese pula",
+        "tone_marked": "nese pula"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "ne-se pu-la",
+        "syllable_count": 4
+      }
+    ],
+    "morphology": {
+      "root": "na",
+      "noun_class": null,
+      "derivation": "Causative form of 'na' (to rain)"
+    },
+    "senses": [
+      {
+        "sense_id": "rain_01",
+        "definition_en": "to make it rain",
+        "sesotho_term": [
+          "nese pula"
+        ],
+        "usage_example": {
+          "sesotho": "Ho ne ho e-s'o ka ho e-ba le lihlahla le limela lefatšeng hobane Jehova Molimo o ne a e-s'o nese pula 'me ho ne ho se na motho ea ka lemang.",
+          "english": "No bush of the field was yet on the earth and no vegetation of the field had begun sprouting, because Jehovah God had not made it rain on the earth and there was no man to cultivate the ground.",
+          "source": "JW Bible - st_gen2 (Verse v1002005)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_M_9205",
+    "headword_english": "Soil / Ground",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "mobu",
+        "tone_marked": "mobu"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "mo-bu",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "bu",
+      "noun_class": 3,
+      "derivation": "From the root '-bu'"
+    },
+    "senses": [
+      {
+        "sense_id": "soil_01",
+        "definition_en": "earth specifically as a medium for growth",
+        "sesotho_term": [
+          "mobu",
+          "lerole"
+        ],
+        "usage_example": {
+          "sesotho": "Jehova Molimo a etsa motho ka lerole la lefatše 'me a bululela moea oa bophelo linkong tsa hae e le hore a phele eaba motho oa phela.",
+          "english": "And Jehovah God went on to form the man out of dust from the ground and to blow into his nostrils the breath of life, and the man became a living person.",
+          "source": "JW Bible - st_gen2 (Verse v1002007)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "earth",
+        "dirt",
+        "ground"
+      ],
+      "synonyms_st": [
+        "lefatše"
+      ],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_J_9208",
+    "headword_english": "Jehovah",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "proper noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "Jehova",
+        "tone_marked": "Jehova"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "Je-ho-va",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "root": "Jehova",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "jehovah_01",
+        "definition_en": "the proper name of God",
+        "sesotho_term": [
+          "Jehova"
+        ],
+        "usage_example": {
+          "sesotho": "Jehova Molimo a beha motho serapeng sa Edene hore a se leme le ho se hlokomela.",
+          "english": "Jehovah God took the man and settled him in the garden of Eʹden to cultivate it and to take care of it.",
+          "source": "JW Bible - st_gen2 (Verse v1002015)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "God",
+        "Yahweh"
+      ],
+      "synonyms_st": [
+        "Molimo"
+      ],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_L_9210",
+    "headword_english": "Name",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "lebitso",
+        "tone_marked": "lebitso"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "le-bi-tso",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "root": "bitso",
+      "noun_class": 5,
+      "derivation": "From 'bitsa' (to call)"
+    },
+    "senses": [
+      {
+        "sense_id": "name_01",
+        "definition_en": "a word or set of words by which a person, animal, place, or thing is known",
+        "sesotho_term": [
+          "lebitso"
+        ],
+        "usage_example": {
+          "sesotho": "Lebitso la noka ea bobeli ke Gihone, ke eona e potolohileng naha eohle ea Kushe.",
+          "english": "The name of the second river is Giʹhon; it is the one encircling the entire land of Cush.",
+          "source": "JW Bible - st_gen2 (Verse v1002013)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "appellation",
+        "title"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_B_9211",
+    "headword_english": "Life",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bophelo",
+        "tone_marked": "bophelo"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "bo-phe-lo",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "root": "phela",
+      "noun_class": 14,
+      "derivation": "From 'phela' (to live)"
+    },
+    "senses": [
+      {
+        "sense_id": "life_01",
+        "definition_en": "the condition that distinguishes animals and plants from inorganic matter",
+        "sesotho_term": [
+          "bophelo"
+        ],
+        "usage_example": {
+          "sesotho": "Jehova Molimo a etsa motho ka lerole la lefatše 'me a bululela moea oa bophelo linkong tsa hae e le hore a phele eaba motho oa phela.",
+          "english": "And Jehovah God went on to form the man out of dust from the ground and to blow into his nostrils the breath of life, and the man became a living person.",
+          "source": "JW Bible - st_gen2 (Verse v1002007)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "existence",
+        "being"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [
+        "death"
+      ],
+      "antonyms_st": [
+        "lefu"
+      ]
+    }
+  },
+  {
+    "entry_id": "st_R_9212",
+    "headword_english": "Praise",
+    "pos": [
+      {
+        "tag": "v.",
+        "full": "verb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "rorisa",
+        "tone_marked": "rorisa"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "ro-ri-sa",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "root": "rorisa",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "praise_01",
+        "definition_en": "to express warm approval or admiration of",
+        "sesotho_term": [
+          "rorisa"
+        ],
+        "usage_example": {
+          "sesotho": "Ke tla rorisa Jehova,Ke rorise lebitso la hae le halalelang ka pelo ea ka eohle.",
+          "english": "Let me praise Jehovah;Let everything within me praise his holy name.",
+          "source": "JW Bible - st_ps103 (Verse v19103001)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "laud",
+        "extol",
+        "honor"
+      ],
+      "synonyms_st": [
+        "tlotlisa"
+      ],
+      "antonyms_en": [
+        "criticize",
+        "condemn"
+      ],
+      "antonyms_st": [
+        "nyatsa"
+      ]
+    }
+  },
+  {
+    "entry_id": "st_P_9213",
+    "headword_english": "Heart",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "pelo",
+        "tone_marked": "pelo"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "pe-lo",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "pelo",
+      "noun_class": 9,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "heart_01",
+        "definition_en": "the organ that pumps blood; the center of emotion",
+        "sesotho_term": [
+          "pelo"
+        ],
+        "usage_example": {
+          "sesotho": "Ke tla rorisa Jehova,Ke rorise lebitso la hae le halalelang ka pelo ea ka eohle.",
+          "english": "Let me praise Jehovah;Let everything within me praise his holy name.",
+          "source": "JW Bible - st_ps103 (Verse v19103001)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "soul",
+        "core"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_S_9215",
+    "headword_english": "Tree",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "sefate",
+        "tone_marked": "sefate"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "se-fa-te",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "root": "fate",
+      "noun_class": 7,
+      "derivation": "From the root '-fate'"
+    },
+    "senses": [
+      {
+        "sense_id": "tree_01",
+        "definition_en": "a woody perennial plant",
+        "sesotho_term": [
+          "sefate"
+        ],
+        "usage_example": {
+          "sesotho": "Khauta ea naha eo e ntle. Ho na le mamina a sefate a nkhang hamonate le lejoe la onikse moo.",
+          "english": "The gold of that land is good. Bdellium gum and onyx stone are also there.",
+          "source": "JW Bible - st_gen2 (Verse v1002012)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "bush",
+        "plant"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_H_9218",
+    "headword_english": "To care for / look after",
+    "pos": [
+      {
+        "tag": "v.",
+        "full": "verb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "hlokomela",
+        "tone_marked": "hlokomela"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "hlo-ko-me-la",
+        "syllable_count": 4
+      }
+    ],
+    "morphology": {
+      "root": "hlokomela",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "care_01",
+        "definition_en": "to look after or keep watch over",
+        "sesotho_term": [
+          "hlokomela"
+        ],
+        "usage_example": {
+          "sesotho": "Jehova Molimo a beha motho serapeng sa Edene hore a se leme le ho se hlokomela.",
+          "english": "Jehovah God took the man and settled him in the garden of Eʹden to cultivate it and to take care of it.",
+          "source": "JW Bible - st_gen2 (Verse v1002015)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "protect",
+        "tend",
+        "guard"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [
+        "neglect",
+        "ignore"
+      ],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_M_9219",
+    "headword_english": "Helper",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "mothusi",
+        "tone_marked": "mothusi"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "mo-thu-si",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "root": "thusa",
+      "noun_class": 1,
+      "derivation": "From 'thusa' (to help)"
+    },
+    "senses": [
+      {
+        "sense_id": "helper_01",
+        "definition_en": "one who helps or provides assistance",
+        "sesotho_term": [
+          "mothusi"
+        ],
+        "usage_example": {
+          "sesotho": "Eaba Jehova Molimo o re: “Ha ho hotle hore monna a be mong. Ke tla mo etsetsa mothusi ea mo tšoanelang.”",
+          "english": "Then Jehovah God said: “It is not good for the man to continue to be alone. I am going to make a helper for him, as a complement of him.”",
+          "source": "JW Bible - st_gen2 (Verse v1002018)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "assistant",
+        "aide"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [
+        "opponent",
+        "hindrance"
+      ],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_R_9220",
+    "headword_english": "To name / call",
+    "pos": [
+      {
+        "tag": "v.",
+        "full": "verb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "reha",
+        "tone_marked": "reha"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "re-ha",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "reha",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "name_02",
+        "definition_en": "to give a name to something",
+        "sesotho_term": [
+          "reha"
+        ],
+        "usage_example": {
+          "sesotho": "Motho a reha liphoofolo tsohle tse ruuoang mabitso le libopuoa tse fofang le liphoofolo tsohle tse hlaha empa motho eena o ne a se na mothusi ea mo tšoanelang.",
+          "english": "So the man named all the domestic animals and the flying creatures of the heavens and every wild animal of the field, but for man there was no helper as a complement of him.",
+          "source": "JW Bible - st_gen2 (Verse v1002020)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "christen",
+        "term",
+        "dub"
+      ],
+      "synonyms_st": [
+        "bitsa"
+      ],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_N_9222",
+    "headword_english": "Flesh",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "nama",
+        "tone_marked": "nama"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "na-ma",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "nama",
+      "noun_class": 9,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "flesh_01",
+        "definition_en": "soft tissue of the body; meat",
+        "sesotho_term": [
+          "nama"
+        ],
+        "usage_example": {
+          "sesotho": "Monna a re: “Joale enoa ke lesapo la masapo a kaLe nama ea nama ea ka. O tla bitsoa MosaliHobane o nkiloe ho monna.”",
+          "english": "Then the man said: “This is at last bone of my bonesAnd flesh of my flesh. This one will be called Woman,Because from man she was taken.”",
+          "source": "JW Bible - st_gen2 (Verse v1002023)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "meat",
+        "tissue"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [
+        "bone",
+        "spirit"
+      ],
+      "antonyms_st": [
+        "leshapo"
+      ]
+    }
+  },
+  {
+    "entry_id": "st_S_9223",
+    "headword_english": "To leave",
+    "pos": [
+      {
+        "tag": "v.",
+        "full": "verb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "siea",
+        "tone_marked": "siea"
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "si-ea",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "siea",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "leave_01",
+        "definition_en": "to depart from or abandon",
+        "sesotho_term": [
+          "siea"
+        ],
+        "usage_example": {
+          "sesotho": "Ke ka lebaka leo monna a tla siea ntate oa hae le 'mè oa hae 'me a khomarele mosali oa hae, bobeli ba bona e tla ba nama e le 'ngoe.",
+          "english": "That is why a man will leave his father and his mother and he will stick to his wife, and they will become one flesh.",
+          "source": "JW Bible - st_gen2 (Verse v1002024)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "depart",
+        "abandon",
+        "quit"
+      ],
+      "synonyms_st": [
+        "tloha"
+      ],
+      "antonyms_en": [
+        "arrive",
+        "stay",
+        "remain"
+      ],
+      "antonyms_st": [
+        "fihla",
+        "setse"
+      ]
+    }
+  },
+  {
+    "entry_id": "st_G2_03",
+    "headword_english": "Bone",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "lesapo",
+        "tone_marked": "lesapo",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "le-sa-po"
+    ],
+    "morphology": {
+      "root": "sapo",
+      "noun_class": "5",
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "bone_01",
+        "definition_en": "any of the pieces of hard whitish tissue making up the skeleton",
+        "sesotho_term": [
+          "lesapo"
+        ],
+        "usage_example": {
+          "sesotho": "Monna a re: “Joale enoa ke lesapo la masapo a kaLe nama ea nama ea ka. O tla bitsoa MosaliHobane o nkiloe ho monna.”",
+          "english": "Then the man said: “This is at last bone of my bonesAnd flesh of my flesh. This one will be called Woman,Because from man she was taken.”",
+          "source": "JW Bible - st_gen2 (Verse v1002023)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G2_04",
+    "headword_english": "Naked",
+    "pos": [
+      "adj."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "hlobotse",
+        "tone_marked": "hlobotse",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "hlo-bo-tse"
+    ],
+    "morphology": {
+      "root": "hlobola",
+      "noun_class": "null",
+      "derivation": "Perfect state of verb 'hlobola' (to undress)"
+    },
+    "senses": [
+      {
+        "sense_id": "naked_01",
+        "definition_en": "without clothing; nude",
+        "sesotho_term": [
+          "hlobotse"
+        ],
+        "usage_example": {
+          "sesotho": "Ka bobeli ba ile ba tsoela pele ba hlobotse.",
+          "english": "And they were both naked.",
+          "source": "User Provided - Genesis 2:25"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G2_001",
+    "headword_english": "Rest",
+    "pos": [
+      {
+        "tag": "v.",
+        "full": "verb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "phomola",
+        "tone_marked": "phomola",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "pho-mo-la",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "root": "phomola",
+      "noun_class": null,
+      "derivation": "Intransitive verb"
+    },
+    "senses": [
+      {
+        "sense_id": "rest_01",
+        "definition_en": "to cease work or movement in order to relax or recover strength",
+        "sesotho_term": [
+          "phomola"
+        ],
+        "usage_example": {
+          "sesotho": "Molimo a hlohonolofatsa letsatsi la bosupa 'me a re lea halalela hobane letsatsing leo o ile a phomola ka mor'a mosebetsi oohle oo a o entseng.",
+          "english": "And God went on to bless the seventh day and to declare it sacred, for on it God has been resting from all the work that he has created, all that he purposed to make.",
+          "source": "JW Bible - st_gen2 (Verse v1002003)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "relax",
+        "cease",
+        "repose"
+      ],
+      "synonyms_st": [
+        "ikhutsa"
+      ],
+      "antonyms_en": [
+        "work",
+        "exert"
+      ],
+      "antonyms_st": [
+        "sebetsa"
+      ]
+    }
+  },
+  {
+    "entry_id": "st_G2_002",
+    "headword_english": "Mist",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "moholi",
+        "tone_marked": "moholi",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "mo-ho-li",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "root": "holi",
+      "noun_class": 3,
+      "derivation": "From the root '-holi'"
+    },
+    "senses": [
+      {
+        "sense_id": "mist_01",
+        "definition_en": "a cloud of tiny water droplets suspended in the atmosphere",
+        "sesotho_term": [
+          "moholi"
+        ],
+        "usage_example": {
+          "sesotho": "Empa moholi o ne o nyoloha fatše 'me o nosetsa lefatše lohle.",
+          "english": "But a mist would go up from the earth, and it watered the entire surface of the ground.",
+          "source": "JW Bible - st_gen2 (Verse v1002006)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "vapor",
+        "fog",
+        "haze"
+      ],
+      "synonyms_st": [
+        "mouoane"
+      ],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G2_003",
+    "headword_english": "Dust",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "lerōle",
+        "tone_marked": "lerōle",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "le-rō-le",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "root": "rōle",
+      "noun_class": 5,
+      "derivation": "From the root '-rōle'"
+    },
+    "senses": [
+      {
+        "sense_id": "dust_01",
+        "definition_en": "fine, dry powder consisting of tiny particles of earth",
+        "sesotho_term": [
+          "lerōle"
+        ],
+        "usage_example": {
+          "sesotho": "Jehova Molimo a etsa motho ka lerōle la lefatše.",
+          "english": "And the LORD God formed man of the dust of the ground.",
+          "source": "JW Bible - st_gen2 (Verse v1002007)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "powder",
+        "grit"
+      ],
+      "synonyms_st": [
+        "mobu"
+      ],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G2_004",
+    "headword_english": "Breath",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "phefumoloho",
+        "tone_marked": "phefumoloho",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "phe-fu-mo-lo-ho",
+        "syllable_count": 5
+      }
+    ],
+    "morphology": {
+      "root": "phefumola",
+      "noun_class": 9,
+      "derivation": "Deverbative noun from the verb 'phefumola' (to breathe)"
+    },
+    "senses": [
+      {
+        "sense_id": "breath_01",
+        "definition_en": "the air taken into or expelled from the lungs",
+        "sesotho_term": [
+          "phefumoloho"
+        ],
+        "usage_example": {
+          "sesotho": "A bululela linkong tsa hae phefumoloho ea bophelo.",
+          "english": "And breathed into his nostrils the breath of life.",
+          "source": "JW Bible - st_gen2 (Verse v1002007)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G2_005",
+    "headword_english": "Host / Army",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "makhotla",
+        "tone_marked": "makhotla",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "ma-kho-tla",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "root": "khotla",
+      "noun_class": 6,
+      "derivation": "Plural of 'lekhotla'"
+    },
+    "senses": [
+      {
+        "sense_id": "host_01",
+        "definition_en": "a large number of people or things; army",
+        "sesotho_term": [
+          "makhotla",
+          "mabotho"
+        ],
+        "usage_example": {
+          "sesotho": "Rorisang Jehova, lona mabotho 'ohle a hae,Lona basebeletsi ba hae, ba etsang thato ea hae.",
+          "english": "Praise Jehovah, all his armies,His ministers who do his will.",
+          "source": "JW Bible - st_ps103 (Verse v19103021)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "army",
+        "legion",
+        "multitude"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G2_006",
+    "headword_english": "Shrub / Bush",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "sehlahla",
+        "tone_marked": "sehlahla",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "se-hlah-la",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "root": "hlahla",
+      "noun_class": 7,
+      "derivation": "From the root '-hlahla'"
+    },
+    "senses": [
+      {
+        "sense_id": "shrub_01",
+        "definition_en": "a woody plant which is smaller than a tree",
+        "sesotho_term": [
+          "sehlahla",
+          "lihlahla"
+        ],
+        "usage_example": {
+          "sesotho": "Ho ne ho e-s'o ka ho e-ba le lihlahla le limela lefatšeng hobane Jehova Molimo o ne a e-s'o nese pula 'me ho ne ho se na motho ea ka lemang.",
+          "english": "No bush of the field was yet on the earth and no vegetation of the field had begun sprouting, because Jehovah God had not made it rain on the earth and there was no man to cultivate the ground.",
+          "source": "JW Bible - st_gen2 (Verse v1002005)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "bush"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G2_005",
+    "headword_english": "Garden",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "serapa",
+        "tone_marked": "serapa",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "se-ra-pa",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "root": "rapa",
+      "noun_class": 7,
+      "derivation": "Common noun for a cultivated plot"
+    },
+    "senses": [
+      {
+        "sense_id": "garden_01",
+        "definition_en": "a piece of ground, often near a house, used for growing flowers, fruit, or vegetables",
+        "sesotho_term": [
+          "serapa"
+        ],
+        "usage_example": {
+          "sesotho": "Ho ekelletsa moo, Jehova Molimo a lema serapa Edene, ho elella ka bochabela 'me a beha motho eo a mo entseng teng.",
+          "english": "Further, Jehovah God planted a garden in Eʹden, toward the east; and there he put the man whom he had formed.",
+          "source": "JW Bible - st_gen2 (Verse v1002008)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "plot",
+        "orchard",
+        "plantation"
+      ],
+      "synonyms_st": [
+        "tšimo"
+      ],
+      "antonyms_en": [
+        "wilderness",
+        "desert"
+      ],
+      "antonyms_st": [
+        "feela",
+        "lehōatata"
+      ]
+    }
+  },
+  {
+    "entry_id": "st_G2_006",
+    "headword_english": "East",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bochabela",
+        "tone_marked": "bochabela",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "bo-cha-be-la",
+        "syllable_count": 4
+      }
+    ],
+    "morphology": {
+      "root": "chaba",
+      "noun_class": 14,
+      "derivation": "From 'chaba' (to rise, of the sun) + 'ela' (applied suffix)"
+    },
+    "senses": [
+      {
+        "sense_id": "east_01",
+        "definition_en": "the direction towards the point of the horizon where the sun rises",
+        "sesotho_term": [
+          "bochabela"
+        ],
+        "usage_example": {
+          "sesotho": "Lebitso la noka ea boraro ke Hidekele, ke eona e eang ka bochabela ho Asiria. Lebitso la noka ea bone ke Eufrate.",
+          "english": "The name of the third river is Hidʹde·kel; it is the one going to the east of As·syrʹi·a. And the fourth river is the Eu·phraʹtes.",
+          "source": "JW Bible - st_gen2 (Verse v1002014)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "orient"
+      ],
+      "synonyms_st": [
+        "botjhabela"
+      ],
+      "antonyms_en": [
+        "west"
+      ],
+      "antonyms_st": [
+        "bophirimela"
+      ]
+    }
+  },
+  {
+    "entry_id": "st_G2_007",
+    "headword_english": "River",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "nōka",
+        "tone_marked": "nōka",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "nō-ka",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "nōka",
+      "noun_class": 9,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "river_01",
+        "definition_en": "a large natural stream of water flowing in a channel to the sea, a lake, or another such stream",
+        "sesotho_term": [
+          "nōka"
+        ],
+        "usage_example": {
+          "sesotho": "Joale ho ne ho e-na le nōka e tsoang Edene ho nosetsa serapa seo.",
+          "english": "Now a river went out of Eden to water the garden.",
+          "source": "JW Bible - st_gen2 (Verse v1002010)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "stream",
+        "brook",
+        "waterway"
+      ],
+      "synonyms_st": [
+        "molapo"
+      ],
+      "antonyms_en": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G2_008",
+    "headword_english": "Gold",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "khauta",
+        "tone_marked": "khauta",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "khau-ta",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "khauta",
+      "noun_class": 9,
+      "derivation": "Loanword adopted into Sesotho"
+    },
+    "senses": [
+      {
+        "sense_id": "gold_01",
+        "definition_en": "a yellow precious metal, the chemical element of atomic number 79",
+        "sesotho_term": [
+          "khauta"
+        ],
+        "usage_example": {
+          "sesotho": "Khauta ea naha eo e ntle. Ho na le mamina a sefate a nkhang hamonate le lejoe la onikse moo.",
+          "english": "The gold of that land is good. Bdellium gum and onyx stone are also there.",
+          "source": "JW Bible - st_gen2 (Verse v1002012)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G2_009",
+    "headword_english": "Knowledge",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "tsebo",
+        "tone_marked": "tsebo",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "tse-bo",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "tseba",
+      "noun_class": 9,
+      "derivation": "Deverbative from 'tseba' (to know)"
+    },
+    "senses": [
+      {
+        "sense_id": "knowledge_01",
+        "definition_en": "facts, information, and skills acquired by a person through experience or education",
+        "sesotho_term": [
+          "tsebo"
+        ],
+        "usage_example": {
+          "sesotho": "Empa ha e le sefate sa tsebo ea botle le bobe, u se ke oa ja litholoana tsa sona hobane letsatsing leo ka lona u li jang, kannete u tla shoa.”",
+          "english": "But as for the tree of the knowledge of good and bad, you must not eat from it, for in the day you eat from it you will certainly die.”",
+          "source": "JW Bible - st_gen2 (Verse v1002017)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "awareness",
+        "understanding"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [
+        "ignorance"
+      ],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G2_010",
+    "headword_english": "Stone",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "lejoe",
+        "tone_marked": "lejoe",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "le-joe",
+        "syllable_count": 2
+      }
+    ],
+    "morphology": {
+      "root": "joe",
+      "noun_class": 5,
+      "derivation": "Class 5 noun"
+    },
+    "senses": [
+      {
+        "sense_id": "stone_01",
+        "definition_en": "hard solid non-metallic mineral matter of which rock is made",
+        "sesotho_term": [
+          "lejoe"
+        ],
+        "usage_example": {
+          "sesotho": "Khauta ea naha eo e ntle. Ho na le mamina a sefate a nkhang hamonate le lejoe la onikse moo.",
+          "english": "The gold of that land is good. Bdellium gum and onyx stone are also there.",
+          "source": "JW Bible - st_gen2 (Verse v1002012)"
+        }
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "rock",
+        "pebble"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
     }
   }
 ]

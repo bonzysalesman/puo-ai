@@ -1,0 +1,45 @@
+import json
+
+# ==============================================================================
+# LLM Processing Pipeline Simulation for Mabille (Sesotho-English)
+# This simulates the LLM's unpacking, cleaning, and structuring of the 
+# noisy OCR data captured in test_mabille_extraction.json.
+# ==============================================================================
+
+cleaned_entries = [
+  {"headword_sesotho": "Bopaki", "pos": "n.", "definition_en": "witnessing, testimony, proof."},
+  {"headword_sesotho": "Bopalami", "pos": "n.", "definition_en": "horsemanship."},
+  {"headword_sesotho": "Bopama", "pos": "v.n.", "definition_en": "to get lean, to get emaciated from starvation, to lie on one side."},
+  {"headword_sesotho": "Bopapaeli", "pos": "n.", "definition_en": "habit of wandering about."},
+  {"headword_sesotho": "Bopapi", "pos": "n.", "definition_en": "mahlo a bopapi, eyes with low eyelids, heavy, half shut eyes."},
+  {"headword_sesotho": "Bopatisana", "pos": "n.", "definition_en": "narrow place."},
+  {"headword_sesotho": "Bopatriareka", "pos": "n.", "definition_en": "state of being a patriarch."},
+  {"headword_sesotho": "Bopeko-peko", "pos": "n.", "definition_en": "work badly done, quarrel, scuffle."},
+  {"headword_sesotho": "Bopele", "pos": "n.", "definition_en": "fact of being foremost, first, before others, in front."},
+  {"headword_sesotho": "Bopelesa", "pos": "n.", "definition_en": "state of being a pack animal."},
+  {"headword_sesotho": "Bopelo-keletsi", "pos": "n.", "definition_en": "wisdom."},
+  {"headword_sesotho": "Bopelo-'ntsho", "pos": "n.", "definition_en": "sadness."},
+  {"headword_sesotho": "Bopelo-tsoeu", "pos": "n.", "definition_en": "satisfaction, peace, peacefulness."},
+  {"headword_sesotho": "Bopelo-thata", "pos": "n.", "definition_en": "hardness of heart, insensibility."},
+  {"headword_sesotho": "Bopelo-telele", "pos": "n.", "definition_en": "patience, long suffering."},
+  {"headword_sesotho": "Bopepeletsi", "pos": "n.", "definition_en": "act of raising quarrels."},
+  {"headword_sesotho": "Bopere", "pos": "n.", "definition_en": "state of being a horse."},
+  {"headword_sesotho": "Bophahamo", "pos": "n.", "definition_en": "height."},
+  {"headword_sesotho": "Bophaili", "pos": "n.", "definition_en": "roaming, wandering about; habit of giving slaps."},
+  {"headword_sesotho": "Bophala", "pos": "n.", "definition_en": "state of being hollow (like a pipe); ancienty, age, state of being old."},
+  {"headword_sesotho": "Bophanya-phanya", "pos": "n.", "definition_en": "wandering about."},
+  {"headword_sesotho": "Bophaphathehi", "pos": "n.", "definition_en": "wandering about."},
+  {"headword_sesotho": "Bophara", "pos": "n.", "definition_en": "width, flatness, breadth."},
+  {"headword_sesotho": "Bophatlalatsa", "pos": "n.", "definition_en": "fact that things are evident, exposed to the view."},
+  {"headword_sesotho": "Bophatsoa", "pos": "n.", "definition_en": "black and white colour in males."},
+  {"headword_sesotho": "Bophatsoana", "pos": "n.", "definition_en": "black and white colour in females."},
+  {"headword_sesotho": "Bophea-khang", "pos": "n.", "definition_en": "habit of betting."}
+]
+
+output_file = "test_mabille_cleaned.json"
+
+with open(output_file, "w", encoding="utf-8") as f:
+    json.dump(cleaned_entries, f, indent=2, ensure_ascii=False)
+
+print(f"LLM Mabille Pipeline Completed. Recovered {len(cleaned_entries)} clean entries from the noisy fragments.")
+print(f"Output saved to {output_file}.")

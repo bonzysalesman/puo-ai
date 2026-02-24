@@ -17,6 +17,10 @@ The project enriches dictionary senses in `dictionary.json` by matching Sesotho 
 1. Parse local verse HTML (`span.verse`) for both Sesotho and English files.
 2. Remove inline markers and normalize text.
 3. Match each `sesotho_term` using whole-term, case-insensitive matching.
+   - Candidate verses are ranked by configurable weighted score:
+     - matched term count
+     - matched term total length
+     - verse length penalty
 4. If a verse id exists in both languages, write a `usage_example` to the matched sense.
 5. Save changes either in-place or to an output file.
 
@@ -28,10 +32,28 @@ Dry run (no writes):
 python3 enricher.py --dry-run --source-label "JW Bible - Genesis 1"
 ```
 
+Dry run while ignoring generic terms:
+
+```bash
+python3 enricher.py --dry-run --source-label "JW Bible - Genesis 1" --stop-terms "le,ea,ho"
+```
+
+Dry run with custom scoring weights:
+
+```bash
+python3 enricher.py --dry-run --source-label "JW Bible - Genesis 1" --weight-term-count 1200 --weight-term-length 1 --weight-verse-length-penalty 0.02
+```
+
 Write to a new file:
 
 ```bash
 python3 enricher.py --output dictionary.enriched.json --source-label "JW Bible - Genesis 1"
+```
+
+Generate deterministic review diff:
+
+```bash
+python3 review_enrichment_diff.py --base dictionary.json --candidate dictionary.enriched.json --output enrichment_diff.md
 ```
 
 Generate deduplicated word list:
@@ -44,6 +66,12 @@ Run tests:
 
 ```bash
 python3 -m unittest discover -s tests -v
+```
+
+Validate schema only:
+
+```bash
+python3 -m unittest tests.test_dictionary_schema -v
 ```
 
 ## Notes on Sources

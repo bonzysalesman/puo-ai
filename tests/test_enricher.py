@@ -144,6 +144,52 @@ class EnricherTests(unittest.TestCase):
             self.assertEqual(count, 0)
             self.assertEqual(dict_path.read_text(encoding="utf-8"), before)
 
+    def test_weighted_scoring_can_prefer_shorter_verse(self):
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            tmp = Path(tmp_dir)
+            dict_path = tmp / "dictionary.json"
+            st_path = tmp / "st.html"
+            en_path = tmp / "en.html"
+            out_path = tmp / "out.json"
+
+            dictionary = [
+                {
+                    "entry_id": "entry_1",
+                    "headword_english": "Light",
+                    "senses": [{"sense_id": "light_01", "sesotho_term": ["leseli"]}],
+                }
+            ]
+            st_html = """
+            <div>
+              <span class="verse" id="v1">Leseli le teng.</span>
+              <span class="verse" id="v2">Leseli le teng lefatsheng lena lohle le leholo haholo.</span>
+            </div>
+            """
+            en_html = """
+            <div>
+              <span class="verse" id="v1">There is light.</span>
+              <span class="verse" id="v2">There is light in this entire very large world.</span>
+            </div>
+            """
+
+            dict_path.write_text(json.dumps(dictionary), encoding="utf-8")
+            st_path.write_text(st_html, encoding="utf-8")
+            en_path.write_text(en_html, encoding="utf-8")
+
+            count = enrich_dictionary(
+                dict_path=str(dict_path),
+                st_file=str(st_path),
+                en_file=str(en_path),
+                output_path=str(out_path),
+                weight_term_count=1.0,
+                weight_term_length=0.0,
+                weight_verse_length_penalty=1.0,
+            )
+            self.assertEqual(count, 1)
+            out_data = json.loads(out_path.read_text(encoding="utf-8"))
+            usage = out_data[0]["senses"][0]["usage_example"]
+            self.assertIn("(Verse v1)", usage["source"])
+
     def test_dry_run_does_not_modify_dictionary_file(self):
         with tempfile.TemporaryDirectory() as tmp_dir:
             tmp = Path(tmp_dir)
