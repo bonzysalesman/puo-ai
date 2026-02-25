@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PUO-AI Sense Attestations",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "attestation_id",
+      "sense_id",
+      "corpus_id",
+      "match_terms",
+      "method"
+    ],
+    "properties": {
+      "attestation_id": {
+        "type": "string",
+        "minLength": 1
+      },
+      "sense_id": {
+        "type": "string",
+        "minLength": 1
+      },
+      "corpus_id": {
+        "type": "string",
+        "minLength": 1
+      },
+      "source_raw": {
+        "type": "string"
+      },
+      "match_terms": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "score": {
+        "type": [
+          "number",
+          "null"
+        ]
+      },
+      "method": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "additionalProperties": true
+  }
+}

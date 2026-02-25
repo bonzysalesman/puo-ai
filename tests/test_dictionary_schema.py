@@ -10,9 +10,9 @@ except ImportError:  # pragma: no cover - optional dependency path
 
 class DictionarySchemaTests(unittest.TestCase):
     def setUp(self):
-        with open("dictionary.schema.json", encoding="utf-8") as f:
+        with open("lexicon.schema.json", encoding="utf-8") as f:
             self.schema = json.load(f)
-        with open("dictionary.json", encoding="utf-8") as f:
+        with open("lexicon.json", encoding="utf-8") as f:
             self.dictionary = json.load(f)
         self.validator = (
             Draft202012Validator(self.schema) if Draft202012Validator is not None else None

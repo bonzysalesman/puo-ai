@@ -1,0 +1,110 @@
+[
+  {
+    "page_index": 11,
+    "page_number": 12,
+    "column": "left",
+    "image": "page_012_left.png"
+  },
+  {
+    "page_index": 11,
+    "page_number": 12,
+    "column": "right",
+    "image": "page_012_right.png"
+  },
+  {
+    "page_index": 12,
+    "page_number": 13,
+    "column": "left",
+    "image": "page_013_left.png"
+  },
+  {
+    "page_index": 12,
+    "page_number": 13,
+    "column": "right",
+    "image": "page_013_right.png"
+  },
+  {
+    "page_index": 13,
+    "page_number": 14,
+    "column": "left",
+    "image": "page_014_left.png"
+  },
+  {
+    "page_index": 13,
+    "page_number": 14,
+    "column": "right",
+    "image": "page_014_right.png"
+  },
+  {
+    "page_index": 14,
+    "page_number": 15,
+    "column": "left",
+    "image": "page_015_left.png"
+  },
+  {
+    "page_index": 14,
+    "page_number": 15,
+    "column": "right",
+    "image": "page_015_right.png"
+  },
+  {
+    "page_index": 15,
+    "page_number": 16,
+    "column": "left",
+    "image": "page_016_left.png"
+  },
+  {
+    "page_index": 15,
+    "page_number": 16,
+    "column": "right",
+    "image": "page_016_right.png"
+  },
+  {
+    "page_index": 16,
+    "page_number": 17,
+    "column": "left",
+    "image": "page_017_left.png"
+  },
+  {
+    "page_index": 16,
+    "page_number": 17,
+    "column": "right",
+    "image": "page_017_right.png"
+  },
+  {
+    "page_index": 17,
+    "page_number": 18,
+    "column": "left",
+    "image": "page_018_left.png"
+  },
+  {
+    "page_index": 17,
+    "page_number": 18,
+    "column": "right",
+    "image": "page_018_right.png"
+  },
+  {
+    "page_index": 18,
+    "page_number": 19,
+    "column": "left",
+    "image": "page_019_left.png"
+  },
+  {
+    "page_index": 18,
+    "page_number": 19,
+    "column": "right",
+    "image": "page_019_right.png"
+  },
+  {
+    "page_index": 19,
+    "page_number": 20,
+    "column": "left",
+    "image": "page_020_left.png"
+  },
+  {
+    "page_index": 19,
+    "page_number": 20,
+    "column": "right",
+    "image": "page_020_right.png"
+  }
+]

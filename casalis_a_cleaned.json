@@ -2,282 +2,427 @@
   {
     "headword_english": "Adjunction",
     "pos": "n.",
-    "sesotho": "kekeletso. All jure ^ V. ho hlapnntsa, antJa. Admimsfer, v ho lisa, tsamaisa Administrat ion , n pnso, tiso."
+    "sesotho": "kekeletso"
+  },
+  {
+    "headword_english": "Adjure",
+    "pos": "v.",
+    "sesotho": "ho hlaponya, antsa"
+  },
+  {
+    "headword_english": "Administer",
+    "pos": "v.",
+    "sesotho": "ho lisa, tsamaisa"
+  },
+  {
+    "headword_english": "Administration",
+    "pos": "n.",
+    "sesotho": "puso, tiso"
   },
   {
     "headword_english": "Admire",
     "pos": "v.",
-    "sesotho": "{to wonder at) ho makala ke, bOha, tsota, babatsa; (to feel respect) ho hlonepha Admit, V, {to permit to enter) ho amohela, kenya ; {to receive ai* tnie) ho Ininela, kholoa ke. Admonish, v ho laea."
+    "sesotho": "(to wonder at) ho makala ke, bōha, tsota, babatsa ; (to feel respect) ho hlompha"
+  },
+  {
+    "headword_english": "Admit",
+    "pos": "v.",
+    "sesotho": "(to permit to enter) ho amohela, kenya ; (to receive as true) ho lumela, kholoa ke"
+  },
+  {
+    "headword_english": "Admonish",
+    "pos": "v.",
+    "sesotho": "ho laea"
   },
   {
     "headword_english": "Adolescent",
     "pos": "n.",
-    "sesotho": "mohlankana. Adopt, V. {to adopt a child) ho thola (nguana)"
+    "sesotho": "mohlankana"
+  },
+  {
+    "headword_english": "Adopt",
+    "pos": "v.",
+    "sesotho": "(to adopt a child) ho thola nguana"
   },
   {
     "headword_english": "Adoration",
     "pos": "n.",
-    "sesotho": "ho khumamela, ho sebeletsa Melimo."
+    "sesotho": "ho khumamela, ho sebeletsa Molimo"
   },
   {
     "headword_english": "Adorn",
     "pos": "v.",
-    "sesotho": "ho khabisa, lilopha, hlophisa."
+    "sesotho": "ho khabisa, lilopha, hlophisa"
   },
   {
     "headword_english": "Adulterate",
     "pos": "v.",
-    "sesotho": "ho tsueberenya, senya bolisa."
+    "sesotho": "ho tsueberenya, senya bolisa"
   },
   {
     "headword_english": "Adultery",
     "pos": "n.",
-    "sesotho": "bofebe."
+    "sesotho": "bofebe"
   },
   {
     "headword_english": "Advance",
     "pos": "v.",
-    "sesotho": "{lit. ami fif]) ho tsuela pele."
+    "sesotho": "(lit. and fig.) ho tsuela pele"
   },
   {
     "headword_english": "Advantage",
     "pos": "n.",
-    "sesotho": "molemo."
+    "sesotho": "molemo"
   },
   {
     "headword_english": "Adventure",
-    "pos": "u.",
-    "sesotho": "ntho e tsohang e hiahela motho, tsietsi, ngope-a-setSoha."
+    "pos": "n.",
+    "sesotho": "ntho e tsohang e hlahela motho, tsietsi, ngope-a-sesoha"
   },
   {
     "headword_english": "Adversary",
     "pos": "n.",
-    "sesotho": "sera, niohanyetsi."
+    "sesotho": "sera, mohanyetsi"
   },
   {
     "headword_english": "Adversity",
     "pos": "n.",
-    "sesotho": "bomalibe, bosot o."
+    "sesotho": "bomalibe, bosoto"
   },
   {
     "headword_english": "Advice",
-    "pos": "ii.",
-    "sesotho": "keletso, tenioso. Advise, V. ho lemosa, elotsa."
+    "pos": "n.",
+    "sesotho": "keletso, temoso"
+  },
+  {
+    "headword_english": "Advise",
+    "pos": "v.",
+    "sesotho": "ho lemosa, elotsa"
   },
   {
     "headword_english": "Advocate",
     "pos": "v.",
-    "sesotho": "hobnelhi, em"
+    "sesotho": "ho bulelhi, emela"
   },
   {
     "headword_english": "Afar",
     "pos": "adv.",
-    "sesotho": "hok'. moiiamo."
+    "sesotho": "hole, moniamo"
   },
   {
-    "headword_english": "Affahility",
-    "pos": "ii.",
-    "sesotho": "mosa, molemo."
+    "headword_english": "Affability",
+    "pos": "n.",
+    "sesotho": "mosa, molemo"
   },
   {
     "headword_english": "Affair",
     "pos": "n.",
-    "sesotho": "taba, mosebetsi. Affect, V. (to move or touch) ho ama pelo, sisimosa ; {to he moved) ho perama, sisa pelo ; {to be affected, to malie a show) ho iketsisa ."
+    "sesotho": "taba, mosebetsi"
+  },
+  {
+    "headword_english": "Affect",
+    "pos": "v.",
+    "sesotho": "(to move or touch) ho ama pelo, sisimosa ; (to be moved) ho perama, sisa pelo ; (to make a show) ho iketsisa"
   },
   {
     "headword_english": "Affection",
     "pos": "n.",
-    "sesotho": "lerato. Affirm, v ho tiisa, omela."
+    "sesotho": "lerato"
+  },
+  {
+    "headword_english": "Affirm",
+    "pos": "v.",
+    "sesotho": "ho tiisa, omela"
   },
   {
     "headword_english": "Affirmation",
     "pos": "n.",
-    "sesotho": "tiiso, komelo. Afflict, V. ho hlokofatsil ; to be a^icted, ho hlomoha, siiaba. Affiict.io7i, n. masuabi, mahlomola"
+    "sesotho": "tiiso, komelo"
+  },
+  {
+    "headword_english": "Afflict",
+    "pos": "v.",
+    "sesotho": "ho hlokofatsa ; to be afflicted, ho hlomoha, siaba"
+  },
+  {
+    "headword_english": "Affliction",
+    "pos": "n.",
+    "sesotho": "masuabi, mahlomola"
   },
   {
     "headword_english": "Affright",
     "pos": "v.",
-    "sesotho": "ho tsosa, tsabisa Affront, V. ho fahla."
+    "sesotho": "ho tsosa, tsabisa"
+  },
+  {
+    "headword_english": "Affront",
+    "pos": "v.",
+    "sesotho": "ho fahla"
   },
   {
     "headword_english": "Afoot",
     "pos": "adv.",
-    "sesotho": "ka maoto."
+    "sesotho": "ka maoto"
   },
   {
     "headword_english": "Aforetime",
     "pos": "adv.",
-    "sesotho": "pele. khale."
+    "sesotho": "pele, khale"
   },
   {
     "headword_english": "Afraid",
     "pos": "adj.",
-    "sesotho": "e tsohileng, e tsohang ; to he afraid, ho tsaba, tsoha, qaaea, feha mahlo."
+    "sesotho": "e tsohileng, e tsohang ; to be afraid, ho tsaba, tsoha, qaea, feha mahlo"
   },
   {
     "headword_english": "Afresh",
     "pos": "adv.",
-    "sesotho": "liape, bocha."
+    "sesotho": "hape, bocha"
   },
   {
     "headword_english": "After",
     "pos": "adv.",
-    "sesotho": "morao, kamorao ; prep, kamoi'a', kf^morao."
+    "sesotho": "morao, ka morao ; prep. ka mora, ka morao"
   },
   {
     "headword_english": "Afternoon",
     "pos": "n.",
-    "sesotho": "mot§eai'e oa mantsiboen."
+    "sesotho": "motšehare oa mantsibōeng"
   },
   {
-    "headword_english": "Afiencards",
+    "headword_english": "Afterwards",
     "pos": "adv.",
-    "sesotho": "Iihinorao,"
+    "sesotho": "kamora"
   },
   {
     "headword_english": "Agent",
-    "pos": "ii.",
-    "sesotho": "'mnelli, a<?eiite"
+    "pos": "n.",
+    "sesotho": "'moemeli, ajiante"
   },
   {
     "headword_english": "Agility",
-    "pos": "ii.",
-    "sesotho": "l)ob('bi'. bobebo, lebelo. Agitate^ v. (to tttir) ho tsukutlu, fulua, tsoka, tsokotsa, kapeisu ; (to disturb) ho ferekHiiya, tSosu ; fto be menfallij agitatedj ho ferekana, hoei-ehaiia."
+    "pos": "n.",
+    "sesotho": "bobebe, lebelo"
+  },
+  {
+    "headword_english": "Agitate",
+    "pos": "v.",
+    "sesotho": "(to stir) ho tsukutla, fulua, tsoka, tsokotsa, kapeisu ; (to disturb) ho ferekanya, tsosu ; (to be mentally agitated) ho ferekana, ho erehana"
   },
   {
     "headword_english": "Ago",
     "pos": "adv.",
-    "sesotho": "khale, peh* : /<>/'/ ago, khaie-kliahAgoufj, II. niahlotnola a \\n> shua, bohiokO Ix) boholo."
+    "sesotho": "khale, pele"
+  },
+  {
+    "headword_english": "Agony",
+    "pos": "n.",
+    "sesotho": "mahlomola a le tsona, bohloko bo boholo"
   },
   {
     "headword_english": "Agreeable",
     "pos": "adj.",
-    "sesotho": "( pleasing) e khahlebung, c khalilisaiij'' ; to tn' af/r*'t'iil)l4', iio khahhMia. I'atMia, khHhliaa"
+    "sesotho": "(pleasing) e khahlelang, e khahlisoang ; to be agreeable, ho khahliha, e tle"
   },
   {
     "headword_english": "Agree",
     "pos": "v.",
-    "sesotho": "ho luiiiellana. ho utlaaiia."
+    "sesotho": "ho lumellana, ho utloana"
   },
   {
     "headword_english": "Agreement",
     "pos": "n.",
-    "sesotho": "tuiuelluiio."
+    "sesotho": "tumellano"
   },
   {
     "headword_english": "Agriculture",
     "pos": "n.",
-    "sesotho": "bolemi, tetno."
+    "sesotho": "bolemi, temo"
   },
   {
     "headword_english": "Ahead",
     "pos": "adv.",
-    "sesotho": "ka])ele ; to go afiead (lit. and fig.), ho tsaela pele. Aid, V. ho thusa, tlatsa, tlatsetsa ; ii thaso. Ail, V. ho baba, kuhi, ba bohloko"
+    "sesotho": "ka pele ; to go ahead (lit. and fig.), ho tsaela pele"
+  },
+  {
+    "headword_english": "Aid",
+    "pos": "v.",
+    "sesotho": "ho thusa, tlatsa, tlatsetsa ; n. thuso"
+  },
+  {
+    "headword_english": "Ail",
+    "pos": "v.",
+    "sesotho": "ho baba, kuha, ba bohloko"
   },
   {
     "headword_english": "Ailment",
     "pos": "n.",
-    "sesotho": "bohloko, boloetse, lefu, pabo. Aim, V. (to endeavour) ho pheella, leka ; (to level at) ho korola, eka ; n. (intention) phihielo, pheello."
+    "sesotho": "bohloko, boloetse, lefu, mafu"
+  },
+  {
+    "headword_english": "Aim",
+    "pos": "v.",
+    "sesotho": "(to endeavour) ho pheella, leka ; (to level at) ho korola, eka ; n. (intention) phihlelo, pheello"
   },
   {
     "headword_english": "Air",
     "pos": "n.",
-    "sesotho": "(icind) moeu ; (mannert;) sebopeho, motsamao ; (tunej piua ; v. Iio bea mot'eng fhoi-c e hloekisoe ke moea)."
+    "sesotho": "(wind) moea ; (manners) sebopeho, motsamao ; (tune) pina ; v. ho bea mot'eng hore e hloekisoe ke moea"
   },
   {
     "headword_english": "Alarm",
     "pos": "v.",
-    "sesotho": "ho tsosa, ho hlaba mokhosi ; n letsoso. Alas! interj. yo! khele ! Albino, II. lesofe. Alert, adj e phakisaii^, it«« niohehmg. Alien, n mob'chaba. Alienate^ v. (/o withdraw affection) ho aelefaUa; (t(* trnnnfer) ho n^ ntho ho o Kele. Aliglit^ V. Out from a Iwrge) ho"
+    "sesotho": "ho tsosa, ho hlaba mokhosi ; n. letsoso"
+  },
+  {
+    "headword_english": "Alas",
+    "pos": "interj.",
+    "sesotho": "yo! khele!"
+  },
+  {
+    "headword_english": "Albino",
+    "pos": "n.",
+    "sesotho": "lesofe"
+  },
+  {
+    "headword_english": "Alert",
+    "pos": "adj.",
+    "sesotho": "e phakisang, e nang le mohelo"
+  },
+  {
+    "headword_english": "Alien",
+    "pos": "n.",
+    "sesotho": "mochaba"
+  },
+  {
+    "headword_english": "Alienate",
+    "pos": "v.",
+    "sesotho": "(to withdraw affection) ho aelefatsa ; (to transfer) ho neela ntho ho o mong"
   },
   {
     "headword_english": "Alive",
     "pos": "adj.",
-    "sesotho": "e utluang, phulang; to be alive, ho utiua, ho phela."
+    "sesotho": "e utloang, phēlang ; to be alive, ho utloana, ho phela"
   },
   {
     "headword_english": "All",
     "pos": "adj.",
-    "sesotho": "eohle, tsohle, bohle, etc. ; u. kaofela ha. Allay, V. (to make quiet J ho khutsisa; {to make leos in pain) ho bebola, kokobetsa (bohloko)."
+    "sesotho": "eohle, tsohle, bohle ; n. kaofela ha"
+  },
+  {
+    "headword_english": "Allay",
+    "pos": "v.",
+    "sesotho": "(to make quiet) ho khutsisa ; (to make less in pain) ho bebola, kokobetsa bohloko"
   },
   {
     "headword_english": "Allege",
     "pos": "v.",
-    "sesotho": "ho hlahisa moitatolo."
+    "sesotho": "ho hlahisa motatolo"
   },
   {
     "headword_english": "Allegory",
     "pos": "n.",
-    "sesotho": "setsuantso, papi so."
+    "sesotho": "setsuantso, papiso"
   },
   {
     "headword_english": "Alliance",
     "pos": "n.",
-    "sesotho": "selekaue. Allot, V. ho abela, arolela. Allow, V. ho lume liana."
+    "sesotho": "selekanoe"
+  },
+  {
+    "headword_english": "Allot",
+    "pos": "v.",
+    "sesotho": "ho abela, arolela"
+  },
+  {
+    "headword_english": "Allow",
+    "pos": "v.",
+    "sesotho": "ho lumellana"
   },
   {
     "headword_english": "Allowance",
     "pos": "n.",
-    "sesotho": "(a salary) moput so. Allure, V. ho qeka."
+    "sesotho": "(a salary) moputso"
+  },
+  {
+    "headword_english": "Allure",
+    "pos": "v.",
+    "sesotho": "ho qeka"
   },
   {
     "headword_english": "Alms",
     "pos": "n.",
-    "sesotho": "plur. phoniosetso."
+    "sesotho": "phonosetso"
   },
   {
-    "headword_english": "Almiyty",
+    "headword_english": "Almighty",
     "pos": "adj.",
-    "sesotho": "ea matla 'ohle."
+    "sesotho": "ea matla 'ohle"
   },
   {
     "headword_english": "Almost",
     "pos": "adv.",
-    "sesotho": "e batlile ho, lekhatheng la; they are almost here, ba se ba le hauti, ba se ba le lekhatheng la ho tihla."
+    "sesotho": "e batlile ho, lekhatheng la ; they are almost here, ba se ba le haufi, ba se ba le lekhatheng la ho tla"
   },
   {
     "headword_english": "Aloe",
     "pos": "n.",
-    "sesotho": "lekhala."
+    "sesotho": "lekhala"
   },
   {
-    "headword_english": "Alojt",
+    "headword_english": "Aloft",
     "pos": "adv.",
-    "sesotho": "phahameng, holinu), kaholirno."
+    "sesotho": "phahameng, holimo, ka holimo"
   },
   {
     "headword_english": "Alone",
     "pos": "adj.",
-    "sesotho": "'notsi ; to be alone. A.MIi.VSSA [)(»[{ ho ba mong, 'notsi ; [ ivas quite alone, ea e-ba 'na qha."
+    "sesotho": "'notsi ; to be alone, ho ba mong, 'notsi ; I was quite alone, ea e-ba 'na qha"
   },
   {
-    "headword_english": "Alonq",
+    "headword_english": "Along",
     "pos": "adv.",
-    "sesotho": "pele, koo ; pi-ej). ho ea le, haufi le, hammoho; yo along ! hlo u tsamaee .'"
+    "sesotho": "pele, koo ; prep. ho ea le, haufi le, hammoho ; go along! u tsamaee!"
   },
   {
     "headword_english": "Aloud",
     "pos": "adv.",
-    "sesotho": "ka lentsue le phahamileng, ka ho hoa, ka lentsue le phepa."
+    "sesotho": "ka lentsoe le phahamileng, ka ho hoa, ka lentsoe le phepa"
   },
   {
     "headword_english": "Alphabet",
     "pos": "n.",
-    "sesotho": "nteteroane. Already , Vidx . se ; it is dark already, ho se ho pliiriraile. Also, adv le, hape."
+    "sesotho": "ntleteroane"
+  },
+  {
+    "headword_english": "Already",
+    "pos": "adv.",
+    "sesotho": "se ; it is dark already, ho se ho phirimile"
+  },
+  {
+    "headword_english": "Also",
+    "pos": "adv.",
+    "sesotho": "le, hape"
   },
   {
     "headword_english": "Alter",
     "pos": "v.",
-    "sesotho": "ho t'etola ; to become altered, ho fetoha."
+    "sesotho": "ho fetola ; to become altered, ho fetoha"
   },
   {
     "headword_english": "Altercation",
     "pos": "n.",
-    "sesotho": "phapang, kliang, tseko Alternate, v (to do by funis) ho f'apana, ho phomotsana."
+    "sesotho": "phapang, khang, tseko"
+  },
+  {
+    "headword_english": "Alternate",
+    "pos": "v.",
+    "sesotho": "(to do by turns) ho fapana, ho phomotsana"
   },
   {
     "headword_english": "Although",
     "pos": "conj.",
-    "sesotho": "leha."
+    "sesotho": "leha"
   },
   {
     "headword_english": "Altitude",
@@ -287,282 +432,487 @@
   {
     "headword_english": "Altogether",
     "pos": "adv.",
-    "sesotho": "hararaoho, mahoug, hong. Alway, and always, adv kamelila, tnehleiig eohle."
+    "sesotho": "haramoho, mahong, hona"
+  },
+  {
+    "headword_english": "Always",
+    "pos": "adv.",
+    "sesotho": "kamehla, mehla eohle"
   },
   {
     "headword_english": "Amass",
     "pos": "v.",
-    "sesotho": "ho bokeila"
+    "sesotho": "ho bokella"
   },
   {
     "headword_english": "Amaze",
     "pos": "v.",
-    "sesotho": "ho makatsa ; to be amazed, ho babatseha, inakala."
+    "sesotho": "ho makatsa ; to be amazed, ho babatseha, makala"
   },
   {
     "headword_english": "Ambassador",
     "pos": "n.",
-    "sesotho": "lengosa, le-"
+    "sesotho": "lengosa"
   },
   {
     "headword_english": "Amiable",
     "pos": "adj.",
-    "sesotho": "e latehang."
+    "sesotho": "e latehang"
   },
   {
-    "headword_english": "Amidsf",
+    "headword_english": "Amidst",
     "pos": "prep.",
-    "sesotho": "Iiar'a, iiialuii-eng a, pnkong tsa. Ammunitifm^ n. linibu tsa ntoa (Ukulo, iiu'sili). Amongst^ prop, bai-'a, muhsireug a. AmoiiiU^ u. pHlu. I)()ii^'-ata. Amputate^ \\ lio poiua setiio, bo kbaola."
+    "sesotho": "har'a, mahareng a, pakong tsa"
+  },
+  {
+    "headword_english": "Ammunition",
+    "pos": "n.",
+    "sesotho": "limbu tsa ntoa (ukulo, mesili)"
+  },
+  {
+    "headword_english": "Amongst",
+    "pos": "prep.",
+    "sesotho": "bar'a, mahareng a"
+  },
+  {
+    "headword_english": "Amount",
+    "pos": "n.",
+    "sesotho": "palano, bongata"
+  },
+  {
+    "headword_english": "Amputate",
+    "pos": "v.",
+    "sesotho": "ho poua setho, ho khaola"
   },
   {
     "headword_english": "Amulet",
     "pos": "n.",
-    "sesotho": "tbathO. Amtute, V. lio bapalisa, tbetsa. /lnce^/(/r, n. ntate-inoboloiiolo ; nm-(</tn< lu.nt'iii-iiiolioli Anrieut, adj ca klialc, ua bohOlo, c tsofutsuii^', e bOiileii^. Ami, foiij. *ine, bonituu, it*. Auffel^ II. lt$ugt;lui"
+    "sesotho": "thato"
+  },
+  {
+    "headword_english": "Amuse",
+    "pos": "v.",
+    "sesotho": "ho bapalisa, thetsa"
+  },
+  {
+    "headword_english": "Ancestor",
+    "pos": "n.",
+    "sesotho": "ntata-moholo ; (ancestors) litata-boholo"
+  },
+  {
+    "headword_english": "Ancient",
+    "pos": "adj.",
+    "sesotho": "ea khale, oa boholo, e tsofofang, e boneng"
+  },
+  {
+    "headword_english": "And",
+    "pos": "conj.",
+    "sesotho": "'me, hammoho, le"
+  },
+  {
+    "headword_english": "Angel",
+    "pos": "n.",
+    "sesotho": "lengeloi"
   },
   {
     "headword_english": "Anger",
     "pos": "n.",
-    "sesotho": "khalofo, boliale, bo itSena, lunkuebcta ; v bo baloHsH, Uika. AmjU\\ u. kou, sekliutlo."
+    "sesotho": "khalofo, boliale, boitsena, lunko ; v. ho halosa, tlaka"
   },
   {
-    "headword_english": "Auijrij",
+    "headword_english": "Angle",
+    "pos": "n.",
+    "sesotho": "kou, sekutlo"
+  },
+  {
+    "headword_english": "Angry",
     "pos": "adj.",
-    "sesotho": "e lialeiili'iig, c itsenang ; /o />/• funjnf. bo lialefa, tlokomas itseiia, llala pelo ; t<t he autjnj agaiuDt, bo lialefela, tone la ma bio."
+    "sesotho": "e halefang, e itsenang ; to be angry, ho halefa, tlokoma, itsena, llala pelo ; to be angry against, ho halefela, tonela motho"
   },
   {
-    "headword_english": "Auhnal",
-    "pos": "u.",
-    "sesotho": "(a feof/// pitsfcscnU o///[/'e)seb6puoa ; (a 6facnV) plioofolo ; a wikl antnuil,ny.imiitsiiue; adj. ea b'UOpuoa. Animosity^ n. lilonanio, bloeoAnkU\\ n le«ja(|ailane."
+    "headword_english": "Animal",
+    "pos": "n.",
+    "sesotho": "(a being possessing life) sebōpuoa ; (a beast) phoofolo ; a wild animal, nyamasane ; adj. ea lebōpuoa"
+  },
+  {
+    "headword_english": "Animosity",
+    "pos": "n.",
+    "sesotho": "hlonamo, hloeo"
+  },
+  {
+    "headword_english": "Ankle",
+    "pos": "n.",
+    "sesotho": "legaqailane"
   },
   {
     "headword_english": "Annihilate",
     "pos": "v.",
-    "sesotho": "lio timel^tsH., felisa."
+    "sesotho": "ho timeletsa, felisa"
   },
   {
-    "headword_english": "Auiwunrd",
+    "headword_english": "Announce",
     "pos": "v.",
-    "sesotho": "lio tsebi.sa. helm. bebMa. tutnina Annoijy V. ho kbatbalNa, liloIlea, totoiiisa, iilopba, Iioi-eittsa, felisa petO Aunoga}ire, ii kluitbatsi). blopbo, kboi'elettso."
+    "sesotho": "ho tsebisa, hela, bebeletsa, tumisa"
   },
   {
-    "headword_english": "Awiuallg",
+    "headword_english": "Annoy",
+    "pos": "v.",
+    "sesotho": "ho khathallisa, hlollea, totonisa, hlopha, horeetsa, felisa pelo"
+  },
+  {
+    "headword_english": "Annoyance",
+    "pos": "n.",
+    "sesotho": "khathallo, hlopha, khoreletso"
+  },
+  {
+    "headword_english": "Annually",
     "pos": "adv.",
-    "sesotho": "ka .Sflemo ae s(Ml^ le tm aeng, ka n^ruHlui o moiig le o iiiong."
+    "sesotho": "ka selemo se seng le se seng, ka ngwahla o mong le o mong"
   },
   {
-    "headword_english": "Antaijonist",
-    "pos": "ii.",
-    "sesotho": "ea haiiyetsaiig, sera. Antelope^ u. tseplie, letsa, kliama . Ant-hill, u. seolo."
+    "headword_english": "Antagonist",
+    "pos": "n.",
+    "sesotho": "ea hanyetsang, sera"
+  },
+  {
+    "headword_english": "Antelope",
+    "pos": "n.",
+    "sesotho": "tsephe, letsa, khama"
+  },
+  {
+    "headword_english": "Ant-hill",
+    "pos": "n.",
+    "sesotho": "seolo"
   },
   {
     "headword_english": "Anvil",
     "pos": "n.",
-    "sesotho": "tsehlo."
+    "sesotho": "tsehlo"
   },
   {
     "headword_english": "Anxiety",
     "pos": "n.",
-    "sesotho": "pelaelo, tsieleho. AnAi(yni<, adj. {tronhledj e belaelang ; (eagerlij desirous) e lakatsang ; Z am anxious to see you, ke laKatsa liaholo ho u bona."
+    "sesotho": "pelaelo, tsieleho"
+  },
+  {
+    "headword_english": "Anxious",
+    "pos": "adj.",
+    "sesotho": "(troubled) e belaelang ; (eagerly desirous) e lakatsang ; I am anxious to see you, ke lakatsa haholo ho u bona"
   },
   {
     "headword_english": "Any",
     "pos": "adj.",
-    "sesotho": "mang le mang, eng Ifc eug, efe le efe."
+    "sesotho": "mang le mang, eng le eng, efe le efe"
   },
   {
-    "headword_english": "Anyichere",
+    "headword_english": "Anywhere",
     "pos": "adv.",
-    "sesotho": "kae le kae."
+    "sesotho": "kae le kae"
   },
   {
     "headword_english": "Apart",
     "pos": "adv.",
-    "sesotho": "kathoko. ."
+    "sesotho": "kathoko"
   },
   {
     "headword_english": "Apologise",
     "pos": "v.",
-    "sesotho": "ho inyatsa."
+    "sesotho": "ho inyatsa"
   },
   {
     "headword_english": "Apologue",
     "pos": "n.",
-    "sesotho": "tsomo, setsuantso. Appall, V. lio tsosa, tetemisa."
+    "sesotho": "tsomo, setsuantso"
+  },
+  {
+    "headword_english": "Appall",
+    "pos": "v.",
+    "sesotho": "ho tsosa, tetemisa"
   },
   {
     "headword_english": "Apparel",
     "pos": "n.",
-    "sesotho": "liaparo."
+    "sesotho": "liaparo"
   },
   {
     "headword_english": "Apparent",
     "pos": "adj.",
-    "sesotho": "e bonahalang."
+    "sesotho": "e bonahalang"
   },
   {
     "headword_english": "Apparition",
-    "pos": "ii.",
-    "sesotho": "sethotsela, seriti. Appeal, V. ho ipiletsa."
+    "pos": "n.",
+    "sesotho": "sethotsela, seriti"
+  },
+  {
+    "headword_english": "Appeal",
+    "pos": "v.",
+    "sesotho": "ho ipiletsa"
   },
   {
     "headword_english": "Appear",
     "pos": "v.",
-    "sesotho": "(^ito ^(^ visible) ho bonahala, boneha, rotoha ; fto come in sight) ho hlaha."
+    "sesotho": "(to be visible) ho bonahala, boneha, rotoha ; (to come in sight) ho hlaha"
   },
   {
     "headword_english": "Appearance",
     "pos": "n.",
-    "sesotho": "{the look, the > AlTROhAI'lnN mien) ponahalo, ohali. mo, tsobotsi, sebopeho • to make an appearance, ho hlaha, lio itiisa."
+    "sesotho": "(the look, the mien) ponahalo, ohali, molapo, sebopeho ; to make an appearance, ho hlaha, ho itiisa"
   },
   {
     "headword_english": "Appease",
     "pos": "v.",
-    "sesotho": "ho kliutsisa. Appetite, u (for food) takatso ea liyo;] (a strong {desire) takatso. Applaud, V. (/(> clap the hands) ho etsa lehofi, ho opa ka liatla ; {to praise) ho roi'isa."
+    "sesotho": "ho khutsisa"
+  },
+  {
+    "headword_english": "Appetite",
+    "pos": "n.",
+    "sesotho": "(for food) takatso ea lijo ; (a strong desire) takatso"
+  },
+  {
+    "headword_english": "Applaud",
+    "pos": "v.",
+    "sesotho": "(to clap the hands) ho etsa lehofi, ho opa ka liatla ; (to praise) ho rorisa"
   },
   {
     "headword_english": "Applause",
     "pos": "n.",
-    "sesotho": "lehoti, h'tlatse"
+    "sesotho": "lehofi, letlatse"
   },
   {
     "headword_english": "Apple",
     "pos": "n.",
-    "sesotho": "apole."
+    "sesotho": "apole"
   },
   {
     "headword_english": "Application",
     "pos": "n.",
-    "sesotho": "{a petition) kopo qelo ; {attention) pheelo, nahano. Apply, V. {to have recourse to) ho kopa, qela ; {to fix the attention) ho sebetsa ka pheelo, ho nahana ka pheelo ; {to suit) ho lokela ; {to agree) ho lumellaiia le. Appoint, V. ho khefcha, bea, thonya."
+    "sesotho": "(a petition) kopo, qelo ; (attention) pheelo, nahano"
+  },
+  {
+    "headword_english": "Apply",
+    "pos": "v.",
+    "sesotho": "(to have recourse to) ho kopa, qela ; (to fix the attention) ho sebetsa ka pheelo, ho nahana ka pheelo ; (to suit) ho lokela ; (to agree) ho lumellana le"
+  },
+  {
+    "headword_english": "Appoint",
+    "pos": "v.",
+    "sesotho": "ho khetha, bea, thonya"
   },
   {
     "headword_english": "Apprehend",
     "pos": "v.",
-    "sesotho": "{lo sieze) ho tMRra',(to think of ruith fear) ho tsaba, ho hopola ka pelaelo."
+    "sesotho": "(to seize) ho tsuara ; (to think with fear) ho tsaba, ho hopola ka pelaelo"
   },
   {
     "headword_english": "Approach",
     "pos": "v.",
-    "sesotho": "ho afcamela; ii. kataraelo."
+    "sesotho": "ho atamela ; n. katamelo"
   },
   {
     "headword_english": "Approbation",
     "pos": "n.",
-    "sesotho": "ho chaela boka."
+    "sesotho": "ho chaela boka"
   },
   {
-    "headword_english": "Arrest",
+    "headword_english": "Appropriate",
     "pos": "v.",
-    "sesotho": "ho tsuara, eniisa, Appi'opriatef v. ho inkela ; adj. e lokelang, e t§nanelang."
+    "sesotho": "ho inkela ; adj. e lokelang, e tsoanelang"
   },
   {
-    "headword_english": "Arrive",
+    "headword_english": "Approve",
     "pos": "v.",
-    "sesotho": "ho fihla, ho re (|i ; Approve^ v. ho kholoa ke, emela, chiiehi. tin3'el!a."
-  },
-  {
-    "headword_english": "Arrogance",
-    "pos": "v.",
-    "sesotho": "hoikakaso, boi-"
+    "sesotho": "ho kholoa ke, emela, chaela, thata"
   },
   {
     "headword_english": "April",
     "pos": "n.",
-    "sesotho": "'Mesu. Api'oiiy n. |)inafoi*e, foieskoto."
+    "sesotho": "'Mesu"
   },
   {
-    "headword_english": "Arrow",
+    "headword_english": "Apron",
     "pos": "n.",
-    "sesotho": "motsu."
+    "sesotho": "pinafore, forokoto"
   },
   {
-    "headword_english": "Artery",
-    "pos": "n.",
-    "sesotho": "mothapo oa mali Argue J v. ho tseka taba ka lipolelo."
+    "headword_english": "Argue",
+    "pos": "v.",
+    "sesotho": "ho tseka taba ka lipolelo"
   },
   {
     "headword_english": "Arise",
     "pos": "v.",
-    "sesotho": "{to asreml) ho nyo-"
+    "sesotho": "(to ascend) ho nyoloha ; (to emerge) ho hlaha ; (to get up) ho tsoha ; (to rise from the dead) ho tsoha"
+  },
+  {
+    "headword_english": "Arm",
+    "pos": "n.",
+    "sesotho": "letsoho ; v. ho hlokoa oa"
+  },
+  {
+    "headword_english": "Arms",
+    "pos": "n.",
+    "sesotho": "libetsa, lihlomo"
+  },
+  {
+    "headword_english": "Armour",
+    "pos": "n.",
+    "sesotho": "lihlomo, liaparo tsa tsepe tsa ntoa"
+  },
+  {
+    "headword_english": "Armpit",
+    "pos": "n.",
+    "sesotho": "lehati"
+  },
+  {
+    "headword_english": "Army",
+    "pos": "n.",
+    "sesotho": "mabotho"
+  },
+  {
+    "headword_english": "Arrest",
+    "pos": "v.",
+    "sesotho": "ho tsuara, emisa"
+  },
+  {
+    "headword_english": "Arrive",
+    "pos": "v.",
+    "sesotho": "ho fihla, ho re qi"
+  },
+  {
+    "headword_english": "Arrogance",
+    "pos": "n.",
+    "sesotho": "boikakaso, boikgoantšo"
+  },
+  {
+    "headword_english": "Arrow",
+    "pos": "n.",
+    "sesotho": "motsu"
+  },
+  {
+    "headword_english": "Artery",
+    "pos": "n.",
+    "sesotho": "mothapo oa mali"
   },
   {
     "headword_english": "Artful",
     "pos": "adj.",
-    "sesotho": "oa masene, ea loha ; (to emerge) ho hlahii; (to get up) ho Artles<t, adj. e se nang bohlatsoha, t-ma; (to rise fiom the dead) \\\\o tsoha"
+    "sesotho": "oa masene, ea loha"
+  },
+  {
+    "headword_english": "Artless",
+    "pos": "adj.",
+    "sesotho": "e se nang bohlatsoha, e tlhaho"
   },
   {
     "headword_english": "As",
     "pos": "adv.",
-    "sesotho": "ynaleka, ka, ka mobafn ng. Arm, n, letsoho ; v. lio hloklioa oa; conj. ynaleka ha, kamoo...kateng. ka ha, leha, lelia e le. Ascend, V. hoj nyoloha, hloa. mela."
+    "sesotho": "joaleka, ka, ka mokhoa oa ; conj. joaleka ha, kamoo, kateng, ka ha, leha, leha e le"
   },
   {
-    "headword_english": "Amiit",
+    "headword_english": "Ascend",
+    "pos": "v.",
+    "sesotho": "ho nyoloha, hloa, mela"
+  },
+  {
+    "headword_english": "Ascent",
     "pos": "n.",
-    "sesotho": "plur. libctsa, lihlomo. Ascent, n, nioepa, mothipo-"
-  },
-  {
-    "headword_english": "Arvioru",
-    "pos": "n.",
-    "sesotho": "lihlomo, liaparo tsa tsepe tsa iitoa. Armpit^ n. lehati."
-  },
-  {
-    "headword_english": "Aslinined",
-    "pos": "adj.",
-    "sesotho": "e Uhlong, sua/"
+    "sesotho": "moepa, mothipo"
   },
   {
     "headword_english": "Ascertain",
     "pos": "v.",
-    "sesotho": "ho botsisisa, ho batlisisa. bileng, hlayoatig ke lihlong."
+    "sesotho": "ho botsisisa, ho batlisisa"
   },
   {
-    "headword_english": "Ashest",
+    "headword_english": "Ashamed",
+    "pos": "adj.",
+    "sesotho": "e lihlong, suane, hlayoang ke lihlong"
+  },
+  {
+    "headword_english": "Ashes",
     "pos": "n.",
-    "sesotho": "plur. m()h\")ra."
+    "sesotho": "mohora"
   },
   {
     "headword_english": "Aside",
     "pos": "adv.",
-    "sesotho": "kathuk«). t-Ra."
+    "sesotho": "kathoko"
   },
   {
     "headword_english": "Asleep",
     "pos": "adv.",
-    "sesotho": "v i-()l)et.seng ; to be asU'^p, lio ixibala ; to fall ashep (Hi. mikI /m/.) ho ithobnlln"
+    "sesotho": "v. robetseng ; to be asleep, ho robala ; to fall asleep (lit. and fig.) ho ithoballa"
   },
   {
-    "headword_english": "Anpertie",
+    "headword_english": "Asperse",
     "pos": "v.",
-    "sesotho": "(f<, .^latuf^'r) ho etselJetsa. A.'*}ier.^w)i, u. (« sprinkling irifl nuiler) ho f'nfatsa. -"
+    "sesotho": "(to slander) ho etselletsa ; aspersion: (a sprinkling with water) ho nfafatsa"
   },
   {
-    "headword_english": "Asmssin",
-    "pos": "u.",
-    "sesotho": "'molai. A.<mnlt, V. ho loant.sa, futuhela; n. ho loantsa, phutiihelo."
-  },
-  {
-    "headword_english": "Asmgay",
+    "headword_english": "Assassin",
     "pos": "n.",
-    "sesotho": "ieniino, bohhisa."
+    "sesotho": "'molai"
+  },
+  {
+    "headword_english": "Assault",
+    "pos": "v.",
+    "sesotho": "ho loantsa, futuhela ; n. phutuhelo"
+  },
+  {
+    "headword_english": "Assay",
+    "pos": "n.",
+    "sesotho": "temano, bohlisa"
   },
   {
     "headword_english": "Assemble",
     "pos": "v.",
-    "sesotho": "(^o ra?/«e /o a^semhle) ho plintha, bolce11a, bo k any a ; {to rnpol together) lio phnthelia, bokana. Asscmhlj/, n. pbiitheho. pokano, lekhotla, mokhatlt>, pitso, see ma. Assent, V. ho IiiiiiMa, Inmellana. Assert, V. ho fiisa, holelisa, loka, lokolisa. Assist, V. ho thnsa, tlatsa, emela."
+    "sesotho": "(to raise to assemble) ho phuntha, bokella, bokanya ; (to crowd together) ho phunthelela, bokana"
+  },
+  {
+    "headword_english": "Assembly",
+    "pos": "n.",
+    "sesotho": "phutheho, pokano, lekhotla, mokhatlo, pitso, seema"
+  },
+  {
+    "headword_english": "Assent",
+    "pos": "v.",
+    "sesotho": "ho lumela, lumellana"
+  },
+  {
+    "headword_english": "Assert",
+    "pos": "v.",
+    "sesotho": "ho tiisa, holelisa, loka, lokolisa"
+  },
+  {
+    "headword_english": "Assist",
+    "pos": "v.",
+    "sesotho": "ho thusa, tlatsa, emela"
   },
   {
     "headword_english": "Associate",
     "pos": "v.",
-    "sesotho": "ho kopana, ho etsa setsualle. Assort, V. ho bea ka lihWpha, ho teanya tse tsiianaiig, ho hlophisa, Ivlopliolla."
+    "sesotho": "ho kopana, ho etsa setsoalle"
+  },
+  {
+    "headword_english": "Assort",
+    "pos": "v.",
+    "sesotho": "ho bea ka lihlopha, ho teanya tse tsoanang, ho hlophisa, hlophoela"
   },
   {
     "headword_english": "Assuage",
     "pos": "v.",
-    "sesotho": "ho iiolofatsa, kokobetsa. Assnvre, y (to take upon Arir.M. 07ie*s self) ho inkela ; (to take for qranteil) ho lekanya."
+    "sesotho": "ho nolofatsa, kokobetsa"
   },
   {
-    "headword_english": "Assnratice",
+    "headword_english": "Assume",
+    "pos": "v.",
+    "sesotho": "(to take upon oneself) ho inkela ; (to take for granted) ho lekanya"
+  },
+  {
+    "headword_english": "Assurance",
     "pos": "n.",
-    "sesotho": "(a declaration to dispel donht) tsepiso, tiiso ; (a firm heltpf) isepo."
+    "sesotho": "(a declaration to dispel doubt) tsepiso, tiiso ; (a firm belief) tsepiso"
   },
   {
     "headword_english": "Assure",
@@ -571,92 +921,192 @@
   },
   {
     "headword_english": "Asthma",
-    "pos": "ii.",
-    "sesotho": "lefnba. Astonish, V. ho makatsfl, tsotisa, hlolla ; to he astonished at, lio tjantjella, tpota, hlolloa ke, babatsa. Astonishmpnt, n niakalo, hlollo, tsoto, pabatso. Astound, V. ho makatsa ha\\\\b\\b."
+    "pos": "n.",
+    "sesotho": "lefuba"
+  },
+  {
+    "headword_english": "Astonish",
+    "pos": "v.",
+    "sesotho": "ho makatsa, tsotisa, hlolla ; to be astonished at, ho tjantjella, tsota, hlolloa ke, babatsa"
+  },
+  {
+    "headword_english": "Astonishment",
+    "pos": "n.",
+    "sesotho": "makalo, hlollo, tsoto, pabatso"
+  },
+  {
+    "headword_english": "Astound",
+    "pos": "v.",
+    "sesotho": "ho makatsa haholo"
   },
   {
     "headword_english": "Astray",
     "pos": "adv.",
-    "sesotho": "ka lio kheloha, ka ho lahleha ; to go astray, ho lahleha. Asunde}', adv. ka ho khaohaiiya, ka likoto. At, prep, ka, ho, ha, hauH lo. At hirst, adj. e iiyoriloeng. Atone, V. (to make amends) ho inyat.sa ; {to e.rpiate) holefella, ho etsa pheko. Attack, V. ho (jala motho, loantsa, I'lilnhela, tsohela mafia ; n. phnthnhelo, mocjholo. Attain, V. ho fih"
+    "sesotho": "ka ho kheloha, ka ho lahleha ; to go astray, ho lahleha"
+  },
+  {
+    "headword_english": "Asunder",
+    "pos": "adv.",
+    "sesotho": "ka ho khaohanya, ka likoto"
+  },
+  {
+    "headword_english": "At",
+    "pos": "prep.",
+    "sesotho": "ka, ho, ha, haufi le"
+  },
+  {
+    "headword_english": "Atone",
+    "pos": "v.",
+    "sesotho": "(to make amends) ho inyatsa ; (to expiate) ho lefella, ho etsa pheko"
+  },
+  {
+    "headword_english": "Attack",
+    "pos": "v.",
+    "sesotho": "ho qala motho, loantsa, futuhela, tsohela matla ; n. phutuhelo, moqholo"
+  },
+  {
+    "headword_english": "Attain",
+    "pos": "v.",
+    "sesotho": "ho fihla"
   },
   {
     "headword_english": "Attention",
     "pos": "n.",
-    "sesotho": "{paying heed) mamelo, temoho, hlokomelo ; (art of coin'tesy) ketso ea hloiiepho, kutluo. Attest^ X. ho paka. Attire, V. ho apesa ; n. h'aparo. Attract, V. (to draw) ho hohela ; (to allure) ho qeka"
+    "sesotho": "(paying heed) mamelo, temoho, hlokomelo ; (act of courtesy) ketso ea hlomepho, kutloano"
   },
   {
-    "headword_english": "AiulacioKs",
+    "headword_english": "Attest",
+    "pos": "v.",
+    "sesotho": "ho paka"
+  },
+  {
+    "headword_english": "Attire",
+    "pos": "v.",
+    "sesotho": "ho apesa ; n. liaparo"
+  },
+  {
+    "headword_english": "Attract",
+    "pos": "v.",
+    "sesotho": "(to draw) ho hohela ; (to allure) ho qeka"
+  },
+  {
+    "headword_english": "Audacious",
     "pos": "adj.",
-    "sesotho": "ea sa tsabeng let ho."
+    "sesotho": "ea sa tsabeng letho"
   },
   {
     "headword_english": "August",
     "pos": "n.",
-    "sesotho": "Phato."
+    "sesotho": "Phato"
   },
   {
     "headword_english": "Aunt",
     "pos": "n.",
-    "sesotho": "I'akhali, 'manguane."
+    "sesotho": "'akhali, 'manguane"
   },
   {
     "headword_english": "Aurora",
     "pos": "n.",
-    "sesotho": "mafube. Autlunitt/, n (legal power) matia, boi-ena (bo loketseng, bo neoang ke molao)."
+    "sesotho": "mafube"
+  },
+  {
+    "headword_english": "Authority",
+    "pos": "n.",
+    "sesotho": "(legal power) matla, bolaoli (bo loketseng, bo neoang ke molao)"
   },
   {
     "headword_english": "Autumn",
     "pos": "n.",
-    "sesotho": "lehoetla. Avail, V. (to turn to proJU) ho ithusa ; (/o be of use) ho thu.sa ; // avails me nothing, ha ho nthnse letho"
+    "sesotho": "lehoetla"
   },
   {
-    "headword_english": "Avariee",
-    "pos": "n.",
-    "sesotho": "boklionatha, takat«o ea ho rua, qotho. ArnricioHH^ adj. ea lekhonatha. oa qotho."
-  },
-  {
-    "headword_english": "Arenge",
+    "headword_english": "Avail",
     "pos": "v.",
-    "sesotho": "ho phethetsa, lefetsa ; to avenge otie's self, ho iphethetsa."
+    "sesotho": "(to turn to profit) ho ithusa ; (to be of use) ho thusa ; it avails me nothing, ha ho nthuse letho"
+  },
+  {
+    "headword_english": "Avarice",
+    "pos": "n.",
+    "sesotho": "bokhonatla, takatso ea ho rua, qotho"
+  },
+  {
+    "headword_english": "Avaricious",
+    "pos": "adj.",
+    "sesotho": "ea lekhonatla, oa qotho"
+  },
+  {
+    "headword_english": "Avenge",
+    "pos": "v.",
+    "sesotho": "ho phethetsa, lefetsa ; to avenge one's self, ho iphethetsa"
   },
   {
     "headword_english": "Avenger",
     "pos": "n.",
-    "sesotho": "mophethetai, molefetsi."
+    "sesotho": "mophethetai, molefetsi"
   },
   {
     "headword_english": "Aversion",
     "pos": "n.",
-    "sesotho": "kheso, qeno. Avert, V. (to turn awag) lio phemi.sa (jobisa. Avoid, V. ho kaekuetia, phema. qoba, qena, sesefa. Avow, V. ho luinela, ipolela. Await, V. ho lebella, emela, leta. Awake, or"
+    "sesotho": "kheso, qeno"
+  },
+  {
+    "headword_english": "Avert",
+    "pos": "v.",
+    "sesotho": "(to turn away) ho phemisa, qobisa"
+  },
+  {
+    "headword_english": "Avoid",
+    "pos": "v.",
+    "sesotho": "ho kaekuetsa, phema, qoba, qena, sesefa"
+  },
+  {
+    "headword_english": "Avow",
+    "pos": "v.",
+    "sesotho": "ho lumela, ipolela"
+  },
+  {
+    "headword_english": "Await",
+    "pos": "v.",
+    "sesotho": "ho lebella, emela, leta"
   },
   {
     "headword_english": "Awaken",
     "pos": "v.",
-    "sesotho": "(to cause to awaken) ho tsosa borokong; (to Itecome awake) ho t.soha, phaphania; adj. ea sa robaleiig, ea falimehang."
+    "sesotho": "(to cause to awaken) ho tsosa boroko ; (to become awake) ho tsoha, phaphama ; adj. ea sa robaleng, ea falimehang"
   },
   {
     "headword_english": "Award",
-    "pos": "n.",
-    "sesotho": "ho ahlolela ; n. kahlolo, khaolo ea nyeoe."
+    "pos": "v.",
+    "sesotho": "ho ahlolela ; n. kahlolo, khaolo ea nyeoe"
+  },
+  {
+    "headword_english": "Away",
+    "pos": "adv.",
+    "sesotho": "hole, hōle"
   },
   {
     "headword_english": "Awe",
     "pos": "n.",
-    "sesotho": "tsabo e kopaneng le hloinpho."
+    "sesotho": "tsabo e kopaneng le hlompha"
   },
   {
     "headword_english": "Awful",
     "pos": "adj.",
-    "sesotho": "e tsabeliang. tsabisang."
+    "sesotho": "e tsabelang, tsabisang"
   },
   {
     "headword_english": "Awhile",
     "pos": "adv.",
-    "sesotho": "motsotso o ae okae, niotadtHO feela."
+    "sesotho": "motsotso o se okae, motsotso feela"
   },
   {
     "headword_english": "Awkward",
     "pos": "adj.",
-    "sesotho": "(cluinsfj) e hOima, e sethoto, e so khualilapa ; (difficnll) o tnietaang, e thata. A.i'c, n. solepe ; Itattle-n rt*. kuakiia, tHnkn."
+    "sesotho": "(clumsy) e thata, e sethoto, e so khuahilapa ; (difficult) e mietalang, e thata"
+  },
+  {
+    "headword_english": "Axe",
+    "pos": "n.",
+    "sesotho": "selepe ; battle-axe, kuakoa, tsanka"
   }
 ]

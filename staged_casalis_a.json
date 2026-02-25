@@ -1,0 +1,3776 @@
+[
+    {
+        "headword_english": [
+            "Adjunction"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "kekeletso"
+        },
+        "senses": [
+            {
+                "definition": "kekeletso",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Adjure"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hlaponya"
+        },
+        "senses": [
+            {
+                "definition": "ho hlaponya, antsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Administer"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lisa"
+        },
+        "senses": [
+            {
+                "definition": "ho lisa, tsamaisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Administration"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "puso"
+        },
+        "senses": [
+            {
+                "definition": "puso, tiso",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Admire"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to wonder at) ho makala ke, bōha, tsota, babatsa ; (to feel respect) ho hlompha",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Admit"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to permit to enter) ho amohela, kenya ; (to receive as true) ho lumela, kholoa ke",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Admonish"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho laea"
+        },
+        "senses": [
+            {
+                "definition": "ho laea",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Adolescent"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mohlankana"
+        },
+        "senses": [
+            {
+                "definition": "mohlankana",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Adopt"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to adopt a child) ho thola nguana",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Adoration"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho khumamela"
+        },
+        "senses": [
+            {
+                "definition": "ho khumamela, ho sebeletsa Molimo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Adorn"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho khabisa"
+        },
+        "senses": [
+            {
+                "definition": "ho khabisa, lilopha, hlophisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Adulterate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tsueberenya"
+        },
+        "senses": [
+            {
+                "definition": "ho tsueberenya, senya bolisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Adultery"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bofebe"
+        },
+        "senses": [
+            {
+                "definition": "bofebe",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Advance"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lit"
+        },
+        "senses": [
+            {
+                "definition": "(lit. and fig.) ho tsuela pele",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Advantage"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "molemo"
+        },
+        "senses": [
+            {
+                "definition": "molemo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Adventure"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ntho"
+        },
+        "senses": [
+            {
+                "definition": "ntho e tsohang e hlahela motho, tsietsi, ngope-a-sesoha",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Adversary"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "sera"
+        },
+        "senses": [
+            {
+                "definition": "sera, mohanyetsi",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Adversity"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bomalibe"
+        },
+        "senses": [
+            {
+                "definition": "bomalibe, bosoto",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Advice"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "keletso"
+        },
+        "senses": [
+            {
+                "definition": "keletso, temoso",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Advise"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lemosa"
+        },
+        "senses": [
+            {
+                "definition": "ho lemosa, elotsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Advocate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho bulelhi"
+        },
+        "senses": [
+            {
+                "definition": "ho bulelhi, emela",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Afar"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "hole"
+        },
+        "senses": [
+            {
+                "definition": "hole, moniamo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Affability"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mosa"
+        },
+        "senses": [
+            {
+                "definition": "mosa, molemo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Affair"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "taba"
+        },
+        "senses": [
+            {
+                "definition": "taba, mosebetsi",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Affect"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to move or touch) ho ama pelo, sisimosa ; (to be moved) ho perama, sisa pelo ; (to make a show) ho iketsisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Affection"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lerato"
+        },
+        "senses": [
+            {
+                "definition": "lerato",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Affirm"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tiisa"
+        },
+        "senses": [
+            {
+                "definition": "ho tiisa, omela",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Affirmation"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tiiso"
+        },
+        "senses": [
+            {
+                "definition": "tiiso, komelo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Afflict"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hlokofatsa"
+        },
+        "senses": [
+            {
+                "definition": "ho hlokofatsa ; to be afflicted, ho hlomoha, siaba",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Affliction"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "masuabi"
+        },
+        "senses": [
+            {
+                "definition": "masuabi, mahlomola",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Affright"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tsosa"
+        },
+        "senses": [
+            {
+                "definition": "ho tsosa, tsabisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Affront"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho fahla"
+        },
+        "senses": [
+            {
+                "definition": "ho fahla",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Afoot"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ka"
+        },
+        "senses": [
+            {
+                "definition": "ka maoto",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Aforetime"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "pele"
+        },
+        "senses": [
+            {
+                "definition": "pele, khale",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Afraid"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e tsohileng, e tsohang ; to be afraid, ho tsaba, tsoha, qaea, feha mahlo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Afresh"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "hape"
+        },
+        "senses": [
+            {
+                "definition": "hape, bocha",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "After"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "morao"
+        },
+        "senses": [
+            {
+                "definition": "morao, ka morao ; prep. ka mora, ka morao",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Afternoon"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "motšehare"
+        },
+        "senses": [
+            {
+                "definition": "motšehare oa mantsibōeng",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Afterwards"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "kamora"
+        },
+        "senses": [
+            {
+                "definition": "kamora",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Agent"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "'moemeli"
+        },
+        "senses": [
+            {
+                "definition": "'moemeli, ajiante",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Agility"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bobebe"
+        },
+        "senses": [
+            {
+                "definition": "bobebe, lebelo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Agitate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to stir) ho tsukutla, fulua, tsoka, tsokotsa, kapeisu ; (to disturb) ho ferekanya, tsosu ; (to be mentally agitated) ho ferekana, ho erehana",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ago"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "khale"
+        },
+        "senses": [
+            {
+                "definition": "khale, pele",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Agony"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mahlomola"
+        },
+        "senses": [
+            {
+                "definition": "mahlomola a le tsona, bohloko bo boholo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Agreeable"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "pleasing"
+        },
+        "senses": [
+            {
+                "definition": "(pleasing) e khahlelang, e khahlisoang ; to be agreeable, ho khahliha, e tle",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Agree"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lumellana"
+        },
+        "senses": [
+            {
+                "definition": "ho lumellana, ho utloana",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Agreement"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tumellano"
+        },
+        "senses": [
+            {
+                "definition": "tumellano",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Agriculture"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bolemi"
+        },
+        "senses": [
+            {
+                "definition": "bolemi, temo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ahead"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ka"
+        },
+        "senses": [
+            {
+                "definition": "ka pele ; to go ahead (lit. and fig.), ho tsaela pele",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Aid"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho thusa"
+        },
+        "senses": [
+            {
+                "definition": "ho thusa, tlatsa, tlatsetsa ; n. thuso",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ail"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho baba"
+        },
+        "senses": [
+            {
+                "definition": "ho baba, kuha, ba bohloko",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ailment"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bohloko"
+        },
+        "senses": [
+            {
+                "definition": "bohloko, boloetse, lefu, mafu",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Aim"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to endeavour) ho pheella, leka ; (to level at) ho korola, eka ; n. (intention) phihlelo, pheello",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Air"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "wind"
+        },
+        "senses": [
+            {
+                "definition": "(wind) moea ; (manners) sebopeho, motsamao ; (tune) pina ; v. ho bea mot'eng hore e hloekisoe ke moea",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Alarm"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tsosa"
+        },
+        "senses": [
+            {
+                "definition": "ho tsosa, ho hlaba mokhosi ; n. letsoso",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Alas"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "yo"
+        },
+        "senses": [
+            {
+                "definition": "yo! khele!",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Albino"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lesofe"
+        },
+        "senses": [
+            {
+                "definition": "lesofe",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Alert"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e phakisang, e nang le mohelo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Alien"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mochaba"
+        },
+        "senses": [
+            {
+                "definition": "mochaba",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Alienate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to withdraw affection) ho aelefatsa ; (to transfer) ho neela ntho ho o mong",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Alive"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e utloang, phēlang ; to be alive, ho utloana, ho phela",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "All"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "eohle"
+        },
+        "senses": [
+            {
+                "definition": "eohle, tsohle, bohle ; n. kaofela ha",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Allay"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to make quiet) ho khutsisa ; (to make less in pain) ho bebola, kokobetsa bohloko",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Allege"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hlahisa"
+        },
+        "senses": [
+            {
+                "definition": "ho hlahisa motatolo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Allegory"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "setsuantso"
+        },
+        "senses": [
+            {
+                "definition": "setsuantso, papiso",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Alliance"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "selekanoe"
+        },
+        "senses": [
+            {
+                "definition": "selekanoe",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Allot"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho abela"
+        },
+        "senses": [
+            {
+                "definition": "ho abela, arolela",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Allow"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lumellana"
+        },
+        "senses": [
+            {
+                "definition": "ho lumellana",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Allowance"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "a"
+        },
+        "senses": [
+            {
+                "definition": "(a salary) moputso",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Allure"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho qeka"
+        },
+        "senses": [
+            {
+                "definition": "ho qeka",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Alms"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "phonosetso"
+        },
+        "senses": [
+            {
+                "definition": "phonosetso",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Almighty"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea"
+        },
+        "senses": [
+            {
+                "definition": "ea matla 'ohle",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Almost"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e batlile ho, lekhatheng la ; they are almost here, ba se ba le haufi, ba se ba le lekhatheng la ho tla",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Aloe"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lekhala"
+        },
+        "senses": [
+            {
+                "definition": "lekhala",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Aloft"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "phahameng"
+        },
+        "senses": [
+            {
+                "definition": "phahameng, holimo, ka holimo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Alone"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "'notsi"
+        },
+        "senses": [
+            {
+                "definition": "'notsi ; to be alone, ho ba mong, 'notsi ; I was quite alone, ea e-ba 'na qha",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Along"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "pele"
+        },
+        "senses": [
+            {
+                "definition": "pele, koo ; prep. ho ea le, haufi le, hammoho ; go along! u tsamaee!",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Aloud"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ka"
+        },
+        "senses": [
+            {
+                "definition": "ka lentsoe le phahamileng, ka ho hoa, ka lentsoe le phepa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Alphabet"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ntleteroane"
+        },
+        "senses": [
+            {
+                "definition": "ntleteroane",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Already"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "se"
+        },
+        "senses": [
+            {
+                "definition": "se ; it is dark already, ho se ho phirimile",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Also"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "le"
+        },
+        "senses": [
+            {
+                "definition": "le, hape",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Alter"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho fetola"
+        },
+        "senses": [
+            {
+                "definition": "ho fetola ; to become altered, ho fetoha",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Altercation"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "phapang"
+        },
+        "senses": [
+            {
+                "definition": "phapang, khang, tseko",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Alternate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to do by turns) ho fapana, ho phomotsana",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Although"
+        ],
+        "pos": [
+            "conjunction"
+        ],
+        "headword_sesotho": {
+            "orthographic": "leha"
+        },
+        "senses": [
+            {
+                "definition": "leha",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Altitude"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bolelele"
+        },
+        "senses": [
+            {
+                "definition": "bolelele, bophahamo, boholo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Altogether"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "haramoho"
+        },
+        "senses": [
+            {
+                "definition": "haramoho, mahong, hona",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Always"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "kamehla"
+        },
+        "senses": [
+            {
+                "definition": "kamehla, mehla eohle",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Amass"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho bokella"
+        },
+        "senses": [
+            {
+                "definition": "ho bokella",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Amaze"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho makatsa"
+        },
+        "senses": [
+            {
+                "definition": "ho makatsa ; to be amazed, ho babatseha, makala",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ambassador"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lengosa"
+        },
+        "senses": [
+            {
+                "definition": "lengosa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Amiable"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e latehang",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Amidst"
+        ],
+        "pos": [
+            "preposition"
+        ],
+        "headword_sesotho": {
+            "orthographic": "har'a"
+        },
+        "senses": [
+            {
+                "definition": "har'a, mahareng a, pakong tsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ammunition"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "limbu"
+        },
+        "senses": [
+            {
+                "definition": "limbu tsa ntoa (ukulo, mesili)",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Amongst"
+        ],
+        "pos": [
+            "preposition"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bar'a"
+        },
+        "senses": [
+            {
+                "definition": "bar'a, mahareng a",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Amount"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "palano"
+        },
+        "senses": [
+            {
+                "definition": "palano, bongata",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Amputate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho poua"
+        },
+        "senses": [
+            {
+                "definition": "ho poua setho, ho khaola",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Amulet"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "thato"
+        },
+        "senses": [
+            {
+                "definition": "thato",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Amuse"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho bapalisa"
+        },
+        "senses": [
+            {
+                "definition": "ho bapalisa, thetsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ancestor"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ntata"
+        },
+        "senses": [
+            {
+                "definition": "ntata-moholo ; (ancestors) litata-boholo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ancient"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea"
+        },
+        "senses": [
+            {
+                "definition": "ea khale, oa boholo, e tsofofang, e boneng",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "And"
+        ],
+        "pos": [
+            "conjunction"
+        ],
+        "headword_sesotho": {
+            "orthographic": "'me"
+        },
+        "senses": [
+            {
+                "definition": "'me, hammoho, le",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Angel"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lengeloi"
+        },
+        "senses": [
+            {
+                "definition": "lengeloi",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Anger"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "khalofo"
+        },
+        "senses": [
+            {
+                "definition": "khalofo, boliale, boitsena, lunko ; v. ho halosa, tlaka",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Angle"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "kou"
+        },
+        "senses": [
+            {
+                "definition": "kou, sekutlo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Angry"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e halefang, e itsenang ; to be angry, ho halefa, tlokoma, itsena, llala pelo ; to be angry against, ho halefela, tonela motho",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Animal"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "a"
+        },
+        "senses": [
+            {
+                "definition": "(a being possessing life) sebōpuoa ; (a beast) phoofolo ; a wild animal, nyamasane ; adj. ea lebōpuoa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Animosity"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "hlonamo"
+        },
+        "senses": [
+            {
+                "definition": "hlonamo, hloeo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ankle"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "legaqailane"
+        },
+        "senses": [
+            {
+                "definition": "legaqailane",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Annihilate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho timeletsa"
+        },
+        "senses": [
+            {
+                "definition": "ho timeletsa, felisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Announce"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tsebisa"
+        },
+        "senses": [
+            {
+                "definition": "ho tsebisa, hela, bebeletsa, tumisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Annoy"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho khathallisa"
+        },
+        "senses": [
+            {
+                "definition": "ho khathallisa, hlollea, totonisa, hlopha, horeetsa, felisa pelo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Annoyance"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "khathallo"
+        },
+        "senses": [
+            {
+                "definition": "khathallo, hlopha, khoreletso",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Annually"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ka"
+        },
+        "senses": [
+            {
+                "definition": "ka selemo se seng le se seng, ka ngwahla o mong le o mong",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Antagonist"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea"
+        },
+        "senses": [
+            {
+                "definition": "ea hanyetsang, sera",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Antelope"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tsephe"
+        },
+        "senses": [
+            {
+                "definition": "tsephe, letsa, khama",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ant-hill"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "seolo"
+        },
+        "senses": [
+            {
+                "definition": "seolo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Anvil"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tsehlo"
+        },
+        "senses": [
+            {
+                "definition": "tsehlo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Anxiety"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "pelaelo"
+        },
+        "senses": [
+            {
+                "definition": "pelaelo, tsieleho",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Anxious"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "troubled"
+        },
+        "senses": [
+            {
+                "definition": "(troubled) e belaelang ; (eagerly desirous) e lakatsang ; I am anxious to see you, ke lakatsa haholo ho u bona",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Any"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mang"
+        },
+        "senses": [
+            {
+                "definition": "mang le mang, eng le eng, efe le efe",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Anywhere"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "kae"
+        },
+        "senses": [
+            {
+                "definition": "kae le kae",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Apart"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "kathoko"
+        },
+        "senses": [
+            {
+                "definition": "kathoko",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Apologise"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho inyatsa"
+        },
+        "senses": [
+            {
+                "definition": "ho inyatsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Apologue"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tsomo"
+        },
+        "senses": [
+            {
+                "definition": "tsomo, setsuantso",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Appall"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tsosa"
+        },
+        "senses": [
+            {
+                "definition": "ho tsosa, tetemisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Apparel"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "liaparo"
+        },
+        "senses": [
+            {
+                "definition": "liaparo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Apparent"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e bonahalang",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Apparition"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "sethotsela"
+        },
+        "senses": [
+            {
+                "definition": "sethotsela, seriti",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Appeal"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho ipiletsa"
+        },
+        "senses": [
+            {
+                "definition": "ho ipiletsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Appear"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to be visible) ho bonahala, boneha, rotoha ; (to come in sight) ho hlaha",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Appearance"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "the"
+        },
+        "senses": [
+            {
+                "definition": "(the look, the mien) ponahalo, ohali, molapo, sebopeho ; to make an appearance, ho hlaha, ho itiisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Appease"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho khutsisa"
+        },
+        "senses": [
+            {
+                "definition": "ho khutsisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Appetite"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "for"
+        },
+        "senses": [
+            {
+                "definition": "(for food) takatso ea lijo ; (a strong desire) takatso",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Applaud"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to clap the hands) ho etsa lehofi, ho opa ka liatla ; (to praise) ho rorisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Applause"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lehofi"
+        },
+        "senses": [
+            {
+                "definition": "lehofi, letlatse",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Apple"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "apole"
+        },
+        "senses": [
+            {
+                "definition": "apole",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Application"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "a"
+        },
+        "senses": [
+            {
+                "definition": "(a petition) kopo, qelo ; (attention) pheelo, nahano",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Apply"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to have recourse to) ho kopa, qela ; (to fix the attention) ho sebetsa ka pheelo, ho nahana ka pheelo ; (to suit) ho lokela ; (to agree) ho lumellana le",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Appoint"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho khetha"
+        },
+        "senses": [
+            {
+                "definition": "ho khetha, bea, thonya",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Apprehend"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to seize) ho tsuara ; (to think with fear) ho tsaba, ho hopola ka pelaelo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Approach"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho atamela"
+        },
+        "senses": [
+            {
+                "definition": "ho atamela ; n. katamelo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Approbation"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho chaela"
+        },
+        "senses": [
+            {
+                "definition": "ho chaela boka",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Appropriate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho inkela"
+        },
+        "senses": [
+            {
+                "definition": "ho inkela ; adj. e lokelang, e tsoanelang",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Approve"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho kholoa"
+        },
+        "senses": [
+            {
+                "definition": "ho kholoa ke, emela, chaela, thata",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "April"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "'Mesu"
+        },
+        "senses": [
+            {
+                "definition": "'Mesu",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Apron"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "pinafore"
+        },
+        "senses": [
+            {
+                "definition": "pinafore, forokoto",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Argue"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tseka"
+        },
+        "senses": [
+            {
+                "definition": "ho tseka taba ka lipolelo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Arise"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to ascend) ho nyoloha ; (to emerge) ho hlaha ; (to get up) ho tsoha ; (to rise from the dead) ho tsoha",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Arm"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "letsoho"
+        },
+        "senses": [
+            {
+                "definition": "letsoho ; v. ho hlokoa oa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Arms"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "libetsa"
+        },
+        "senses": [
+            {
+                "definition": "libetsa, lihlomo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Armour"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lihlomo"
+        },
+        "senses": [
+            {
+                "definition": "lihlomo, liaparo tsa tsepe tsa ntoa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Armpit"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lehati"
+        },
+        "senses": [
+            {
+                "definition": "lehati",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Army"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mabotho"
+        },
+        "senses": [
+            {
+                "definition": "mabotho",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Arrest"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tsuara"
+        },
+        "senses": [
+            {
+                "definition": "ho tsuara, emisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Arrive"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho fihla"
+        },
+        "senses": [
+            {
+                "definition": "ho fihla, ho re qi",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Arrogance"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "boikakaso"
+        },
+        "senses": [
+            {
+                "definition": "boikakaso, boikgoantšo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Arrow"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "motsu"
+        },
+        "senses": [
+            {
+                "definition": "motsu",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Artery"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mothapo"
+        },
+        "senses": [
+            {
+                "definition": "mothapo oa mali",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Artful"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "oa"
+        },
+        "senses": [
+            {
+                "definition": "oa masene, ea loha",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Artless"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e se nang bohlatsoha, e tlhaho",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "As"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "joaleka"
+        },
+        "senses": [
+            {
+                "definition": "joaleka, ka, ka mokhoa oa ; conj. joaleka ha, kamoo, kateng, ka ha, leha, leha e le",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ascend"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho nyoloha"
+        },
+        "senses": [
+            {
+                "definition": "ho nyoloha, hloa, mela",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ascent"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "moepa"
+        },
+        "senses": [
+            {
+                "definition": "moepa, mothipo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ascertain"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho botsisisa"
+        },
+        "senses": [
+            {
+                "definition": "ho botsisisa, ho batlisisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ashamed"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e lihlong, suane, hlayoang ke lihlong",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ashes"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mohora"
+        },
+        "senses": [
+            {
+                "definition": "mohora",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Aside"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "kathoko"
+        },
+        "senses": [
+            {
+                "definition": "kathoko",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Asleep"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "v"
+        },
+        "senses": [
+            {
+                "definition": "v. robetseng ; to be asleep, ho robala ; to fall asleep (lit. and fig.) ho ithoballa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Asperse"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to slander) ho etselletsa ; aspersion: (a sprinkling with water) ho nfafatsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Assassin"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "'molai"
+        },
+        "senses": [
+            {
+                "definition": "'molai",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Assault"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho loantsa"
+        },
+        "senses": [
+            {
+                "definition": "ho loantsa, futuhela ; n. phutuhelo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Assay"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "temano"
+        },
+        "senses": [
+            {
+                "definition": "temano, bohlisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Assemble"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to raise to assemble) ho phuntha, bokella, bokanya ; (to crowd together) ho phunthelela, bokana",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Assembly"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "phutheho"
+        },
+        "senses": [
+            {
+                "definition": "phutheho, pokano, lekhotla, mokhatlo, pitso, seema",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Assent"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lumela"
+        },
+        "senses": [
+            {
+                "definition": "ho lumela, lumellana",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Assert"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tiisa"
+        },
+        "senses": [
+            {
+                "definition": "ho tiisa, holelisa, loka, lokolisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Assist"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho thusa"
+        },
+        "senses": [
+            {
+                "definition": "ho thusa, tlatsa, emela",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Associate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho kopana"
+        },
+        "senses": [
+            {
+                "definition": "ho kopana, ho etsa setsoalle",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Assort"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho bea"
+        },
+        "senses": [
+            {
+                "definition": "ho bea ka lihlopha, ho teanya tse tsoanang, ho hlophisa, hlophoela",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Assuage"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho nolofatsa"
+        },
+        "senses": [
+            {
+                "definition": "ho nolofatsa, kokobetsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Assume"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to take upon oneself) ho inkela ; (to take for granted) ho lekanya",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Assurance"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "a"
+        },
+        "senses": [
+            {
+                "definition": "(a declaration to dispel doubt) tsepiso, tiiso ; (a firm belief) tsepiso",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Assure"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tsepisa"
+        },
+        "senses": [
+            {
+                "definition": "ho tsepisa, tiisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Asthma"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lefuba"
+        },
+        "senses": [
+            {
+                "definition": "lefuba",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Astonish"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho makatsa"
+        },
+        "senses": [
+            {
+                "definition": "ho makatsa, tsotisa, hlolla ; to be astonished at, ho tjantjella, tsota, hlolloa ke, babatsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Astonishment"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "makalo"
+        },
+        "senses": [
+            {
+                "definition": "makalo, hlollo, tsoto, pabatso",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Astound"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho makatsa"
+        },
+        "senses": [
+            {
+                "definition": "ho makatsa haholo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Astray"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ka"
+        },
+        "senses": [
+            {
+                "definition": "ka ho kheloha, ka ho lahleha ; to go astray, ho lahleha",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Asunder"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ka"
+        },
+        "senses": [
+            {
+                "definition": "ka ho khaohanya, ka likoto",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "At"
+        ],
+        "pos": [
+            "preposition"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ka"
+        },
+        "senses": [
+            {
+                "definition": "ka, ho, ha, haufi le",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Atone"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to make amends) ho inyatsa ; (to expiate) ho lefella, ho etsa pheko",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Attack"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho qala"
+        },
+        "senses": [
+            {
+                "definition": "ho qala motho, loantsa, futuhela, tsohela matla ; n. phutuhelo, moqholo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Attain"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho fihla"
+        },
+        "senses": [
+            {
+                "definition": "ho fihla",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Attention"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "paying"
+        },
+        "senses": [
+            {
+                "definition": "(paying heed) mamelo, temoho, hlokomelo ; (act of courtesy) ketso ea hlomepho, kutloano",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Attest"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho paka"
+        },
+        "senses": [
+            {
+                "definition": "ho paka",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Attire"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho apesa"
+        },
+        "senses": [
+            {
+                "definition": "ho apesa ; n. liaparo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Attract"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to draw) ho hohela ; (to allure) ho qeka",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Audacious"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea"
+        },
+        "senses": [
+            {
+                "definition": "ea sa tsabeng letho",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "August"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "Phato"
+        },
+        "senses": [
+            {
+                "definition": "Phato",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Aunt"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "'akhali"
+        },
+        "senses": [
+            {
+                "definition": "'akhali, 'manguane",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Aurora"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mafube"
+        },
+        "senses": [
+            {
+                "definition": "mafube",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Authority"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "legal"
+        },
+        "senses": [
+            {
+                "definition": "(legal power) matla, bolaoli (bo loketseng, bo neoang ke molao)",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Autumn"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lehoetla"
+        },
+        "senses": [
+            {
+                "definition": "lehoetla",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Avail"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to turn to profit) ho ithusa ; (to be of use) ho thusa ; it avails me nothing, ha ho nthuse letho",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Avarice"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bokhonatla"
+        },
+        "senses": [
+            {
+                "definition": "bokhonatla, takatso ea ho rua, qotho",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Avaricious"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea"
+        },
+        "senses": [
+            {
+                "definition": "ea lekhonatla, oa qotho",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Avenge"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho phethetsa"
+        },
+        "senses": [
+            {
+                "definition": "ho phethetsa, lefetsa ; to avenge one's self, ho iphethetsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Avenger"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mophethetai"
+        },
+        "senses": [
+            {
+                "definition": "mophethetai, molefetsi",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Aversion"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "kheso"
+        },
+        "senses": [
+            {
+                "definition": "kheso, qeno",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Avert"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to turn away) ho phemisa, qobisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Avoid"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho kaekuetsa"
+        },
+        "senses": [
+            {
+                "definition": "ho kaekuetsa, phema, qoba, qena, sesefa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Avow"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lumela"
+        },
+        "senses": [
+            {
+                "definition": "ho lumela, ipolela",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Await"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lebella"
+        },
+        "senses": [
+            {
+                "definition": "ho lebella, emela, leta",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Awaken"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "(to cause to awaken) ho tsosa boroko ; (to become awake) ho tsoha, phaphama ; adj. ea sa robaleng, ea falimehang",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Award"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho ahlolela"
+        },
+        "senses": [
+            {
+                "definition": "ho ahlolela ; n. kahlolo, khaolo ea nyeoe",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Away"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "hole"
+        },
+        "senses": [
+            {
+                "definition": "hole, hōle",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Awe"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tsabo"
+        },
+        "senses": [
+            {
+                "definition": "tsabo e kopaneng le hlompha",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Awful"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e tsabelang, tsabisang",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Awhile"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "motsotso"
+        },
+        "senses": [
+            {
+                "definition": "motsotso o se okae, motsotso feela",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Awkward"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "clumsy"
+        },
+        "senses": [
+            {
+                "definition": "(clumsy) e thata, e sethoto, e so khuahilapa ; (difficult) e mietalang, e thata",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Axe"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "selepe"
+        },
+        "senses": [
+            {
+                "definition": "selepe ; battle-axe, kuakoa, tsanka",
+                "usage_examples": []
+            }
+        ]
+    }
+]

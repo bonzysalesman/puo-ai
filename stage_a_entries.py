@@ -102,6 +102,8 @@ def stage_and_enrich_casalis(input_file, output_file, corpus_refs):
         
     print(f"Staging complete. Out of {len(raw_data)} raw Casalis entries, "
           f"all {len(staged_entries)} were staged for integration. "
+          f"Found valid corpus examples for {[bool(e['senses'][0]['usage_examples']) for e in staged_entries].count(True)} entries.")
+
 def stage_and_enrich_mabille(input_file, output_file, corpus_refs):
     with open(input_file, "r", encoding="utf-8") as f:
         raw_data = json.load(f)

@@ -1,0 +1,167 @@
+# PUO-AI Word List
+
+> Auto-extracted from `dictionary.json`. Add new words below each section manually.
+
+## English Words (104 unique)
+
+- abyss
+- animal
+- asteroid
+- Away
+- Awe
+- bad
+- Beginning
+- behemoth
+- bird
+- blackness
+- brightness
+- carnivore
+- category
+- chasm
+- colossus
+- crawler
+- Creeping thing
+- Darkness
+- day
+- Day / Daytime
+- daylight
+- daytime
+- Deep
+- distant
+- domestic animal
+- dwarf
+- Earth
+- elsewhere
+- emptiness
+- end
+- evil
+- excellent
+- expanse
+- Expansion
+- Female
+- feminine
+- fine
+- firmament
+- Flying creature
+- fowl
+- fullness
+- giant
+- gloom
+- Good
+- grain
+- ground
+- Heaven
+- hell
+- human
+- illumination
+- Image / Likeness
+- indicator
+- individual
+- Kind
+- lamp
+- Land
+- Light
+- likeness
+- luminary
+- Male
+- Man / Person
+- masculine
+- Night
+- nighttime
+- nothing
+- ocean
+- off
+- origin
+- outset
+- pip
+- predator
+- reptile
+- resemblance
+- reverence
+- Sea
+- Sea monster
+- Seed
+- shadow
+- shallow
+- Sign
+- signal
+- sky
+- soil
+- sort
+- Source of light
+- species
+- spirit
+- Star
+- start
+- statue
+- sun
+- territory
+- token
+- twelvemonth
+- type
+- veneration
+- virtuous
+- void
+- Void / Nothing
+- wild animal
+- Wild beast
+- wonder
+- world
+- Year
+
+## Sesotho Words (54 unique)
+
+- bodiba
+- bofelo
+- boliba
+- bosiu
+- botšo
+- e motona
+- e motšehali
+- hantle
+- hole
+- hōle
+- khanya
+- lebone
+- lefats'e
+- lefatše
+- lefifi
+- leholimo
+- leoatle
+- leseli
+- letho
+- liphoofolo tsa litonanahali
+- matsatse
+- mofuta
+- mohloli oa leseli
+- molemo
+- monna
+- mosali
+- motho
+- motho oa nama
+- motšehare
+- mpe
+- naha
+- naleli
+- nonyana
+- peō
+- phoofolo
+- phoofolo e hahabang
+- phoofolo e ruuoang
+- phoofolo ea naha
+- pontšo
+- sebata
+- sebopeho
+- sebōpuoa se fofang
+- sehahabi
+- seka
+- selemo
+- sepakapaka
+- seqhenqha
+- setšoantšo
+- thollo
+- tlhompho
+- tonanahali
+- tšabo
+- tšalo-morao
+- tšimoloho

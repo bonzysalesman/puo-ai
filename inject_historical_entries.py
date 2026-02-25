@@ -1,99 +1,134 @@
+import argparse
 import json
-import uuid
 
-def inject_staged_entries_robust(dictionary_file, staged_files):
-    # Load current dictionary
-    with open(dictionary_file, "r", encoding="utf-8") as f:
-        dictionary = json.load(f)
+from split_datasets import split_datasets
 
-    # Collect existing english and sesotho headwords to prevent exact duplication
-    existing_en = set()
-    existing_st = set()
-    for entry in dictionary:
-        if not isinstance(entry, dict):
-            continue
-        for en in entry.get("headword_english", []):
-            existing_en.add(en.lower().strip())
-        st_hw_list = entry.get("headword_sesotho", [])
-        if st_hw_list and isinstance(st_hw_list, list):
-            st_hw = st_hw_list[0].get("orthographic", "")
-            if st_hw:
-                existing_st.add(st_hw.lower().strip())
 
-    injected_count = 0
+def load_json_array(path):
+    with open(path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    return data if isinstance(data, list) else []
+
+
+def _headword_key(entry):
+    en = str(entry.get("headword_english", "")).strip().lower()
+    st_list = entry.get("headword_sesotho", [])
+    st = ""
+    if isinstance(st_list, list) and st_list:
+        first = st_list[0]
+        if isinstance(first, dict):
+            st = str(first.get("orthographic", "")).strip().lower()
+    return en, st
+
+
+def inject_staged_entries_split(
+    lexicon_file,
+    corpus_file,
+    attestations_file,
+    staged_files,
+):
+    lexicon = load_json_array(lexicon_file)
+    corpus = load_json_array(corpus_file)
+    attestations = load_json_array(attestations_file)
+
+    existing_headword_keys = {
+        _headword_key(entry) for entry in lexicon if isinstance(entry, dict)
+    }
+    existing_corpus_ids = {
+        row.get("corpus_id")
+        for row in corpus
+        if isinstance(row, dict) and isinstance(row.get("corpus_id"), str)
+    }
+    existing_attestation_ids = {
+        row.get("attestation_id")
+        for row in attestations
+        if isinstance(row, dict) and isinstance(row.get("attestation_id"), str)
+    }
+
+    injected_entries = 0
+    injected_corpus = 0
+    injected_attestations = 0
     total_processed = 0
 
-    for s_file in staged_files:
-        with open(s_file, "r", encoding="utf-8") as f:
-            staged = json.load(f)
+    for staged_path in staged_files:
+        staged = load_json_array(staged_path)
+        staged_lexicon, staged_corpus, staged_attestations = split_datasets(staged)
 
-        for entry in staged:
+        accepted_entry_ids = set()
+        for entry in staged_lexicon:
             total_processed += 1
-            
-            # Basic deduplication checking based on headwords
-            en_words = [en.lower().strip() for en in entry.get("headword_english", [])]
-            st_hw_list = entry.get("headword_sesotho", [])
-            st_word = ""
-            if st_hw_list and isinstance(st_hw_list, list):
-                st_word = st_hw_list[0].get("orthographic", "").lower().strip()
-            elif isinstance(st_hw_list, dict):
-                st_word = st_hw_list.get("orthographic", "").lower().strip()
-                
-            # Convert staged headword_sesotho back to list if staged differently
-            if isinstance(entry.get("headword_sesotho"), dict):
-                entry["headword_sesotho"] = [entry["headword_sesotho"]]
-            
-            # If it's Casalis (English-Sesotho), rely on English headword collision
-            if en_words and en_words[0] in existing_en:
+            key = _headword_key(entry)
+            if key in existing_headword_keys:
                 continue
-                
-            # If it's Mabille (Sesotho-English), rely on Sesotho headword collision
-            if not en_words and st_word in existing_st:
+            lexicon.append(entry)
+            accepted_entry_ids.add(entry["entry_id"])
+            existing_headword_keys.add(key)
+            injected_entries += 1
+
+        accepted_sense_ids = {
+            sense.get("sense_id")
+            for entry in staged_lexicon
+            if entry.get("entry_id") in accepted_entry_ids
+            for sense in entry.get("senses", [])
+            if isinstance(sense, dict) and isinstance(sense.get("sense_id"), str)
+        }
+
+        for row in staged_corpus:
+            cid = row.get("corpus_id")
+            if not isinstance(cid, str) or cid in existing_corpus_ids:
                 continue
+            corpus.append(row)
+            existing_corpus_ids.add(cid)
+            injected_corpus += 1
 
-            # Ensure entry_id exists
-            if "entry_id" not in entry:
-                entry["entry_id"] = str(uuid.uuid4())
-                
-            # Ensure syllables array exists for schema
-            if "syllables" not in entry:
-                entry["syllables"] = [""]
-                if entry["headword_sesotho"] and isinstance(entry["headword_sesotho"], list):
-                    entry["syllables"] = [entry["headword_sesotho"][0].get("orthographic", "")]
-                
-            # Ensure morphology exists
-            if "morphology" not in entry:
-                entry["morphology"] = {
-                    "root": "",
-                    "derivation": "Historical Entry",
-                    "noun_class": "unknown"
-                }
-                
-            # Ensure thesaurus exists
-            if "thesaurus" not in entry:
-                entry["thesaurus"] = {
-                    "synonyms": [],
-                    "antonyms": [],
-                    "related_terms": []
-                }
-                
-            # Ensure senses have IDs
-            for i, sense in enumerate(entry["senses"]):
-                if "id" not in sense:
-                    sense["id"] = f"sense_{i+1}"
-            
-            dictionary.append(entry)
-            injected_count += 1
-            
-            # Add to set so we don't inject duplicates from within the staged files
-            if en_words: existing_en.add(en_words[0])
-            if st_word: existing_st.add(st_word)
+        for row in staged_attestations:
+            aid = row.get("attestation_id")
+            sid = row.get("sense_id")
+            if not isinstance(aid, str) or aid in existing_attestation_ids:
+                continue
+            if sid not in accepted_sense_ids:
+                continue
+            attestations.append(row)
+            existing_attestation_ids.add(aid)
+            injected_attestations += 1
 
-    with open(dictionary_file, "w", encoding="utf-8") as f:
-        json.dump(dictionary, f, indent=4, ensure_ascii=False)
+    with open(lexicon_file, "w", encoding="utf-8") as f:
+        json.dump(lexicon, f, indent=2, ensure_ascii=False)
+    with open(corpus_file, "w", encoding="utf-8") as f:
+        json.dump(corpus, f, indent=2, ensure_ascii=False)
+    with open(attestations_file, "w", encoding="utf-8") as f:
+        json.dump(attestations, f, indent=2, ensure_ascii=False)
 
     print(f"Processed {total_processed} staged entries across files.")
-    print(f"Successfully injected {injected_count} new unique historical 'A' entries into {dictionary_file}!")
+    print(f"Injected entries: {injected_entries}")
+    print(f"Injected corpus rows: {injected_corpus}")
+    print(f"Injected attestations: {injected_attestations}")
+    print(
+        f"Updated '{lexicon_file}', '{corpus_file}', and '{attestations_file}'."
+    )
 
-staged_files = ["staged_casalis_a.json", "staged_mabille_a.json"]
-inject_staged_entries_robust("dictionary.json", staged_files)
+
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description="Inject staged historical entries into split datasets."
+    )
+    parser.add_argument("--lexicon", default="lexicon.json")
+    parser.add_argument("--corpus", default="corpus.json")
+    parser.add_argument("--attestations", default="attestations.json")
+    parser.add_argument(
+        "--staged-files",
+        default="staged_casalis_a.json,staged_mabille_a.json",
+        help="Comma-separated staged JSON files to inject.",
+    )
+    return parser.parse_args()
+
+
+if __name__ == "__main__":
+    args = parse_args()
+    staged_files = [p.strip() for p in args.staged_files.split(",") if p.strip()]
+    inject_staged_entries_split(
+        lexicon_file=args.lexicon,
+        corpus_file=args.corpus,
+        attestations_file=args.attestations,
+        staged_files=staged_files,
+    )

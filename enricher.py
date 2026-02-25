@@ -4,6 +4,7 @@ import re
 from pathlib import Path
 
 from bs4 import BeautifulSoup
+from split_datasets import stable_hash
 
 
 def clean_text(text):
@@ -160,7 +161,14 @@ def enrich_dictionary(
                     print(f"Skipping already enriched sense '{sense.get('sense_id')}'")
                 continue
 
-            st_terms = normalize_terms(sense.get("sesotho_term", []), stop_terms=stop_terms)
+            st_terms_raw = sense.get("sesotho_term", [])
+            if not st_terms_raw:
+                hw_st = entry.get("headword_sesotho", [])
+                if isinstance(hw_st, list) and len(hw_st) > 0:
+                    st_terms_raw = [hw_st[0].get("orthographic", "")]
+                elif isinstance(hw_st, dict):
+                    st_terms_raw = [hw_st.get("orthographic", "")]
+            st_terms = normalize_terms(st_terms_raw, stop_terms=stop_terms)
             best_match = find_best_match(
                 st_verses,
                 en_verses,
@@ -211,11 +219,211 @@ def enrich_dictionary(
     return enriched_count
 
 
+def load_json_array(path):
+    with open(path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    return data if isinstance(data, list) else []
+
+
+def normalize_headword_sesotho(headword_sesotho):
+    if isinstance(headword_sesotho, dict):
+        headword_sesotho = [headword_sesotho]
+    if not isinstance(headword_sesotho, list):
+        return []
+    out = []
+    for item in headword_sesotho:
+        if not isinstance(item, dict):
+            continue
+        orth = str(item.get("orthographic", "")).strip()
+        if not orth:
+            continue
+        out.append(orth)
+    return out
+
+
+def enrich_split_datasets(
+    lexicon_path,
+    corpus_path,
+    attestations_path,
+    st_file,
+    en_file,
+    source_label=None,
+    dry_run=False,
+    verbose=False,
+    overwrite=False,
+    stop_terms=None,
+    weight_term_count=1000.0,
+    weight_term_length=1.0,
+    weight_verse_length_penalty=0.01,
+):
+    lexicon = load_json_array(lexicon_path)
+    corpus = load_json_array(corpus_path)
+    attestations = load_json_array(attestations_path)
+
+    st_verses = fetch_verses_local(st_file)
+    en_verses = fetch_verses_local(en_file)
+
+    if verbose:
+        print(f"St Verses retrieved: {len(st_verses)}")
+        print(f"En Verses retrieved: {len(en_verses)}")
+
+    source_base = source_label or f"JW Bible - {Path(st_file).stem}"
+
+    corpus_by_id = {}
+    corpus_key_to_id = {}
+    for row in corpus:
+        if not isinstance(row, dict):
+            continue
+        cid = row.get("corpus_id")
+        if not isinstance(cid, str) or not cid:
+            continue
+        corpus_by_id[cid] = row
+        key = (
+            str(row.get("source", "")).strip(),
+            str(row.get("ref", "")).strip(),
+            str(row.get("sesotho_text", "")).strip(),
+            str(row.get("english_text", "")).strip(),
+        )
+        corpus_key_to_id[key] = cid
+
+    atts_by_sense = {}
+    for row in attestations:
+        if not isinstance(row, dict):
+            continue
+        sid = row.get("sense_id")
+        if isinstance(sid, str) and sid:
+            atts_by_sense.setdefault(sid, []).append(row)
+
+    enriched_count = 0
+    unmatched_senses = 0
+    skipped_senses = 0
+
+    for entry in lexicon:
+        if not isinstance(entry, dict):
+            continue
+        entry_terms_fallback = normalize_headword_sesotho(entry.get("headword_sesotho"))
+        for sense in entry.get("senses", []):
+            if not isinstance(sense, dict):
+                continue
+            sense_id = sense.get("sense_id")
+            if not isinstance(sense_id, str) or not sense_id:
+                continue
+
+            if atts_by_sense.get(sense_id) and not overwrite:
+                skipped_senses += 1
+                if verbose:
+                    print(f"Skipping already enriched sense '{sense_id}'")
+                continue
+
+            st_terms_raw = sense.get("sesotho_term", [])
+            if not st_terms_raw:
+                st_terms_raw = entry_terms_fallback
+            st_terms = normalize_terms(st_terms_raw, stop_terms=stop_terms)
+            best_match = find_best_match(
+                st_verses,
+                en_verses,
+                st_terms,
+                weight_term_count=weight_term_count,
+                weight_term_length=weight_term_length,
+                weight_verse_length_penalty=weight_verse_length_penalty,
+            )
+            if not best_match:
+                unmatched_senses += 1
+                continue
+
+            (
+                weighted_score,
+                term_count,
+                term_length_sum,
+                _neg_verse_len,
+                verse_id,
+                st_text,
+                en_text,
+                matched_terms,
+            ) = best_match
+
+            if overwrite and atts_by_sense.get(sense_id):
+                attestations = [
+                    row
+                    for row in attestations
+                    if not (isinstance(row, dict) and row.get("sense_id") == sense_id)
+                ]
+                atts_by_sense[sense_id] = []
+
+            corpus_key = (source_base, verse_id, st_text, en_text)
+            corpus_id = corpus_key_to_id.get(corpus_key)
+            if corpus_id is None:
+                corpus_id = stable_hash(corpus_key, prefix="corpus_")
+                corpus_row = {
+                    "corpus_id": corpus_id,
+                    "source": source_base,
+                    "ref": verse_id,
+                    "sesotho_text": st_text,
+                    "english_text": en_text,
+                }
+                corpus.append(corpus_row)
+                corpus_by_id[corpus_id] = corpus_row
+                corpus_key_to_id[corpus_key] = corpus_id
+
+            attestation_id = stable_hash([sense_id, corpus_id], prefix="att_")
+            attestation_row = {
+                "attestation_id": attestation_id,
+                "sense_id": sense_id,
+                "corpus_id": corpus_id,
+                "source_raw": f"{source_base} (Verse {verse_id})",
+                "match_terms": matched_terms,
+                "score": weighted_score,
+                "method": "enricher_split_v1",
+            }
+            if not any(
+                isinstance(row, dict) and row.get("attestation_id") == attestation_id
+                for row in attestations
+            ):
+                attestations.append(attestation_row)
+                atts_by_sense.setdefault(sense_id, []).append(attestation_row)
+                enriched_count += 1
+                if verbose:
+                    print(
+                        "Matched sense "
+                        f"'{sense_id}' in {verse_id} using {matched_terms} "
+                        f"weighted_score={weighted_score:.3f} "
+                        f"(count={term_count}, length={term_length_sum})"
+                    )
+
+    if dry_run:
+        print(
+            f"Dry run: {enriched_count} senses would be enriched; "
+            f"{unmatched_senses} unmatched; {skipped_senses} skipped."
+        )
+        return enriched_count
+
+    with open(corpus_path, "w", encoding="utf-8") as f:
+        json.dump(corpus, f, ensure_ascii=False, indent=2)
+    with open(attestations_path, "w", encoding="utf-8") as f:
+        json.dump(attestations, f, ensure_ascii=False, indent=2)
+
+    print(
+        f"Successfully enriched {enriched_count} senses; "
+        f"{unmatched_senses} unmatched; {skipped_senses} skipped."
+    )
+    print(f"Updated '{corpus_path}' and '{attestations_path}'.")
+    return enriched_count
+
+
 def parse_args():
     parser = argparse.ArgumentParser(
         description="Enrich dictionary senses with parallel verse examples."
     )
+    parser.add_argument(
+        "--mode",
+        choices=["split", "legacy"],
+        default="split",
+        help="`split` writes to corpus/attestations via lexicon senses; `legacy` writes usage_example into dictionary JSON.",
+    )
     parser.add_argument("--dictionary", default="dictionary.json")
+    parser.add_argument("--lexicon", default="lexicon.json")
+    parser.add_argument("--corpus", default="corpus.json")
+    parser.add_argument("--attestations", default="attestations.json")
     parser.add_argument("--sesotho-file", default="st_gen1.html")
     parser.add_argument("--english-file", default="en_gen1.html")
     parser.add_argument("--source-label", default=None)
@@ -251,17 +459,34 @@ def parse_args():
 
 if __name__ == "__main__":
     args = parse_args()
-    enrich_dictionary(
-        dict_path=args.dictionary,
-        st_file=args.sesotho_file,
-        en_file=args.english_file,
-        source_label=args.source_label,
-        output_path=args.output,
-        dry_run=args.dry_run,
-        verbose=args.verbose,
-        overwrite=args.overwrite,
-        stop_terms=[t for t in args.stop_terms.split(",") if t.strip()],
-        weight_term_count=args.weight_term_count,
-        weight_term_length=args.weight_term_length,
-        weight_verse_length_penalty=args.weight_verse_length_penalty,
-    )
+    if args.mode == "legacy":
+        enrich_dictionary(
+            dict_path=args.dictionary,
+            st_file=args.sesotho_file,
+            en_file=args.english_file,
+            source_label=args.source_label,
+            output_path=args.output,
+            dry_run=args.dry_run,
+            verbose=args.verbose,
+            overwrite=args.overwrite,
+            stop_terms=[t for t in args.stop_terms.split(",") if t.strip()],
+            weight_term_count=args.weight_term_count,
+            weight_term_length=args.weight_term_length,
+            weight_verse_length_penalty=args.weight_verse_length_penalty,
+        )
+    else:
+        enrich_split_datasets(
+            lexicon_path=args.lexicon,
+            corpus_path=args.corpus,
+            attestations_path=args.attestations,
+            st_file=args.sesotho_file,
+            en_file=args.english_file,
+            source_label=args.source_label,
+            dry_run=args.dry_run,
+            verbose=args.verbose,
+            overwrite=args.overwrite,
+            stop_terms=[t for t in args.stop_terms.split(",") if t.strip()],
+            weight_term_count=args.weight_term_count,
+            weight_term_length=args.weight_term_length,
+            weight_verse_length_penalty=args.weight_verse_length_penalty,
+        )

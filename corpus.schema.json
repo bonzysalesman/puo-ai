@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PUO-AI Parallel Corpus",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "corpus_id",
+      "source",
+      "ref",
+      "sesotho_text",
+      "english_text"
+    ],
+    "properties": {
+      "corpus_id": {
+        "type": "string",
+        "minLength": 1
+      },
+      "source": {
+        "type": "string"
+      },
+      "ref": {
+        "type": "string"
+      },
+      "sesotho_text": {
+        "type": "string",
+        "minLength": 1
+      },
+      "english_text": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "additionalProperties": true
+  }
+}
