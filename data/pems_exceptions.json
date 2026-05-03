@@ -1,0 +1,8 @@
+[
+  { "term": "digital", "category": "tech" },
+  { "term": "whatsapp", "category": "tech" },
+  { "term": "google", "category": "tech" },
+  { "term": "facebook", "category": "tech" },
+  { "term": "radio", "category": "loanword" },
+  { "term": "unisa", "category": "proper_name" }
+]

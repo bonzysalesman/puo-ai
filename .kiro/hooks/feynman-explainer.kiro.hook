@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "name": "Feynman Explainer",
+  "description": "Triggers Feynman explanation generation when user asks for concept explanations",
+  "version": "1",
+  "when": {
+    "type": "promptSubmit"
+  },
+  "then": {
+    "type": "askAgent",
+    "prompt": "The user is asking for an explanation. Use the Feynman technique to provide a clear, simple explanation with analogies and examples. If this relates to linguistic concepts in the lexicon, reference relevant entries and provide progressive explanations (simple → intermediate → advanced)."
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "st_LEV08_01",
+    "headword_english": "Consecration / Ordination",
+    "pos": [{ "tag": "n.", "full": "noun" }],
+    "headword_sesotho": [{ "orthographic": "tlhomamiso", "tone_marked": "tlhōmāmīsō" }],
+    "syllables": [{ "orthographic": "tlho-ma-mi-so", "syllable_count": 4 }],
+    "morphology": { "root": "homama", "noun_class": 9, "derivation": "From 'ho hlo-mama' (to establish/fix/place)." },
+    "senses": [{
+      "sense_id": "act_03",
+      "definition_en": "The formal act of setting someone apart for a sacred role or office.",
+      "sesotho_term": ["khalaletso"],
+      "usage_example": { "sesotho": "Ena e ne e le pheleu ea tlhomamiso.", "english": "This was the ram of consecration." }
+    }]
+  },
+  {
+    "entry_id": "st_LEV08_02",
+    "headword_english": "Urim and Thummim",
+    "pos": [{ "tag": "n.", "full": "noun" }],
+    "headword_sesotho": [{ "orthographic": "Urime le Thummime", "tone_marked": "Ūrīmē lē Thūmmīmē" }],
+    "syllables": [{ "orthographic": "u-ri-me le thum-mi-me", "syllable_count": 7 }],
+    "morphology": { "root": "Hebrew loanword", "noun_class": null, "derivation": "Meaning 'Lights' and 'Perfections'." },
+    "senses": [{
+      "sense_id": "obj_02",
+      "definition_en": "Sacred lots kept in the High Priest's breastplate used to consult God's judgment.",
+      "sesotho_term": ["lotho tse halalelang"],
+      "usage_example": { "sesotho": "...a kenya Urime le Thummime ka har'a kotla ea sefuba.", "english": "...he put the Urim and the Thummim in the breastplate." }
+    }]
+  },
+  {
+    "entry_id": "st_LEV08_03",
+    "headword_english": "Turban / Headdress",
+    "pos": [{ "tag": "n.", "full": "noun" }],
+    "headword_sesotho": [{ "orthographic": "tuku / se roaloang hloohong", "tone_marked": "tūkū" }],
+    "syllables": [{ "orthographic": "tu-ku", "syllable_count": 2 }],
+    "morphology": { "root": "tuku", "noun_class": 9, "derivation": "From Dutch 'doek'." },
+    "senses": [{
+      "sense_id": "clth_01",
+      "definition_en": "A linen head covering worn by the priests.",
+      "sesotho_term": ["mofapa-hloho"],
+      "usage_example": { "sesotho": "a mo roesa tuku hloohong.", "english": "he put the turban on his head." }
+    }]
+  }
+]

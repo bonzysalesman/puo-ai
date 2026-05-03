@@ -1,0 +1,579 @@
+[
+  {
+    "entry_id": "entry_c9547b3265d43e3d",
+    "headword_english": "Banknote",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "chelete",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "chelete"
+    ],
+    "morphology": {
+      "root": "-chelete",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_c9547b3265d43e3d.sense_1",
+        "definition_en": "chelete ea pampiri",
+        "sesotho_term": [
+          "chelete"
+        ]
+      },
+      {
+        "sense_id": "entry_84fecc6a0fe47398.sense_1",
+        "definition_en": "chelete ea pampiri.",
+        "sesotho_term": [
+          "chelete"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    },
+    "metadata": {
+      "flags": [],
+      "rehabilitated": false,
+      "deconstructed": false,
+      "source_maturity": 0.5
+    }
+  },
+  {
+    "entry_id": "entry_b9b445afcdd3d13a",
+    "headword_english": "Capital",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "city",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "city"
+    ],
+    "morphology": {
+      "root": "-city",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_b9b445afcdd3d13a.sense_1",
+        "definition_en": "(city) motse-moholo; (money) chelete ea motheo",
+        "sesotho_term": [
+          "city"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    },
+    "metadata": {
+      "flags": [],
+      "rehabilitated": false,
+      "deconstructed": false,
+      "source_maturity": 0.5
+    }
+  },
+  {
+    "entry_id": "entry_2c49d4b6d596e88a",
+    "headword_english": "Cash",
+    "pos": [
+      "unknown"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "chelete",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "chelete"
+    ],
+    "morphology": {
+      "root": "-chelete",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_2c49d4b6d596e88a.sense_1",
+        "definition_en": "chelete; ho ananya ntho ka chelete",
+        "sesotho_term": [
+          "chelete"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    },
+    "metadata": {
+      "flags": [],
+      "rehabilitated": false,
+      "deconstructed": false,
+      "source_maturity": 0.5
+    }
+  },
+  {
+    "entry_id": "entry_a66ab5f1a9d63b38",
+    "headword_english": "Cheese",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "chisi",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "chisi"
+    ],
+    "morphology": {
+      "root": "-chisi",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_a66ab5f1a9d63b38.sense_1",
+        "definition_en": "chisi",
+        "sesotho_term": [
+          "chisi"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    },
+    "metadata": {
+      "flags": [],
+      "rehabilitated": false,
+      "deconstructed": false,
+      "source_maturity": 0.5
+    }
+  },
+  {
+    "entry_id": "entry_6eb7b245929bb44e",
+    "headword_english": "Chisel",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "chesela",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "chesela"
+    ],
+    "morphology": {
+      "root": "-chesela",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_6eb7b245929bb44e.sense_1",
+        "definition_en": "chesela, khetla",
+        "sesotho_term": [
+          "chesela"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    },
+    "metadata": {
+      "flags": [],
+      "rehabilitated": false,
+      "deconstructed": false,
+      "source_maturity": 0.5
+    }
+  },
+  {
+    "entry_id": "entry_f9d1b878f39de021",
+    "headword_english": "Coin",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "chelete",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "chelete"
+    ],
+    "morphology": {
+      "root": "-chelete",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_f9d1b878f39de021.sense_1",
+        "definition_en": "chelete ea tšepe",
+        "sesotho_term": [
+          "chelete"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    },
+    "metadata": {
+      "flags": [],
+      "rehabilitated": false,
+      "deconstructed": false,
+      "source_maturity": 0.5
+    }
+  },
+  {
+    "entry_id": "entry_d43b2fd56aa902c8",
+    "headword_english": "Deposit",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "chelete",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "chelete"
+    ],
+    "morphology": {
+      "root": "-chelete",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_d43b2fd56aa902c8.sense_1",
+        "definition_en": "chelete e sinoang bankeng; letšopa la noka",
+        "sesotho_term": [
+          "chelete"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    },
+    "metadata": {
+      "flags": [],
+      "rehabilitated": false,
+      "deconstructed": false,
+      "source_maturity": 0.5
+    }
+  },
+  {
+    "entry_id": "entry_760192a6a4ae6654",
+    "headword_english": "Dollar",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "chelete",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "chelete"
+    ],
+    "morphology": {
+      "root": "-chelete",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_760192a6a4ae6654.sense_1",
+        "definition_en": "chelete e etsang bo-ranta ba itseng",
+        "sesotho_term": [
+          "chelete"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    },
+    "metadata": {
+      "flags": [],
+      "rehabilitated": false,
+      "deconstructed": false,
+      "source_maturity": 0.5
+    }
+  },
+  {
+    "entry_id": "entry_c16614d89d852ef6",
+    "headword_english": "Enthusiasm",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "cheseho e khōlō",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "cheseho e khōlō"
+    ],
+    "morphology": {
+      "root": "-cheseho e khōlō",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_c16614d89d852ef6.sense_1",
+        "definition_en": "cheseho e khōlō",
+        "sesotho_term": [
+          "cheseho e khōlō"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    },
+    "metadata": {
+      "flags": [],
+      "rehabilitated": false,
+      "deconstructed": false,
+      "source_maturity": 0.5
+    }
+  },
+  {
+    "entry_id": "entry_96508347a2161e37",
+    "headword_english": "Fervour",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "cheseho.",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "cheseho."
+    ],
+    "morphology": {
+      "root": "-cheseho.",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_96508347a2161e37.sense_1",
+        "definition_en": "cheseho.",
+        "sesotho_term": [
+          "cheseho."
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    },
+    "metadata": {
+      "flags": [],
+      "rehabilitated": false,
+      "deconstructed": false,
+      "source_maturity": 0.5
+    }
+  },
+  {
+    "entry_id": "entry_3f56c58fbbbebb12",
+    "headword_english": "Florin",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "chelete e etsang 2/.",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "chelete e etsang 2/."
+    ],
+    "morphology": {
+      "root": "-chelete e etsang 2/.",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_3f56c58fbbbebb12.sense_1",
+        "definition_en": "chelete e etsang 2/.",
+        "sesotho_term": [
+          "chelete e etsang 2/."
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    },
+    "metadata": {
+      "flags": [],
+      "rehabilitated": false,
+      "deconstructed": false,
+      "source_maturity": 0.5
+    }
+  },
+  {
+    "entry_id": "st_NUM21_01",
+    "headword_english": "Venomous / Fiery",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "chefo",
+        "tone_marked": "chēfō",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "chefo"
+    ],
+    "morphology": {
+      "root": "-chefo",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "tox_01",
+        "definition_en": "Describing the serpents whose bites were deadly and caused burning pain.",
+        "sesotho_term": [
+          "ea nang le bofora"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    },
+    "metadata": {
+      "flags": [],
+      "rehabilitated": false,
+      "deconstructed": false,
+      "source_maturity": 0.5
+    }
+  },
+  {
+    "entry_id": "entry_e5cb74b222c0c3d5",
+    "headword_english": "Awkward",
+    "pos": [
+      "adjective"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "clumsy",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "clumsy"
+    ],
+    "morphology": {
+      "root": "-clumsy",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_e5cb74b222c0c3d5.sense_1",
+        "definition_en": "(clumsy) e thata, e sethoto, e so khuahilapa ; (difficult) e mietalang, e thata",
+        "sesotho_term": [
+          "clumsy"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    },
+    "metadata": {
+      "flags": [],
+      "rehabilitated": false,
+      "deconstructed": false,
+      "source_maturity": 0.5
+    }
+  }
+]

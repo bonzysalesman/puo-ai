@@ -1,0 +1,2352 @@
+[
+  {
+    "headword_english": "Cabbage",
+    "pos": "n.",
+    "sesotho": "khabeche"
+  },
+  {
+    "headword_english": "Cabin",
+    "pos": "n.",
+    "sesotho": "lephephe, phaposi"
+  },
+  {
+    "headword_english": "Cable",
+    "pos": "n.",
+    "sesotho": "mohala o motenya, ketane e tenya"
+  },
+  {
+    "headword_english": "Cackle",
+    "pos": "v. & n.",
+    "sesotho": "ho kakatletsa"
+  },
+  {
+    "headword_english": "Caducity",
+    "pos": "n.",
+    "sesotho": "phokolo, therekelo"
+  },
+  {
+    "headword_english": "Cake",
+    "pos": "n.",
+    "sesotho": "keke, senkhoa"
+  },
+  {
+    "headword_english": "Calabash",
+    "pos": "n.",
+    "sesotho": "mohope, seho"
+  },
+  {
+    "headword_english": "Calamity",
+    "pos": "n.",
+    "sesotho": "tsietsi e kholo, sehloho"
+  },
+  {
+    "headword_english": "Calf",
+    "pos": "n.",
+    "sesotho": "namane, lerole, lesole; (of the leg) tlhafu"
+  },
+  {
+    "headword_english": "Call",
+    "pos": "v. & n.",
+    "sesotho": "(to name) ho rea lebitso; (to summon) ho bitsa, ho hoeletsa, pitso; (to invite) ho mema"
+  },
+  {
+    "headword_english": "Calling",
+    "pos": "n.",
+    "sesotho": "(employment) kabelo, mosebetsi; (summons) pitso"
+  },
+  {
+    "headword_english": "Callous",
+    "pos": "adj.",
+    "sesotho": "e se nang lihlong, e sataletseng"
+  },
+  {
+    "headword_english": "Callousness",
+    "pos": "n.",
+    "sesotho": "monala"
+  },
+  {
+    "headword_english": "Calumniate",
+    "pos": "v.",
+    "sesotho": "ho etselletsa"
+  },
+  {
+    "headword_english": "Calumny",
+    "pos": "n.",
+    "sesotho": "ketselletso"
+  },
+  {
+    "headword_english": "Camp",
+    "pos": "n. & v.",
+    "sesotho": "lihahelo, sekanse; ho emisa, ho lara"
+  },
+  {
+    "headword_english": "Campaign",
+    "pos": "n.",
+    "sesotho": "nako eo ntoa e loanang ka eona, ntoa, phutuhelo"
+  },
+  {
+    "headword_english": "Can",
+    "pos": "v.",
+    "sesotho": "ho ka, ho ba le matla a; (I can) nka; (they can) ba ka"
+  },
+  {
+    "headword_english": "Candle",
+    "pos": "n.",
+    "sesotho": "lebone"
+  },
+  {
+    "headword_english": "Candlestick",
+    "pos": "n.",
+    "sesotho": "kandelare"
+  },
+  {
+    "headword_english": "Cane",
+    "pos": "n.",
+    "sesotho": "molamu, lere, thupa"
+  },
+  {
+    "headword_english": "Cannibal",
+    "pos": "n.",
+    "sesotho": "lelimo"
+  },
+  {
+    "headword_english": "Canteen",
+    "pos": "n.",
+    "sesotho": "kantini"
+  },
+  {
+    "headword_english": "Cap",
+    "pos": "n.",
+    "sesotho": "moshapo, katiba"
+  },
+  {
+    "headword_english": "Capable",
+    "pos": "adj.",
+    "sesotho": "e nang le matla a, e lokelang"
+  },
+  {
+    "headword_english": "Capacity",
+    "pos": "n.",
+    "sesotho": "tekanyo ea ntho kamoo e ka tlalang ka teng"
+  },
+  {
+    "headword_english": "Capricious",
+    "pos": "adj.",
+    "sesotho": "e fetohang, kapa e kuenehang kamehla"
+  },
+  {
+    "headword_english": "Captain",
+    "pos": "n.",
+    "sesotho": "molaoli, morena"
+  },
+  {
+    "headword_english": "Captive",
+    "pos": "n.",
+    "sesotho": "motšoaruoa oa ntoa"
+  },
+  {
+    "headword_english": "Captor",
+    "pos": "n.",
+    "sesotho": "motšoari"
+  },
+  {
+    "headword_english": "Capture",
+    "pos": "v.",
+    "sesotho": "ho tšoara ka ntoa, hapa"
+  },
+  {
+    "headword_english": "Carbuncle",
+    "pos": "n.",
+    "sesotho": "lethopa"
+  },
+  {
+    "headword_english": "Carcass",
+    "pos": "n.",
+    "sesotho": "setopo sa phoofolo e shoeleng"
+  },
+  {
+    "headword_english": "Care",
+    "pos": "n.",
+    "sesotho": "hloko, hlokomelo, pabalelo"
+  },
+  {
+    "headword_english": "Careful",
+    "pos": "adj.",
+    "sesotho": "e iponelang, e itetang"
+  },
+  {
+    "headword_english": "Caress",
+    "pos": "v.",
+    "sesotho": "ho phaphatha, ho qekisa"
+  },
+  {
+    "headword_english": "Carpenter",
+    "pos": "n.",
+    "sesotho": "'metli oa lifate"
+  },
+  {
+    "headword_english": "Carpet",
+    "pos": "n.",
+    "sesotho": "lesela le aloang fatše"
+  },
+  {
+    "headword_english": "Carrion",
+    "pos": "n.",
+    "sesotho": "nama e bolileng"
+  },
+  {
+    "headword_english": "Carrot",
+    "pos": "n.",
+    "sesotho": "sehoete"
+  },
+  {
+    "headword_english": "Carry",
+    "pos": "v.",
+    "sesotho": "ho jara, ho sika, ho roala"
+  },
+  {
+    "headword_english": "Cart",
+    "pos": "n.",
+    "sesotho": "kariki"
+  },
+  {
+    "headword_english": "Cartridge",
+    "pos": "n.",
+    "sesotho": "lehlahlelo, sekoto"
+  },
+  {
+    "headword_english": "Carve",
+    "pos": "v.",
+    "sesotho": "ho khethetha, ho betla"
+  },
+  {
+    "headword_english": "Cascade",
+    "pos": "n.",
+    "sesotho": "phororo"
+  },
+  {
+    "headword_english": "Case",
+    "pos": "n.",
+    "sesotho": "taba; lekese, letlalo"
+  },
+  {
+    "headword_english": "Cash",
+    "pos": "n. & v.",
+    "sesotho": "chelete; ho ananya ntho ka chelete"
+  },
+  {
+    "headword_english": "Cask",
+    "pos": "n.",
+    "sesotho": "faki"
+  },
+  {
+    "headword_english": "Cast",
+    "pos": "v.",
+    "sesotho": "ho akhela, ho lahla"
+  },
+  {
+    "headword_english": "Castle",
+    "pos": "n.",
+    "sesotho": "qhobosheane, seqhobo se hahiloeng"
+  },
+  {
+    "headword_english": "Castrate",
+    "pos": "v.",
+    "sesotho": "ho faola, ho tengola"
+  },
+  {
+    "headword_english": "Cat",
+    "pos": "n.",
+    "sesotho": "katse; (wild cat) tsetse, qoabi"
+  },
+  {
+    "headword_english": "Cataract",
+    "pos": "n.",
+    "sesotho": "phororo e kholo; lera la mahlo"
+  },
+  {
+    "headword_english": "Catch",
+    "pos": "v.",
+    "sesotho": "ho tšoara, ho nka, ho kopa"
+  },
+  {
+    "headword_english": "Catechumen",
+    "pos": "n.",
+    "sesotho": "mophuthego"
+  },
+  {
+    "headword_english": "Caterpillar",
+    "pos": "n.",
+    "sesotho": "thithiboea, poane"
+  },
+  {
+    "headword_english": "Cattle",
+    "pos": "n.",
+    "sesotho": "likhomo; (herd of cattle) mohlape; (cattle post) moraka"
+  },
+  {
+    "headword_english": "Caul",
+    "pos": "n.",
+    "sesotho": "mohlehlo"
+  },
+  {
+    "headword_english": "Cause",
+    "pos": "n. & v.",
+    "sesotho": "lebaka, sesosa; (v.) generally expressed by the causative suffix"
+  },
+  {
+    "headword_english": "Caution",
+    "pos": "n.",
+    "sesotho": "temoso, keletso"
+  },
+  {
+    "headword_english": "Cautious",
+    "pos": "adj.",
+    "sesotho": "ea elang hloko, ea etsang ka kelello, masene"
+  },
+  {
+    "headword_english": "Cautiously",
+    "pos": "adv.",
+    "sesotho": "ka seli, ka hloko"
+  },
+  {
+    "headword_english": "Cave",
+    "pos": "n.",
+    "sesotho": "lehaha, letsatsa"
+  },
+  {
+    "headword_english": "Cavern",
+    "pos": "n.",
+    "sesotho": "lehaha, mohoma"
+  },
+  {
+    "headword_english": "Cavity",
+    "pos": "n.",
+    "sesotho": "sekoti, motlaea"
+  },
+  {
+    "headword_english": "Caw",
+    "pos": "v.",
+    "sesotho": "ho lla joaleka lekhuaba"
+  },
+  {
+    "headword_english": "Cease",
+    "pos": "v.",
+    "sesotho": "ho lesa, ho tlohela, ho phetsa, ho haotsa"
+  },
+  {
+    "headword_english": "Celerity",
+    "pos": "n.",
+    "sesotho": "potlako, tato"
+  },
+  {
+    "headword_english": "Celibacy",
+    "pos": "n.",
+    "sesotho": "bosoha"
+  },
+  {
+    "headword_english": "Cell",
+    "pos": "n.",
+    "sesotho": "phaposi (haholo ea teronko)"
+  },
+  {
+    "headword_english": "Censure",
+    "pos": "v.",
+    "sesotho": "ho nyatsa, ho khalemela"
+  },
+  {
+    "headword_english": "Census",
+    "pos": "n.",
+    "sesotho": "palo ea batho ba sechaba"
+  },
+  {
+    "headword_english": "Centipede",
+    "pos": "n.",
+    "sesotho": "lefokololi, mosikaphalla"
+  },
+  {
+    "headword_english": "Centre",
+    "pos": "n.",
+    "sesotho": "bohare ba ntho, lehare"
+  },
+  {
+    "headword_english": "Century",
+    "pos": "n.",
+    "sesotho": "sebaka sa lilemo tse lekholo"
+  },
+  {
+    "headword_english": "Cereals",
+    "pos": "n.",
+    "sesotho": "lebitso le akaretsang lijalo tseo ho etsoang bohobe ka tsona"
+  },
+  {
+    "headword_english": "Certify",
+    "pos": "v.",
+    "sesotho": "ho paka, ho tiisa"
+  },
+  {
+    "headword_english": "Chafe",
+    "pos": "v.",
+    "sesotho": "(skin) ho phumula; (fret) ho fufuleloa"
+  },
+  {
+    "headword_english": "Chain",
+    "pos": "n.",
+    "sesotho": "lehlahlela, leqala"
+  },
+  {
+    "headword_english": "Chair",
+    "pos": "n.",
+    "sesotho": "setulo sa ho lula"
+  },
+  {
+    "headword_english": "Chairman",
+    "pos": "n.",
+    "sesotho": "motsamaisi oa phutheho"
+  },
+  {
+    "headword_english": "Chalk",
+    "pos": "n.",
+    "sesotho": "phofo e tšueu, choko"
+  },
+  {
+    "headword_english": "Challenger",
+    "pos": "n.",
+    "sesotho": "motsubelli ntoeng"
+  },
+  {
+    "headword_english": "Chamber",
+    "pos": "n.",
+    "sesotho": "phaposi, ntlo ea lekhotla"
+  },
+  {
+    "headword_english": "Chameleon",
+    "pos": "n.",
+    "sesotho": "lempetje, lenoabo"
+  },
+  {
+    "headword_english": "Chance",
+    "pos": "n. & v.",
+    "sesotho": "seoelo, lehlohonolo; ho tšoha, ho hlaha"
+  },
+  {
+    "headword_english": "Chaos",
+    "pos": "n.",
+    "sesotho": "molubalabe, ntho e se nang sebopeho"
+  },
+  {
+    "headword_english": "Chapel",
+    "pos": "n.",
+    "sesotho": "ntlo ea thapelo"
+  },
+  {
+    "headword_english": "Chaplet",
+    "pos": "n.",
+    "sesotho": "sefaha sa litena"
+  },
+  {
+    "headword_english": "Chapter",
+    "pos": "n.",
+    "sesotho": "khaohano, karolo ea buka, khaolo"
+  },
+  {
+    "headword_english": "Charcoal",
+    "pos": "n.",
+    "sesotho": "mashala a lifate"
+  },
+  {
+    "headword_english": "Charge",
+    "pos": "v.",
+    "sesotho": "ho bea motho molato; ho hira; ho laela; (attack) ho phutuhela; n. taelo, pabalelo"
+  },
+  {
+    "headword_english": "Charitable",
+    "pos": "adj.",
+    "sesotho": "ea nang le lerato, ea fanang"
+  },
+  {
+    "headword_english": "Charity",
+    "pos": "n.",
+    "sesotho": "lerato, bofani"
+  },
+  {
+    "headword_english": "Charm",
+    "pos": "v.",
+    "sesotho": "ho khahlisa haholo; (magic) ho phekola ka lithethefatsi; n. moriana oa ho sireletsa"
+  },
+  {
+    "headword_english": "Chase",
+    "pos": "v.",
+    "sesotho": "ho leleka, ho tsomisa"
+  },
+  {
+    "headword_english": "Chasm",
+    "pos": "n.",
+    "sesotho": "lefatsa le leholo"
+  },
+  {
+    "headword_english": "Chaste",
+    "pos": "adj.",
+    "sesotho": "ea hloekileng pelong le 'meleng"
+  },
+  {
+    "headword_english": "Chasten",
+    "pos": "v.",
+    "sesotho": "ho khalemela, ho laea"
+  },
+  {
+    "headword_english": "Chastise",
+    "pos": "v.",
+    "sesotho": "ho shapa, ho otla ka thupa"
+  },
+  {
+    "headword_english": "Chastity",
+    "pos": "n.",
+    "sesotho": "boitšoaro bo hloekileng"
+  },
+  {
+    "headword_english": "Chat",
+    "pos": "v.",
+    "sesotho": "ho qoqa, ho qoqisana"
+  },
+  {
+    "headword_english": "Chattel",
+    "pos": "n.",
+    "sesotho": "thepa ea motho, leruo"
+  },
+  {
+    "headword_english": "Chatter",
+    "pos": "v.",
+    "sesotho": "ho kakatletsa; (teeth) ho thothomela ha meno"
+  },
+  {
+    "headword_english": "Cheat",
+    "pos": "v.",
+    "sesotho": "ho qhekanyetsa, ho thetsa"
+  },
+  {
+    "headword_english": "Check",
+    "pos": "v.",
+    "sesotho": "ho thibela, ho khalemela"
+  },
+  {
+    "headword_english": "Cheek",
+    "pos": "n.",
+    "sesotho": "lerama"
+  },
+  {
+    "headword_english": "Cheer",
+    "pos": "v.",
+    "sesotho": "ho thabisa, ho khothatsa; n. mokhosi oa thabo"
+  },
+  {
+    "headword_english": "Cheerful",
+    "pos": "adj.",
+    "sesotho": "ea thabileng, ea sefahleho se khanyang"
+  },
+  {
+    "headword_english": "Cheese",
+    "pos": "n.",
+    "sesotho": "chisi"
+  },
+  {
+    "headword_english": "Cherish",
+    "pos": "v.",
+    "sesotho": "ho rata haholo, ho baballa"
+  },
+  {
+    "headword_english": "Chest",
+    "pos": "n.",
+    "sesotho": "sefuba; (box) polokelo, lekese"
+  },
+  {
+    "headword_english": "Chew",
+    "pos": "v.",
+    "sesotho": "ho hlafuna; (cud) ho boela"
+  },
+  {
+    "headword_english": "Chicken",
+    "pos": "n.",
+    "sesotho": "khoho, tsuinyane"
+  },
+  {
+    "headword_english": "Chide",
+    "pos": "v.",
+    "sesotho": "ho nyatsa, ho omana"
+  },
+  {
+    "headword_english": "Chief",
+    "pos": "n.",
+    "sesotho": "morena, molaoli"
+  },
+  {
+    "headword_english": "Chiefly",
+    "pos": "adv.",
+    "sesotho": "haholo-holo"
+  },
+  {
+    "headword_english": "Chieftainship",
+    "pos": "n.",
+    "sesotho": "borena"
+  },
+  {
+    "headword_english": "Chilblain",
+    "pos": "n.",
+    "sesotho": "matsaka"
+  },
+  {
+    "headword_english": "Child",
+    "pos": "n.",
+    "sesotho": "ngoana; pl. bana"
+  },
+  {
+    "headword_english": "Childhood",
+    "pos": "n.",
+    "sesotho": "bongwana"
+  },
+  {
+    "headword_english": "Chill",
+    "pos": "n.",
+    "sesotho": "mofofotso, serame"
+  },
+  {
+    "headword_english": "Chin",
+    "pos": "n.",
+    "sesotho": "selelu"
+  },
+  {
+    "headword_english": "Chink",
+    "pos": "n.",
+    "sesotho": "lefatla"
+  },
+  {
+    "headword_english": "Chip",
+    "pos": "v.",
+    "sesotho": "ho khetla, ho qhetsola; n. phanyehane"
+  },
+  {
+    "headword_english": "Chirp",
+    "pos": "v.",
+    "sesotho": "ho lla ha nonyana"
+  },
+  {
+    "headword_english": "Chisel",
+    "pos": "n.",
+    "sesotho": "chesela, khetla"
+  },
+  {
+    "headword_english": "Choke",
+    "pos": "v.",
+    "sesotho": "ho khama, ho beta"
+  },
+  {
+    "headword_english": "Cholera",
+    "pos": "n.",
+    "sesotho": "lefu la letšollo le letšabehang"
+  },
+  {
+    "headword_english": "Choose",
+    "pos": "v.",
+    "sesotho": "ho khetha, ho hlaola"
+  },
+  {
+    "headword_english": "Chop",
+    "pos": "v.",
+    "sesotho": "ho rema, ho kuta"
+  },
+  {
+    "headword_english": "Christen",
+    "pos": "v.",
+    "sesotho": "ho kolobetsa"
+  },
+  {
+    "headword_english": "Christian",
+    "pos": "n.",
+    "sesotho": "mokreste"
+  },
+  {
+    "headword_english": "Christmas",
+    "pos": "n.",
+    "sesotho": "klistemose, tsoalo ea Jesu"
+  },
+  {
+    "headword_english": "Church",
+    "pos": "n.",
+    "sesotho": "kereke, phutheho"
+  },
+  {
+    "headword_english": "Churn",
+    "pos": "v.",
+    "sesotho": "ho fehla lebese"
+  },
+  {
+    "headword_english": "Cinder",
+    "pos": "n.",
+    "sesotho": "lelahle"
+  },
+  {
+    "headword_english": "Circle",
+    "pos": "n.",
+    "sesotho": "selika-lika"
+  },
+  {
+    "headword_english": "Circuit",
+    "pos": "n.",
+    "sesotho": "potoloho"
+  },
+  {
+    "headword_english": "Circular",
+    "pos": "adj.",
+    "sesotho": "e chitja"
+  },
+  {
+    "headword_english": "Circulate",
+    "pos": "v.",
+    "sesotho": "ho potoloha"
+  },
+  {
+    "headword_english": "Clamor",
+    "pos": "n.",
+    "sesotho": "mohorehulu, lerata"
+  },
+  {
+    "headword_english": "Clarify",
+    "pos": "v.",
+    "sesotho": "ho hlakisa"
+  },
+  {
+    "headword_english": "Claw",
+    "pos": "n.",
+    "sesotho": "lenala la phoofolo"
+  },
+  {
+    "headword_english": "Clergy",
+    "pos": "n.",
+    "sesotho": "baruti"
+  },
+  {
+    "headword_english": "Climb",
+    "pos": "v.",
+    "sesotho": "ho hloa"
+  },
+  {
+    "headword_english": "Clink",
+    "pos": "v.",
+    "sesotho": "ho tlokotsa"
+  },
+  {
+    "headword_english": "Clock",
+    "pos": "n.",
+    "sesotho": "oache"
+  },
+  {
+    "headword_english": "Cloven",
+    "pos": "adj.",
+    "sesotho": "e arotsoeng"
+  },
+  {
+    "headword_english": "Cluck",
+    "pos": "v.",
+    "sesotho": "ho loutsa"
+  },
+  {
+    "headword_english": "Clump",
+    "pos": "n.",
+    "sesotho": "sehlopha"
+  },
+  {
+    "headword_english": "Coalesce",
+    "pos": "v.",
+    "sesotho": "ho kopana"
+  },
+  {
+    "headword_english": "Cobra",
+    "pos": "n.",
+    "sesotho": "phatša"
+  },
+  {
+    "headword_english": "Cockroach",
+    "pos": "n.",
+    "sesotho": "phetla"
+  },
+  {
+    "headword_english": "Coerce",
+    "pos": "v.",
+    "sesotho": "ho qobella"
+  },
+  {
+    "headword_english": "Cohere",
+    "pos": "v.",
+    "sesotho": "ho mamarelanang"
+  },
+  {
+    "headword_english": "Collate",
+    "pos": "v.",
+    "sesotho": "ho bapisa"
+  },
+  {
+    "headword_english": "Colleague",
+    "pos": "n.",
+    "sesotho": "mphato"
+  },
+  {
+    "headword_english": "College",
+    "pos": "n.",
+    "sesotho": "sekolo se phahameng"
+  },
+  {
+    "headword_english": "Colonist",
+    "pos": "n.",
+    "sesotho": "moahi ea tsoang naheng e 'ngoe"
+  },
+  {
+    "headword_english": "Color",
+    "pos": "n.",
+    "sesotho": "mmala"
+  },
+  {
+    "headword_english": "Combat",
+    "pos": "n.",
+    "sesotho": "ntoa"
+  },
+  {
+    "headword_english": "Combine",
+    "pos": "v.",
+    "sesotho": "ho kopanya"
+  },
+  {
+    "headword_english": "Comely",
+    "pos": "adj.",
+    "sesotho": "e motle"
+  },
+  {
+    "headword_english": "Commit",
+    "pos": "v.",
+    "sesotho": "ho nehela; (crime) ho etsa sebe"
+  },
+  {
+    "headword_english": "Committee",
+    "pos": "n.",
+    "sesotho": "komiti"
+  },
+  {
+    "headword_english": "Contented",
+    "pos": "adj.",
+    "sesotho": "ea khotsofetseng"
+  },
+  {
+    "headword_english": "Contentment",
+    "pos": "n.",
+    "sesotho": "khotsohalo, khotso"
+  },
+  {
+    "headword_english": "Circumcision",
+    "pos": "n.",
+    "sesotho": "lebollo"
+  },
+  {
+    "headword_english": "Circumspect",
+    "pos": "adj.",
+    "sesotho": "ea masene, ea kelello, ea falimehang"
+  },
+  {
+    "headword_english": "Circumstance",
+    "pos": "n.",
+    "sesotho": "taba; taba tseo motho a phelang har'a tsona"
+  },
+  {
+    "headword_english": "Cistern",
+    "pos": "n.",
+    "sesotho": "lemena, tanka"
+  },
+  {
+    "headword_english": "Citizen",
+    "pos": "n.",
+    "sesotho": "moahi oa motse kapa naha"
+  },
+  {
+    "headword_english": "City",
+    "pos": "n.",
+    "sesotho": "motse o moholo"
+  },
+  {
+    "headword_english": "Civil",
+    "pos": "adj.",
+    "sesotho": "ea nang le mekhoa e metle, ea hlonepho"
+  },
+  {
+    "headword_english": "Civilize",
+    "pos": "v.",
+    "sesotho": "ho ntša motho mekhoeng e hlokang bohlale"
+  },
+  {
+    "headword_english": "Civilization",
+    "pos": "n.",
+    "sesotho": "ho hlalefa ha sechaba se tsoang tlase, tsuelo-pele"
+  },
+  {
+    "headword_english": "Claim",
+    "pos": "v.",
+    "sesotho": "ho batla ntho e leng ea hao, ho tšeka"
+  },
+  {
+    "headword_english": "Clamber",
+    "pos": "v.",
+    "sesotho": "ho hloa ka bothata"
+  },
+  {
+    "headword_english": "Clamour",
+    "pos": "n.",
+    "sesotho": "mohoeletso, mohorehulu, lerata"
+  },
+  {
+    "headword_english": "Clan",
+    "pos": "n.",
+    "sesotho": "lesika, leloko, mofuta"
+  },
+  {
+    "headword_english": "Clang",
+    "pos": "v.",
+    "sesotho": "ho lla ha litšepe"
+  },
+  {
+    "headword_english": "Clap",
+    "pos": "v.",
+    "sesotho": "ho opa; (hands) ho opa liatla"
+  },
+  {
+    "headword_english": "Clash",
+    "pos": "v.",
+    "sesotho": "ho thulana, ho loana"
+  },
+  {
+    "headword_english": "Clasp",
+    "pos": "v.",
+    "sesotho": "ho tšoara, ho kopa, ho tlamella"
+  },
+  {
+    "headword_english": "Class",
+    "pos": "n.",
+    "sesotho": "sehlopha, leloko, mofuta"
+  },
+  {
+    "headword_english": "Clatter",
+    "pos": "n.",
+    "sesotho": "lerata, molumo oa lintho tse thata li thulana"
+  },
+  {
+    "headword_english": "Clay",
+    "pos": "n.",
+    "sesotho": "letsopa, seretse"
+  },
+  {
+    "headword_english": "Clean",
+    "pos": "adj.",
+    "sesotho": "e hloekileng, e ntle, e hlokang litšila"
+  },
+  {
+    "headword_english": "Cleanliness",
+    "pos": "n.",
+    "sesotho": "hloeko, makhethe"
+  },
+  {
+    "headword_english": "Cleanse",
+    "pos": "v.",
+    "sesotho": "ho hlatsoa, ho hloekisa, ho hlakola"
+  },
+  {
+    "headword_english": "Clear",
+    "pos": "adj.",
+    "sesotho": "e hloekileng, e elileng, e hlakileng"
+  },
+  {
+    "headword_english": "Clearly",
+    "pos": "adv.",
+    "sesotho": "ka mokhoa o elileng, ka ho hlakileng"
+  },
+  {
+    "headword_english": "Cleave",
+    "pos": "v.",
+    "sesotho": "ho petsola, ho aroha; (stick to) ho khomarela"
+  },
+  {
+    "headword_english": "Cleft",
+    "pos": "n.",
+    "sesotho": "lefaru, lepetu, lekhalo"
+  },
+  {
+    "headword_english": "Clemency",
+    "pos": "n.",
+    "sesotho": "lereko, mohau"
+  },
+  {
+    "headword_english": "Clerk",
+    "pos": "n.",
+    "sesotho": "mongoli"
+  },
+  {
+    "headword_english": "Clever",
+    "pos": "adj.",
+    "sesotho": "ea masene, ea bohlale"
+  },
+  {
+    "headword_english": "Cleverness",
+    "pos": "n.",
+    "sesotho": "bohlale, masene"
+  },
+  {
+    "headword_english": "Cliff",
+    "pos": "n.",
+    "sesotho": "selomo, lefika"
+  },
+  {
+    "headword_english": "Clinch",
+    "pos": "v.",
+    "sesotho": "ho fupara, ho tiisa"
+  },
+  {
+    "headword_english": "Cling",
+    "pos": "v.",
+    "sesotho": "ho khomarela"
+  },
+  {
+    "headword_english": "Clip",
+    "pos": "v.",
+    "sesotho": "ho kuta"
+  },
+  {
+    "headword_english": "Cloak",
+    "pos": "n.",
+    "sesotho": "kobo, baki e kholo; v. ho apesa, ho pata"
+  },
+  {
+    "headword_english": "Clod",
+    "pos": "n.",
+    "sesotho": "lekote, letsoane"
+  },
+  {
+    "headword_english": "Close",
+    "pos": "v.",
+    "sesotho": "ho koala; (near) haufi"
+  },
+  {
+    "headword_english": "Clot",
+    "pos": "n.",
+    "sesotho": "lehloele; v. ho hoama"
+  },
+  {
+    "headword_english": "Cloth",
+    "pos": "n.",
+    "sesotho": "lesela, qhai"
+  },
+  {
+    "headword_english": "Clothe",
+    "pos": "v.",
+    "sesotho": "ho apesa, ho aparela"
+  },
+  {
+    "headword_english": "Cloud",
+    "pos": "n.",
+    "sesotho": "leru, leloapi"
+  },
+  {
+    "headword_english": "Cloudy",
+    "pos": "adj.",
+    "sesotho": "le thibile (leholimo)"
+  },
+  {
+    "headword_english": "Club",
+    "pos": "n.",
+    "sesotho": "molamu, koto; (society) mokhatlo"
+  },
+  {
+    "headword_english": "Clumsy",
+    "pos": "adj.",
+    "sesotho": "ea boima, ea sebopeho se sebe, setlatla"
+  },
+  {
+    "headword_english": "Cluster",
+    "pos": "n.",
+    "sesotho": "lesihla, sehlopha"
+  },
+  {
+    "headword_english": "Clutch",
+    "pos": "v.",
+    "sesotho": "ho tšoara ka matsoho"
+  },
+  {
+    "headword_english": "Coagulate",
+    "pos": "v.",
+    "sesotho": "ho hoama"
+  },
+  {
+    "headword_english": "Coal",
+    "pos": "n.",
+    "sesotho": "mashala"
+  },
+  {
+    "headword_english": "Coarse",
+    "pos": "adj.",
+    "sesotho": "e hoashang, e mahoashe"
+  },
+  {
+    "headword_english": "Coast",
+    "pos": "n.",
+    "sesotho": "lebopo la leoatle"
+  },
+  {
+    "headword_english": "Coat",
+    "pos": "n.",
+    "sesotho": "baki, kobo"
+  },
+  {
+    "headword_english": "Coax",
+    "pos": "v.",
+    "sesotho": "ho qeka, ho rapella"
+  },
+  {
+    "headword_english": "Cob",
+    "pos": "n.",
+    "sesotho": "seqo sa poone"
+  },
+  {
+    "headword_english": "Cobweb",
+    "pos": "n.",
+    "sesotho": "bolepo"
+  },
+  {
+    "headword_english": "Cock",
+    "pos": "n.",
+    "sesotho": "mokoko"
+  },
+  {
+    "headword_english": "Cockade",
+    "pos": "n.",
+    "sesotho": "sekola, seqhofa"
+  },
+  {
+    "headword_english": "Coffee",
+    "pos": "n.",
+    "sesotho": "kofi"
+  },
+  {
+    "headword_english": "Coffin",
+    "pos": "n.",
+    "sesotho": "lekese la bafu"
+  },
+  {
+    "headword_english": "Cogitate",
+    "pos": "v.",
+    "sesotho": "ho nahana"
+  },
+  {
+    "headword_english": "Coil",
+    "pos": "v.",
+    "sesotho": "ho thata, ho hara; n. sehare"
+  },
+  {
+    "headword_english": "Coin",
+    "pos": "n.",
+    "sesotho": "chelete ea tšepe"
+  },
+  {
+    "headword_english": "Cold",
+    "pos": "adj.",
+    "sesotho": "e batang; n. serame"
+  },
+  {
+    "headword_english": "Colic",
+    "pos": "n.",
+    "sesotho": "bohloko ba mala"
+  },
+  {
+    "headword_english": "Collapse",
+    "pos": "v.",
+    "sesotho": "ho oa, ho teteba"
+  },
+  {
+    "headword_english": "Collar",
+    "pos": "n.",
+    "sesotho": "khola, lesela la molala"
+  },
+  {
+    "headword_english": "Collarbone",
+    "pos": "n.",
+    "sesotho": "lepetu-la-molala"
+  },
+  {
+    "headword_english": "Collect",
+    "pos": "v.",
+    "sesotho": "ho bokella, ho phutha"
+  },
+  {
+    "headword_english": "Collision",
+    "pos": "n.",
+    "sesotho": "thulano, teano"
+  },
+  {
+    "headword_english": "Colour",
+    "pos": "n.",
+    "sesotho": "mmala"
+  },
+  {
+    "headword_english": "Colt",
+    "pos": "n.",
+    "sesotho": "petsana"
+  },
+  {
+    "headword_english": "Column",
+    "pos": "n.",
+    "sesotho": "tšiea"
+  },
+  {
+    "headword_english": "Comb",
+    "pos": "n.",
+    "sesotho": "kamo; (honey) matloana a linotsi; v. ho kama"
+  },
+  {
+    "headword_english": "Come",
+    "pos": "v.",
+    "sesotho": "ho tla"
+  },
+  {
+    "headword_english": "Comet",
+    "pos": "n.",
+    "sesotho": "naleli e mohatla"
+  },
+  {
+    "headword_english": "Comfort",
+    "pos": "n.",
+    "sesotho": "matšeliso, boiketlo"
+  },
+  {
+    "headword_english": "Comic",
+    "pos": "adj.",
+    "sesotho": "e tšehisang"
+  },
+  {
+    "headword_english": "Command",
+    "pos": "v.",
+    "sesotho": "ho laola, ho rena"
+  },
+  {
+    "headword_english": "Commence",
+    "pos": "v.",
+    "sesotho": "ho qala"
+  },
+  {
+    "headword_english": "Commend",
+    "pos": "v.",
+    "sesotho": "ho rorisa, ho babatsa"
+  },
+  {
+    "headword_english": "Commerce",
+    "pos": "n.",
+    "sesotho": "khoebo, papatso"
+  },
+  {
+    "headword_english": "Common",
+    "pos": "adj.",
+    "sesotho": "ea bohle, e tloaelehileng"
+  },
+  {
+    "headword_english": "Commotion",
+    "pos": "n.",
+    "sesotho": "mofere-fere"
+  },
+  {
+    "headword_english": "Communication",
+    "pos": "n.",
+    "sesotho": "kabelo, ngollano"
+  },
+  {
+    "headword_english": "Communion",
+    "pos": "n.",
+    "sesotho": "kopano, tumellano"
+  },
+  {
+    "headword_english": "Compact",
+    "pos": "adj.",
+    "sesotho": "e kopaneng ka matla"
+  },
+  {
+    "headword_english": "Company",
+    "pos": "n.",
+    "sesotho": "phutheho, mokhatlo"
+  },
+  {
+    "headword_english": "Comparison",
+    "pos": "n.",
+    "sesotho": "tšoantšo, bapiso"
+  },
+  {
+    "headword_english": "Compass",
+    "pos": "v.",
+    "sesotho": "ho pota, ho potoloha"
+  },
+  {
+    "headword_english": "Compassion",
+    "pos": "n.",
+    "sesotho": "mohau, khauhelo"
+  },
+  {
+    "headword_english": "Compatriot",
+    "pos": "n.",
+    "sesotho": "motho oa naha e le 'ngoe"
+  },
+  {
+    "headword_english": "Compel",
+    "pos": "v.",
+    "sesotho": "ho qobella"
+  },
+  {
+    "headword_english": "Compensate",
+    "pos": "v.",
+    "sesotho": "ho lefa, ho lefela"
+  },
+  {
+    "headword_english": "Complaint",
+    "pos": "n.",
+    "sesotho": "nyatso; (ailment) boloetse"
+  },
+  {
+    "headword_english": "Complete",
+    "pos": "adj.",
+    "sesotho": "e tletseng, e phethehileng"
+  },
+  {
+    "headword_english": "Complicity",
+    "pos": "n.",
+    "sesotho": "ho ba le kabelo molatong oa e mong"
+  },
+  {
+    "headword_english": "Comply",
+    "pos": "v.",
+    "sesotho": "ho tela, ho lumela"
+  },
+  {
+    "headword_english": "Compound",
+    "pos": "n.",
+    "sesotho": "tsuako, tsoakano; v. ho tsoakanya"
+  },
+  {
+    "headword_english": "Comprehend",
+    "pos": "v.",
+    "sesotho": "ho utloisisa, ho elelloa"
+  },
+  {
+    "headword_english": "Compress",
+    "pos": "v.",
+    "sesotho": "ho patisa, ho tlemella"
+  },
+  {
+    "headword_english": "Compulsion",
+    "pos": "n.",
+    "sesotho": "tšusumetso, qobello"
+  },
+  {
+    "headword_english": "Compute",
+    "pos": "v.",
+    "sesotho": "ho bala, ho lekanya"
+  },
+  {
+    "headword_english": "Comrade",
+    "pos": "n.",
+    "sesotho": "motsoalle, thaka"
+  },
+  {
+    "headword_english": "Comradeship",
+    "pos": "n.",
+    "sesotho": "setsoalle"
+  },
+  {
+    "headword_english": "Conceal",
+    "pos": "v.",
+    "sesotho": "ho pata, ho pipitla"
+  },
+  {
+    "headword_english": "Concede",
+    "pos": "v.",
+    "sesotho": "ho tela, ho lumela"
+  },
+  {
+    "headword_english": "Conceit",
+    "pos": "n.",
+    "sesotho": "bokako, boikhohomoso"
+  },
+  {
+    "headword_english": "Conceited",
+    "pos": "adj.",
+    "sesotho": "ea ikakasang, ea tletseng bokako; to be conceited, ho ithoka merwalo"
+  },
+  {
+    "headword_english": "Conceive",
+    "pos": "v.",
+    "sesotho": "ho emola, ho emara; (think) ho qapa taba kelellong"
+  },
+  {
+    "headword_english": "Concentrate",
+    "pos": "v.",
+    "sesotho": "ho tlisa lintho kapa batho nqalong e le 'ngoe"
+  },
+  {
+    "headword_english": "Conception",
+    "pos": "n.",
+    "sesotho": "kemaro, kemolo"
+  },
+  {
+    "headword_english": "Concerning",
+    "pos": "prep.",
+    "sesotho": "bakeng sa, holim'a"
+  },
+  {
+    "headword_english": "Concert",
+    "pos": "v.",
+    "sesotho": "ho rera le ba bang; n. lipina ha li binoa li le ngata"
+  },
+  {
+    "headword_english": "Conciliate",
+    "pos": "v.",
+    "sesotho": "ho nolofalletsa motho ka mosa"
+  },
+  {
+    "headword_english": "Concise",
+    "pos": "adj.",
+    "sesotho": "e khutšoanyane, e khutlofalitsoeng"
+  },
+  {
+    "headword_english": "Conclusion",
+    "pos": "n.",
+    "sesotho": "bofelo, qetello"
+  },
+  {
+    "headword_english": "Concord",
+    "pos": "n.",
+    "sesotho": "tumellano, teano"
+  },
+  {
+    "headword_english": "Concourse",
+    "pos": "n.",
+    "sesotho": "phutheho, pokano"
+  },
+  {
+    "headword_english": "Concubine",
+    "pos": "n.",
+    "sesotho": "serethe, moqekwa"
+  },
+  {
+    "headword_english": "Concur",
+    "pos": "v.",
+    "sesotho": "ho lumellana, ho thulana ka mohopolo"
+  },
+  {
+    "headword_english": "Condense",
+    "pos": "v.",
+    "sesotho": "ho patisa; (coagulate) ho hoama"
+  },
+  {
+    "headword_english": "Condescend",
+    "pos": "v.",
+    "sesotho": "ho itheola, ho ikokobetsa"
+  },
+  {
+    "headword_english": "Conduct",
+    "pos": "n.",
+    "sesotho": "metsamao, boitšoaro"
+  },
+  {
+    "headword_english": "Conductor",
+    "pos": "n.",
+    "sesotho": "motsamaisi"
+  },
+  {
+    "headword_english": "Confederate",
+    "pos": "v.",
+    "sesotho": "ho etsa tumellano kapa kopano"
+  },
+  {
+    "headword_english": "Confer",
+    "pos": "v.",
+    "sesotho": "ho nea, ho sitsa; (discuss) ho rera"
+  },
+  {
+    "headword_english": "Conference",
+    "pos": "n.",
+    "sesotho": "phutheho ea ho bua litaba, thuto"
+  },
+  {
+    "headword_english": "Confess",
+    "pos": "v.",
+    "sesotho": "ho bolela, ho ipolela"
+  },
+  {
+    "headword_english": "Confession",
+    "pos": "n.",
+    "sesotho": "boipolelo"
+  },
+  {
+    "headword_english": "Confide",
+    "pos": "v.",
+    "sesotho": "ho tšepa, ho itšepela"
+  },
+  {
+    "headword_english": "Confidence",
+    "pos": "n.",
+    "sesotho": "tšepo"
+  },
+  {
+    "headword_english": "Confined",
+    "pos": "v.",
+    "sesotho": "to be confined, ho beleha"
+  },
+  {
+    "headword_english": "Confirmation",
+    "pos": "n.",
+    "sesotho": "tiiso, tiiso ea kolobetso"
+  },
+  {
+    "headword_english": "Confiscate",
+    "pos": "v.",
+    "sesotho": "ho nka ntho ea e mong ka taelo ea 'muso"
+  },
+  {
+    "headword_english": "Conflagration",
+    "pos": "n.",
+    "sesotho": "mollo o moholo"
+  },
+  {
+    "headword_english": "Conflict",
+    "pos": "n.",
+    "sesotho": "khang e matla, ntoa"
+  },
+  {
+    "headword_english": "Conformity",
+    "pos": "n.",
+    "sesotho": "ho bapa le, ho tšoana le"
+  },
+  {
+    "headword_english": "Confound",
+    "pos": "v.",
+    "sesotho": "ho tsoakanya, ho makatsa"
+  },
+  {
+    "headword_english": "Confuse",
+    "pos": "v.",
+    "sesotho": "ho ferekanya"
+  },
+  {
+    "headword_english": "Confusion",
+    "pos": "n.",
+    "sesotho": "pherekano, mofere-fere"
+  },
+  {
+    "headword_english": "Congenial",
+    "pos": "adj.",
+    "sesotho": "ea mofuta o le mong, ea habo, e tloanang"
+  },
+  {
+    "headword_english": "Congestion",
+    "pos": "n.",
+    "sesotho": "mali ha a etsa mahloele bokong kapa matšafong"
+  },
+  {
+    "headword_english": "Congratulate",
+    "pos": "v.",
+    "sesotho": "ho lebohela"
+  },
+  {
+    "headword_english": "Congregate",
+    "pos": "v.",
+    "sesotho": "ho phutheha, ho bokana"
+  },
+  {
+    "headword_english": "Congregation",
+    "pos": "n.",
+    "sesotho": "phutheho, pokano"
+  },
+  {
+    "headword_english": "Conjecture",
+    "pos": "v.",
+    "sesotho": "ho hloma, ho hopola"
+  },
+  {
+    "headword_english": "Conjure",
+    "pos": "v.",
+    "sesotho": "ho hlapantša, ho tlama; (by magic) ho noha"
+  },
+  {
+    "headword_english": "Conjurer",
+    "pos": "n.",
+    "sesotho": "senohe, ngaka (ea Mo-Sotho)"
+  },
+  {
+    "headword_english": "Conquer",
+    "pos": "v.",
+    "sesotho": "ho hlola, ho fenya, ho khala"
+  },
+  {
+    "headword_english": "Conqueror",
+    "pos": "n.",
+    "sesotho": "mohloli, mofenyi"
+  },
+  {
+    "headword_english": "Conscious",
+    "pos": "adj.",
+    "sesotho": "ea ikutloang"
+  },
+  {
+    "headword_english": "Consecrate",
+    "pos": "v.",
+    "sesotho": "ho khetha, ho hanoa"
+  },
+  {
+    "headword_english": "Consent",
+    "pos": "n.",
+    "sesotho": "tumelo, tumellano; v. ho chaela, ho lumella"
+  },
+  {
+    "headword_english": "Consequence",
+    "pos": "n.",
+    "sesotho": "se hlahisoang ke taba, tholoana tsa taba"
+  },
+  {
+    "headword_english": "Consistent",
+    "pos": "adj.",
+    "sesotho": "e tiileng, ea eang ka tseo a ipolelang ka tsona"
+  },
+  {
+    "headword_english": "Consolation",
+    "pos": "n.",
+    "sesotho": "tšeliso"
+  },
+  {
+    "headword_english": "Console",
+    "pos": "v.",
+    "sesotho": "ho tšelisa, ho khothatsa"
+  },
+  {
+    "headword_english": "Consort",
+    "pos": "n.",
+    "sesotho": "mohatsa oa monna leha e le oa mosali"
+  },
+  {
+    "headword_english": "Conspicuous",
+    "pos": "adj.",
+    "sesotho": "e bonahalang haholo"
+  },
+  {
+    "headword_english": "Conspicuously",
+    "pos": "adv.",
+    "sesotho": "pepenene"
+  },
+  {
+    "headword_english": "Conspiracy",
+    "pos": "n.",
+    "sesotho": "morero oa ba bangata oa phetolohelo"
+  },
+  {
+    "headword_english": "Constable",
+    "pos": "n.",
+    "sesotho": "lekonstabole, lepolesa"
+  },
+  {
+    "headword_english": "Constancy",
+    "pos": "n.",
+    "sesotho": "tieo, tiisetso, pheello"
+  },
+  {
+    "headword_english": "Constant",
+    "pos": "adj.",
+    "sesotho": "e tiileng, e phehellang"
+  },
+  {
+    "headword_english": "Constellation",
+    "pos": "n.",
+    "sesotho": "sehlopha sa linaleli"
+  },
+  {
+    "headword_english": "Consternation",
+    "pos": "n.",
+    "sesotho": "tšohlo e hlokisang motho matla, nyaroho"
+  },
+  {
+    "headword_english": "Constitution",
+    "pos": "n.",
+    "sesotho": "sebopeho, mokhoa oa 'mele oa motho; melao ea 'muso"
+  },
+  {
+    "headword_english": "Constrain",
+    "pos": "v.",
+    "sesotho": "ho khanna, ho susumetsa"
+  },
+  {
+    "headword_english": "Construct",
+    "pos": "v.",
+    "sesotho": "ho haha"
+  },
+  {
+    "headword_english": "Construction",
+    "pos": "n.",
+    "sesotho": "mohaho, ntlo"
+  },
+  {
+    "headword_english": "Consult",
+    "pos": "v.",
+    "sesotho": "ho kopa keletso, ho rera le"
+  },
+  {
+    "headword_english": "Consume",
+    "pos": "v.",
+    "sesotho": "ho felisa, ho timelletsa ruri (haholo ka mollo)"
+  },
+  {
+    "headword_english": "Consumption",
+    "pos": "n.",
+    "sesotho": "lefu la maswafo (tuberculosis)"
+  },
+  {
+    "headword_english": "Contact",
+    "pos": "n.",
+    "sesotho": "kano, kamano, khahlano"
+  },
+  {
+    "headword_english": "Contagion",
+    "pos": "n.",
+    "sesotho": "ntho e hlahisang lefu le tšoaelang"
+  },
+  {
+    "headword_english": "Contagious",
+    "pos": "adj.",
+    "sesotho": "lefu le tšoaelang"
+  },
+  {
+    "headword_english": "Contain",
+    "pos": "v.",
+    "sesotho": "ho tšoara, ho tšeloa"
+  },
+  {
+    "headword_english": "Contemporary",
+    "pos": "n.",
+    "sesotho": "thaka"
+  },
+  {
+    "headword_english": "Contempt",
+    "pos": "n.",
+    "sesotho": "nyeliso, kheso"
+  },
+  {
+    "headword_english": "Contemptible",
+    "pos": "adj.",
+    "sesotho": "e nyelisang"
+  },
+  {
+    "headword_english": "Contend",
+    "pos": "v.",
+    "sesotho": "ho tšeka, ho loana"
+  },
+  {
+    "headword_english": "Content",
+    "pos": "n.",
+    "sesotho": "khotso, kholiso"
+  },
+  {
+    "headword_english": "Contention",
+    "pos": "n.",
+    "sesotho": "ntoa, tšoko"
+  },
+  {
+    "headword_english": "Contents",
+    "pos": "n. plur.",
+    "sesotho": "se teng, se ka hare"
+  },
+  {
+    "headword_english": "Contest",
+    "pos": "v.",
+    "sesotho": "ho tšeka (ka mantsoe)"
+  },
+  {
+    "headword_english": "Contiguous",
+    "pos": "adj.",
+    "sesotho": "e atamelaneng le e 'ngoe, e babileng le"
+  },
+  {
+    "headword_english": "Contingency",
+    "pos": "n.",
+    "sesotho": "kotsi; taba e hlahang e sa lebelloa"
+  },
+  {
+    "headword_english": "Continual",
+    "pos": "adj.",
+    "sesotho": "e sa khaotseng"
+  },
+  {
+    "headword_english": "Continue",
+    "pos": "v.",
+    "sesotho": "ho sala, ho hlola, ho tsoela pele; ho ntšetsa pele"
+  },
+  {
+    "headword_english": "Continuity",
+    "pos": "n.",
+    "sesotho": "ho se khaotse, hloleho"
+  },
+  {
+    "headword_english": "Contract",
+    "pos": "v.",
+    "sesotho": "ho hulanya, ho honyetsa; (agreement) tumellano"
+  },
+  {
+    "headword_english": "Contraction",
+    "pos": "n.",
+    "sesotho": "kakaretso, khonyetso"
+  },
+  {
+    "headword_english": "Contradict",
+    "pos": "v.",
+    "sesotho": "ho ngangisa, ho hana taba e boleloang"
+  },
+  {
+    "headword_english": "Contradictory",
+    "pos": "adj.",
+    "sesotho": "(a person) motho ea hanang, ea ngangisang"
+  },
+  {
+    "headword_english": "Contradiction",
+    "pos": "n.",
+    "sesotho": "khano, phapano"
+  },
+  {
+    "headword_english": "Contrarily",
+    "pos": "adv.",
+    "sesotho": "ka ho fapana"
+  },
+  {
+    "headword_english": "Contrary",
+    "pos": "adj.",
+    "sesotho": "e fapaneng"
+  },
+  {
+    "headword_english": "Contrast",
+    "pos": "n.",
+    "sesotho": "phapano e bonahalang"
+  },
+  {
+    "headword_english": "Contribute",
+    "pos": "v.",
+    "sesotho": "ho tlatsetsa le ba bang ka chelete kapa ntho"
+  },
+  {
+    "headword_english": "Control",
+    "pos": "v.",
+    "sesotho": "ho hlahloba, ho laola"
+  },
+  {
+    "headword_english": "Controversy",
+    "pos": "n.",
+    "sesotho": "tsekišano"
+  },
+  {
+    "headword_english": "Contumacious",
+    "pos": "adj.",
+    "sesotho": "ea sa utloeng boréna, ea ikhantsang"
+  },
+  {
+    "headword_english": "Contusion",
+    "pos": "n.",
+    "sesotho": "letetetso"
+  },
+  {
+    "headword_english": "Convalescent",
+    "pos": "n.",
+    "sesotho": "serole, seroyana; to be convalescent, ho quatsima, ho thuseha"
+  },
+  {
+    "headword_english": "Convene",
+    "pos": "v.",
+    "sesotho": "ho phutha, ho bokana"
+  },
+  {
+    "headword_english": "Convenience",
+    "pos": "n.",
+    "sesotho": "ho lokelang e mong, tekelo, tšoanelo"
+  },
+  {
+    "headword_english": "Convenient",
+    "pos": "adj.",
+    "sesotho": "e tšoanetseng"
+  },
+  {
+    "headword_english": "Convention",
+    "pos": "n.",
+    "sesotho": "phutheho, taba e reriloeng phuthehong eo"
+  },
+  {
+    "headword_english": "Conversation",
+    "pos": "n.",
+    "sesotho": "puisano, moqoqo"
+  },
+  {
+    "headword_english": "Converse",
+    "pos": "v.",
+    "sesotho": "ho buisana le, ho bolellana le, ho qoqa"
+  },
+  {
+    "headword_english": "Conversion",
+    "pos": "n.",
+    "sesotho": "tšokoloho"
+  },
+  {
+    "headword_english": "Convert",
+    "pos": "n.",
+    "sesotho": "mosokelohi; v. ho fetola, ho sokolla; to become converted, ho sokoloha"
+  },
+  {
+    "headword_english": "Convertible",
+    "pos": "adj.",
+    "sesotho": "e ka fetoleloang ntho e sele"
+  },
+  {
+    "headword_english": "Convey",
+    "pos": "v.",
+    "sesotho": "ho isa, ho rwala"
+  },
+  {
+    "headword_english": "Conveyance",
+    "pos": "n.",
+    "sesotho": "ketso ea ho rwala kapa ho isa"
+  },
+  {
+    "headword_english": "Convict",
+    "pos": "n.",
+    "sesotho": "motho ea tsuoeng ka molato; v. ho tšua motho, ho mo kholisa hore o molato"
+  },
+  {
+    "headword_english": "Conviction",
+    "pos": "n.",
+    "sesotho": "tšuo, kholiso"
+  },
+  {
+    "headword_english": "Convince",
+    "pos": "v.",
+    "sesotho": "ho kholisa ka mabaka"
+  },
+  {
+    "headword_english": "Convulse",
+    "pos": "v.",
+    "sesotho": "ho sisinya"
+  },
+  {
+    "headword_english": "Convoke",
+    "pos": "v.",
+    "sesotho": "ho biletsa"
+  },
+  {
+    "headword_english": "Cook",
+    "pos": "n.",
+    "sesotho": "moapehi, 'mesi; v. ho pheha, ho apeha; to cook well, ho loisa, ho pjatla"
+  },
+  {
+    "headword_english": "Cool",
+    "pos": "adj.",
+    "sesotho": "e pholileng"
+  },
+  {
+    "headword_english": "Cool-headed",
+    "pos": "adj.",
+    "sesotho": "ea ikotlileng"
+  },
+  {
+    "headword_english": "Coolly",
+    "pos": "adv.",
+    "sesotho": "ka ho phola, ka ho se ferekane"
+  },
+  {
+    "headword_english": "Coolness",
+    "pos": "n.",
+    "sesotho": "pholo, mapholi; ho se re letho ka e mong"
+  },
+  {
+    "headword_english": "Cooperate",
+    "pos": "v.",
+    "sesotho": "ho sebelisana le"
+  },
+  {
+    "headword_english": "Copious",
+    "pos": "adj.",
+    "sesotho": "ngata, kholo"
+  },
+  {
+    "headword_english": "Copper",
+    "pos": "n.",
+    "sesotho": "koporo, tšépe e khubelu"
+  },
+  {
+    "headword_english": "Copy",
+    "pos": "n.",
+    "sesotho": "lengolo le etsisang lengolo le leng; buka"
+  },
+  {
+    "headword_english": "Coral",
+    "pos": "n.",
+    "sesotho": "ntho e kang kalaka e etsoang ke kokoanyana ea leoatle"
+  },
+  {
+    "headword_english": "Cord",
+    "pos": "n.",
+    "sesotho": "khole, mohala"
+  },
+  {
+    "headword_english": "Cordial",
+    "pos": "adj.",
+    "sesotho": "e molemo, ea lerato"
+  },
+  {
+    "headword_english": "Corduroy",
+    "pos": "n.",
+    "sesotho": "lesela le thata le likhaka"
+  },
+  {
+    "headword_english": "Cork",
+    "pos": "n.",
+    "sesotho": "sepako; v. ho thiba ka sepako"
+  },
+  {
+    "headword_english": "Corkscrew",
+    "pos": "n.",
+    "sesotho": "sekurufu sa ho ntša sepako botlolong"
+  },
+  {
+    "headword_english": "Corn",
+    "pos": "n.",
+    "sesotho": "koro, hlaka"
+  },
+  {
+    "headword_english": "Corner",
+    "pos": "n.",
+    "sesotho": "sekhutlo, k'ona"
+  },
+  {
+    "headword_english": "Corner-stone",
+    "pos": "n.",
+    "sesotho": "lejoe la sekhutlo"
+  },
+  {
+    "headword_english": "Cornstalk",
+    "pos": "n.",
+    "sesotho": "setha sa mangata a koro"
+  },
+  {
+    "headword_english": "Coronation",
+    "pos": "n.",
+    "sesotho": "mokete oa ho roesa morena mofapa-hlooho"
+  },
+  {
+    "headword_english": "Corpse",
+    "pos": "n.",
+    "sesotho": "setopo"
+  },
+  {
+    "headword_english": "Corpulence",
+    "pos": "n.",
+    "sesotho": "botenya ba 'mele"
+  },
+  {
+    "headword_english": "Correct",
+    "pos": "v.",
+    "sesotho": "ho lokisa, ho ntša liphoso"
+  },
+  {
+    "headword_english": "Correction",
+    "pos": "n.",
+    "sesotho": "tao, kotlo"
+  },
+  {
+    "headword_english": "Correspond",
+    "pos": "v.",
+    "sesotho": "ho bapana le; ho ngollana le"
+  },
+  {
+    "headword_english": "Corroborate",
+    "pos": "v.",
+    "sesotho": "ho tiisa, ho pakela"
+  },
+  {
+    "headword_english": "Corrode",
+    "pos": "v.",
+    "sesotho": "ho jeoa ke mafume (rust)"
+  },
+  {
+    "headword_english": "Corrupt",
+    "pos": "v.",
+    "sesotho": "ho bolisa, ho senya; to be corrupted, ho bola; adj. e bolileng; (person) motho ea mekhoa e mebe"
+  },
+  {
+    "headword_english": "Corruption",
+    "pos": "n.",
+    "sesotho": "sebolu; bobe ba pelo"
+  },
+  {
+    "headword_english": "Cost",
+    "pos": "n.",
+    "sesotho": "theko; tshenyehelo"
+  },
+  {
+    "headword_english": "Cottage",
+    "pos": "n.",
+    "sesotho": "ntloana"
+  },
+  {
+    "headword_english": "Couch",
+    "pos": "v.",
+    "sesotho": "ho robala; n. bete, setulo se selelele"
+  },
+  {
+    "headword_english": "Cough",
+    "pos": "n.",
+    "sesotho": "sefora, mokhohlane; v. ho khohlela"
+  },
+  {
+    "headword_english": "Council",
+    "pos": "n.",
+    "sesotho": "phutheho ea ho rera litaba, lekhotla"
+  },
+  {
+    "headword_english": "Councillor",
+    "pos": "n.",
+    "sesotho": "monna oa lekhotla"
+  },
+  {
+    "headword_english": "Counsel",
+    "pos": "n.",
+    "sesotho": "keletso; morero; muelli; v. ho eletsa"
+  },
+  {
+    "headword_english": "Count",
+    "pos": "v.",
+    "sesotho": "ho bala, ho lekanya; to count upon, ho tšepa"
+  },
+  {
+    "headword_english": "Countenance",
+    "pos": "n.",
+    "sesotho": "sebopeho sa sefahleho"
+  },
+  {
+    "headword_english": "Countermand",
+    "pos": "v.",
+    "sesotho": "ho nea taelo e furallaneng le ea pele"
+  },
+  {
+    "headword_english": "Countless",
+    "pos": "adj.",
+    "sesotho": "e se nang ho baloa"
+  },
+  {
+    "headword_english": "Country",
+    "pos": "n.",
+    "sesotho": "naha"
+  },
+  {
+    "headword_english": "Countryman",
+    "pos": "n.",
+    "sesotho": "oa naha e le 'ngoe le uena"
+  },
+  {
+    "headword_english": "County",
+    "pos": "n.",
+    "sesotho": "setereke, karolo ea naha"
+  },
+  {
+    "headword_english": "Couple",
+    "pos": "n.",
+    "sesotho": "ntho e tsamaeang ka bobeli; bobeli ba lintho"
+  },
+  {
+    "headword_english": "Courage",
+    "pos": "n.",
+    "sesotho": "matla, tiisetso, banna"
+  },
+  {
+    "headword_english": "Courageous",
+    "pos": "adj.",
+    "sesotho": "e matla, ea sebete"
+  },
+  {
+    "headword_english": "Course",
+    "pos": "n.",
+    "sesotho": "moo ho lebiloeng, tsela"
+  },
+  {
+    "headword_english": "Court",
+    "pos": "n.",
+    "sesotho": "lebala, lekhotla, ntlo ea lekhotla; v. ho bonyetsa, ho fereha"
+  },
+  {
+    "headword_english": "Courteous",
+    "pos": "adj.",
+    "sesotho": "e mekhoa e metle"
+  },
+  {
+    "headword_english": "Courtship",
+    "pos": "n.",
+    "sesotho": "phereho"
+  },
+  {
+    "headword_english": "Court-yard",
+    "pos": "n.",
+    "sesotho": "lebala"
+  },
+  {
+    "headword_english": "Cousin",
+    "pos": "n.",
+    "sesotho": "motsoal'a motho"
+  },
+  {
+    "headword_english": "Cove",
+    "pos": "n.",
+    "sesotho": "lehahanyana, k'onnyana ea leoatle"
+  },
+  {
+    "headword_english": "Cover",
+    "pos": "v.",
+    "sesotho": "ho apesa, ho khurumetsa"
+  },
+  {
+    "headword_english": "Covering",
+    "pos": "n.",
+    "sesotho": "sekhukhelo, seaparo"
+  },
+  {
+    "headword_english": "Covet",
+    "pos": "v.",
+    "sesotho": "ho lakatsa, ho lakalabela"
+  },
+  {
+    "headword_english": "Cow",
+    "pos": "n.",
+    "sesotho": "khomo e tšehali; v. ho tšabisa, ho felisa pelo"
+  },
+  {
+    "headword_english": "Coward",
+    "pos": "n.",
+    "sesotho": "lekuala, ea booi, leperere; a great coward, lebeha"
+  },
+  {
+    "headword_english": "Cowardice",
+    "pos": "n.",
+    "sesotho": "bokuala, booi"
+  },
+  {
+    "headword_english": "Cowhide",
+    "pos": "n.",
+    "sesotho": "letlalo, lekoko"
+  },
+  {
+    "headword_english": "Cowcomb",
+    "pos": "n.",
+    "sesotho": "lekake"
+  },
+  {
+    "headword_english": "Coy",
+    "pos": "adj.",
+    "sesotho": "e tšabang, ea sa tloaelehang"
+  },
+  {
+    "headword_english": "Calculate",
+    "pos": "v.",
+    "sesotho": "ho bala, ho lekanya"
+  },
+  {
+    "headword_english": "Calendar",
+    "pos": "n.",
+    "sesotho": "almanaka, khalendara"
+  },
+  {
+    "headword_english": "Cancel",
+    "pos": "v.",
+    "sesotho": "ho hlakola, ho fula"
+  },
+  {
+    "headword_english": "Capital",
+    "pos": "n.",
+    "sesotho": "(city) motse-moholo; (money) chelete ea motheo"
+  },
+  {
+    "headword_english": "Careless",
+    "pos": "adj.",
+    "sesotho": "bohlahasellwa, ea hlokang tlhokomelo"
+  },
+  {
+    "headword_english": "Celebrate",
+    "pos": "v.",
+    "sesotho": "ho keteka, ho thabela mokete"
+  },
+  {
+    "headword_english": "Certificate",
+    "pos": "n.",
+    "sesotho": "setifikeiti, bopaki bo ngotsoeng"
+  },
+  {
+    "headword_english": "Challenge",
+    "pos": "n.",
+    "sesotho": "phephetso; v. ho phephetsa"
+  },
+  {
+    "headword_english": "Change",
+    "pos": "v.",
+    "sesotho": "ho fetola; n. (money) tjhentjhe"
+  },
+  {
+    "headword_english": "Character",
+    "pos": "n.",
+    "sesotho": "semelo, tlhaho ea motho"
+  },
+  {
+    "headword_english": "Cheap",
+    "pos": "adj.",
+    "sesotho": "e theko e tlaase"
+  },
+  {
+    "headword_english": "Choice",
+    "pos": "n.",
+    "sesotho": "kgetho"
+  },
+  {
+    "headword_english": "Climate",
+    "pos": "n.",
+    "sesotho": "tlelaemete, maemo a leholimo"
+  },
+  {
+    "headword_english": "Communicate",
+    "pos": "v.",
+    "sesotho": "ho buisana, ho fana ka tlhahisoleseling"
+  },
+  {
+    "headword_english": "Compare",
+    "pos": "v.",
+    "sesotho": "ho bapisa"
+  },
+  {
+    "headword_english": "Compete",
+    "pos": "v.",
+    "sesotho": "ho qothisana lehlokoa"
+  },
+  {
+    "headword_english": "Complain",
+    "pos": "v.",
+    "sesotho": "ho belaela, ho korotla"
+  },
+  {
+    "headword_english": "Confirm",
+    "pos": "v.",
+    "sesotho": "ho netefatsa, ho tiisa"
+  },
+  {
+    "headword_english": "Connect",
+    "pos": "v.",
+    "sesotho": "ho hokahanya, ho kopanya"
+  },
+  {
+    "headword_english": "Culture",
+    "pos": "n.",
+    "sesotho": "moetlo, setso"
+  }
+]

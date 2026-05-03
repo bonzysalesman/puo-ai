@@ -1,0 +1,7105 @@
+[
+  {
+    "entry_id": "3ae1994f-f03d-4ec2-ae59-e8b79e87d71a",
+    "headword_english": "Adultery",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bofebe",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bofebe"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "sense_1",
+        "definition_en": "bofebe",
+        "sesotho_term": [
+          "bofebe"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "30414924-c070-4d2f-a882-de9127de432c",
+    "headword_english": "Adversity",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bomalibe",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bomalibe"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "sense_1",
+        "definition_en": "bomalibe, bosoto",
+        "sesotho_term": [
+          "bomalibe",
+          "bosoto"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_483d8836210996e3",
+    "headword_english": "Agility",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bobebe",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "l",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bobebe",
+      "l"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_483d8836210996e3.sense_1",
+        "definition_en": "bobebe, lebelo",
+        "sesotho_term": [
+          "bobebe"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "a90f6b59-35c1-4a5a-bdc0-695fd1b160bb",
+    "headword_english": "Agriculture",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bolemi",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "temo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bolemi",
+      "temo"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "sense_1",
+        "definition_en": "bolemi, temo",
+        "sesotho_term": [
+          "bolemi",
+          "temo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "601f9b59-7bdb-4b64-98a8-6d276eb9cdd5",
+    "headword_english": "Ailment",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bohloko",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bohloko"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "sense_1",
+        "definition_en": "bohloko, boloetse, lefu, mafu",
+        "sesotho_term": [
+          "bohloko",
+          "boloetse"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G14_003",
+    "headword_english": "Allies / Confederates",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "balekane",
+        "tone_marked": "bālēkānē",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "ba-le-ka-ne"
+    ],
+    "morphology": {
+      "root": "lekane",
+      "derivation": "From 'lekane' (partner/friend/ally).",
+      "noun_class": "2"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G14_003.sense_1",
+        "definition_en": "People or groups united by a treaty or covenant.",
+        "sesotho_term": [
+          "balekane",
+          "bo-mphato ba selekane"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "1464fd33-894a-4410-9657-1d993ded706d",
+    "headword_english": "Altitude",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bolelele",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bolelele"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "sense_1",
+        "definition_en": "bolelele, bophahamo, boholo",
+        "sesotho_term": [
+          "bolelele",
+          "bophahamo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_7305bcdc6173c93f",
+    "headword_english": "Amongst",
+    "pos": [
+      "preposition"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bar'a",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "har'a",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bar'a",
+      "har'a"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_7305bcdc6173c93f.sense_1",
+        "definition_en": "har'a, mahareng a",
+        "sesotho_term": [
+          "har'a"
+        ]
+      },
+      {
+        "sense_id": "entry_5cb03dbf53ccf588.sense_1",
+        "definition_en": "har'a, mahareng a",
+        "sesotho_term": [
+          "bar'a"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G46_EX_05",
+    "headword_english": "Ancestors",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "baholo-holo",
+        "tone_marked": "bāhōlō-hōlō",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "baholo-holo"
+    ],
+    "morphology": {
+      "root": "holo",
+      "derivation": "Reduplicated form of 'great/elder' for emphasis on lineage",
+      "noun_class": "2"
+    },
+    "senses": [
+      {
+        "sense_id": "fam_02",
+        "definition_en": "Forefathers; people from whom one is descended, usually more remote than grandparents.",
+        "sesotho_term": [
+          "baholo-holo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G4_010",
+    "headword_english": "Anger / Wrath",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bohale",
+        "tone_marked": "bōhālē",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-ha-le"
+    ],
+    "morphology": {
+      "root": "bohale",
+      "derivation": "",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G4_010.sense_1",
+        "definition_en": "A strong feeling of annoyance, displeasure, or hostility.",
+        "sesotho_term": [
+          "bohale"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "entry_9117a8217962918c",
+    "headword_english": "Aristocracy",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "borena",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-re-na"
+    ],
+    "morphology": {
+      "root": "rena",
+      "derivation": "nominal bo-",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_9117a8217962918c.sense_1",
+        "definition_en": "the highest class in certain societies, especially those holding hereditary titles or offices",
+        "sesotho_term": [
+          "borena",
+          "baholo",
+          "ba lelapa la borena"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "nobility",
+        "elite",
+        "upper class"
+      ],
+      "synonyms_st": [
+        "bahlomphehi"
+      ],
+      "antonyms_en": [
+        "proletariat",
+        "commoners"
+      ],
+      "antonyms_st": [
+        "bafo",
+        "setjhaba"
+      ]
+    },
+    "related_words": [
+      "Aristocrat",
+      "Noble"
+    ]
+  },
+  {
+    "entry_id": "096da4ea-b065-45ff-9c2c-67ac37773ca9",
+    "headword_english": "Arrogance",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boikakaso",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boikakaso"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "sense_1",
+        "definition_en": "boikakaso, boikgoantšo",
+        "sesotho_term": [
+          "boikakaso",
+          "boikgoantšo"
+        ]
+      },
+      {
+        "sense_id": "entry_940292838489bd8e.sense_1",
+        "definition_en": "boikakaso, boikhoantšo",
+        "sesotho_term": [
+          "boikakaso"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_0c64524c4e841533",
+    "headword_english": "Art",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bonono",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-no-no"
+    ],
+    "morphology": {
+      "root": "nono",
+      "derivation": "nominal bo-",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_0c64524c4e841533.sense_1",
+        "definition_en": "the expression or application of human creative skill and imagination; works produced by such skill",
+        "sesotho_term": [
+          "bonono",
+          "setshwantsho (visual art)",
+          "bokhoni"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "creativity",
+        "craft",
+        "fine art"
+      ],
+      "synonyms_st": [
+        "mosebetsi oa matsoho"
+      ],
+      "antonyms_en": [],
+      "antonyms_st": []
+    },
+    "related_words": [
+      "Artist",
+      "Artistic"
+    ]
+  },
+  {
+    "entry_id": "st_NUM16_01",
+    "headword_english": "Authority / Lordship",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "borena",
+        "tone_marked": "bōrēnā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "borena"
+    ],
+    "morphology": {
+      "root": "rena",
+      "derivation": "From 'morena' (king/lord).",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "soc_05",
+        "definition_en": "The right to lead or command, which Kora and his followers challenged.",
+        "sesotho_term": [
+          "matla a ho laola"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "2ec619e1-08f7-41dc-a87e-813ec7920926",
+    "headword_english": "Avarice",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bokhonatla",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bokhonatla"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "sense_1",
+        "definition_en": "bokhonatla, takatso ea ho rua, qotho",
+        "sesotho_term": [
+          "bokhonatla",
+          "takatso ea ho rua"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_7e5778625dccd0f3",
+    "headword_english": "Avariee",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boklionatha",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boklionatha"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_7e5778625dccd0f3.sense_1",
+        "definition_en": "boklionatha, takat«o ea ho rua, qotho. ArnricioHH^ adj. ea lekhonatha. oa qotho.",
+        "sesotho_term": [
+          "boklionatha"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_fc58b97b9e34a549",
+    "headword_english": "Bail",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "beile",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "be-i-le"
+    ],
+    "morphology": {
+      "root": "beile",
+      "derivation": "",
+      "noun_class": "9"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_fc58b97b9e34a549.sense_1",
+        "definition_en": "the temporary release of an accused person awaiting trial, usually on payment of a sum of money",
+        "sesotho_term": [
+          "beile"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "bond",
+        "security"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    },
+    "related_words": [
+      "Court",
+      "Trial"
+    ]
+  },
+  {
+    "entry_id": "entry_6b272f74c426502b",
+    "headword_english": "Bank",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "banka",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "lebōpo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "ba-n-ka",
+      "le-bō-po"
+    ],
+    "morphology": {
+      "root": "banka",
+      "derivation": "",
+      "noun_class": "9, 5"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_6b272f74c426502b.sense_1",
+        "definition_en": "a financial establishment for depositing and withdrawing money",
+        "sesotho_term": [
+          "banka"
+        ]
+      },
+      {
+        "sense_id": "entry_6b272f74c426502b.sense_2",
+        "definition_en": "the land alongside a river",
+        "sesotho_term": [
+          "lebōpo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "shore",
+        "financial institution"
+      ],
+      "synonyms_st": [
+        "mose oane"
+      ],
+      "antonyms_en": [],
+      "antonyms_st": []
+    },
+    "related_words": [
+      "Money",
+      "River"
+    ]
+  },
+  {
+    "entry_id": "entry_23dd93a82f848a57",
+    "headword_english": "Barrenness",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bonyopa",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bonyopa"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_23dd93a82f848a57.sense_1",
+        "definition_en": "bonyopa.",
+        "sesotho_term": [
+          "bonyopa"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_8c472fa20eada787",
+    "headword_english": "Basin",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bekere",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "sekotlolo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "be-ke-re",
+      "se-ko-tlo-lo"
+    ],
+    "morphology": {
+      "root": "kotlolo",
+      "derivation": "",
+      "noun_class": "7, 8"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_8c472fa20eada787.sense_1",
+        "definition_en": "a wide open container used for preparing food or for washing",
+        "sesotho_term": [
+          "sekotlolo",
+          "bekere"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "bowl",
+        "dish",
+        "receptacle"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [],
+      "antonyms_st": []
+    },
+    "related_words": [
+      "Bowl",
+      "Container"
+    ]
+  },
+  {
+    "entry_id": "entry_1f0b7ada291856cc",
+    "headword_english": "Bedding",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bete",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bete"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_1f0b7ada291856cc.sense_1",
+        "definition_en": "bete le ntho tsohle tsa eona, malao, mealo.",
+        "sesotho_term": [
+          "bete"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_a665debb35d524d4",
+    "headword_english": "Bedstead",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bete",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bete"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_a665debb35d524d4.sense_1",
+        "definition_en": "bete.",
+        "sesotho_term": [
+          "bete"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G21_EX_09",
+    "headword_english": "Beersheba",
+    "pos": [
+      "n. prop"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "Beerseba",
+        "tone_marked": "Bēērsēbā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "Be-er-se-ba"
+    ],
+    "morphology": {
+      "root": "Beerseba",
+      "derivation": "Compound place name (Well + Seven/Oath)",
+      "noun_class": "9"
+    },
+    "senses": [
+      {
+        "sense_id": "geo_01",
+        "definition_en": "A location in the southern Negeb marking a site of covenant and water rights.",
+        "sesotho_term": [
+          "Beerseba"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "entry_d6753f75dff252c9",
+    "headword_english": "Bestiality",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bolulo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bolulo"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_d6753f75dff252c9.sense_1",
+        "definition_en": "bolulo ba liphoofolo",
+        "sesotho_term": [
+          "bolulo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_72910fef827d0d5c",
+    "headword_english": "Bible",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "Baebele",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "Bibele",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "Baebele",
+      "Bibele"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_72910fef827d0d5c.sense_1",
+        "definition_en": "Bibele.",
+        "sesotho_term": [
+          "Bibele"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_aa4fcdcd230934cf",
+    "headword_english": "Bicycle",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "baesekele",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "baesekele"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_aa4fcdcd230934cf.sense_1",
+        "definition_en": "baesekele.",
+        "sesotho_term": [
+          "baesekele"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_c3445bc3654a4040",
+    "headword_english": "Bitter",
+    "pos": [
+      "adjective"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bohloko",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "e",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bohloko",
+      "e"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_c3445bc3654a4040.sense_1",
+        "definition_en": "e utloang bohloko, e babang.",
+        "sesotho_term": [
+          "e"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G19_EX_05",
+    "headword_english": "Blindness",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bofofu",
+        "tone_marked": "bōfōfū",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-fo-fu"
+    ],
+    "morphology": {
+      "root": "fofu",
+      "derivation": "Abstract noun",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "medical_01",
+        "definition_en": "A state of being unable to see; in this context, a divine strike to confuse the mob.",
+        "nuance_en": "A state of being unable to see. Here, it is a divine strike to protect the visitors.",
+        "sesotho_term": [
+          "bofofu"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "entry_aa83eb942110b118",
+    "headword_english": "Bold",
+    "pos": [
+      "adjective"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bohale",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bohale"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_aa83eb942110b118.sense_1",
+        "definition_en": "bohale, ea sa tšabeng.",
+        "sesotho_term": [
+          "bohale"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_EX13_01",
+    "headword_english": "Bondage / Slavery",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bokhoba",
+        "tone_marked": "bōkhōbā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bokhoba"
+    ],
+    "morphology": {
+      "root": "khoba",
+      "derivation": "The state of being a servant or slave (lekhoba)",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "soc_01",
+        "definition_en": "The state of being a slave; involuntary servitude.",
+        "sesotho_term": [
+          "ntlong ea makhoba"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_aefa4fc37fa659d7",
+    "headword_english": "Book",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "buka",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "buka"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_aefa4fc37fa659d7.sense_1",
+        "definition_en": "buka.",
+        "sesotho_term": [
+          "buka"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_f44b96a7cde467fb",
+    "headword_english": "Both",
+    "pos": [
+      "adjective"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "beli",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "beli"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_f44b96a7cde467fb.sense_1",
+        "definition_en": "-beli, ka bobeli.",
+        "sesotho_term": [
+          "beli"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_7e8c6014460903db",
+    "headword_english": "Bottle",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "botlelo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "lebotlelo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "botlelo",
+      "lebotlelo"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_7e8c6014460903db.sense_1",
+        "definition_en": "botlelo.",
+        "sesotho_term": [
+          "botlelo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_fbbb86a98d22bbaa",
+    "headword_english": "Brain",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bjoko",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "boboko",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bjoko",
+      "boboko"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_fbbb86a98d22bbaa.sense_1",
+        "definition_en": "boboko.",
+        "sesotho_term": [
+          "boboko"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_4a4c7b6c93f300f4",
+    "headword_english": "Brandy",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boranti",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boranti"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_4a4c7b6c93f300f4.sense_1",
+        "definition_en": "boranti.",
+        "sesotho_term": [
+          "boranti"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_65a7e0bbc357d2d5",
+    "headword_english": "Bread",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bohobe",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "borotho",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bohobe",
+      "borotho"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_65a7e0bbc357d2d5.sense_1",
+        "definition_en": "borotho, bohobe.",
+        "sesotho_term": [
+          "borotho"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_79c3f82143d64c33",
+    "headword_english": "Breadth",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bophara",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bophara"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_79c3f82143d64c33.sense_1",
+        "definition_en": "bophara.",
+        "sesotho_term": [
+          "bophara"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G13_015",
+    "headword_english": "Breadth / Width",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bophara",
+        "tone_marked": "bōphārā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-pha-ra"
+    ],
+    "morphology": {
+      "root": "phara",
+      "derivation": "Abstract noun from 'phara' (wide).",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G13_015.sense_1",
+        "definition_en": "The distance or measurement from side to side of something.",
+        "sesotho_term": [
+          "bophara"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "entry_40f3e04727c0c859",
+    "headword_english": "Breeches",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "borikhoe",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "borikhoe"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_40f3e04727c0c859.sense_1",
+        "definition_en": "borikhoe",
+        "sesotho_term": [
+          "borikhoe"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G13_004",
+    "headword_english": "Brethren / Kin",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bara ba motho",
+        "tone_marked": "bara ba motho",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bara ba motho"
+    ],
+    "morphology": {
+      "root": "mora",
+      "derivation": "Plural of 'mora' (son) + 'motho' (person)",
+      "noun_class": "2"
+    },
+    "senses": [
+      {
+        "sense_id": "kin_01",
+        "definition_en": "close relatives or people treated as brothers",
+        "sesotho_term": [
+          "bara ba motho"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_acbcccf182fdf904",
+    "headword_english": "Bridge",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "borogo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "borokho",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "borogo",
+      "borokho"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_acbcccf182fdf904.sense_1",
+        "definition_en": "borokho.",
+        "sesotho_term": [
+          "borokho"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G13_017",
+    "headword_english": "Brother / Relative",
+    "pos": [
+      "n. phrase"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bara ba motho",
+        "tone_marked": "bārā bā mōthō",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "ba-ra ba mo-tho"
+    ],
+    "morphology": {
+      "root": "motho",
+      "derivation": "Literal: 'sons of a person'. Phrase for siblings or close kinsmen.",
+      "noun_class": "2"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G13_017.sense_1",
+        "definition_en": "Brothers or close kinsmen.",
+        "sesotho_term": [
+          "bara ba motho"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "entry_62986ef88e7b6535",
+    "headword_english": "Brotherhood",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boena",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boena"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_62986ef88e7b6535.sense_1",
+        "definition_en": "boena, mokhatlo oa bara ba motho.",
+        "sesotho_term": [
+          "boena"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_B_01",
+    "headword_english": "Brothers",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "banab'abo",
+        "tone_marked": "bānāb'ābō",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "banab'abo"
+    ],
+    "morphology": {
+      "root": "ngoaneso",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "st_B_01.sense_1",
+        "definition_en": "Male siblings; also used for kinsmen or fellow tribesmen.",
+        "sesotho_term": [
+          "banab'abo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_d1581b9a9dcde76a",
+    "headword_english": "Brush",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "borasala",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "borasala"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_d1581b9a9dcde76a.sense_1",
+        "definition_en": "borasala; v. ho hloekisa ka borasala.",
+        "sesotho_term": [
+          "borasala"
+        ]
+      },
+      {
+        "sense_id": "entry_d1fa150f80f95f96.sense_1",
+        "definition_en": "borasala, se-hloekisa-liaparo; v. ho hloekisa ka borasala.",
+        "sesotho_term": [
+          "borasala"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G31_EX_03",
+    "headword_english": "Captives",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "baholehuoa",
+        "tone_marked": "bāhōlēhūōā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "ba-ho-le-huo-a"
+    ],
+    "morphology": {
+      "root": "hula",
+      "derivation": "From 'holeha' (to be made a captive)",
+      "noun_class": "2"
+    },
+    "senses": [
+      {
+        "sense_id": "soc_01",
+        "definition_en": "People taken by force, especially during war.",
+        "sesotho_term": [
+          "baholehuoa"
+        ],
+        "definition_st": "Batho ba nkuoang ka matla, haholo-holo nakong ea ntoa."
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "entry_c844c31f5e515f60",
+    "headword_english": "Careless",
+    "pos": [
+      "adjective"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bohlahasellwa",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "e",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bohlahasellwa",
+      "e"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_c844c31f5e515f60.sense_1",
+        "definition_en": "bohlahasellwa, ea hlokang tlhokomelo",
+        "sesotho_term": [
+          "bohlahasellwa"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_07aae2c1db389155",
+    "headword_english": "Celibacy",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bosoha",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bosoha"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_07aae2c1db389155.sense_1",
+        "definition_en": "bosoha",
+        "sesotho_term": [
+          "bosoha"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_4b8a42890e4c9fc5",
+    "headword_english": "Centre",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bohare",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bohare"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_4b8a42890e4c9fc5.sense_1",
+        "definition_en": "bohare ba ntho, lehare",
+        "sesotho_term": [
+          "bohare"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_976c6d9063a50a82",
+    "headword_english": "Chastity",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boitšoaro",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boitšoaro"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_976c6d9063a50a82.sense_1",
+        "definition_en": "boitšoaro bo hloekileng",
+        "sesotho_term": [
+          "boitšoaro"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_e9d30dadfc498e6d",
+    "headword_english": "Chieftainship",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "borena",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "borena"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_e9d30dadfc498e6d.sense_1",
+        "definition_en": "borena",
+        "sesotho_term": [
+          "borena"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G35_EX_03",
+    "headword_english": "Childbirth / To labor",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "beleha",
+        "tone_marked": "bēlēhā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "beleha"
+    ],
+    "morphology": {
+      "root": "beleha",
+      "derivation": "Primary verb",
+      "noun_class": "None"
+    },
+    "senses": [
+      {
+        "sense_id": "phys_01",
+        "definition_en": "To give birth to a child; the process of labor.",
+        "sesotho_term": [
+          "beleha"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_5460fb87dccb178e",
+    "headword_english": "Childhood",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bongwana",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bongwana"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_5460fb87dccb178e.sense_1",
+        "definition_en": "bongwana",
+        "sesotho_term": [
+          "bongwana"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_ENG_01",
+    "headword_english": "Children / Descendants",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bara",
+        "tone_marked": "bārā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bara"
+    ],
+    "morphology": {
+      "root": "ra",
+      "derivation": "Historical Entry",
+      "noun_class": "2"
+    },
+    "senses": [
+      {
+        "sense_id": "st_ENG_01.sense_1",
+        "definition_en": "The offspring of a specific ancestor; members of a tribe.",
+        "sesotho_term": [
+          "bara"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G17_C05",
+    "headword_english": "Circumcised",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bolotsoe",
+        "tone_marked": "bōlōtsōē",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bolotsoe"
+    ],
+    "morphology": {
+      "root": "bolotsa",
+      "derivation": "Passive perfective of 'bolotsa'",
+      "noun_class": "None"
+    },
+    "senses": [
+      {
+        "sense_id": "ritual_01",
+        "definition_en": "The state of having undergone the ritual cutting of the foreskin.",
+        "sesotho_term": [
+          "bolotsoe"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_8c3e77f2af219f1b",
+    "headword_english": "Clergy",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "baruti",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "baruti"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_8c3e77f2af219f1b.sense_1",
+        "definition_en": "baruti",
+        "sesotho_term": [
+          "baruti"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_e7edca24b3e0e3d9",
+    "headword_english": "Cleverness",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bohlale",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bohlale"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_e7edca24b3e0e3d9.sense_1",
+        "definition_en": "bohlale, masene",
+        "sesotho_term": [
+          "bohlale"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_efe75e7f50063f4b",
+    "headword_english": "Coat",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "baki",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "baki"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_efe75e7f50063f4b.sense_1",
+        "definition_en": "baki, jeresi",
+        "sesotho_term": [
+          "baki"
+        ]
+      },
+      {
+        "sense_id": "entry_5d08f46ee91b8678.sense_1",
+        "definition_en": "baki, kobo",
+        "sesotho_term": [
+          "baki"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_2a1f4e7d791700a1",
+    "headword_english": "Cobweb",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bolele",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "bolepo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bolele",
+      "bolepo"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_2a1f4e7d791700a1.sense_1",
+        "definition_en": "bolepo",
+        "sesotho_term": [
+          "bolepo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_febe2179d9a642ba",
+    "headword_english": "Colic",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bohloko",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "mala",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bohloko",
+      "mala"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_febe2179d9a642ba.sense_1",
+        "definition_en": "bohloko ba mala",
+        "sesotho_term": [
+          "bohloko"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_5130a2de0b4291ed",
+    "headword_english": "Conceit",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bokako",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bokako"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_5130a2de0b4291ed.sense_1",
+        "definition_en": "bokako, boikhohomoso",
+        "sesotho_term": [
+          "bokako"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_cb727f2ae1ae1be4",
+    "headword_english": "Concerning",
+    "pos": [
+      "preposition"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bakeng",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bakeng"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_cb727f2ae1ae1be4.sense_1",
+        "definition_en": "bakeng sa, holim'a",
+        "sesotho_term": [
+          "bakeng"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_27e86929e92088f3",
+    "headword_english": "Conclusion",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bofelo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bofelo"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_27e86929e92088f3.sense_1",
+        "definition_en": "bofelo, qetello",
+        "sesotho_term": [
+          "bofelo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_fe98ccbd4eebc5ce",
+    "headword_english": "Confession",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boipolelo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boipolelo"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_fe98ccbd4eebc5ce.sense_1",
+        "definition_en": "boipolelo",
+        "sesotho_term": [
+          "boipolelo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_df8d1d91308fb9df",
+    "headword_english": "Corpulence",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "botenya",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "botenya"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_df8d1d91308fb9df.sense_1",
+        "definition_en": "botenya ba 'mele",
+        "sesotho_term": [
+          "botenya"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_01592720760b15bd",
+    "headword_english": "Cowardice",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bokuala",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bokuala"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_01592720760b15bd.sense_1",
+        "definition_en": "bokuala, booi",
+        "sesotho_term": [
+          "bokuala"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_C_0088",
+    "headword_english": "Create",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bōpa",
+        "tone_marked": "bōpa",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bōpa"
+    ],
+    "morphology": {
+      "root": "bōpa",
+      "derivation": "transitive verb",
+      "noun_class": "None"
+    },
+    "senses": [
+      {
+        "sense_id": "create_01",
+        "definition_en": "bring (something) into existence",
+        "sesotho_term": [
+          "bōpa"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "make",
+        "fashion",
+        "produce"
+      ],
+      "antonyms_en": [
+        "destroy"
+      ],
+      "synonyms_st": [
+        "etsa"
+      ],
+      "antonyms_st": [
+        "felisa"
+      ]
+    }
+  },
+  {
+    "entry_id": "st_G1_003",
+    "headword_english": "Creation / Created",
+    "pos": [
+      "v."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bopa",
+        "tone_marked": "bōpā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-pa"
+    ],
+    "morphology": {
+      "root": "bopa",
+      "derivation": "",
+      "noun_class": ""
+    },
+    "senses": [
+      {
+        "sense_id": "st_G1_003.sense_1",
+        "definition_en": "To bring into existence by a divine act.",
+        "sesotho_term": [
+          "bopa"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G3_002",
+    "headword_english": "Cunning / Shrewd",
+    "pos": [
+      "adj."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bohlale",
+        "tone_marked": "bōhlālē",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-hla-le"
+    ],
+    "morphology": {
+      "root": "hlalefa",
+      "derivation": "From 'hlalefa' (to be wise/clever).",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G3_002.sense_1",
+        "definition_en": "Having or showing skill in achieving one's ends by deceit or evasion.",
+        "sesotho_term": [
+          "bohlale",
+          "bolotsana"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "entry_4942dcba4e650625",
+    "headword_english": "Database",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bobolokelo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bobolokelo"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_4942dcba4e650625.sense_1",
+        "definition_en": "bobolokelo-boitsebiso",
+        "sesotho_term": [
+          "bobolokelo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_D_01",
+    "headword_english": "Daughters",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "barali",
+        "tone_marked": "bārālī",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "barali"
+    ],
+    "morphology": {
+      "root": "rali",
+      "derivation": "Historical Entry",
+      "noun_class": "2"
+    },
+    "senses": [
+      {
+        "sense_id": "st_D_01.sense_1",
+        "definition_en": "Female offspring; women of a particular family or nation.",
+        "sesotho_term": [
+          "barali"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_71659ca79830ec08",
+    "headword_english": "Daybreak",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bosiu",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bosiu"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_71659ca79830ec08.sense_1",
+        "definition_en": "bosiu ha bo sa, mafube",
+        "sesotho_term": [
+          "bosiu"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_c3cc66ef4394db9f",
+    "headword_english": "Deep",
+    "pos": [
+      "adjective"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boliba",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "e",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boliba",
+      "e"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_c3cc66ef4394db9f.sense_1",
+        "definition_en": "e tebileng",
+        "sesotho_term": [
+          "e"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_dc1992ecf9d43782",
+    "headword_english": "Deep",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boliba",
+        "tone_marked": "boliba",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-li-ba"
+    ],
+    "morphology": {
+      "root": "liba",
+      "derivation": "Noun formed with prefix 'bo-'",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_dc1992ecf9d43782.sense_1",
+        "definition_en": "a deep body of water; an abyss",
+        "sesotho_term": [
+          "boliba"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "abyss",
+        "chasm"
+      ],
+      "synonyms_st": [
+        "bodiba"
+      ],
+      "antonyms_en": [
+        "shallow"
+      ],
+      "antonyms_st": [
+        "matsatse"
+      ]
+    },
+    "related_words": []
+  },
+  {
+    "entry_id": "entry_3e85d814a2581342",
+    "headword_english": "Deep",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boliba",
+        "tone_marked": "boliba",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-li-ba"
+    ],
+    "morphology": {
+      "root": "liba",
+      "derivation": "",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_3e85d814a2581342.sense_1",
+        "definition_en": "a deep body of water; an abyss",
+        "sesotho_term": [
+          "boliba"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G7_003",
+    "headword_english": "Deep / Abyss",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "botiba",
+        "tone_marked": "bōtībā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-ti-ba"
+    ],
+    "morphology": {
+      "root": "tiba",
+      "derivation": "From 'tiba' (to sink/be deep).",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G7_003.sense_1",
+        "definition_en": "A vast, deep space or body of water.",
+        "sesotho_term": [
+          "botiba",
+          "bodiba"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G15_EX_018",
+    "headword_english": "Deep sleep",
+    "pos": [
+      "n. phrase"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boroko bo tebileng",
+        "tone_marked": "bōrōkō bō tēbīlēng",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-ro-ko bo te-bi-leng"
+    ],
+    "morphology": {
+      "root": "teba",
+      "derivation": "Noun + adjective (from 'teba' - to be deep).",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G15_EX_018.sense_1",
+        "definition_en": "A heavy or profound sleep.",
+        "sesotho_term": [
+          "boroko bo tebileng"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "entry_a5decff04e9154d6",
+    "headword_english": "Deposition",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bopaki",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bopaki"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_a5decff04e9154d6.sense_1",
+        "definition_en": "bopaki",
+        "sesotho_term": [
+          "bopaki"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_f432f81c98a5adb6",
+    "headword_english": "Depth",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "botebo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "botebo"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_f432f81c98a5adb6.sense_1",
+        "definition_en": "botebo, boliba, botebo ba litaba",
+        "sesotho_term": [
+          "botebo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_7a1040dca545a450",
+    "headword_english": "Devotedness",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boikhethelo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boikhethelo"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_7a1040dca545a450.sense_1",
+        "definition_en": "boikhethelo, boineelo",
+        "sesotho_term": [
+          "boikhethelo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_140a4ff046bd2854",
+    "headword_english": "Devotion",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "borapeli",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "borapeli"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_140a4ff046bd2854.sense_1",
+        "definition_en": "borapeli, boineelo bo tletseng",
+        "sesotho_term": [
+          "borapeli"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_3428c846d371e5fd",
+    "headword_english": "Dictionary",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "buka",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "pukuntšu",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "buka",
+      "pukuntšu"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_3428c846d371e5fd.sense_1",
+        "definition_en": "pukuntšu, bukantswe",
+        "sesotho_term": [
+          "pukuntšu"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_2cca236e9ec06d7a",
+    "headword_english": "Difficulty",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bothata",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bothata"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_2cca236e9ec06d7a.sense_1",
+        "definition_en": "bothata, tsietsi, tsieleho, boima, thibelo",
+        "sesotho_term": [
+          "bothata"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G49_EX_02",
+    "headword_english": "Dignity / Honor",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bokhabane",
+        "tone_marked": "bōkhābānē",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bokhabane"
+    ],
+    "morphology": {
+      "root": "khaba",
+      "derivation": "Abstract noun meaning excellence or decorative beauty",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "qual_01",
+        "definition_en": "The quality of being worthy of honor or respect; high rank or excellence.",
+        "sesotho_term": [
+          "bokhabane"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_7ba54917690cd232",
+    "headword_english": "Disease",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boloetse",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boloetse"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_7ba54917690cd232.sense_1",
+        "definition_en": "boloetse",
+        "sesotho_term": [
+          "boloetse"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_e8ff11dfae559923",
+    "headword_english": "Dissimulation",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boikhako",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boikhako"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_e8ff11dfae559923.sense_1",
+        "definition_en": "boikhako",
+        "sesotho_term": [
+          "boikhako"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_ed2d85f8f3e81899",
+    "headword_english": "Divination",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bonohe",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bonohe"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_ed2d85f8f3e81899.sense_1",
+        "definition_en": "bonohe",
+        "sesotho_term": [
+          "bonohe"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_d0b17a2d40c7a2e3",
+    "headword_english": "Divinity",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_d0b17a2d40c7a2e3.sense_1",
+        "definition_en": "bo-Molimo, Molimo",
+        "sesotho_term": [
+          "bo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_0198e151e89af9ec",
+    "headword_english": "Dominion",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "borena",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "borena"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_0198e151e89af9ec.sense_1",
+        "definition_en": "borena, puso",
+        "sesotho_term": [
+          "borena"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G1_014",
+    "headword_english": "Dominion / Rule",
+    "pos": [
+      "v."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "busa",
+        "tone_marked": "būsā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bu-sa"
+    ],
+    "morphology": {
+      "root": "busa",
+      "derivation": "",
+      "noun_class": ""
+    },
+    "senses": [
+      {
+        "sense_id": "st_G1_014.sense_1",
+        "definition_en": "To hold sway or authority over.",
+        "sesotho_term": [
+          "busa"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "entry_e751ae0f54277f24",
+    "headword_english": "Draught",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_e751ae0f54277f24.sense_1",
+        "definition_en": "bo-hula; (drink) se noang hang; (of air) moea; (of a ship) botebo ba sekepe metsing",
+        "sesotho_term": [
+          "bo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_c386d533c8c16e36",
+    "headword_english": "Dreadfulness",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "botšabeho",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "botšabeho"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_c386d533c8c16e36.sense_1",
+        "definition_en": "botšabeho",
+        "sesotho_term": [
+          "botšabeho"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_666db66c45bf9c67",
+    "headword_english": "Drone",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bee",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bee"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_666db66c45bf9c67.sense_1",
+        "definition_en": "(bee) notsi e tona; (idler) motho ea botsoa",
+        "sesotho_term": [
+          "bee"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_369410f3cc6dff6b",
+    "headword_english": "Drunkenness",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "botahoa",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "botahoa"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_369410f3cc6dff6b.sense_1",
+        "definition_en": "botahoa",
+        "sesotho_term": [
+          "botahoa"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_9a8f99ae66657aab",
+    "headword_english": "Dudgeon",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bohale",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bohale"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_9a8f99ae66657aab.sense_1",
+        "definition_en": "bohale, khalefo",
+        "sesotho_term": [
+          "bohale"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_6757c72cd285739e",
+    "headword_english": "Dulness",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bothoto",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bothoto"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_6757c72cd285739e.sense_1",
+        "definition_en": "bothoto",
+        "sesotho_term": [
+          "bothoto"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_d1b53517b462653e",
+    "headword_english": "Dung",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boloke",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boloke"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_d1b53517b462653e.sense_1",
+        "definition_en": "boloke, bolokoe",
+        "sesotho_term": [
+          "boloke"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_7bcf1bfaf7711295",
+    "headword_english": "Ease",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boiketlo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "khotso",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boiketlo",
+      "khotso"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_7bcf1bfaf7711295.sense_1",
+        "definition_en": "boiketlo, khotso; v. ho thoba, ho kokobetsa",
+        "sesotho_term": [
+          "boiketlo",
+          "khotso"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_884f7396f2187acb",
+    "headword_english": "East",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bochabela",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-cha-be-la"
+    ],
+    "morphology": {
+      "root": "chaba",
+      "derivation": "Direction where the sun rises (chaba).",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_884f7396f2187acb.sense_1",
+        "definition_en": "the direction toward the point of the horizon where the sun rises at the equinoxes",
+        "sesotho_term": [
+          "bochabela"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "entry_dc512dde19aed93e",
+    "headword_english": "East",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bochabela",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-cha-be-la"
+    ],
+    "morphology": {
+      "root": "chaba",
+      "derivation": "Direction where the sun rises (chaba).",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_dc512dde19aed93e.sense_1",
+        "definition_en": "the direction toward the point of the horizon where the sun rises",
+        "sesotho_term": [
+          "bochabela"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G13_011",
+    "headword_english": "East",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bochabela",
+        "tone_marked": "bōchābēlā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-cha-be-la"
+    ],
+    "morphology": {
+      "root": "chaba",
+      "derivation": "From 'chaba' (to rise/sun rise).",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G13_011.sense_1",
+        "definition_en": "The direction where the sun rises.",
+        "sesotho_term": [
+          "bochabela"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G2_006",
+    "headword_english": "East / Eastward",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bochabela",
+        "tone_marked": "bōchābēlā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-cha-be-la"
+    ],
+    "morphology": {
+      "root": "chaba",
+      "derivation": "From 'chaba' (to rise - of the sun).",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G2_006.sense_1",
+        "definition_en": "The direction toward which the sun rises.",
+        "sesotho_term": [
+          "bochabela"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_NUM02_02",
+    "headword_english": "East / Rising Sun",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bochabela",
+        "tone_marked": "bōchābēlā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bochabela"
+    ],
+    "morphology": {
+      "root": "chaba",
+      "derivation": "From 'chaba' (to rise, of the sun).",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "geo_01",
+        "definition_en": "The direction toward the point of the horizon where the sun rises at the equinoxes.",
+        "sesotho_term": [
+          "bochaba-tsatsi"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_MED_01",
+    "headword_english": "Elders / Leaders",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "banna ba baholo",
+        "tone_marked": "bānnā bā bāhōlō",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "banna ba baholo"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "st_MED_01.sense_1",
+        "definition_en": "Traditional leaders of a tribe or community charged with governance.",
+        "sesotho_term": [
+          "banna ba baholo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_19674a77678d4fe7",
+    "headword_english": "Embassy",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "baemeli ba morena",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "baemeli ba morena"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_19674a77678d4fe7.sense_1",
+        "definition_en": "baemeli ba morena",
+        "sesotho_term": [
+          "baemeli ba morena"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_6a7e0909344ee50d",
+    "headword_english": "Enamity",
+    "pos": [
+      "verb"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bora",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bora"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_6a7e0909344ee50d.sense_1",
+        "definition_en": "bora, hloeano.",
+        "sesotho_term": [
+          "bora"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_cf0bce5824cb41c5",
+    "headword_english": "End",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bofelo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "ho qeta",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "phetse",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "utlha",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bofelo",
+      "ho qeta",
+      "phetse",
+      "utlha"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_cf0bce5824cb41c5.sense_1",
+        "definition_en": "utlha, ntsi, bofelo,",
+        "sesotho_term": [
+          "utlha"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_72dc41e1c21d34c4",
+    "headword_english": "England",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "batho",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "batho"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_72dc41e1c21d34c4.sense_1",
+        "definition_en": "batho ba naha ea England; an",
+        "sesotho_term": [
+          "batho"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G3_007",
+    "headword_english": "Enmity / Bora",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bora",
+        "tone_marked": "bōrā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-ra"
+    ],
+    "morphology": {
+      "root": "hora",
+      "derivation": "",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G3_007.sense_1",
+        "definition_en": "The state or feeling of being actively opposed or hostile to someone or something.",
+        "sesotho_term": [
+          "bora",
+          "lonya"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "entry_e60bf626f34547c3",
+    "headword_english": "Estate",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boemo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boemo"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "sense_a4c452cbd4ce4e9f",
+        "definition_en": "boemo; naha kapa thepa ea motho",
+        "sesotho_term": [
+          "boemo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_e66ac0e69dba2dd9",
+    "headword_english": "Eternity",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bosafeleng",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "bophelo bo sa feleng",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bosafeleng",
+      "bophelo bo sa feleng"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_e66ac0e69dba2dd9.sense_1",
+        "definition_en": "bosafeleng, bophelo bo sa feleng",
+        "sesotho_term": [
+          "bosafeleng",
+          "bophelo bo sa feleng"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_a5407e295a3cacab",
+    "headword_english": "Evidence",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bopaki",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "paki",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "pontšo e hlakileng",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bopaki",
+      "paki",
+      "pontšo e hlakileng"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_a5407e295a3cacab.sense_1",
+        "definition_en": "paki, pontšo ea 'nete",
+        "sesotho_term": [
+          "paki"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_f53b6cf5af745394",
+    "headword_english": "Evil",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bobe",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "bokhopo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bobe",
+      "bokhopo"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_f53b6cf5af745394.sense_1",
+        "definition_en": "(n) bobe, bokhopo; (adj) e mpe",
+        "sesotho_term": [
+          "bobe",
+          "bokhopo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_23adceef42befe9f",
+    "headword_english": "Excellence",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bokhabane",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "hloleho",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bokhabane",
+      "hloleho"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_23adceef42befe9f.sense_1",
+        "definition_en": "bokhabane, hloleho",
+        "sesotho_term": [
+          "bokhabane",
+          "hloleho"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_EX15_01",
+    "headword_english": "Excellence / Greatness",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bophahamo",
+        "tone_marked": "bōphāhāmō",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bophahamo"
+    ],
+    "morphology": {
+      "root": "phahama",
+      "derivation": "From 'phahama' (to be high/exalted)",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "qual_01",
+        "definition_en": "The quality of being outstanding or extremely good; majesty.",
+        "sesotho_term": [
+          "bophahamo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_EX20_01",
+    "headword_english": "Exclusive devotion / Jealousy",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "boinehelo bo khethehileng",
+        "tone_marked": "bōīnēhēlō bō khēthēhīlēng",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boinehelo bo khethehileng"
+    ],
+    "morphology": {
+      "root": "nehela",
+      "derivation": "From 'inehela' (to give oneself) and 'khethehileng' (special/holy)",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "rel_01",
+        "definition_en": "The requirement of total and singular loyalty to God.",
+        "sesotho_term": [
+          "boinehelo bo khethehileng"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_cdcfdaa972f19310",
+    "headword_english": "Extremity",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bofelo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "pheletso",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bofelo",
+      "pheletso"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_cdcfdaa972f19310.sense_1",
+        "definition_en": "bofelo, pheletso",
+        "sesotho_term": [
+          "bofelo",
+          "pheletso"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_bc7f5006b1c1bfca",
+    "headword_english": "Facility",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bobebé",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bobebé"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_bc7f5006b1c1bfca.sense_1",
+        "definition_en": "bobebé, bonolo.",
+        "sesotho_term": [
+          "bobebé",
+          "bonolo."
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_af21d87ce6f8b24a",
+    "headword_english": "Fame",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "botumo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "botumo"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_af21d87ce6f8b24a.sense_1",
+        "definition_en": "botumo, molun",
+        "sesotho_term": [
+          "botumo",
+          "molun"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_c0089a4ed3fb126f",
+    "headword_english": "Family",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bathd ba ntld e",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bathd ba ntld e"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_c0089a4ed3fb126f.sense_1",
+        "definition_en": "bathd ba ntld e",
+        "sesotho_term": [
+          "bathd ba ntld e"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_73e967cc51ab9a03",
+    "headword_english": "Fault",
+    "pos": [
+      "unknown"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bia molaté",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bia molaté"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_73e967cc51ab9a03.sense_1",
+        "definition_en": "bia molaté,.nyatsa.",
+        "sesotho_term": [
+          "bia molaté",
+          ".nyatsa."
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "conv_flat_84b81c71",
+    "headword_english": "Feature-film",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "baesekopo e tletseng kapa e telele",
+        "tone_marked": "baesekopo e tletseng kapa e telele",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "baesekopo e tletseng kapa e telele"
+    ],
+    "morphology": {
+      "root": "baesekopo e tletseng kapa e telele",
+      "derivation": "",
+      "noun_class": "None"
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_84b81c71_s1",
+        "definition_en": "baesekopo e tletseng kapa e telele.",
+        "sesotho_term": [
+          "baesekopo e tletseng kapa e telele"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_893b36cf23b7a99f",
+    "headword_english": "Feeling",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boikutlo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boikutlo"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_893b36cf23b7a99f.sense_1",
+        "definition_en": "boikutlo, oftener",
+        "sesotho_term": [
+          "boikutlo",
+          "oftener"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_3b9b1283a7125f50",
+    "headword_english": "Fellowship",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bothaka",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bothaka"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_3b9b1283a7125f50.sense_1",
+        "definition_en": "bothaka, se-",
+        "sesotho_term": [
+          "bothaka",
+          "se-"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_dfa8fd40d3308a0f",
+    "headword_english": "Ferocity",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bohale bo tad. Nang mali",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bohale bo tad. Nang mali"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_dfa8fd40d3308a0f.sense_1",
+        "definition_en": ", bohale bo tad. Nang mali, sehlohé, soré",
+        "sesotho_term": [
+          "bohale bo tad. Nang mali",
+          "sehlohé",
+          "soré"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "conv_flat_7733525d",
+    "headword_english": "Filter-bubble",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "boemo ba ho bontšoa litaba tseo u li ratang feela marang-rang",
+        "tone_marked": "boemo ba ho bontšoa litaba tseo u li ratang feela marang-rang",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boemo ba ho bontšoa litaba tseo u li ratang feela marang-rang"
+    ],
+    "morphology": {
+      "root": "boemo ba ho bontšoa litaba tseo u li ratang feela marang-rang",
+      "derivation": "",
+      "noun_class": "None"
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_7733525d_s1",
+        "definition_en": "boemo ba ho bontšoa litaba tseo u li ratang feela marang-rang.",
+        "sesotho_term": [
+          "boemo ba ho bontšoa litaba tseo u li ratang feela marang-rang"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "conv_flat_2c9ca59c",
+    "headword_english": "Flight-mode",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "boemo ba fono bo thibelang marang-rang",
+        "tone_marked": "boemo ba fono bo thibelang marang-rang",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boemo ba fono bo thibelang marang-rang"
+    ],
+    "morphology": {
+      "root": "boemo ba fono bo thibelang marang-rang",
+      "derivation": "",
+      "noun_class": "None"
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_2c9ca59c_s1",
+        "definition_en": "boemo ba fono bo thibelang marang-rang (mokhoa oa sefofane).",
+        "sesotho_term": [
+          "boemo ba fono bo thibelang marang-rang"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_18fe08fc3b9e93b1",
+    "headword_english": "Folly",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bohlanya",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bohlanya"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_18fe08fc3b9e93b1.sense_1",
+        "definition_en": "bohlanya, booatla, bothoto.",
+        "sesotho_term": [
+          "bohlanya",
+          "booatla",
+          "bothoto."
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_bdc25a8a0e77aeb3",
+    "headword_english": "Foolishness",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "booatla",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "booatla"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_bdc25a8a0e77aeb3.sense_1",
+        "definition_en": "booatla, bothoto.",
+        "sesotho_term": [
+          "booatla",
+          "bothoto."
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_50c9c3e5437a2e78",
+    "headword_english": "Footmark",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bohato",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bohato"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_50c9c3e5437a2e78.sense_1",
+        "definition_en": "bohato, mohlala. Foot and mouth disease, n. mokaka.",
+        "sesotho_term": [
+          "bohato",
+          "mohlala. Foot and mouth disease",
+          "n. mokaka."
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_e7b84156988fff65",
+    "headword_english": "Foppery",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bokako.",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bokako."
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_e7b84156988fff65.sense_1",
+        "definition_en": "bokako.",
+        "sesotho_term": [
+          "bokako."
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_a532bda7edf585a0",
+    "headword_english": "Forgetfulness",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bolebali",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bolebali"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_a532bda7edf585a0.sense_1",
+        "definition_en": "bolebali,",
+        "sesotho_term": [
+          "bolebali"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_5e72558ebb2924ab",
+    "headword_english": "Fornication",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bohtola.",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bohtola."
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_5e72558ebb2924ab.sense_1",
+        "definition_en": "bohtola.",
+        "sesotho_term": [
+          "bohtola."
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_0fed549accb93ddd",
+    "headword_english": "Fraternity",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boena.",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boena."
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_0fed549accb93ddd.sense_1",
+        "definition_en": "boena.",
+        "sesotho_term": [
+          "boena."
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "conv_flat_6b762021",
+    "headword_english": "Full-HD",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "boleng bo phahameng haholo ba setšoantšo kapa video",
+        "tone_marked": "boleng bo phahameng haholo ba setšoantšo kapa video",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boleng bo phahameng haholo ba setšoantšo kapa video"
+    ],
+    "morphology": {
+      "root": "boleng bo phahameng haholo ba setšoantšo kapa video",
+      "derivation": "",
+      "noun_class": "None"
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_6b762021_s1",
+        "definition_en": "boleng bo phahameng haholo ba setšoantšo kapa video.",
+        "sesotho_term": [
+          "boleng bo phahameng haholo ba setšoantšo kapa video"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "conv_flat_e1d27ae7",
+    "headword_english": "Functionality",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bokhoni ba mochini kapa lenaneo la ho etsa mosebetsi",
+        "tone_marked": "bokhoni ba mochini kapa lenaneo la ho etsa mosebetsi",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bokhoni ba mochini kapa lenaneo la ho etsa mosebetsi"
+    ],
+    "morphology": {
+      "root": "bokhoni ba mochini kapa lenaneo la ho etsa mosebetsi",
+      "derivation": "",
+      "noun_class": "None"
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_e1d27ae7_s1",
+        "definition_en": "bokhoni ba mochini kapa lenaneo la ho etsa mosebetsi.",
+        "sesotho_term": [
+          "bokhoni ba mochini kapa lenaneo la ho etsa mosebetsi"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "conv_flat_aed60d28",
+    "headword_english": "Graphic-design",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bonono ba ho rala litšoantšo le melaetsa ka k'homphieutha",
+        "tone_marked": "bonono ba ho rala litšoantšo le melaetsa ka k'homphieutha",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bonono ba ho rala litšoantšo le melaetsa ka k'homphieutha"
+    ],
+    "morphology": {
+      "root": "bonono ba ho rala litšoantšo le melaetsa ka k'homphieutha",
+      "derivation": "",
+      "noun_class": "None"
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_aed60d28_s1",
+        "definition_en": "bonono ba ho rala litšoantšo le melaetsa ka k'homphieutha.",
+        "sesotho_term": [
+          "bonono ba ho rala litšoantšo le melaetsa ka k'homphieutha"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G13_004",
+    "headword_english": "Herdsmen",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "balisa",
+        "tone_marked": "bālīsā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "ba-li-sa"
+    ],
+    "morphology": {
+      "root": "lisa",
+      "derivation": "From 'lisa' (to herd/watch).",
+      "noun_class": "2"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G13_004.sense_1",
+        "definition_en": "People who look after livestock.",
+        "sesotho_term": [
+          "balisa"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G13_002",
+    "headword_english": "Herdsmen / Shepherds",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "balisa",
+        "tone_marked": "balisa",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "balisa"
+    ],
+    "morphology": {
+      "root": "disa",
+      "derivation": "From verb 'disa' (to herd/watch animals)",
+      "noun_class": "2"
+    },
+    "senses": [
+      {
+        "sense_id": "herdsman_01",
+        "definition_en": "the owner or keeper of a herd of domesticated animals",
+        "sesotho_term": [
+          "balisa"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G28_EX_08",
+    "headword_english": "House of God",
+    "pos": [
+      "n. prop"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "Bethele",
+        "tone_marked": "Bēthēlē",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "be-the-le"
+    ],
+    "morphology": {
+      "root": "Bethele",
+      "derivation": "Transliteration of Hebrew Beth-El",
+      "noun_class": "9"
+    },
+    "senses": [
+      {
+        "sense_id": "loc_01",
+        "definition_en": "The name given to the site of Jacob's dream, meaning 'House of God'; formerly called Luz.",
+        "sesotho_term": [
+          "Bethele"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G7_007",
+    "headword_english": "Household / House",
+    "pos": [
+      "n. phrase"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ba ntlo",
+        "tone_marked": "bā ntlō",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "ba ntlo"
+    ],
+    "morphology": {
+      "root": "ntlo",
+      "derivation": "",
+      "noun_class": ""
+    },
+    "senses": [
+      {
+        "sense_id": "st_G7_007.sense_1",
+        "definition_en": "A house and its occupants.",
+        "sesotho_term": [
+          "ba ntlo",
+          "lelapa"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_NUM12_01",
+    "headword_english": "Humble / Meek",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bonolo",
+        "tone_marked": "bōnōlō",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bonolo"
+    ],
+    "morphology": {
+      "root": "nolo",
+      "derivation": "From the root '-nolo' (soft/supple/gentle).",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "virtue_05",
+        "definition_en": "The quality of being patient, long-suffering, and submissive to divine will without pride.",
+        "sesotho_term": [
+          "boikokobetso"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_EX1_05",
+    "headword_english": "Infants / Little ones",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bana ba banyenyane",
+        "tone_marked": "bānā bā bānyēnyānē",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bana ba banyenyane"
+    ],
+    "morphology": {
+      "root": "ngwana",
+      "derivation": "Plural 'children' + 'small'",
+      "noun_class": "2"
+    },
+    "senses": [
+      {
+        "sense_id": "soc_01",
+        "definition_en": "Young children or newborns.",
+        "sesotho_term": [
+          "bana ba banyenyane"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G10_006",
+    "headword_english": "Kingdom / Rule",
+    "pos": [
+      "v. / n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "busa",
+        "tone_marked": "būsā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bu-sa"
+    ],
+    "morphology": {
+      "root": "busa",
+      "derivation": "From 'busa' (to rule/govern).",
+      "noun_class": ""
+    },
+    "senses": [
+      {
+        "sense_id": "st_G10_006.sense_1",
+        "definition_en": "To rule or exercise authority over a territory or people.",
+        "sesotho_term": [
+          "busa",
+          "puso"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G13_014",
+    "headword_english": "Length",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bolelele",
+        "tone_marked": "bōlēlēlē",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-le-le-le"
+    ],
+    "morphology": {
+      "root": "lelele",
+      "derivation": "Abstract noun from 'lelele' (long).",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G13_014.sense_1",
+        "definition_en": "The measurement or extent of something from end to end.",
+        "sesotho_term": [
+          "bolelele"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G1_007",
+    "headword_english": "Night",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bosiu",
+        "tone_marked": "bōsīū",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-si-u"
+    ],
+    "morphology": {
+      "root": "siu",
+      "derivation": "",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G1_007.sense_1",
+        "definition_en": "The period of darkness between sunset and sunrise.",
+        "sesotho_term": [
+          "bosiu"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "entry_be775714dd836e09",
+    "headword_english": "Night",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bosiu",
+        "tone_marked": "bosiu",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-si-u"
+    ],
+    "morphology": {
+      "root": "siu",
+      "derivation": "",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_be775714dd836e09.sense_1",
+        "definition_en": "the period of darkness between sunset and sunrise",
+        "sesotho_term": [
+          "bosiu"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "darkness",
+        "nighttime"
+      ],
+      "synonyms_st": [],
+      "antonyms_en": [
+        "day"
+      ],
+      "antonyms_st": [
+        "motšehare"
+      ]
+    },
+    "related_words": []
+  },
+  {
+    "entry_id": "def_enrich_05",
+    "headword_english": "Obligation",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boikarabelo",
+        "tone_marked": "bōīkārābēlō",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-i-ka-ra-be-lo"
+    ],
+    "morphology": {
+      "root": "karaba",
+      "derivation": "Reflexive noun from 'karaba' (to answer/respond)",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "leg_01",
+        "definition_en": "An act or course of action to which a person is morally or legally bound; a duty or commitment.",
+        "definition_st": "Ketso kapa tsela ea ho etsa eo motho a tlamehang ho e etsa ka molao kapa boitšoaro; mosebetsi kapa boitlamo.",
+        "sesotho_term": [
+          "boikarabelo"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX29_04",
+    "headword_english": "Offal / Dung / Waste",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bolokoe",
+        "tone_marked": "bōlōkōē",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bolokoe"
+    ],
+    "morphology": {
+      "root": "bolokoe",
+      "derivation": "Common term for cattle dung/excrement.",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "mat_01",
+        "definition_en": "The refuse or intestinal waste of the sacrificial animal.",
+        "sesotho_term": [
+          "bolokoe ba eona"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G3_003",
+    "headword_english": "Open (eyes)",
+    "pos": [
+      "v."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bula",
+        "tone_marked": "būlā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bu-la"
+    ],
+    "morphology": {
+      "root": "bula",
+      "derivation": "",
+      "noun_class": ""
+    },
+    "senses": [
+      {
+        "sense_id": "st_G3_003.sense_1",
+        "definition_en": "To move (a door, window, etc.) so as to leave a space that can be passed through; to unclose eyes.",
+        "sesotho_term": [
+          "bula"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G3_008",
+    "headword_english": "Pain / Sorrow",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bohloko",
+        "tone_marked": "bōhlōkō",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-hlo-ko"
+    ],
+    "morphology": {
+      "root": "hloko",
+      "derivation": "",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G3_008.sense_1",
+        "definition_en": "Physical suffering or discomfort caused by illness or injury; mental suffering.",
+        "sesotho_term": [
+          "bohloko"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_NUM10_02",
+    "headword_english": "Rear guard",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "balebeli ba ka morao",
+        "tone_marked": "bālēbēlī bā kā mōrāō",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "balebeli ba ka morao"
+    ],
+    "morphology": {
+      "root": "lebela",
+      "derivation": "From 'lebela' (to watch/guard) and 'morao' (behind).",
+      "noun_class": "2"
+    },
+    "senses": [
+      {
+        "sense_id": "mil_04",
+        "definition_en": "The military formation at the back of a column that protects the group from attacks from behind.",
+        "sesotho_term": [
+          "ba sireletsang morao"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G12_001",
+    "headword_english": "Relatively / Kin",
+    "pos": [
+      "n. phrase"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "beng ka uena",
+        "tone_marked": "bēng kā ūēnā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "be-ng ka u-e-na"
+    ],
+    "morphology": {
+      "root": "mong",
+      "derivation": "From 'mong' (owner/master) + possessive phrase.",
+      "noun_class": "2"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G12_001.sense_1",
+        "definition_en": "Family members or kinsfolk.",
+        "sesotho_term": [
+          "beng ka uena"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX18_02",
+    "headword_english": "Rulers / Captains",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "balaoli",
+        "tone_marked": "bālāōlī",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "balaoli"
+    ],
+    "morphology": {
+      "root": "laola",
+      "derivation": "Plural of 'molaoli' (one who commands/controls)",
+      "noun_class": "2"
+    },
+    "senses": [
+      {
+        "sense_id": "soc_01",
+        "definition_en": "People in charge of a specific group; administrators.",
+        "sesotho_term": [
+          "balaoli ba ba likete"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_EX25_02",
+    "headword_english": "Showbread / Bread of the Presence",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bohobe ba pontšo",
+        "tone_marked": "bōhōbē bā pōntshō",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bohobe ba pontšo"
+    ],
+    "morphology": {
+      "root": "bohobe / pontšo",
+      "derivation": "From 'bohobe' (bread) and 'pontšo' (display/presence).",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "rel_01",
+        "definition_en": "Twelve loaves of bread set out in the Tabernacle as a symbol of God's provision and communion.",
+        "sesotho_term": [
+          "bohobe ba pontšo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G13_011",
+    "headword_english": "Sinners",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "baetsalibe",
+        "tone_marked": "baetsalibe",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "baetsalibe"
+    ],
+    "morphology": {
+      "root": "etsa-libe",
+      "derivation": "Compound: Ba (people) + etsa (do) + libe (sins)",
+      "noun_class": "2"
+    },
+    "senses": [
+      {
+        "sense_id": "moral_01",
+        "definition_en": "people who commit immoral acts or transgressions against God",
+        "sesotho_term": [
+          "baetsalibe"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G2_023",
+    "headword_english": "Sleep",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "boroko",
+        "tone_marked": "boroko",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boroko"
+    ],
+    "morphology": {
+      "root": "robala",
+      "derivation": "Deverbative abstract noun from 'robala' (to sleep), prefix bo-",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "sleep_01",
+        "definition_en": "a deep, heavy state of sleeping; the natural periodic suspension of consciousness",
+        "sesotho_term": [
+          "boroko",
+          "boroko bo tebileng"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "slumber",
+        "rest",
+        "repose"
+      ],
+      "antonyms_en": [
+        "wakefulness"
+      ],
+      "synonyms_st": [
+        "phomolo"
+      ],
+      "antonyms_st": [
+        "ho phaphama"
+      ]
+    }
+  },
+  {
+    "entry_id": "st_G2_020",
+    "headword_english": "Sleep (Deep)",
+    "pos": [
+      "n. phrase"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boroko bo tebileng",
+        "tone_marked": "bōrōkō bō tēbīlēng",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-ro-ko bo te-bi-leng"
+    ],
+    "morphology": {
+      "root": "robala",
+      "derivation": "",
+      "noun_class": ""
+    },
+    "senses": [
+      {
+        "sense_id": "st_G2_020.sense_1",
+        "definition_en": "A state of rest in which the eyes are closed and the mind is unconscious.",
+        "sesotho_term": [
+          "boroko bo tebileng"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX6_03",
+    "headword_english": "Sojourning / Pilgrimage",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bojaki",
+        "tone_marked": "bōjākī",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bojaki"
+    ],
+    "morphology": {
+      "root": "jaka",
+      "derivation": "The state of being a 'mojaki' (stranger/sojourner)",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "state_02",
+        "definition_en": "Living in a place that is not one's native home; a temporary stay.",
+        "sesotho_term": [
+          "bojaki"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_EX7_02",
+    "headword_english": "Sorcerers / Magicians",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "baloi",
+        "tone_marked": "bālōī",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "baloi"
+    ],
+    "morphology": {
+      "root": "loea",
+      "derivation": "Plural of 'moloi'; those who practice magic/sorcery",
+      "noun_class": "2"
+    },
+    "senses": [
+      {
+        "sense_id": "soc_01",
+        "definition_en": "Persons who claim or are believed to have magic powers.",
+        "sesotho_term": [
+          "baloi"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_NUM23_02",
+    "headword_english": "Sorcery / Magic",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "boloi",
+        "tone_marked": "bōlōī",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boloi"
+    ],
+    "morphology": {
+      "root": "loi",
+      "derivation": "The practice of using supernatural power for harm.",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "occult_01",
+        "definition_en": "Occult practices or spells intended to cause misfortune.",
+        "sesotho_term": [
+          "selotho"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G13_010",
+    "headword_english": "South",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boroa",
+        "tone_marked": "bōrōā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-roa"
+    ],
+    "morphology": {
+      "root": "boroa",
+      "derivation": "",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G13_010.sense_1",
+        "definition_en": "The direction of the South pole.",
+        "sesotho_term": [
+          "boroa"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G15_EX_020",
+    "headword_english": "Strangers / Aliens",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "balichaba",
+        "tone_marked": "bālīchābā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "ba-li-cha-ba"
+    ],
+    "morphology": {
+      "root": "chaba",
+      "derivation": "Literal: 'people of [other] nations'.",
+      "noun_class": "2"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G15_EX_020.sense_1",
+        "definition_en": "Foreigners or people living in a land not their own.",
+        "sesotho_term": [
+          "balichaba",
+          "bajaki"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G15_C20",
+    "headword_english": "Strangers / Sojourners",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bajaki",
+        "tone_marked": "bājākī",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bajaki"
+    ],
+    "morphology": {
+      "root": "jaka",
+      "derivation": "From 'jaka' (to reside away from home)",
+      "noun_class": "2"
+    },
+    "senses": [
+      {
+        "sense_id": "status_01",
+        "definition_en": "Temporary residents in a land not their own.",
+        "sesotho_term": [
+          "bajaki"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_EX10_02",
+    "headword_english": "Strong / Able-bodied men",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "banna ba shahlileng",
+        "tone_marked": "bānnā bā shāhlīlēng",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "banna ba shahlileng"
+    ],
+    "morphology": {
+      "root": "shahla",
+      "derivation": "From 'shahla' (to be muscular/robust)",
+      "noun_class": "2"
+    },
+    "senses": [
+      {
+        "sense_id": "soc_01",
+        "definition_en": "Adult men who are physically strong and fit for labor or war.",
+        "sesotho_term": [
+          "banna ba shahlileng"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G17_003",
+    "headword_english": "To Circumcise",
+    "pos": [
+      "v."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bolotsa",
+        "tone_marked": "bōlōtsā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-lo-tsa"
+    ],
+    "morphology": {
+      "root": "bolotsa",
+      "derivation": "Traditional term for initiation/circumcision.",
+      "noun_class": ""
+    },
+    "senses": [
+      {
+        "sense_id": "st_G17_003.sense_1",
+        "definition_en": "To remove the foreskin; a ritual sign of the covenant.",
+        "sesotho_term": [
+          "bolotsa",
+          "bolotswa"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G41_EX_02",
+    "headword_english": "To collect / Gather",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bokelle",
+        "tone_marked": "bōkēllē",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bokelle"
+    ],
+    "morphology": {
+      "root": "bokana",
+      "derivation": "Perfective/Applied form of 'bokella' (to amass)",
+      "noun_class": "None"
+    },
+    "senses": [
+      {
+        "sense_id": "act_01",
+        "definition_en": "To bring together a large amount of resources over time.",
+        "sesotho_term": [
+          "bokelle"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G15_EX_003",
+    "headword_english": "To count / Number",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bala",
+        "tone_marked": "bala",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bala"
+    ],
+    "morphology": {
+      "root": "bala",
+      "derivation": "",
+      "noun_class": "None"
+    },
+    "senses": [
+      {
+        "sense_id": "math_01",
+        "definition_en": "to determine the total number of items",
+        "sesotho_term": [
+          "bala"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G23_EX_01",
+    "headword_english": "To mourn / Lament",
+    "pos": [
+      "v."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bokollela",
+        "tone_marked": "bōkōllēlā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-ko-lle-la"
+    ],
+    "morphology": {
+      "root": "bokolla",
+      "derivation": "Applied form of 'bokolla' (to wail)",
+      "noun_class": "None"
+    },
+    "senses": [
+      {
+        "sense_id": "emotion_01",
+        "definition_en": "To express deep grief through loud wailing or lamentation.",
+        "sesotho_term": [
+          "bokollela"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G36_EX_04",
+    "headword_english": "To reign / Rule",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "busitse",
+        "tone_marked": "būsītsē",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "busitse"
+    ],
+    "morphology": {
+      "root": "busa",
+      "derivation": "Perfect form of 'busa' (to govern/reign)",
+      "noun_class": "None"
+    },
+    "senses": [
+      {
+        "sense_id": "pol_01",
+        "definition_en": "To hold royal authority or exercise control over a country.",
+        "sesotho_term": [
+          "busitse"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G23_EX_05",
+    "headword_english": "To weigh out",
+    "pos": [
+      "v."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bekhela",
+        "tone_marked": "bēkhēlā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "be-khe-la"
+    ],
+    "morphology": {
+      "root": "bekha",
+      "derivation": "Applied form of 'bekha' (to weigh)",
+      "noun_class": "None"
+    },
+    "senses": [
+      {
+        "sense_id": "commerce_01",
+        "definition_en": "To measure the mass of silver or gold used as currency.",
+        "sesotho_term": [
+          "bekhela"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G37_EX_03",
+    "headword_english": "Traders / Merchants",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bahoebi",
+        "tone_marked": "bāhōēbī",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bahoebi"
+    ],
+    "morphology": {
+      "root": "hoeba",
+      "derivation": "Plural noun from 'hoeba' (to trade)",
+      "noun_class": "2"
+    },
+    "senses": [
+      {
+        "sense_id": "econ_01",
+        "definition_en": "People who buy and sell goods for profit, often traveling long distances in caravans.",
+        "sesotho_term": [
+          "bahoebi"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G14_005",
+    "headword_english": "Trained men",
+    "pos": [
+      "adj. phrase"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ba koetlisitsoeng",
+        "tone_marked": "bā kōētlīsītsōēng",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "ba koe-tli-si-tsoeng"
+    ],
+    "morphology": {
+      "root": "koetlisa",
+      "derivation": "From 'koetlisa' (to train/drill).",
+      "noun_class": "2"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G14_005.sense_1",
+        "definition_en": "Men skilled or drilled for a specific task, such as combat.",
+        "sesotho_term": [
+          "ba koetlisitsoeng"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_LEV27_01",
+    "headword_english": "Vow / Commitment",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "boitlamo",
+        "tone_marked": "bōītlāmō",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "boitlamo"
+    ],
+    "morphology": {
+      "root": "itlama",
+      "derivation": "From 'itlama' (to bind oneself).",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "rel_09",
+        "definition_en": "A voluntary promise made to God to perform some act or make some offering.",
+        "sesotho_term": [
+          "khethelo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G28_EX_09",
+    "headword_english": "Vow / Pledge",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boitlamo",
+        "tone_marked": "bōītlāmō",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-i-tla-mo"
+    ],
+    "morphology": {
+      "root": "tlama",
+      "derivation": "Reflexive noun from 'tlama' (to bind/tie)",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "leg_01",
+        "definition_en": "A solemn promise to perform an action or maintain a behavior in exchange for divine help.",
+        "sesotho_term": [
+          "boitlamo"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G13_012",
+    "headword_english": "West",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bophirimela",
+        "tone_marked": "bōphīrīmēlā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-phi-ri-me-la"
+    ],
+    "morphology": {
+      "root": "phirimela",
+      "derivation": "From 'phirima' (to set/sun set).",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G13_012.sense_1",
+        "definition_en": "The direction where the sun sets.",
+        "sesotho_term": [
+          "bophirimela"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G6_007",
+    "headword_english": "Wickedness / Evil",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bolotsana",
+        "tone_marked": "bōlōtsānā",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bo-lo-tsa-na"
+    ],
+    "morphology": {
+      "root": "bolotsana",
+      "derivation": "",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G6_007.sense_1",
+        "definition_en": "The quality of being evil or morally wrong.",
+        "sesotho_term": [
+          "bolotsana",
+          "bosula"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G38_EX_02",
+    "headword_english": "Widowhood",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bohlolohali",
+        "tone_marked": "bōhlōlōhālī",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bohlolohali"
+    ],
+    "morphology": {
+      "root": "hlola",
+      "derivation": "Abstract noun from 'mohlolohali' (widow)",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "state_01",
+        "definition_en": "The state or period of being a widow; characterized by specific 'liaparo' (garments).",
+        "sesotho_term": [
+          "bohlolohali"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G13_010",
+    "headword_english": "Width / Breadth",
+    "pos": [],
+    "headword_sesotho": [
+      {
+        "orthographic": "bophara",
+        "tone_marked": "bophara",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "bophara"
+    ],
+    "morphology": {
+      "root": "phara",
+      "derivation": "Abstract noun",
+      "noun_class": "14"
+    },
+    "senses": [
+      {
+        "sense_id": "measure_02",
+        "definition_en": "the measurement or extent of something from side to side",
+        "sesotho_term": [
+          "bophara"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_A_013",
+    "headword_english": "Adultery",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bofebe",
+        "tone_marked": ""
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "bo-fe-be",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "source": "Dictionary integration",
+      "alternatives": []
+    },
+    "senses": [
+      {
+        "sense_id": "st_A_013.sense_1",
+        "definition_en": "Adultery",
+        "sesotho_term": [
+          "bofebe"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_A_018",
+    "headword_english": "Adversity",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bomalibe",
+        "tone_marked": ""
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "bo-ma-li-be",
+        "syllable_count": 4
+      }
+    ],
+    "morphology": {
+      "source": "Dictionary integration",
+      "alternatives": [
+        "bosoto"
+      ]
+    },
+    "senses": [
+      {
+        "sense_id": "st_A_018.sense_1",
+        "definition_en": "Adversity",
+        "sesotho_term": [
+          "bomalibe"
+        ]
+      },
+      {
+        "sense_id": "st_A_018.sense_2",
+        "definition_en": "Adversity",
+        "sesotho_term": [
+          "bosoto"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_A_043",
+    "headword_english": "Agility",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bobebe",
+        "tone_marked": ""
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "bo-be-be",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "source": "Dictionary integration",
+      "alternatives": [
+        "lebelo"
+      ]
+    },
+    "senses": [
+      {
+        "sense_id": "st_A_043.sense_1",
+        "definition_en": "Agility",
+        "sesotho_term": [
+          "bobebe"
+        ]
+      },
+      {
+        "sense_id": "st_A_043.sense_2",
+        "definition_en": "Agility",
+        "sesotho_term": [
+          "lebelo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_A_050",
+    "headword_english": "Agriculture",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bolemi",
+        "tone_marked": ""
+      }
+    ],
+    "syllables": [
+      {
+        "orthographic": "bo-le-mi",
+        "syllable_count": 3
+      }
+    ],
+    "morphology": {
+      "source": "Dictionary integration",
+      "alternatives": [
+        "temo"
+      ]
+    },
+    "senses": [
+      {
+        "sense_id": "st_A_050.sense_1",
+        "definition_en": "Agriculture",
+        "sesotho_term": [
+          "bolemi"
+        ]
+      },
+      {
+        "sense_id": "st_A_050.sense_2",
+        "definition_en": "Agriculture",
+        "sesotho_term": [
+          "temo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  }
+]

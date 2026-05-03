@@ -65,13 +65,13 @@ class SplitDatasetsTests(unittest.TestCase):
         self.assertEqual(attestations[0]["corpus_id"], corpus[0]["corpus_id"])
 
     def test_split_current_dictionary_satisfies_new_schemas_and_links(self):
-        with open("dictionary.json", encoding="utf-8") as f:
+        with open("data/legacy/dictionary.json", encoding="utf-8") as f:
             dictionary = json.load(f)
         lexicon, corpus, attestations = split_datasets(dictionary)
 
-        self._validate_schema("lexicon.schema.json", lexicon)
-        self._validate_schema("corpus.schema.json", corpus)
-        self._validate_schema("attestations.schema.json", attestations)
+        self._validate_schema("schemas/lexicon.schema.json", lexicon)
+        self._validate_schema("schemas/corpus.schema.json", corpus)
+        self._validate_schema("schemas/attestations.schema.json", attestations)
 
         lexicon_sense_ids = {
             sense["sense_id"]

@@ -1,0 +1,33 @@
+{
+  "entry_id": "st_L_0102",
+  "headword_english": "Heaven",
+  "pos": [{ "tag": "n.", "full": "noun" }],
+  "headword_sesotho": [
+    { "orthographic": "leholimo", "tone_marked": "leholimo" }
+  ],
+  "syllables": [
+    { "orthographic": "le-ho-li-mo", "syllable_count": 4 }
+  ],
+  "morphology": {
+    "root": "holimo",
+    "noun_class": 5,
+    "derivation": "Derived from 'holimo' (above/high)"
+  },
+  "senses": [
+    {
+      "sense_id": "heaven_01",
+      "definition_en": "the sky, the firmament, or the dwelling place of God",
+      "sesotho_term": ["leholimo"],
+      "usage_example": {
+        "sesotho": "Tšimolohong Molimo o ile a bōpa maholimo le lefatše.",
+        "english": "In the beginning God created the heavens and the earth."
+      }
+    }
+  ],
+  "thesaurus": {
+    "synonyms_en": ["sky", "firmament"],
+    "synonyms_st": ["sepakapaka"],
+    "antonyms_en": ["earth", "hell"],
+    "antonyms_st": ["lefatše"]
+  }
+},

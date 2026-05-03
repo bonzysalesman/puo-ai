@@ -1,0 +1,340 @@
+[
+  {
+    "entry_id": "cb8e4558-0389-4d04-9215-73af4dad69e5",
+    "headword_english": "Adjunction",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "kekeletso"
+      }
+    ],
+    "morphology": {
+      "root": "-kekeletso",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "9"
+    },
+    "metadata": {
+      "flags": []
+    }
+  },
+  {
+    "entry_id": "b94bc8f7-28ee-4813-9a33-221511f5a2f0",
+    "headword_english": "Adjure",
+    "pos": [
+      "verb"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ho hlapantšha"
+      }
+    ],
+    "morphology": {
+      "root": "-hlapantśe",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "9"
+    },
+    "metadata": {
+      "flags": []
+    }
+  },
+  {
+    "entry_id": "bda3a793-19c2-4f1a-b099-c0101a7dcc1e",
+    "headword_english": "Administer",
+    "pos": [
+      "verb"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ho lisa"
+      }
+    ],
+    "morphology": {
+      "root": "-lis",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "9"
+    },
+    "metadata": {
+      "flags": []
+    }
+  },
+  {
+    "entry_id": "a46eddbe-14e7-40c3-975e-5d1078dc8208",
+    "headword_english": "Administration",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "puso"
+      }
+    ],
+    "morphology": {
+      "root": "-puso",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "9"
+    },
+    "metadata": {
+      "flags": []
+    }
+  },
+  {
+    "entry_id": "ad75ca9e-a032-4280-b7c6-a6724e17d2e6",
+    "headword_english": "Admonish",
+    "pos": [
+      "verb"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ho laea"
+      }
+    ],
+    "morphology": {
+      "root": "-lae",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "9"
+    },
+    "metadata": {
+      "flags": []
+    }
+  },
+  {
+    "entry_id": "685322cf-105a-41dc-80fa-73d287233aa8",
+    "headword_english": "Adolescent",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "mohlankana"
+      }
+    ],
+    "morphology": {
+      "root": "-hlankana",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "Class 1"
+    },
+    "metadata": {
+      "flags": [
+        {
+          "type": "MATURITY_MISMATCH",
+          "suggested_class": "1",
+          "evidence_source": "NKJV (Romans v45013001)",
+          "evidence_text": "Motho e mong le e mong a hlomphe balaoli ba phahameng kaha ba teng ka lebaka la Molimo. Balaoli ba leng teng ba behiloe maemong a bona a fapaneng ke Molimo."
+        },
+        {
+          "type": "DIMINUTIVE_DETECTED"
+        }
+      ]
+    }
+  },
+  {
+    "entry_id": "6b23c5a6-0f30-4ed9-b9e1-836b359eab1e",
+    "headword_english": "Adoration",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ho khumamela"
+      }
+    ],
+    "morphology": {
+      "root": "-khomamel",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "9"
+    },
+    "metadata": {
+      "flags": []
+    }
+  },
+  {
+    "entry_id": "841dac46-b708-4e21-adf8-d3c6221bf378",
+    "headword_english": "Adorn",
+    "pos": [
+      "verb"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ho khabisa"
+      }
+    ],
+    "morphology": {
+      "root": "-khabis",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "9"
+    },
+    "metadata": {
+      "flags": []
+    }
+  },
+  {
+    "entry_id": "3ae1994f-f03d-4ec2-ae59-e8b79e87d71a",
+    "headword_english": "Adultery",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bofebe"
+      }
+    ],
+    "morphology": {
+      "root": "-febe",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "14"
+    },
+    "metadata": {
+      "flags": [
+        {
+          "type": "MATURITY_MISMATCH",
+          "suggested_class": "1",
+          "evidence_source": "NKJV (Romans v45013001)",
+          "evidence_text": "Motho e mong le e mong a hlomphe balaoli ba phahameng kaha ba teng ka lebaka la Molimo. Balaoli ba leng teng ba behiloe maemong a bona a fapaneng ke Molimo."
+        }
+      ]
+    }
+  },
+  {
+    "entry_id": "ade8abc1-63a9-471b-a3da-0fa6a66bee6e",
+    "headword_english": "Advantage",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "molemo"
+      }
+    ],
+    "morphology": {
+      "root": "-lemo",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "1/3"
+    },
+    "metadata": {
+      "flags": []
+    }
+  },
+  {
+    "entry_id": "1af75f91-c8df-4beb-a54a-c5a571a43eb5",
+    "headword_english": "Adversary",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "sera"
+      }
+    ],
+    "morphology": {
+      "root": "-ra",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "7"
+    },
+    "metadata": {
+      "flags": [
+        {
+          "type": "MATURITY_MISMATCH",
+          "suggested_class": "1",
+          "evidence_source": "NKJV (Romans v45013001)",
+          "evidence_text": "Motho e mong le e mong a hlomphe balaoli ba phahameng kaha ba teng ka lebaka la Molimo. Balaoli ba leng teng ba behiloe maemong a bona a fapaneng ke Molimo."
+        }
+      ]
+    }
+  },
+  {
+    "entry_id": "30414924-c070-4d2f-a882-de9127de432c",
+    "headword_english": "Adversity",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bomalibe"
+      }
+    ],
+    "morphology": {
+      "root": "-malibe",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "14"
+    },
+    "metadata": {
+      "flags": [
+        {
+          "type": "MATURITY_MISMATCH",
+          "suggested_class": "1",
+          "evidence_source": "NKJV (Romans v45013001)",
+          "evidence_text": "Motho e mong le e mong a hlomphe balaoli ba phahameng kaha ba teng ka lebaka la Molimo. Balaoli ba leng teng ba behiloe maemong a bona a fapaneng ke Molimo."
+        }
+      ]
+    }
+  },
+  {
+    "entry_id": "98d960ab-2d1f-4bf2-8da4-43fa6564145d",
+    "headword_english": "Advice",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "keletso"
+      }
+    ],
+    "morphology": {
+      "root": "-keletso",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "9"
+    },
+    "metadata": {
+      "flags": []
+    }
+  },
+  {
+    "entry_id": "4d049a7d-e69d-4ebf-b7f0-485d964253b4",
+    "headword_english": "Advise",
+    "pos": [
+      "verb"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ho lemosa"
+      }
+    ],
+    "morphology": {
+      "root": "-lemos",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "9"
+    },
+    "metadata": {
+      "flags": []
+    }
+  },
+  {
+    "entry_id": "794dd5bb-0f9d-4d3d-86b8-9e941180680d",
+    "headword_english": "Agent",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "'moemeli"
+      }
+    ],
+    "morphology": {
+      "root": "-emeli",
+      "derivation": "Historical Entry (Casalis)",
+      "noun_class": "Class 1"
+    },
+    "metadata": {
+      "flags": [
+        {
+          "type": "MATURITY_MISMATCH",
+          "suggested_class": "1",
+          "evidence_source": "NKJV (Romans v45013001)",
+          "evidence_text": "Motho e mong le e mong a hlomphe balaoli ba phahameng kaha ba teng ka lebaka la Molimo. Balaoli ba leng teng ba behiloe maemong a bona a fapaneng ke Molimo."
+        }
+      ]
+    }
+  }
+]

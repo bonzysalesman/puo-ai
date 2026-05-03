@@ -1,0 +1,3814 @@
+    }
+  },
+  {
+    "entry_id": "st_EX21_03",
+    "headword_english": "A goring / To thrust with horn",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV07_03",
+    "headword_english": "Abomination / Unclean",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX25_01",
+    "headword_english": "Acacia wood",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV14_02",
+    "headword_english": "Active / Malignant leprosy",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "76d8e4bf-681f-480d-9c96-4ca557b44879",
+    "headword_english": "Adventure",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX3_03",
+    "headword_english": "Affliction / Sorrows",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "73e1600d-b61f-4c8f-b647-9c631c71f446",
+    "headword_english": "Afoot",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "5e46d991-4ffe-496f-8a2f-30cc05584437",
+    "headword_english": "Afternoon",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "794dd5bb-0f9d-4d3d-86b8-9e941180680d",
+    "headword_english": "Agent",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "a90f6b59-35c1-4a5a-bdc0-695fd1b160bb",
+    "headword_english": "Agriculture",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "0ad85fe8-e44c-4074-b44f-e6d1d7a246c3",
+    "headword_english": "Alas",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "96c61127-eeab-46bc-ae13-bd863541f511",
+    "headword_english": "Alert",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "1b2a18e1-8043-4a50-aefb-492385b2233a",
+    "headword_english": "Allege",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "b12e7102-30ab-4d6f-b775-8c83c1b854c1",
+    "headword_english": "Almighty",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_A_02",
+    "headword_english": "Amalek",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "5fcea7cf-67e0-4f1a-8c0c-28b6f055abb7",
+    "headword_english": "Amiable",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "459e6ac9-400f-4d8d-b9dd-9817a921ffa2",
+    "headword_english": "Ammunition",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "040cc249-ccf6-4b86-9564-05873f8f3f1a",
+    "headword_english": "Amputate",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G46_EX_05",
+    "headword_english": "Ancestors",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_NUM22_02",
+    "headword_english": "Angel / Messenger",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G42_EX_03",
+    "headword_english": "Anguish / Distress",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX6_02",
+    "headword_english": "Anguish / Shortness of spirit",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "3e96e6cf-cbde-42c6-88ed-32f3a500a434",
+    "headword_english": "Antagonist",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "3ecb6efb-1187-4719-aa63-47e71f5d49c4",
+    "headword_english": "Any",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "09291f05-00be-4db3-bffd-20e8a11acc35",
+    "headword_english": "Anywhere",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "ed81215e-7e23-4a01-b16d-fc082629e506",
+    "headword_english": "Apparent",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "2b16616a-bb71-4e0b-bbf0-099c55c64946",
+    "headword_english": "Approbation",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "d12295fe-2250-411a-881e-2e6e769973e5",
+    "headword_english": "Approve",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "0a8c83c5-6144-4439-a40f-08878fcfb9bb",
+    "headword_english": "Argue",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_A_01",
+    "headword_english": "Arose / Arisen",
+    "pos": [],
+--
+    ]
+  },
+  {
+    "entry_id": "0856585d-1553-4d84-bbb7-b9819a21675c",
+    "headword_english": "Artery",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "4236869c-c40c-4631-a5dd-14e52b455dd9",
+    "headword_english": "Artful",
+    "pos": [],
+--
+    ]
+  },
+  {
+    "entry_id": "st_EX31_01",
+    "headword_english": "Artistic works / Designs",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G43_EX_04",
+    "headword_english": "Astonishment / Wonder",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "546aa135-a9e9-4e15-8839-e3920fed12fe",
+    "headword_english": "Astound",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "dd000adb-f254-46b4-9cc3-bf9cf3518dd0",
+    "headword_english": "Asunder",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV16_01",
+    "headword_english": "Atonement",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM16_02",
+    "headword_english": "Atonement / Covering",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV01_02",
+    "headword_english": "Atonement / To cover sin",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM16_01",
+    "headword_english": "Authority / Lordship",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "81a7f97e-19e8-4851-a471-6372373056db",
+    "headword_english": "Avaricious",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G28_EX_04",
+    "headword_english": "Awesome / Tense",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G37_EX_01",
+    "headword_english": "Bad report",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX39_01",
+    "headword_english": "Bells (specifically for the robe)",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G17_C02",
+    "headword_english": "Blameless",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV24_01",
+    "headword_english": "Blasphemy / To revile",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV21_02",
+    "headword_english": "Blemish / Defect",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_LEV20_01",
+    "headword_english": "Blood be upon them",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX24_01",
+    "headword_english": "Blood of the covenant",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV17_01",
+    "headword_english": "Bloodguilt",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_710300cd",
+    "headword_english": "Blot",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX13_01",
+    "headword_english": "Bondage / Slavery",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G10_004",
+    "headword_english": "Boundary / Border",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX28_01",
+    "headword_english": "Breastplate of Judgment",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G13_004",
+    "headword_english": "Brethren / Kin",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX27_02",
+    "headword_english": "Bronze / Copper",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_B_01",
+    "headword_english": "Brothers",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX2_01",
+    "headword_english": "Bulrushes / Papyrus",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX2_03",
+    "headword_english": "Burdens / Hard labor",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX10_03",
+    "headword_english": "Burnt offerings",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_b96bcf7e",
+    "headword_english": "Cage",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_0b36240e",
+    "headword_english": "Calm",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_3af2fe3b",
+    "headword_english": "Camel",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_C_01",
+    "headword_english": "Canaan",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_5be7658a",
+    "headword_english": "Cannon",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_35cf3b12",
+    "headword_english": "Canoe",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G14_002",
+    "headword_english": "Captivity / Exile",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G14_EX_004",
+    "headword_english": "Captivity / Prison",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_58ad3507",
+    "headword_english": "Carcase",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM14_01",
+    "headword_english": "Carcass / Corpse",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM01_01",
+    "headword_english": "Census / Registration",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX30_01",
+    "headword_english": "Census tax / Contribution",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_fe82e34b",
+    "headword_english": "Chagrin",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_C_03",
+    "headword_english": "Chariots",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G35_EX_03",
+    "headword_english": "Childbirth / To labor",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_ENG_01",
+    "headword_english": "Children / Descendants",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G17_C05",
+    "headword_english": "Circumcised",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX26_01",
+    "headword_english": "Clasps / Hooks",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX33_03",
+    "headword_english": "Cleft of the rock",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G5_003",
+    "headword_english": "Comfort / Relief",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G47_EX_01",
+    "headword_english": "Competent / Brave / Capable",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_ENG_MED_01",
+    "headword_english": "Congregation / Assembly",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX29_01",
+    "headword_english": "Consecration / Installation",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX24_03",
+    "headword_english": "Consuming fire",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV06_02",
+    "headword_english": "Continual / Perpetual",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G14_EX_002",
+    "headword_english": "Covenant / Treaty",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM18_02",
+    "headword_english": "Covenant of Salt",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM04_01",
+    "headword_english": "Covering / Veil",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM11_01",
+    "headword_english": "Craving / Lust",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_C_0088",
+    "headword_english": "Create",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_C_0912",
+    "headword_english": "Creeping thing",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G6_004",
+    "headword_english": "Cubit",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G2_009",
+    "headword_english": "Cultivate",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G3_006",
+    "headword_english": "Curse",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_LEV26_01",
+    "headword_english": "Curse / Punishment",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV07_02",
+    "headword_english": "Cut off / Excommunicated",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_D_01",
+    "headword_english": "Daughters",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_M_0001",
+    "headword_english": "Day / Daytime",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM07_01",
+    "headword_english": "Dedication / Inauguration",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G45_EX_02",
+    "headword_english": "Deliverance / Rescue",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV06_01",
+    "headword_english": "Deposit / Trust",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G46_EX_03",
+    "headword_english": "Descendants / Persons",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX3_01",
+    "headword_english": "Desert / Wilderness",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX35_03",
+    "headword_english": "Designer / Planner",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV26_02",
+    "headword_english": "Desolation / Waste",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G49_EX_02",
+    "headword_english": "Dignity / Honor",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G41_EX_01",
+    "headword_english": "Discerning / Discreet",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G45_EX_01",
+    "headword_english": "Dismayed / Terrified",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G48_EX_04",
+    "headword_english": "Displeased",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G21_EX_04",
+    "headword_english": "Distance of a bowshot",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX12_02",
+    "headword_english": "Doorposts",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM15_01",
+    "headword_english": "Drink offering",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX14_03",
+    "headword_english": "Dry ground / Soil",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G40_EX_02",
+    "headword_english": "Dungeon / Pit",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G36_EX_05",
+    "headword_english": "Dwelling places",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX19_01",
+    "headword_english": "Eagles' wings",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_LEV15_02",
+    "headword_english": "Earthen vessel",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_NUM02_02",
+    "headword_english": "East / Rising Sun",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_E_01",
+    "headword_english": "Egypt",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_MED_01",
+    "headword_english": "Elders / Leaders",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX4_02",
+    "headword_english": "Eloquent / Fluency",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX7_03",
+    "headword_english": "Enchantments / Secret arts",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX28_03",
+    "headword_english": "Engraving / Signet",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX32_04",
+    "headword_english": "Engraving tool / Chisel",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_E_02",
+    "headword_english": "Esau",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G17_C04",
+    "headword_english": "Everlasting / Unmeasured",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX15_01",
+    "headword_english": "Excellence / Greatness",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G47_EX_03",
+    "headword_english": "Exchange / Trade",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX20_01",
+    "headword_english": "Exclusive devotion / Jealousy",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_S_0312",
+    "headword_english": "Expansion",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G44_EX_02",
+    "headword_english": "Expertly explain / Divination",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV24_02",
+    "headword_english": "Eye for an eye",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX33_01",
+    "headword_english": "Face to face",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_a4f4f821",
+    "headword_english": "Face-lift",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_7da40290",
+    "headword_english": "Face-mask",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_e8d39e5d",
+    "headword_english": "Face-recognition",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_973a18d2",
+    "headword_english": "Fact-check",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_8bb635ea",
+    "headword_english": "Fake news",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX20_03",
+    "headword_english": "False witness",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX5_03",
+    "headword_english": "False words / Lies",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_F_01",
+    "headword_english": "Families",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_f314b4ea",
+    "headword_english": "Fan-base",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_c699a5ea",
+    "headword_english": "Fast-fashion",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_098d9e37",
+    "headword_english": "Fast-food",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_785f1c2e",
+    "headword_english": "Fast-track",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV03_02",
+    "headword_english": "Fat",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G45_EX_04",
+    "headword_english": "Fat of the land",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV03_03",
+    "headword_english": "Fat tail",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G18_EX_02",
+    "headword_english": "Favor / Acceptance",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_8331db26",
+    "headword_english": "Fax",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_84b81c71",
+    "headword_english": "Feature-film",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_f9ed9eb9",
+    "headword_english": "Feedback",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_F_0119",
+    "headword_english": "Female",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_21b388be",
+    "headword_english": "Feminism",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_8ce4c0d6",
+    "headword_english": "Ferry",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_fc70a304",
+    "headword_english": "Fiber-glass",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_0f87f2d3",
+    "headword_english": "Fiber-optics",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_cdb7175a",
+    "headword_english": "Fibre-glass",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_847e78f8",
+    "headword_english": "File-format",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_a9119e40",
+    "headword_english": "File-sharing",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_e99a53e0",
+    "headword_english": "Filler (Dermal)",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_267e23e5",
+    "headword_english": "Filter",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_7733525d",
+    "headword_english": "Filter-bubble",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G41_EX_03",
+    "headword_english": "Fine linen",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX31_03",
+    "headword_english": "Finger of God",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G2_006",
+    "headword_english": "Finish",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_9ac689bf",
+    "headword_english": "Fintech",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_fde2fb14",
+    "headword_english": "Firewall",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_aeac32dc",
+    "headword_english": "First-aid kit",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_01cb17e3",
+    "headword_english": "Fitness-tracker",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_1c10f4eb",
+    "headword_english": "Flash-drive",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_a0c18a3e",
+    "headword_english": "Flash-mob",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_003b9c40",
+    "headword_english": "Flat-screen",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_2c9ca59c",
+    "headword_english": "Flight-mode",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LOW_NAT_02",
+    "headword_english": "Flock / Herd",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G6_002",
+    "headword_english": "Flood",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_F_0210",
+    "headword_english": "Flying creature",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_4df6d5f5",
+    "headword_english": "Folder",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_1eafac8e",
+    "headword_english": "Follow-up",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_33d50a0c",
+    "headword_english": "Font",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_e4293b1e",
+    "headword_english": "Foodie",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_56cd0942",
+    "headword_english": "Footprint (Carbon)",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_7319c56d",
+    "headword_english": "Foreclosure",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G35_EX_01",
+    "headword_english": "Foreign gods",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_12773f2f",
+    "headword_english": "Forensic-audit",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_394f5922",
+    "headword_english": "Forensics",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G40_EX_05",
+    "headword_english": "Forgot",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM13_01",
+    "headword_english": "Fortified cities",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_66950d63",
+    "headword_english": "Fossil-fuel",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G7_002",
+    "headword_english": "Fountain / Spring",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_839316f4",
+    "headword_english": "Franchise",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_87738333",
+    "headword_english": "Free-range",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_87211aba",
+    "headword_english": "Free-trade",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_b2bf897d",
+    "headword_english": "Freelancer",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_44a4fd62",
+    "headword_english": "Freestyle",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV22_02",
+    "headword_english": "Freewill offering",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_198cfd42",
+    "headword_english": "Fringe-benefits",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_F_03",
+    "headword_english": "Frog",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_7928d9be",
+    "headword_english": "Front-end",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_a50dc010",
+    "headword_english": "Frontline-worker",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_7b2266e6",
+    "headword_english": "Frozen-assets",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G41_EX_04",
+    "headword_english": "Fruitful",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "conv_flat_6b762021",
+    "headword_english": "Full-HD",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_47f9c4ca",
+    "headword_english": "Full-service",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_e1d27ae7",
+    "headword_english": "Functionality",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_753a6023",
+    "headword_english": "Funding",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX9_01",
+    "headword_english": "Furnace / Kiln",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G15_EX_007",
+    "headword_english": "Furnace / Smelting oven",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_7cc89f90",
+    "headword_english": "Gadget",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_d18670ff",
+    "headword_english": "Gallery (Digital)",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_e7d06731",
+    "headword_english": "Gaming",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G_02",
+    "headword_english": "Garments / Clothes",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "conv_flat_dadd61df",
+    "headword_english": "Gateway (Digital)",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_d47d7b38",
+    "headword_english": "Gender-equality",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_70450aa3",
+    "headword_english": "Gene-editing",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_9b4811cb",
+    "headword_english": "General-practitioner (GP)",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX6_04",
+    "headword_english": "Generations / Lineage",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_6b96488a",
+    "headword_english": "Genomics",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_bc10ade7",
+    "headword_english": "Geopolitics",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "conv_flat_238f6643",
+    "headword_english": "Gigabyte (GB)",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_78b1ea41",
+    "headword_english": "Global-warming",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_abd86505",
+    "headword_english": "Globalization",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX40_03",
+    "headword_english": "Glory",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX8_04",
+    "headword_english": "Gnats / Lice",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G28_EX_01",
+    "headword_english": "God Almighty",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX28_02",
+    "headword_english": "Gold Bells",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G_0441",
+    "headword_english": "Good",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "conv_flat_74ca4ecc",
+    "headword_english": "Google",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_7438f393",
+    "headword_english": "Governance",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_6a6cf944",
+    "headword_english": "GPS",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_LEV02_01",
+    "headword_english": "Grain offering",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G_03",
+    "headword_english": "Grapes",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_aed60d28",
+    "headword_english": "Graphic-design",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM13_02",
+    "headword_english": "Grasshopper",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "conv_flat_b4e0f64e",
+    "headword_english": "Green-energy",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G44_EX_05",
+    "headword_english": "Grief / Sorrow",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G34_EX_03",
+    "headword_english": "Grieved / In pain",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX2_05",
+    "headword_english": "Groaning / Sighing",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_ed0ccbcc",
+    "headword_english": "Gross-profit",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "conv_flat_abff19fa",
+    "headword_english": "Guest-house",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV05_01",
+    "headword_english": "Guilt offering / Trespass offering",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "conv_flat_47999fd4",
+    "headword_english": "Gymnasium (Modern Gym)",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_NUM08_01",
+    "headword_english": "Hammered gold",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM10_01",
+    "headword_english": "Hammered work",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX37_01",
+    "headword_english": "Hammered work / Beaten work",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX18_03",
+    "headword_english": "Hardship / Trouble",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G8_003",
+    "headword_english": "Harvest",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_H_02",
+    "headword_english": "Heads",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX15_03",
+    "headword_english": "Healing / To heal",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX8_02",
+    "headword_english": "Heaps / Mounds",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_H_01",
+    "headword_english": "Heard",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_L_0102",
+    "headword_english": "Heaven",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G15_C08",
+    "headword_english": "Heir / Inheritor",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G15_003",
+    "headword_english": "Heir / Successor",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G13_002",
+    "headword_english": "Herdsmen / Shepherds",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_LEV21_01",
+    "headword_english": "High Priest",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM20_02",
+    "headword_english": "Highway / Main Road",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV23_01",
+    "headword_english": "Holy convocation",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G42_EX_02",
+    "headword_english": "Honest / Upright",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV19_02",
+    "headword_english": "Honest scales",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX10_04",
+    "headword_english": "Hoof / Claw",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX27_01",
+    "headword_english": "Horns of the altar",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G15_C19",
+    "headword_english": "Horror / Terror",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_NUM12_01",
+    "headword_english": "Humble / Meek",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_LEV14_01",
+    "headword_english": "Hyssop",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_I_0041",
+    "headword_english": "Image / Likeness",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX1_01",
+    "headword_english": "Increased abundantly / Swarmed",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX1_05",
+    "headword_english": "Infants / Little ones",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV20_02",
+    "headword_english": "Inherit / Possess",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G48_EX_02",
+    "headword_english": "Inheritance",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_TRIBE_02",
+    "headword_english": "Inheritance / Heritage",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G20_EX_01",
+    "headword_english": "Integrity of heart",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM14_02",
+    "headword_english": "Intercession / Pardon",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G20_EX_03",
+    "headword_english": "Intercessory Prayer",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX22_03",
+    "headword_english": "Interest / Usury",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G40_EX_01",
+    "headword_english": "Interpretation",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX38_02",
+    "headword_english": "Inventory / Record",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_LEV13_02",
+    "headword_english": "Isolation / Quarantine",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX34_03",
+    "headword_english": "Jealousy / Zeal",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_LEV25_01",
+    "headword_english": "Jubilee",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX21_01",
+    "headword_english": "Judicial decisions / Ordinances",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G39_EX_05",
+    "headword_english": "Keeper / Warden",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX29_04",
+    "headword_english": "Kidneys",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_M_0403",
+    "headword_english": "Kind",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G14_EX_001",
+    "headword_english": "King / Chief",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G10_002",
+    "headword_english": "Kingdom / Government",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX19_02",
+    "headword_english": "Kingdom of priests",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX37_02",
+    "headword_english": "Knob / Ornamental bud",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_N_0014",
+    "headword_english": "Land",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G47_EX_02",
+    "headword_english": "Languished / Fainted",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G21_EX_01",
+    "headword_english": "Laughter",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G47_EX_04",
+    "headword_english": "Law / Decree",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G2_028",
+    "headword_english": "Leave",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_LEV13_01",
+    "headword_english": "Leprosy",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV17_02",
+    "headword_english": "Life / Soul",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G5_001",
+    "headword_english": "Likeness / Shape",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G49_EX_03",
+    "headword_english": "Lion's whelp / Cub",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX30_03",
+    "headword_english": "Liquid measure (Hin)",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX1_04",
+    "headword_english": "Lively / Vigorous",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_LEV19_01",
+    "headword_english": "Love your neighbor as yourself",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G16_001",
+    "headword_english": "Maidservant / Servant",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_M_0082",
+    "headword_english": "Male",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_M_0512",
+    "headword_english": "Man / Person",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX17_03",
+    "headword_english": "Memorial / Record",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV02_03",
+    "headword_english": "Memorial portion",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_LEV15_01",
+    "headword_english": "Menstruation",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G19_C04",
+    "headword_english": "Mercy / Pity",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G32_EX_02",
+    "headword_english": "Mersies / Loving-kindness",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX11_02",
+    "headword_english": "Midnight",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX7_01",
+    "headword_english": "Miracle / Wonder",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX38_03",
+    "headword_english": "Mirrors",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_LEV18_02",
+    "headword_english": "Molech",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX1_03",
+    "headword_english": "Mortar / Clay",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV06_03",
+    "headword_english": "Most holy",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G48_EX_01",
+    "headword_english": "Multitude of nations",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G2_022",
+    "headword_english": "Name",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_NUM06_01",
+    "headword_english": "Nazarite / Consecrated one",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G21_EX_05",
+    "headword_english": "Oath",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX29_04",
+    "headword_english": "Offal / Dung / Waste",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_NUM09_02",
+    "headword_english": "Order / Command",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX29_01",
+    "headword_english": "Ordination / Filling of hands",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX32_03",
+    "headword_english": "Out of control / Unrestrained",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G18_EX_08",
+    "headword_english": "Outcry",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX6_01",
+    "headword_english": "Outstretched arm",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G44_EX_01",
+    "headword_english": "Overtake / Reach",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX23_01",
+    "headword_english": "Partiality / Leaning",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX25_03",
+    "headword_english": "Pattern / Model",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM06_02",
+    "headword_english": "Peace / Wholeness",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV03_01",
+    "headword_english": "Peace offering / Fellowship sacrifice",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX5_01",
+    "headword_english": "Pestilence / Plague",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX13_03",
+    "headword_english": "Phylacteries / Frontlets",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G50_EX_01",
+    "headword_english": "Physicians / Doctors",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G19_C06",
+    "headword_english": "Pillar / Monument",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_NUM25_02",
+    "headword_english": "Plague / Scourge",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_NUM04_02",
+    "headword_english": "Poles / Carrying beams",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX39_02",
+    "headword_english": "Pomegranates",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX33_02",
+    "headword_english": "Presence",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM15_02",
+    "headword_english": "Presumptuously / Defiantly",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G34_EX_01",
+    "headword_english": "Prince / Chieftain",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G17_C10",
+    "headword_english": "Princes / Chiefs",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_LEV22_01",
+    "headword_english": "Profane",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G39_EX_01",
+    "headword_english": "Prosper / Succeed",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G24_EX_05",
+    "headword_english": "Prosperous / Success",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G22_EX_07",
+    "headword_english": "Provision",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G42_EX_04",
+    "headword_english": "Provisions",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV12_02",
+    "headword_english": "Purification",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM19_02",
+    "headword_english": "Purify / Cleanse",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX34_02",
+    "headword_english": "Radiance / Beams of light",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_NUM10_02",
+    "headword_english": "Rear guard",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_LEV25_02",
+    "headword_english": "Redeem / Buy back",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G48_EX_03",
+    "headword_english": "Redeemed / Rescued",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM03_01",
+    "headword_english": "Redemption / Ransom",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G39_EX_03",
+    "headword_english": "Refused",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX10_01",
+    "headword_english": "Residue / What is left",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_NUM05_01",
+    "headword_english": "Restitution / Compensation",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV05_03",
+    "headword_english": "Restitution / Recompense",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G43_EX_05",
+    "headword_english": "Restrained / Controlled",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G45_EX_05",
+    "headword_english": "Revived / Energized",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G15_C04",
+    "headword_english": "Reward / Wages",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G13_006",
+    "headword_english": "Right (Direction)",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G38_EX_04",
+    "headword_english": "Righteous / Just",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G15_C05",
+    "headword_english": "Ruler / Lord",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX18_02",
+    "headword_english": "Rulers / Captains",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX16_02",
+    "headword_english": "Sabbath rest",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX23_03",
+    "headword_english": "Sacred Pillars",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX3_04",
+    "headword_english": "Sacrifice",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G35_EX_05",
+    "headword_english": "Satisfied / Full",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_LEV16_02",
+    "headword_english": "Scapegoat",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G49_EX_04",
+    "headword_english": "Scepter",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_L_0215",
+    "headword_english": "Sea",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_T_0814",
+    "headword_english": "Sea monster",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_P_0182",
+    "headword_english": "Seed",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G3_001",
+    "headword_english": "Serpent",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_NUM07_02",
+    "headword_english": "Shoulder",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX25_02",
+    "headword_english": "Showbread / Bread of the Presence",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_P_0301",
+    "headword_english": "Sign",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G13_008",
+    "headword_english": "Silver",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G13_011",
+    "headword_english": "Sinners",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G2_023",
+    "headword_english": "Sleep",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX12_04",
+    "headword_english": "Sojourn / Living as a stranger",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G12_003",
+    "headword_english": "Sojourner / Residing Alien",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX6_03",
+    "headword_english": "Sojourning / Pilgrimage",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_CRIT_02",
+    "headword_english": "Son / Descendant",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX29_03",
+    "headword_english": "Soothing / Pleasing Aroma",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX7_02",
+    "headword_english": "Sorcerers / Magicians",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM23_02",
+    "headword_english": "Sorcery / Magic",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G35_EX_04",
+    "headword_english": "Soul / Life / Breath",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_M_0488",
+    "headword_english": "Source of light",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_NUM11_02",
+    "headword_english": "Spirit",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G38_EX_03",
+    "headword_english": "Staff / Cane",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM17_01",
+    "headword_english": "Staff / Scepter",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM01_02",
+    "headword_english": "Standard / Banner",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_N_0022",
+    "headword_english": "Star",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX32_01",
+    "headword_english": "Stiff-necked / Stubborn",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G41_EX_05",
+    "headword_english": "Storehouses",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G15_C20",
+    "headword_english": "Strangers / Sojourners",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX7_04",
+    "headword_english": "Streams / Canals",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX10_02",
+    "headword_english": "Strong / Able-bodied men",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX5_02",
+    "headword_english": "Stubble",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX4_03",
+    "headword_english": "Stubborn / Hardened",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX1_02",
+    "headword_english": "Supply cities / Store cities",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_NUM21_02",
+    "headword_english": "Survivor / Remnant",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G47_EX_05",
+    "headword_english": "Swear / Oath",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G48_EX_05",
+    "headword_english": "Sword and Bow",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM03_02",
+    "headword_english": "Tabernacle furnishings",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV23_02",
+    "headword_english": "Tabernacles / Booths",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX24_02",
+    "headword_english": "Tablets of stone",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX36_01",
+    "headword_english": "Tenon / Interlocking part",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX26_03",
+    "headword_english": "Tenons / Projections",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX38_01",
+    "headword_english": "Tent peg / Stake",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX27_03",
+    "headword_english": "Tent pegs / Pins",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G28_EX_06",
+    "headword_english": "Tenth part / Tithe",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G18_EX_01",
+    "headword_english": "Terebinth Trees / Great Trees",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G35_EX_02",
+    "headword_english": "Terror of God",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX11_03",
+    "headword_english": "The firstborn",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G16_006",
+    "headword_english": "The God of Seeing",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G49_EX_01",
+    "headword_english": "The last days / Latter days",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G24_EX_01",
+    "headword_english": "Thigh",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G24_EX_01",
+    "headword_english": "Thigh (oath-taking)",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G50_EX_02",
+    "headword_english": "Threshing floor",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX9_02",
+    "headword_english": "Thunder / Voices of God",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G14_EX_007",
+    "headword_english": "Tithe / Tenth part",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX18_01",
+    "headword_english": "To advise / Counsel",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G15_004",
+    "headword_english": "To afflict / Torment",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_MED_03",
+    "headword_english": "To answer",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G2_016",
+    "headword_english": "To be ashamed",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX30_02",
+    "headword_english": "To be cut off / Excommunicated",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G16_002",
+    "headword_english": "To be despised / Belittled",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G13_005",
+    "headword_english": "To be wealthy",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G45_EX_03",
+    "headword_english": "To become poor / Poverty",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G5_002",
+    "headword_english": "To beget / Give birth",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_CRIT_01",
+    "headword_english": "To beget / To give birth",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G42_EX_05",
+    "headword_english": "To bereave / Rob",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G40_EX_03",
+    "headword_english": "To blossom / Bud",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX32_02",
+    "headword_english": "To blot out / To erase",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G42_EX_01",
+    "headword_english": "To bow down",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX40_02",
+    "headword_english": "To break camp / To pull up stakes",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX22_01",
+    "headword_english": "To break in / Burglary",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX19_03",
+    "headword_english": "To break through / Penetrate",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_B_02",
+    "headword_english": "To bring / Brought",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX29_02",
+    "headword_english": "To burn / To make smoke",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX34_01",
+    "headword_english": "To carve / To fashion stone",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G22_EX_02",
+    "headword_english": "To chop/split wood",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G41_EX_02",
+    "headword_english": "To collect / Gather",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G45_EX_03",
+    "headword_english": "To comfort / Console",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_C_02",
+    "headword_english": "To command",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_LEV05_02",
+    "headword_english": "To confess",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G15_EX_003",
+    "headword_english": "To count / Number",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_MED_02",
+    "headword_english": "To cover",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM24_04",
+    "headword_english": "To crush / To shatter",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G34_EX_02",
+    "headword_english": "To defile / Pollute",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_D_03",
+    "headword_english": "To depart / Departed",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX8_03",
+    "headword_english": "To distinguish / Set apart",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_ENG_MED_02",
+    "headword_english": "To dwell / To stay",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_E_03",
+    "headword_english": "To eat / Ate / Eaten",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX22_02",
+    "headword_english": "To entice / Seduce",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX40_01",
+    "headword_english": "To erect / To plant",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_F_02",
+    "headword_english": "To find / Found",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX16_01",
+    "headword_english": "To gather / Pick up",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G_01",
+    "headword_english": "To give / Gave",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX15_02",
+    "headword_english": "To grumble / Complain",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM20_01",
+    "headword_english": "To hallow / To sanctify",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX39_03",
+    "headword_english": "To inspect / To look over",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX21_02",
+    "headword_english": "To kidnap",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G24_EX_02",
+    "headword_english": "To kneel (camel)",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G24_EX_03",
+    "headword_english": "To kneel (camels)",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G19_EX_03",
+    "headword_english": "To know / Intimacy",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX13_02",
+    "headword_english": "To lead / Conduct",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G24_EX_06",
+    "headword_english": "To meditate / Ponder",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX16_03",
+    "headword_english": "To melt",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G15_EX_006",
+    "headword_english": "To oppress / Afflict",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX14_04",
+    "headword_english": "To overthrow / Shake off",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_NUM17_02",
+    "headword_english": "To perish / To be destroyed",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G46_EX_04",
+    "headword_english": "To prepare / Ready",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX31_02",
+    "headword_english": "To profane / Treat as common",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX30_04",
+    "headword_english": "To pulverize / Beat into powder",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX14_01",
+    "headword_english": "To pursue / Chase",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G37_EX_02",
+    "headword_english": "To rebuke / Scold",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G37_EX_04",
+    "headword_english": "To recognize / Identify",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX23_02",
+    "headword_english": "To refresh / Breathe",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G36_EX_04",
+    "headword_english": "To reign / Rule",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G7_005",
+    "headword_english": "To remain / survive",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G14_003",
+    "headword_english": "To rescue / Redeem",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G14_EX_005",
+    "headword_english": "To rescue / Set free",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G28_EX_02",
+    "headword_english": "To rest one's head",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX36_03",
+    "headword_english": "To restrain / To stop",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_SES_01",
+    "headword_english": "To send",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX9_03",
+    "headword_english": "To shatter / Break / Ruthutha",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G43_EX_03",
+    "headword_english": "To slaughter",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G15_EX_005",
+    "headword_english": "To slice / Cut in two",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G15_C16",
+    "headword_english": "To slice / Cut into pieces",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX35_01",
+    "headword_english": "To spin (textiles)",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX37_03",
+    "headword_english": "To spread wings",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G40_EX_04",
+    "headword_english": "To squeeze / Press",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX17_01",
+    "headword_english": "To stone / Pelting with stones",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G16_004",
+    "headword_english": "To submit / Humble oneself",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G8_001",
+    "headword_english": "To subside / decrease",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX17_02",
+    "headword_english": "To support / Uphold",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX8_01",
+    "headword_english": "To swarm / Teem",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G49_EX_05",
+    "headword_english": "To tear / Ravenous",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G34_EX_04",
+    "headword_english": "To trade / Merchandise",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G16_003",
+    "headword_english": "To treat harshly / Humiliate",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G43_EX_01",
+    "headword_english": "To Warn / Warned",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G15_C25",
+    "headword_english": "Torch / Firebrand",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G44_EX_04",
+    "headword_english": "Torn to pieces",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G37_EX_03",
+    "headword_english": "Traders / Merchants",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_TRIBE_01",
+    "headword_english": "Tribe / Clan",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX5_04",
+    "headword_english": "Trouble / Distress",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G34_EX_05",
+    "headword_english": "Trouble / Disturbance",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G24_EX_05",
+    "headword_english": "Trough",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX2_04",
+    "headword_english": "Troughs / Watering basins",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX12_03",
+    "headword_english": "Twilight / Between the evenings",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM09_01",
+    "headword_english": "Twilight / Dusk",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G38_EX_05",
+    "headword_english": "Twins",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_LEV18_01",
+    "headword_english": "Uncover nakedness",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_NUM05_02",
+    "headword_english": "Unfaithful / Treacherous",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV04_01",
+    "headword_english": "Unintentional sin",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX12_01",
+    "headword_english": "Unleavened / Without yeast",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX20_02",
+    "headword_english": "Vain / Inconsequential",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX26_02",
+    "headword_english": "Veil / Partition",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_NUM21_01",
+    "headword_english": "Venomous / Fiery",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G20_EX_04",
+    "headword_english": "Vindication / Veil",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G50_EX_04",
+    "headword_english": "Visit / Attend to",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_L_0001",
+    "headword_english": "Void / Nothing",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX35_02",
+    "headword_english": "Voluntary / Freewill offering",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_LEV27_01",
+    "headword_english": "Vow / Commitment",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX2_02",
+    "headword_english": "Wages / Reward",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX14_02",
+    "headword_english": "Wall",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G24_EX_04",
+    "headword_english": "Water trough",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_LOW_NAT_01",
+    "headword_english": "Waters",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX29_02",
+    "headword_english": "Wave offering",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G36_EX_01",
+    "headword_english": "Wealth / Goods",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G13_009",
+    "headword_english": "Well-watered / Irrigated",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G38_EX_02",
+    "headword_english": "Widowhood",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G13_010",
+    "headword_english": "Width / Breadth",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_B_0145",
+    "headword_english": "Wild beast",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_G16_EX_04",
+    "headword_english": "Wild Donkey / Zebra",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G36_EX_03",
+    "headword_english": "Wilderness / Desert",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_LEV01_03",
+    "headword_english": "Without blemish / Healthy",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G2_026",
+    "headword_english": "Woman",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX3_05",
+    "headword_english": "Wonders / Marvels",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_G15_C01",
+    "headword_english": "Word",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_EX16_04",
+    "headword_english": "Worms / Maggots",
+    "pos": [],
+--
+    }
+  },
+  {
+    "entry_id": "st_EX4_04",
+    "headword_english": "Worshipped / Bowed down",
+    "pos": [],
+--
+    "related_words": []
+  },
+  {
+    "entry_id": "st_NUM25_01",
+    "headword_english": "Zeal / Jealousy",
+    "pos": [],

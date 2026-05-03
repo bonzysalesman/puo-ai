@@ -1,0 +1,84 @@
+{
+    "version": "1.0.0",
+    "categories": {
+        "BOPHELO_KINSHIP": {
+            "bias": "1",
+            "indicators_st": [
+                "ntate",
+                "'m'e",
+                "ngoana",
+                "mohlanka",
+                "moemeli",
+                "moruti",
+                "mohlankana"
+            ],
+            "indicators_en": [
+                "father",
+                "mother",
+                "child",
+                "servant",
+                "agent",
+                "minister",
+                "youth",
+                "person",
+                "adolescent"
+            ]
+        },
+        "MORIANA_ETHNOMEDICINE": {
+            "bias": "3",
+            "indicators_st": [
+                "mohlare",
+                "moriana",
+                "lengana",
+                "moferangopa",
+                "mohalalitoe"
+            ],
+            "indicators_en": [
+                "tree",
+                "medicine",
+                "herb",
+                "plant",
+                "forest"
+            ]
+        },
+        "MOEA_SPIRITUAL": {
+            "bias": "3",
+            "indicators_st": [
+                "moea",
+                "leseli",
+                "lefifi",
+                "lerato",
+                "mosa"
+            ],
+            "indicators_en": [
+                "spirit",
+                "light",
+                "darkness",
+                "love",
+                "grace",
+                "goodness"
+            ]
+        },
+        "TOPOGRAPHY_GEOGRAPHY": {
+            "bias": "9",
+            "indicators_st": [
+                "naha",
+                "thaba",
+                "noka",
+                "seliba",
+                "khotla",
+                "puso"
+            ],
+            "indicators_en": [
+                "land",
+                "mountain",
+                "river",
+                "well",
+                "court",
+                "nation",
+                "governance",
+                "advantage"
+            ]
+        }
+    }
+}

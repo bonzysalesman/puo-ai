@@ -1,0 +1,4110 @@
+[
+  {
+    "headword_english": "Fable",
+    "pos": "n.",
+    "sesotho": "t&mo.",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "left",
+      "image": "page_081_left.png",
+      "text_file": "page_081_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fabulous",
+    "pos": "adj.",
+    "sesotho": "ea litsémo.",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "left",
+      "image": "page_081_left.png",
+      "text_file": "page_081_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Face",
+    "pos": "n.",
+    "sesotho": "sefahleho to be face ‘o face, ho talimana ka li-",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "left",
+      "image": "page_081_left.png",
+      "text_file": "page_081_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fahleho",
+    "pos": "v.",
+    "sesotho": "ho lebisa se-fahleho nga e itseng, ho ema u bapile le; fo sef one's face against, ho ha-nyetsa; to Jace the enemy, ho hlanamisa lira.",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "left",
+      "image": "page_081_left.png",
+      "text_file": "page_081_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Facilitate",
+    "pos": "v.",
+    "sesotho": "ho nolofatsn.",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "left",
+      "image": "page_081_left.png",
+      "text_file": "page_081_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Facility",
+    "pos": "n.",
+    "sesotho": "bobebé, bonolo.",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "left",
+      "image": "page_081_left.png",
+      "text_file": "page_081_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fact",
+    "pos": "n.",
+    "sesotho": "ketso; ‘nete.",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "left",
+      "image": "page_081_left.png",
+      "text_file": "page_081_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fade",
+    "pos": "v.",
+    "sesotho": "ho ponu, senyeha",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "left",
+      "image": "page_081_left.png",
+      "text_file": "page_081_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fail",
+    "pos": "v.",
+    "sesotho": "(to be wanting) ho hlo-",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "left",
+      "image": "page_081_left.png",
+      "text_file": "page_081_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Faint",
+    "pos": "v.",
+    "sesotho": ", ho akhéha, ilibana,",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "left",
+      "image": "page_081_left.png",
+      "text_file": "page_081_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Faint-hearted",
+    "pos": "adj.",
+    "sesotho": "e tiabang, e@ booi.",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "left",
+      "image": "page_081_left.png",
+      "text_file": "page_081_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fair",
+    "pos": "adj.",
+    "sesotho": "( lovely ) e ntle, e hlokang letheba, e 16. kileng",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "left",
+      "image": "page_081_left.png",
+      "text_file": "page_081_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fairly",
+    "pos": "adv.",
+    "sesotho": "hantle.",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "left",
+      "image": "page_081_left.png",
+      "text_file": "page_081_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Faith",
+    "pos": "n.",
+    "sesotho": "tumelo, té&po; bo-",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "left",
+      "image": "page_081_left.png",
+      "text_file": "page_081_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Faithful",
+    "pos": "adj.",
+    "sesotho": "e tSepehang,",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "right",
+      "image": "page_081_right.png",
+      "text_file": "page_081_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fall",
+    "pos": "v.",
+    "sesotho": "ho da; to fall to the",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "right",
+      "image": "page_081_right.png",
+      "text_file": "page_081_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fall",
+    "pos": "n.",
+    "sesotho": "( cascade ) phororo.",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "right",
+      "image": "page_081_right.png",
+      "text_file": "page_081_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fallow",
+    "pos": "n.",
+    "sesotho": "mohéla; udj.e sa",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "right",
+      "image": "page_081_right.png",
+      "text_file": "page_081_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "False",
+    "pos": "adj.",
+    "sesotho": "e hlukang,'nete, e",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "right",
+      "image": "page_081_right.png",
+      "text_file": "page_081_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Falsehood",
+    "pos": "n.",
+    "sesotho": "leshand, boha-",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "right",
+      "image": "page_081_right.png",
+      "text_file": "page_081_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Falter",
+    "pos": "v.",
+    "sesotho": "ho lika-lika ho bueng.",
+    "source": {
+      "page_index": 80,
+      "page_number": 81,
+      "column": "right",
+      "image": "page_081_right.png",
+      "text_file": "page_081_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fame",
+    "pos": "n.",
+    "sesotho": "botumo, molun",
+    "source": {
+      "page_index": 81,
+      "page_number": 82,
+      "column": "left",
+      "image": "page_082_left.png",
+      "text_file": "page_082_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Familiar",
+    "pos": "adj.",
+    "sesotho": "e tloaelane",
+    "source": {
+      "page_index": 81,
+      "page_number": 82,
+      "column": "left",
+      "image": "page_082_left.png",
+      "text_file": "page_082_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Familiarity",
+    "pos": "n.",
+    "sesotho": "tloaelano, § tsualle.",
+    "source": {
+      "page_index": 81,
+      "page_number": 82,
+      "column": "left",
+      "image": "page_082_left.png",
+      "text_file": "page_082_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Family",
+    "pos": "n.",
+    "sesotho": "bathd ba ntld e",
+    "source": {
+      "page_index": 81,
+      "page_number": 82,
+      "column": "left",
+      "image": "page_082_left.png",
+      "text_file": "page_082_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Family",
+    "pos": "ntld.",
+    "sesotho": "ea ka, ba ba ka.",
+    "source": {
+      "page_index": 81,
+      "page_number": 82,
+      "column": "left",
+      "image": "page_082_left.png",
+      "text_file": "page_082_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Famine",
+    "pos": "n.",
+    "sesotho": "tlala, letsapa, tls ea sekoboto.",
+    "source": {
+      "page_index": 81,
+      "page_number": 82,
+      "column": "left",
+      "image": "page_082_left.png",
+      "text_file": "page_082_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Famous",
+    "pos": "adj.",
+    "sesotho": "e tumileng; be famous, ho tuma.",
+    "source": {
+      "page_index": 81,
+      "page_number": 82,
+      "column": "left",
+      "image": "page_082_left.png",
+      "text_file": "page_082_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fang",
+    "pos": "n.",
+    "sesotho": "leino le nchocl",
+    "source": {
+      "page_index": 81,
+      "page_number": 82,
+      "column": "left",
+      "image": "page_082_left.png",
+      "text_file": "page_082_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Farewell",
+    "pos": "n.",
+    "sesotho": "u phele han sala hantle.",
+    "source": {
+      "page_index": 81,
+      "page_number": 82,
+      "column": "left",
+      "image": "page_082_left.png",
+      "text_file": "page_082_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Farm",
+    "pos": "n.",
+    "sesotho": "polasi; v. ho le masimo a mah6lo.",
+    "source": {
+      "page_index": 81,
+      "page_number": 82,
+      "column": "left",
+      "image": "page_082_left.png",
+      "text_file": "page_082_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Farmer",
+    "pos": "n.",
+    "sesotho": "mong a polasi.",
+    "source": {
+      "page_index": 81,
+      "page_number": 82,
+      "column": "left",
+      "image": "page_082_left.png",
+      "text_file": "page_082_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Farther",
+    "pos": "adj.",
+    "sesotho": "e hoyana; a hoyana.",
+    "source": {
+      "page_index": 81,
+      "page_number": 82,
+      "column": "left",
+      "image": "page_082_left.png",
+      "text_file": "page_082_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Farthest",
+    "pos": "adj.",
+    "sesotho": "© hole hahé e héle-héle Farthing, 1. chelete e ‘n nyane.",
+    "source": {
+      "page_index": 81,
+      "page_number": 82,
+      "column": "left",
+      "image": "page_082_left.png",
+      "text_file": "page_082_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fascinate",
+    "pos": "v.",
+    "sesotho": "ho hahela.",
+    "source": {
+      "page_index": 81,
+      "page_number": 82,
+      "column": "left",
+      "image": "page_082_left.png",
+      "text_file": "page_082_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fashion",
+    "pos": "n.",
+    "sesotho": "mokhoa (hah",
+    "source": {
+      "page_index": 81,
+      "page_number": 82,
+      "column": "left",
+      "image": "page_082_left.png",
+      "text_file": "page_082_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fast",
+    "pos": "adj.",
+    "sesotho": "(fm) e tiileng, eemeng; (quick) e pha-",
+    "source": {
+      "page_index": 81,
+      "page_number": 82,
+      "column": "right",
+      "image": "page_082_right.png",
+      "text_file": "page_082_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fastidious",
+    "pos": "adj.",
+    "sesotho": "e khahlisoang la ka thata, ipoulang.",
+    "source": {
+      "page_index": 81,
+      "page_number": 82,
+      "column": "right",
+      "image": "page_082_right.png",
+      "text_file": "page_082_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fastness",
+    "pos": "n.",
+    "sesotho": "seqhobo. to Fat, n. lefura, oftener mafura,",
+    "source": {
+      "page_index": 81,
+      "page_number": 82,
+      "column": "right",
+      "image": "page_082_right.png",
+      "text_file": "page_082_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fatness",
+    "pos": "n.",
+    "sesotho": "ho itiona, nala, t8ila. 616 Fatten,v ho nontésa.",
+    "source": {
+      "page_index": 81,
+      "page_number": 82,
+      "column": "right",
+      "image": "page_082_right.png",
+      "text_file": "page_082_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fault",
+    "pos": "n.",
+    "sesotho": "molaté, phoso, mo-",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "left",
+      "image": "page_083_left.png",
+      "text_file": "page_083_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fault",
+    "pos": "ho.",
+    "sesotho": "fuma; to sind",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "left",
+      "image": "page_083_left.png",
+      "text_file": "page_083_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fault",
+    "pos": "ho.",
+    "sesotho": "bia molaté,.nyatsa.",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "left",
+      "image": "page_083_left.png",
+      "text_file": "page_083_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Faulty",
+    "pos": "adj.",
+    "sesotho": "e molaté, fosang, fosehileng.",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "left",
+      "image": "page_083_left.png",
+      "text_file": "page_083_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Favour",
+    "pos": "n.",
+    "sesotho": "mohau, lerekd,",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "left",
+      "image": "page_083_left.png",
+      "text_file": "page_083_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fear",
+    "pos": "n.",
+    "sesotho": "t'abo, tsdho, letsoso,",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "left",
+      "image": "page_083_left.png",
+      "text_file": "page_083_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fearful",
+    "pos": "adj.",
+    "sesotho": "e t&8abang, booi, t&dhileng.",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "left",
+      "image": "page_083_left.png",
+      "text_file": "page_083_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Feast",
+    "pos": "no.",
+    "sesotho": "mokete, sebdka, *méka; v. ho ya tse mo-nate",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "left",
+      "image": "page_083_left.png",
+      "text_file": "page_083_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Feat",
+    "pos": "n.",
+    "sesotho": "ketso, ketso e rorise-hang.",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "left",
+      "image": "page_083_left.png",
+      "text_file": "page_083_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Feather",
+    "pos": "n.",
+    "sesotho": "\\esiba (pl. litsiba).",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "left",
+      "image": "page_083_left.png",
+      "text_file": "page_083_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Feature",
+    "pos": "n.",
+    "sesotho": "sebépeho sa sefa-",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "left",
+      "image": "page_083_left.png",
+      "text_file": "page_083_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "February",
+    "pos": "n.",
+    "sesotho": "Hiakéla.",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "left",
+      "image": "page_083_left.png",
+      "text_file": "page_083_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Feeundity",
+    "pos": "n.",
+    "sesotho": "ho béa, ho tsuala.",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "left",
+      "image": "page_083_left.png",
+      "text_file": "page_083_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fer",
+    "pos": "n.",
+    "sesotho": "moputso, patala, tefo.",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "left",
+      "image": "page_083_left.png",
+      "text_file": "page_083_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Feeble",
+    "pos": "adj.",
+    "sesotho": "e fokotseng.",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "left",
+      "image": "page_083_left.png",
+      "text_file": "page_083_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Feebleness",
+    "pos": "n.",
+    "sesotho": "phokolo.",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "left",
+      "image": "page_083_left.png",
+      "text_file": "page_083_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Feed",
+    "pos": "v.",
+    "sesotho": "ho fépa.",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "left",
+      "image": "page_083_left.png",
+      "text_file": "page_083_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Feel",
+    "pos": "v.",
+    "sesotho": "ho ama, phéphdletsa; ho utlua.",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "left",
+      "image": "page_083_left.png",
+      "text_file": "page_083_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Feeling",
+    "pos": "n.",
+    "sesotho": "boikutlo, oftener",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "left",
+      "image": "page_083_left.png",
+      "text_file": "page_083_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Feign",
+    "pos": "v.",
+    "sesotho": "ho etsa yualoka ho-",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "right",
+      "image": "page_083_right.png",
+      "text_file": "page_083_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fellow",
+    "pos": "n.",
+    "sesotho": "thaka, molekane,",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "right",
+      "image": "page_083_right.png",
+      "text_file": "page_083_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fellowship",
+    "pos": "n.",
+    "sesotho": "bothaka, se-",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "right",
+      "image": "page_083_right.png",
+      "text_file": "page_083_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Female",
+    "pos": "adj.",
+    "sesotho": "e téehali; n.'mo-tha e mot& hati, ntho' e t8ehali.",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "right",
+      "image": "page_083_right.png",
+      "text_file": "page_083_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Feminine",
+    "pos": "adj.",
+    "sesotho": "e t8ehali.",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "right",
+      "image": "page_083_right.png",
+      "text_file": "page_083_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fence",
+    "pos": "n.",
+    "sesotho": "motéro: v. ho etsa motéro, sireletsa.",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "right",
+      "image": "page_083_right.png",
+      "text_file": "page_083_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ferment",
+    "pos": "v.",
+    "sesotho": "ho loméha",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "right",
+      "image": "page_083_right.png",
+      "text_file": "page_083_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ferocity",
+    "pos": "n.",
+    "sesotho": ", bohale bo tad. Nang mali, sehlohé, soré",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "right",
+      "image": "page_083_right.png",
+      "text_file": "page_083_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fertile",
+    "pos": "adj.",
+    "sesotho": "e beang, e tsua-lang haholo",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "right",
+      "image": "page_083_right.png",
+      "text_file": "page_083_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fervour",
+    "pos": "n.",
+    "sesotho": "cheseho.",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "right",
+      "image": "page_083_right.png",
+      "text_file": "page_083_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fetch",
+    "pos": "v.",
+    "sesotho": "ho lata.",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "right",
+      "image": "page_083_right.png",
+      "text_file": "page_083_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fetters",
+    "pos": "n.",
+    "sesotho": "mahlaahlela a ho tlama ma6été; v. ho tla-",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "right",
+      "image": "page_083_right.png",
+      "text_file": "page_083_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Feud",
+    "pos": "n.",
+    "sesotho": "khang, khadhano, hloéano.",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "right",
+      "image": "page_083_right.png",
+      "text_file": "page_083_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ferer",
+    "pos": "n.",
+    "sesotho": "febere",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "right",
+      "image": "page_083_right.png",
+      "text_file": "page_083_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Few",
+    "pos": "adj.",
+    "sesotho": "nyenyane, e sé ekae; Jew people, batho ba seng bakune.",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "right",
+      "image": "page_083_right.png",
+      "text_file": "page_083_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fickle",
+    "pos": "adj.",
+    "sesotho": "e lika-likang; to be fiekle, ho kuetja, khuehla.",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "right",
+      "image": "page_083_right.png",
+      "text_file": "page_083_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fiction",
+    "pos": "n.",
+    "sesotho": "t&dmo. Fidelity, 1 botaepehi, bokha-bane.",
+    "source": {
+      "page_index": 82,
+      "page_number": 83,
+      "column": "right",
+      "image": "page_083_right.png",
+      "text_file": "page_083_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fidget",
+    "pos": "v.",
+    "sesotho": "ho etsa letsope; letsope.",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "left",
+      "image": "page_084_left.png",
+      "text_file": "page_084_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Field",
+    "pos": "n.",
+    "sesotho": "tSimo, tema, nah to take the field, ho ntoeng.",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "left",
+      "image": "page_084_left.png",
+      "text_file": "page_084_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Field-mouse",
+    "pos": "n.",
+    "sesotho": "\\eboli, tali.",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "left",
+      "image": "page_084_left.png",
+      "text_file": "page_084_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fiend",
+    "pos": "n.",
+    "sesotho": "sera se befileng.",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "left",
+      "image": "page_084_left.png",
+      "text_file": "page_084_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fierce",
+    "pos": "adj.",
+    "sesotho": "e bohale, e 1 tang ho loana.",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "left",
+      "image": "page_084_left.png",
+      "text_file": "page_084_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fisteen",
+    "pos": "adj.",
+    "sesotho": "leshome le m tso e mehlano.",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "left",
+      "image": "page_084_left.png",
+      "text_file": "page_084_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fifth",
+    "pos": "adj.",
+    "sesotho": "ea bohlano.",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "left",
+      "image": "page_084_left.png",
+      "text_file": "page_084_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fifty",
+    "pos": "adj.",
+    "sesotho": "mashome a m hlano.",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "left",
+      "image": "page_084_left.png",
+      "text_file": "page_084_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fig",
+    "pos": "n.",
+    "sesotho": "feiga.",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "left",
+      "image": "page_084_left.png",
+      "text_file": "page_084_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fight",
+    "pos": "n.",
+    "sesotho": "ntoa, hlabano, | tlepe tlepe; v. ho loan",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "left",
+      "image": "page_084_left.png",
+      "text_file": "page_084_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "File",
+    "pos": "n.",
+    "sesotho": "(tool) feile; v. ho Pp",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "left",
+      "image": "page_084_left.png",
+      "text_file": "page_084_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "File",
+    "pos": "n.",
+    "sesotho": "(vow) lethatham mokoloko.",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "left",
+      "image": "page_084_left.png",
+      "text_file": "page_084_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Filial",
+    "pos": "adv.",
+    "sesotho": "e loketseng m ra kapa-morali motho.",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "left",
+      "image": "page_084_left.png",
+      "text_file": "page_084_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fill",
+    "pos": "v.",
+    "sesotho": "ho tlatsa, phas",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "left",
+      "image": "page_084_left.png",
+      "text_file": "page_084_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Film",
+    "pos": "n.",
+    "sesotho": "leloapi.",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "left",
+      "image": "page_084_left.png",
+      "text_file": "page_084_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fin",
+    "pos": "un.",
+    "sesotho": "lepheo la hispi. ‘aFinal, adj. en yetello.",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "right",
+      "image": "page_084_right.png",
+      "text_file": "page_084_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Find",
+    "pos": "v.",
+    "sesotho": "ho fumana, fihlela. eFine, adj. (thin) e t8esane; (heautiful) e utle.",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "right",
+      "image": "page_084_right.png",
+      "text_file": "page_084_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fine",
+    "pos": "n.",
+    "sesotho": "(penalty) tefo, tefiso, atefelo; v. ho lefisa; the chief has fined me ten",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "right",
+      "image": "page_084_right.png",
+      "text_file": "page_084_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Five",
+    "pos": "n.",
+    "sesotho": "mollo; to light a fire, 0, ho besa, phepha, fehla mollo; to keep the fire Oup, ho uta tollo; to set 2} on fire, ho chesa; to fire a gun, ho thunya. a, Fire-arms, nu. libetsa tse kang 18 lithunya.",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "right",
+      "image": "page_084_right.png",
+      "text_file": "page_084_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fire-place",
+    "pos": "n.",
+    "sesotho": "leifo, ‘sebeso.",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "right",
+      "image": "page_084_right.png",
+      "text_file": "page_084_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Firm",
+    "pos": "adj.",
+    "sesotho": "e tiileng, kopaneng.",
+    "source": {
+      "page_index": 83,
+      "page_number": 84,
+      "column": "right",
+      "image": "page_084_right.png",
+      "text_file": "page_084_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Firmament",
+    "pos": "n.",
+    "sesotho": "sebaka sa le-",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "left",
+      "image": "page_085_left.png",
+      "text_file": "page_085_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Firiuly",
+    "pos": "adv.",
+    "sesotho": "ka matla, ka 1 thata.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "left",
+      "image": "page_085_left.png",
+      "text_file": "page_085_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Firmness",
+    "pos": "n.",
+    "sesotho": "matla, bonatla, tiisetso.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "left",
+      "image": "page_085_left.png",
+      "text_file": "page_085_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "First",
+    "pos": "adj.",
+    "sesotho": "ea pele; adv. pele.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "left",
+      "image": "page_085_left.png",
+      "text_file": "page_085_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "First-born",
+    "pos": "n.",
+    "sesotho": "letsibolo.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "left",
+      "image": "page_085_left.png",
+      "text_file": "page_085_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "First-fruits",
+    "pos": "n.",
+    "sesotho": "lithakangua.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "left",
+      "image": "page_085_left.png",
+      "text_file": "page_085_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Firstling",
+    "pos": "n.",
+    "sesotho": "letsibolo la phoofolo.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "left",
+      "image": "page_085_left.png",
+      "text_file": "page_085_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fish",
+    "pos": "n.",
+    "sesotho": "hlapi; v. ho tšoasa.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "left",
+      "image": "page_085_left.png",
+      "text_file": "page_085_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fisherman",
+    "pos": "n.",
+    "sesotho": "motšoasi oa lihlapi.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "left",
+      "image": "page_085_left.png",
+      "text_file": "page_085_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fish-hook",
+    "pos": "n.",
+    "sesotho": "selope.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "left",
+      "image": "page_085_left.png",
+      "text_file": "page_085_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fist",
+    "pos": "n.",
+    "sesotho": "setebele.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "left",
+      "image": "page_085_left.png",
+      "text_file": "page_085_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fit",
+    "pos": "adj.",
+    "sesotho": "e lokelang, tšoanelo.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "left",
+      "image": "page_085_left.png",
+      "text_file": "page_085_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fit",
+    "pos": "n.",
+    "sesotho": "to have a fit, ho hlaheloa ke bohloko bo bong ka mokhoa o sa hloleheng, ho shoa sethoathoa; to have a fit of.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "left",
+      "image": "page_085_left.png",
+      "text_file": "page_085_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fitness",
+    "pos": "n.",
+    "sesotho": "tokelo, tšoanelo.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "left",
+      "image": "page_085_left.png",
+      "text_file": "page_085_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Five",
+    "pos": "adj.",
+    "sesotho": "hlano.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "left",
+      "image": "page_085_left.png",
+      "text_file": "page_085_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fix",
+    "pos": "v.",
+    "sesotho": "ho tiisa, hloma, tlama.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "right",
+      "image": "page_085_right.png",
+      "text_file": "page_085_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flake",
+    "pos": "n.",
+    "sesotho": "pali ea lehloa.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "right",
+      "image": "page_085_right.png",
+      "text_file": "page_085_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flame",
+    "pos": "n.",
+    "sesotho": "lelakabe, khabo.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "right",
+      "image": "page_085_right.png",
+      "text_file": "page_085_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flank",
+    "pos": "n.",
+    "sesotho": "lehlakore, lesaho.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "right",
+      "image": "page_085_right.png",
+      "text_file": "page_085_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flannel",
+    "pos": "n.",
+    "sesotho": "lesela la boea.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "right",
+      "image": "page_085_right.png",
+      "text_file": "page_085_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flap",
+    "pos": "n.",
+    "sesotho": "qola; v. to flap the.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "right",
+      "image": "page_085_right.png",
+      "text_file": "page_085_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flare",
+    "pos": "v.",
+    "sesotho": "ho benya ho se ho-kae.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "right",
+      "image": "page_085_right.png",
+      "text_file": "page_085_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flash",
+    "pos": "v.",
+    "sesotho": "ho benya, halima.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "right",
+      "image": "page_085_right.png",
+      "text_file": "page_085_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flask",
+    "pos": "n.",
+    "sesotho": "mofuta oa botlolo, koma ea mosili.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "right",
+      "image": "page_085_right.png",
+      "text_file": "page_085_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flat",
+    "pos": "adj.",
+    "sesotho": "e sephara, e tsitsitseng.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "right",
+      "image": "page_085_right.png",
+      "text_file": "page_085_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flatly",
+    "pos": "adv.",
+    "sesotho": "ka mokhoa o hlakileng.",
+    "source": {
+      "page_index": 84,
+      "page_number": 85,
+      "column": "right",
+      "image": "page_085_right.png",
+      "text_file": "page_085_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flats",
+    "pos": "n.",
+    "sesotho": "plur. thota, lehotata.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "left",
+      "image": "page_086_left.png",
+      "text_file": "page_086_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flatten",
+    "pos": "v.",
+    "sesotho": "ho pharamisa, tsitsitsa.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "left",
+      "image": "page_086_left.png",
+      "text_file": "page_086_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flatter",
+    "pos": "v.",
+    "sesotho": "ho khahlisa ka.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "left",
+      "image": "page_086_left.png",
+      "text_file": "page_086_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flatterer",
+    "pos": "n.",
+    "sesotho": "leseaqheme.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "left",
+      "image": "page_086_left.png",
+      "text_file": "page_086_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flattery",
+    "pos": "n.",
+    "sesotho": "thoriso, qeko.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "left",
+      "image": "page_086_left.png",
+      "text_file": "page_086_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flatulency",
+    "pos": "n.",
+    "sesotho": "to suffer from pipitlelo.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "left",
+      "image": "page_086_left.png",
+      "text_file": "page_086_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flavour",
+    "pos": "n.",
+    "sesotho": "tatso; v. ho noka lijo, ho li natefisa.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "left",
+      "image": "page_086_left.png",
+      "text_file": "page_086_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flavourless",
+    "pos": "adj.",
+    "sesotho": "e bosula.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "left",
+      "image": "page_086_left.png",
+      "text_file": "page_086_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flaw",
+    "pos": "n.",
+    "sesotho": "letheba, sekoli.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "left",
+      "image": "page_086_left.png",
+      "text_file": "page_086_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flax",
+    "pos": "n.",
+    "sesotho": "setlama sa ho etsa masela.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "left",
+      "image": "page_086_left.png",
+      "text_file": "page_086_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flay",
+    "pos": "v.",
+    "sesotho": "ho bua letlalo.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "left",
+      "image": "page_086_left.png",
+      "text_file": "page_086_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flea",
+    "pos": "n.",
+    "sesotho": "letsetse.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "left",
+      "image": "page_086_left.png",
+      "text_file": "page_086_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flee",
+    "pos": "v.",
+    "sesotho": "ho baleha, phapha.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "left",
+      "image": "page_086_left.png",
+      "text_file": "page_086_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fleece",
+    "pos": "n.",
+    "sesotho": "letlalo la nku le nang le boea, boea ba nku bo kutiloeng; v. ho kuta.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "left",
+      "image": "page_086_left.png",
+      "text_file": "page_086_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fleet",
+    "pos": "n.",
+    "sesotho": "sehlopha sa lisepe.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "left",
+      "image": "page_086_left.png",
+      "text_file": "page_086_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fleet",
+    "pos": "adj.",
+    "sesotho": "e lebelo.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "left",
+      "image": "page_086_left.png",
+      "text_file": "page_086_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flesh",
+    "pos": "n.",
+    "sesotho": "nama, letsuabo.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "left",
+      "image": "page_086_left.png",
+      "text_file": "page_086_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fleshy",
+    "pos": "adj.",
+    "sesotho": "e nama, e nonneng.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "left",
+      "image": "page_086_left.png",
+      "text_file": "page_086_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flexible",
+    "pos": "adj.",
+    "sesotho": "to be flexible, ho temeka.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "right",
+      "image": "page_086_right.png",
+      "text_file": "page_086_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flight",
+    "pos": "n.",
+    "sesotho": "paleho; to put to flight, ho lelekisa, qhala.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "right",
+      "image": "page_086_right.png",
+      "text_file": "page_086_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flinch",
+    "pos": "v.",
+    "sesotho": "ho sutha, khutla ka santhao, honyela.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "right",
+      "image": "page_086_right.png",
+      "text_file": "page_086_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fling",
+    "pos": "v.",
+    "sesotho": "ho akhela, betsa.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "right",
+      "image": "page_086_right.png",
+      "text_file": "page_086_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flock",
+    "pos": "n.",
+    "sesotho": "mohlape; v. ho phutheha.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "right",
+      "image": "page_086_right.png",
+      "text_file": "page_086_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flog",
+    "pos": "v.",
+    "sesotho": "ho shapa, otla ka thupa.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "right",
+      "image": "page_086_right.png",
+      "text_file": "page_086_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flooring",
+    "pos": "n.",
+    "sesotho": "liplanka tsa ho kata fatshe ho ntlo.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "right",
+      "image": "page_086_right.png",
+      "text_file": "page_086_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Floriculture",
+    "pos": "n.",
+    "sesotho": "tsebo ea ho melisa lipalesa.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "right",
+      "image": "page_086_right.png",
+      "text_file": "page_086_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Florid",
+    "pos": "adj.",
+    "sesotho": "e mokhunoana.",
+    "source": {
+      "page_index": 85,
+      "page_number": 86,
+      "column": "right",
+      "image": "page_086_right.png",
+      "text_file": "page_086_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Florin",
+    "pos": "n.",
+    "sesotho": "chelete e etsang 2/.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "left",
+      "image": "page_087_left.png",
+      "text_file": "page_087_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flounder",
+    "pos": "v.",
+    "sesotho": "ho poqa seretseng.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "left",
+      "image": "page_087_left.png",
+      "text_file": "page_087_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flour",
+    "pos": "n.",
+    "sesotho": "phofo, letla la phofo.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "left",
+      "image": "page_087_left.png",
+      "text_file": "page_087_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flourish",
+    "pos": "v.",
+    "sesotho": "ho atleha.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "left",
+      "image": "page_087_left.png",
+      "text_file": "page_087_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fluctuate",
+    "pos": "v.",
+    "sesotho": "ho ea kuana le mona.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "left",
+      "image": "page_087_left.png",
+      "text_file": "page_087_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fluency",
+    "pos": "n.",
+    "sesotho": "ho bua ka bonolo.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "left",
+      "image": "page_087_left.png",
+      "text_file": "page_087_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fluid",
+    "pos": "adj.",
+    "sesotho": "ntho e kang metsi.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "left",
+      "image": "page_087_left.png",
+      "text_file": "page_087_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flurry",
+    "pos": "n.",
+    "sesotho": "pherekano, mofere-fere.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "left",
+      "image": "page_087_left.png",
+      "text_file": "page_087_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flute",
+    "pos": "n.",
+    "sesotho": "lekoliloe.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "left",
+      "image": "page_087_left.png",
+      "text_file": "page_087_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flutter",
+    "pos": "v.",
+    "sesotho": "ho phupusela; ho ferekana.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "left",
+      "image": "page_087_left.png",
+      "text_file": "page_087_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Flux",
+    "pos": "n.",
+    "sesotho": "phallo, lelutla, ho phalla ho sa khotseng, ho kolla.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "left",
+      "image": "page_087_left.png",
+      "text_file": "page_087_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fly",
+    "pos": "v.",
+    "sesotho": "ho fofa, rura.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "left",
+      "image": "page_087_left.png",
+      "text_file": "page_087_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fly",
+    "pos": "n.",
+    "sesotho": "ntsi.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "right",
+      "image": "page_087_right.png",
+      "text_file": "page_087_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Foal",
+    "pos": "n.",
+    "sesotho": "petsana; v. ho tsoala ha pere.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "right",
+      "image": "page_087_right.png",
+      "text_file": "page_087_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Foam",
+    "pos": "n.",
+    "sesotho": "makueba; v. ho tsua makueba, tsapola; (fig.) to be angry, ho halefa.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "right",
+      "image": "page_087_right.png",
+      "text_file": "page_087_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fodder",
+    "pos": "n.",
+    "sesotho": "furu.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "right",
+      "image": "page_087_right.png",
+      "text_file": "page_087_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Foe",
+    "pos": "n.",
+    "sesotho": "sera, mohanyetsi.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "right",
+      "image": "page_087_right.png",
+      "text_file": "page_087_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fog",
+    "pos": "n.",
+    "sesotho": "moholi, mouoane.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "right",
+      "image": "page_087_right.png",
+      "text_file": "page_087_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Foil",
+    "pos": "v.",
+    "sesotho": "ho thibela, tsietsa; to be foiled, ho hleloa.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "right",
+      "image": "page_087_right.png",
+      "text_file": "page_087_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fold",
+    "pos": "n.",
+    "sesotho": "(for sheep) lesaka la linku; (plait) lephutha, lesuebe; v. to fold up, ho honelesta, phutha, shoba.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "right",
+      "image": "page_087_right.png",
+      "text_file": "page_087_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Follow",
+    "pos": "v.",
+    "sesotho": "ho latela, latella.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "right",
+      "image": "page_087_right.png",
+      "text_file": "page_087_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Follower",
+    "pos": "n.",
+    "sesotho": "molateli, mohlahlami.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "right",
+      "image": "page_087_right.png",
+      "text_file": "page_087_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Folly",
+    "pos": "n.",
+    "sesotho": "bohlanya, booatla, bothoto.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "right",
+      "image": "page_087_right.png",
+      "text_file": "page_087_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Foment",
+    "pos": "v.",
+    "sesotho": "ho thoba.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "right",
+      "image": "page_087_right.png",
+      "text_file": "page_087_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fond",
+    "pos": "adj.",
+    "sesotho": "e ratang; to be very fond of, ho rata haholo, ho hlanyetsa.",
+    "source": {
+      "page_index": 86,
+      "page_number": 87,
+      "column": "right",
+      "image": "page_087_right.png",
+      "text_file": "page_087_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fondle",
+    "pos": "v.",
+    "sesotho": "ho phaphatha.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "left",
+      "image": "page_088_left.png",
+      "text_file": "page_088_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fondness",
+    "pos": "n.",
+    "sesotho": "lerato.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "left",
+      "image": "page_088_left.png",
+      "text_file": "page_088_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Food",
+    "pos": "n.",
+    "sesotho": "seyo, liyo, mofahe nice food, litheohelan.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "left",
+      "image": "page_088_left.png",
+      "text_file": "page_088_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fool",
+    "pos": "n.",
+    "sesotho": "leoatla, sethoto.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "left",
+      "image": "page_088_left.png",
+      "text_file": "page_088_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fool",
+    "pos": "v.",
+    "sesotho": "ho thetsa, ho bapala ka; he made a fool of.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "left",
+      "image": "page_088_left.png",
+      "text_file": "page_088_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Foolish",
+    "pos": "adj.",
+    "sesotho": "e sethoto, e hlanyang.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "left",
+      "image": "page_088_left.png",
+      "text_file": "page_088_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Foolishly",
+    "pos": "adj.",
+    "sesotho": "ha sethoto you speak foolishly, u bua kapepe.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "left",
+      "image": "page_088_left.png",
+      "text_file": "page_088_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Foolishness",
+    "pos": "n.",
+    "sesotho": "booatla, bothoto.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "left",
+      "image": "page_088_left.png",
+      "text_file": "page_088_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Foot",
+    "pos": "n.",
+    "sesotho": "leoto.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "left",
+      "image": "page_088_left.png",
+      "text_file": "page_088_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Footmark",
+    "pos": "n.",
+    "sesotho": "bohato, mohlala. Foot and mouth disease, n. mokaka.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "left",
+      "image": "page_088_left.png",
+      "text_file": "page_088_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Footpath",
+    "pos": "n.",
+    "sesotho": "tsela ea batho ba maoto.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "left",
+      "image": "page_088_left.png",
+      "text_file": "page_088_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Footstep",
+    "pos": "n.",
+    "sesotho": "hlabo, lika, mohlala.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "left",
+      "image": "page_088_left.png",
+      "text_file": "page_088_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fop",
+    "pos": "n.",
+    "sesotho": "lekako.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "left",
+      "image": "page_088_left.png",
+      "text_file": "page_088_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Foppery",
+    "pos": "n.",
+    "sesotho": "bokako.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "left",
+      "image": "page_088_left.png",
+      "text_file": "page_088_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "For",
+    "pos": "prep.",
+    "sesotho": "ka, kabaka la, bakeng sa; conj. kahoba.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "left",
+      "image": "page_088_left.png",
+      "text_file": "page_088_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forage",
+    "pos": "n.",
+    "sesotho": "furu, habore; v.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "left",
+      "image": "page_088_left.png",
+      "text_file": "page_088_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forbear",
+    "pos": "v.",
+    "sesotho": "ho lesa, tlohela; khaotsa, mamella.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "right",
+      "image": "page_088_right.png",
+      "text_file": "page_088_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forbearance",
+    "pos": "n.",
+    "sesotho": "mamello, sebete.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "right",
+      "image": "page_088_right.png",
+      "text_file": "page_088_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forbid",
+    "pos": "v.",
+    "sesotho": "ho hanela, thibela.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "right",
+      "image": "page_088_right.png",
+      "text_file": "page_088_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Force",
+    "pos": "n.",
+    "sesotho": "matla, sekhahla.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "right",
+      "image": "page_088_right.png",
+      "text_file": "page_088_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ford",
+    "pos": "n.",
+    "sesotho": "leliboho, letsiboho; v. ho tsela noka.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "right",
+      "image": "page_088_right.png",
+      "text_file": "page_088_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fore",
+    "pos": "adj.",
+    "sesotho": "eapele; adv. pele; khale.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "right",
+      "image": "page_088_right.png",
+      "text_file": "page_088_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forebode",
+    "pos": "v.",
+    "sesotho": "ho noha.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "right",
+      "image": "page_088_right.png",
+      "text_file": "page_088_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forecast",
+    "pos": "v.",
+    "sesotho": "ho bona pele.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "right",
+      "image": "page_088_right.png",
+      "text_file": "page_088_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forefather",
+    "pos": "n.",
+    "sesotho": "ntate moholo-holo.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "right",
+      "image": "page_088_right.png",
+      "text_file": "page_088_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forego",
+    "pos": "v.",
+    "sesotho": "ho lesa, tela.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "right",
+      "image": "page_087_right.png",
+      "text_file": "page_087_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Foreigner",
+    "pos": "n.",
+    "sesotho": "molivhaba, o",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "right",
+      "image": "page_088_right.png",
+      "text_file": "page_088_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Foremost",
+    "pos": "adj.",
+    "sesotho": "ea kapele ho",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "right",
+      "image": "page_088_right.png",
+      "text_file": "page_088_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forenoon",
+    "pos": "n.",
+    "sesotho": ", motseare oa, ho-sasa.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "right",
+      "image": "page_088_right.png",
+      "text_file": "page_088_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Foresee",
+    "pos": "v.",
+    "sesotho": "ho bonela pele, noha, _ Porest, n. moru.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "right",
+      "image": "page_088_right.png",
+      "text_file": "page_088_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Foretaste",
+    "pos": "n.",
+    "sesotho": "ho latsua pele,",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "right",
+      "image": "page_088_right.png",
+      "text_file": "page_088_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Foretell",
+    "pos": "v.",
+    "sesotho": "ho bolela pele.",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "right",
+      "image": "page_088_right.png",
+      "text_file": "page_088_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forever",
+    "pos": "adj.",
+    "sesotho": "kamehla, ka",
+    "source": {
+      "page_index": 87,
+      "page_number": 88,
+      "column": "right",
+      "image": "page_088_right.png",
+      "text_file": "page_088_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forewarn",
+    "pos": "v.",
+    "sesotho": "ho eletsa pele,",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "left",
+      "image": "page_089_left.png",
+      "text_file": "page_089_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forfeit",
+    "pos": "v.",
+    "sesotho": "ho senyeheloa ke ntho ka molato.",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "left",
+      "image": "page_089_left.png",
+      "text_file": "page_089_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forge",
+    "pos": "n.",
+    "sesotho": "futho, sefutho; v ho tea Forgery, ». molaté oa ho tii-sa lengolo la. bopaki, kapa la chelete, ka le-bitso leo e seng Ja hao.",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "left",
+      "image": "page_089_left.png",
+      "text_file": "page_089_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forget",
+    "pos": "v.",
+    "sesotho": "ho lebala, hakuoa",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "left",
+      "image": "page_089_left.png",
+      "text_file": "page_089_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forgetful",
+    "pos": "adj.",
+    "sesotho": "ea lebalang; a forgetful person, mole-bali",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "left",
+      "image": "page_089_left.png",
+      "text_file": "page_089_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forgetfulness",
+    "pos": "n.",
+    "sesotho": "bolebali,",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "left",
+      "image": "page_089_left.png",
+      "text_file": "page_089_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forgive",
+    "pos": "v.",
+    "sesotho": "ho tiuarela, lese-",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "left",
+      "image": "page_089_left.png",
+      "text_file": "page_089_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forgiveness",
+    "pos": "n.",
+    "sesotho": "teballo, teselo, tkuarelo.",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "left",
+      "image": "page_089_left.png",
+      "text_file": "page_089_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fork",
+    "pos": "wn.",
+    "sesotho": "fereko",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "left",
+      "image": "page_089_left.png",
+      "text_file": "page_089_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forlorn",
+    "pos": "adj.",
+    "sesotho": "e lebetsoeng,",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "left",
+      "image": "page_089_left.png",
+      "text_file": "page_089_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Furaletsoeny",
+    "pos": "siiloe.",
+    "sesotho": "ng. Form, 1 \"mép6. sebopeho,",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "left",
+      "image": "page_089_left.png",
+      "text_file": "page_089_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Former",
+    "pos": "adj.",
+    "sesotho": "ea kapele ho ba",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "left",
+      "image": "page_089_left.png",
+      "text_file": "page_089_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Formerly",
+    "pos": "adj.",
+    "sesotho": "pele, khale, mohla-mouéne",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "left",
+      "image": "page_089_left.png",
+      "text_file": "page_089_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Formidable",
+    "pos": "adj.",
+    "sesotho": "e khéloha-",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "left",
+      "image": "page_089_left.png",
+      "text_file": "page_089_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fornication",
+    "pos": "n.",
+    "sesotho": "bohtola.",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "right",
+      "image": "page_089_right.png",
+      "text_file": "page_089_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forsake",
+    "pos": "v.",
+    "sesotho": "ho lahla, tlohela, furalla.",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "right",
+      "image": "page_089_right.png",
+      "text_file": "page_089_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forsooth",
+    "pos": "adv.",
+    "sesotho": "ka ‘nete.",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "right",
+      "image": "page_089_right.png",
+      "text_file": "page_089_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fort",
+    "pos": "n.",
+    "sesotho": "qhoboshéane, seqho-bo.",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "right",
+      "image": "page_089_right.png",
+      "text_file": "page_089_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forth",
+    "pos": "adv.",
+    "sesotho": "pele, kantlé.",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "right",
+      "image": "page_089_right.png",
+      "text_file": "page_089_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forthcoming",
+    "pos": "adj.",
+    "sesotho": "en tla hia-ha hona yuale.",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "right",
+      "image": "page_089_right.png",
+      "text_file": "page_089_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forthwith",
+    "pos": "adv.",
+    "sesotho": "honu yuale.",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "right",
+      "image": "page_089_right.png",
+      "text_file": "page_089_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fortify",
+    "pos": "v.",
+    "sesotho": "ho natlafala, ma-tlafatsa.",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "right",
+      "image": "page_089_right.png",
+      "text_file": "page_089_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fortitude",
+    "pos": "n.",
+    "sesotho": "matla, tiisetso.",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "right",
+      "image": "page_089_right.png",
+      "text_file": "page_089_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fortnight",
+    "pos": "n.",
+    "sesotho": "veke tse peli.",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "right",
+      "image": "page_089_right.png",
+      "text_file": "page_089_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fortress",
+    "pos": "n.",
+    "sesotho": "qhoboshéane, se-qhobo",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "right",
+      "image": "page_089_right.png",
+      "text_file": "page_089_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fortunate",
+    "pos": "adj.",
+    "sesotho": "e malimatle. e lehlohonolo.",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "right",
+      "image": "page_089_right.png",
+      "text_file": "page_089_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fortune",
+    "pos": "n.",
+    "sesotho": "lerno; good for-",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "right",
+      "image": "page_089_right.png",
+      "text_file": "page_089_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forty",
+    "pos": "adj.",
+    "sesotho": "mashome mane.",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "right",
+      "image": "page_089_right.png",
+      "text_file": "page_089_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Forward",
+    "pos": "adj.",
+    "sesotho": "ea ka pele ho ba bang. ea hlaha; v. ho utsetsa pele. Foster, ¥. ho fépa, hdlisa, rata. Foster-child, 0 nguana ea hé-lisoang ke basele ho ba-holo ba hae.",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "right",
+      "image": "page_089_right.png",
+      "text_file": "page_089_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Foul",
+    "pos": "adj.",
+    "sesotho": "e litsila, e molate; v_ ho silafatsa.",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "right",
+      "image": "page_089_right.png",
+      "text_file": "page_089_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Found",
+    "pos": "v.",
+    "sesotho": "ho thea motheo;",
+    "source": {
+      "page_index": 88,
+      "page_number": 89,
+      "column": "right",
+      "image": "page_089_right.png",
+      "text_file": "page_089_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Foundation",
+    "pos": "n.",
+    "sesotho": "mothéo, m« ralo.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "left",
+      "image": "page_090_left.png",
+      "text_file": "page_090_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Founder",
+    "pos": "n.",
+    "sesotho": "moghibilihis mothei.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "left",
+      "image": "page_090_left.png",
+      "text_file": "page_090_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Founder",
+    "pos": "v.",
+    "sesotho": "ho teba ha se képé ha se senyeha.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "left",
+      "image": "page_090_left.png",
+      "text_file": "page_090_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Foundling",
+    "pos": "n.",
+    "sesotho": "nguana ea la hliloeng ke bahdlé b",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "left",
+      "image": "page_090_left.png",
+      "text_file": "page_090_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fountain",
+    "pos": "n.",
+    "sesotho": "seliba.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "left",
+      "image": "page_090_left.png",
+      "text_file": "page_090_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Four",
+    "pos": "adj.",
+    "sesotho": "\"ne.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "left",
+      "image": "page_090_left.png",
+      "text_file": "page_090_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fourfooted",
+    "pos": "adj.",
+    "sesotho": "e madto | mane.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "left",
+      "image": "page_090_left.png",
+      "text_file": "page_090_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fourteen",
+    "pos": "adj.",
+    "sesotho": "leshome le me tso e mene.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "left",
+      "image": "page_090_left.png",
+      "text_file": "page_090_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fowl",
+    "pos": "n.",
+    "sesotho": "khoh6, nonyana.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "left",
+      "image": "page_090_left.png",
+      "text_file": "page_090_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fuivler",
+    "pos": "n.",
+    "sesotho": "motsuasi oa lino nyana.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "left",
+      "image": "page_090_left.png",
+      "text_file": "page_090_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fox",
+    "pos": "n.",
+    "sesotho": "phikoyoe.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "left",
+      "image": "page_090_left.png",
+      "text_file": "page_090_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fracture",
+    "pos": "n.",
+    "sesotho": "thobého; v. he robéha; J have fracture: my arm, ke vobehile le tsoho.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "left",
+      "image": "page_090_left.png",
+      "text_file": "page_090_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fragile",
+    "pos": "adj.",
+    "sesotho": "e vobehang ha bonolo feela.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "left",
+      "image": "page_090_left.png",
+      "text_file": "page_090_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fragment",
+    "pos": "n.",
+    "sesotho": "sekoto",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "left",
+      "image": "page_090_left.png",
+      "text_file": "page_090_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fragrance",
+    "pos": "n.",
+    "sesotho": "monko o mo. nate.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "left",
+      "image": "page_090_left.png",
+      "text_file": "page_090_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Frail",
+    "pos": "adj.",
+    "sesotho": "e felang, e foko-",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "left",
+      "image": "page_090_left.png",
+      "text_file": "page_090_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Frame",
+    "pos": "n.",
+    "sesotho": "foromo; kosene ea",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "right",
+      "image": "page_090_right.png",
+      "text_file": "page_090_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Frantic",
+    "pos": "adj.",
+    "sesotho": "e halefileng ha-J holo, e hlanyang. 1 Fraternise, v. ho phela ka A boena le ba bang.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "right",
+      "image": "page_090_right.png",
+      "text_file": "page_090_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fraternity",
+    "pos": "n.",
+    "sesotho": "boena.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "right",
+      "image": "page_090_right.png",
+      "text_file": "page_090_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fratricide",
+    "pos": "mn.",
+    "sesotho": "'molai oa nguan'abo, 2 = Fraud, n. thetso, mano, bo-mene-mene.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "right",
+      "image": "page_090_right.png",
+      "text_file": "page_090_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fray",
+    "pos": "n.",
+    "sesotho": "ntoa, qabang.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "right",
+      "image": "page_090_right.png",
+      "text_file": "page_090_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Free",
+    "pos": "adj.",
+    "sesotho": "© lokdlohileng; v. ho lok6lla, naméla, loela,; tlamélla, holla.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "right",
+      "image": "page_090_right.png",
+      "text_file": "page_090_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Freedom",
+    "pos": "n.",
+    "sesotho": "tokélého.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "right",
+      "image": "page_090_right.png",
+      "text_file": "page_090_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Free-booter",
+    "pos": "n.",
+    "sesotho": "sendkuane, se-) rabele. 1 Freewill, un. boithatelo.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "right",
+      "image": "page_090_right.png",
+      "text_file": "page_090_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Freeze",
+    "pos": "vy.",
+    "sesotho": "ho fetoha leqhoa, hoama.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "right",
+      "image": "page_090_right.png",
+      "text_file": "page_090_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "French",
+    "pos": "adj.",
+    "sesotho": "ea France ( Ko-ra); n. puo ea se-Fora; a Frenchman, le-Fora.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "right",
+      "image": "page_090_right.png",
+      "text_file": "page_090_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Frenzy",
+    "pos": "n.",
+    "sesotho": "ho se ikutine, bo-hlanya.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "right",
+      "image": "page_090_right.png",
+      "text_file": "page_090_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Frequent",
+    "pos": "adj.",
+    "sesotho": "e atileng.",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "right",
+      "image": "page_090_right.png",
+      "text_file": "page_090_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Frequently",
+    "pos": "adv.",
+    "sesotho": "khafetsa, ha-",
+    "source": {
+      "page_index": 89,
+      "page_number": 90,
+      "column": "right",
+      "image": "page_090_right.png",
+      "text_file": "page_090_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fresh",
+    "pos": "adj.",
+    "sesotho": "e pholileng, ba-",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "left",
+      "image": "page_091_left.png",
+      "text_file": "page_091_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fret",
+    "pos": "v.",
+    "sesotho": "ho belaela ka, Inma-",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "left",
+      "image": "page_091_left.png",
+      "text_file": "page_091_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Friable",
+    "pos": "adj.",
+    "sesotho": "e ka thuhoang habonolo.",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "left",
+      "image": "page_091_left.png",
+      "text_file": "page_091_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Friday",
+    "pos": "n.",
+    "sesotho": "‘etsatsi la bohland.",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "left",
+      "image": "page_091_left.png",
+      "text_file": "page_091_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Friend",
+    "pos": "n.",
+    "sesotho": "motsualle, mole",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "left",
+      "image": "page_091_left.png",
+      "text_file": "page_091_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Friendship",
+    "pos": "n.",
+    "sesotho": "setsualle, sei-",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "left",
+      "image": "page_091_left.png",
+      "text_file": "page_091_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fright",
+    "pos": "n.",
+    "sesotho": "tsohe, tkabo",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "left",
+      "image": "page_091_left.png",
+      "text_file": "page_091_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Frighten",
+    "pos": "v.",
+    "sesotho": "ho tose, t&abis»,",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "left",
+      "image": "page_091_left.png",
+      "text_file": "page_091_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Frightened",
+    "pos": "ho.",
+    "sesotho": "t&oha, fe-hla mahlo, neneta. Fright{ul, adj e t&abehang, tha bisang.",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "left",
+      "image": "page_091_left.png",
+      "text_file": "page_091_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fringe",
+    "pos": "on.",
+    "sesotho": "phello ea ntho e kang lexela. lintsi tea eonn,",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "left",
+      "image": "page_091_left.png",
+      "text_file": "page_091_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Frisk",
+    "pos": "v.",
+    "sesotho": "ho tlélaka",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "left",
+      "image": "page_091_left.png",
+      "text_file": "page_091_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Frivolous",
+    "pos": "adj.",
+    "sesotho": "e hlokomelang litaba tse nyenyane.",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "left",
+      "image": "page_091_left.png",
+      "text_file": "page_091_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Frock",
+    "pos": "vy.",
+    "sesotho": "roko.",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "left",
+      "image": "page_091_left.png",
+      "text_file": "page_091_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Frolic",
+    "pos": "vy.",
+    "sesotho": "ho thale, thalaba-nya.",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "right",
+      "image": "page_091_right.png",
+      "text_file": "page_091_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "From",
+    "pos": "prep.",
+    "sesotho": "ho, ho tloha ho. Front,» —sefahleho, kapa karolo ea” sefahleho; boikhant&o; in front of, ka pele ho, pel'a, pele ho; to be in front, ho ba oa pele; v. hoema ma-bapa le.",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "right",
+      "image": "page_091_right.png",
+      "text_file": "page_091_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Frontver",
+    "pos": "n.",
+    "sesotho": "moeli oa naha.",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "right",
+      "image": "page_091_right.png",
+      "text_file": "page_091_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Frost",
+    "pos": "n.",
+    "sesotho": "lebabo, serame.",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "right",
+      "image": "page_091_right.png",
+      "text_file": "page_091_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Frostbitten",
+    "pos": "adj.",
+    "sesotho": "ho bayoa, chatsoa.",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "right",
+      "image": "page_091_right.png",
+      "text_file": "page_091_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Froth",
+    "pos": "n.",
+    "sesotho": "lefilo; v. ho tlé-koma.",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "right",
+      "image": "page_091_right.png",
+      "text_file": "page_091_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Frovn",
+    "pos": "v.",
+    "sesotho": "ho yekétsa, soso-",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "right",
+      "image": "page_091_right.png",
+      "text_file": "page_091_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Frugal",
+    "pos": "adj.",
+    "sesotho": "ea yang hanye-",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "right",
+      "image": "page_091_right.png",
+      "text_file": "page_091_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fruit",
+    "pos": "n.",
+    "sesotho": "thdloana, se be-",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "right",
+      "image": "page_091_right.png",
+      "text_file": "page_091_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Frutful",
+    "pos": "adj.",
+    "sesotho": "e beang hantie, e hlahisang lithdloana.",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "right",
+      "image": "page_091_right.png",
+      "text_file": "page_091_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fruct-tree",
+    "pos": "n.",
+    "sesotho": "sefate se beang lithdloana tae yeoang.",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "right",
+      "image": "page_091_right.png",
+      "text_file": "page_091_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Frustrate",
+    "pos": "v.",
+    "sesotho": "ho améha. tima,",
+    "source": {
+      "page_index": 90,
+      "page_number": 91,
+      "column": "right",
+      "image": "page_091_right.png",
+      "text_file": "page_091_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fry",
+    "pos": "v.",
+    "sesotho": "ho pheha ka mafm halika.",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "left",
+      "image": "page_092_left.png",
+      "text_file": "page_092_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fuel",
+    "pos": "n.",
+    "sesotho": "libeso, (patsi, lis",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "left",
+      "image": "page_092_left.png",
+      "text_file": "page_092_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fulfil",
+    "pos": "v.",
+    "sesotho": "ho phétha, qatéll",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "left",
+      "image": "page_092_left.png",
+      "text_file": "page_092_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Full",
+    "pos": "adj.",
+    "sesotho": "e tletseng; to",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "left",
+      "image": "page_092_left.png",
+      "text_file": "page_092_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Full",
+    "pos": "ho.",
+    "sesotho": "phasoa, tla! penama.",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "left",
+      "image": "page_092_left.png",
+      "text_file": "page_092_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fully",
+    "pos": "adv.",
+    "sesotho": "haholo, ka | tlala.",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "left",
+      "image": "page_092_left.png",
+      "text_file": "page_092_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fulminate",
+    "pos": "v.",
+    "sesotho": "ho qhéma } matla a mahdlé, ho lum",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "left",
+      "image": "page_092_left.png",
+      "text_file": "page_092_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fume",
+    "pos": "n.",
+    "sesotho": "mdosi, mouoane v. ho itSéna, ho halefa.",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "left",
+      "image": "page_092_left.png",
+      "text_file": "page_092_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fun",
+    "pos": "n.",
+    "sesotho": "papali, mosusso: make fun of, ho soholl",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "left",
+      "image": "page_092_left.png",
+      "text_file": "page_092_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Function",
+    "pos": "n.",
+    "sesotho": "kabelo.",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "left",
+      "image": "page_092_left.png",
+      "text_file": "page_092_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Funds",
+    "pos": "n.",
+    "sesotho": "lichelete; 1 have 1",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "left",
+      "image": "page_092_left.png",
+      "text_file": "page_092_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Funds",
+    "pos": "ha.",
+    "sesotho": "ke na chelet",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "left",
+      "image": "page_092_left.png",
+      "text_file": "page_092_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Funeral",
+    "pos": "n.",
+    "sesotho": "képélo. Funnel, 1 set8elo, moo mé o fetang.",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "left",
+      "image": "page_092_left.png",
+      "text_file": "page_092_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Funny",
+    "pos": "adj.",
+    "sesotho": "e t8ehisang.",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "left",
+      "image": "page_092_left.png",
+      "text_file": "page_092_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fur",
+    "pos": "n.",
+    "sesotho": "letlalo le boéa.",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "left",
+      "image": "page_092_left.png",
+      "text_file": "page_092_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Furious",
+    "pos": "udj.",
+    "sesotho": "e itéenang, ha-ie lefileng. Furlong, 1 kuardlo ea boroba u, meno e ‘meli ea mile. eFurlough, n. tumello: ea ho lok6loha mosebetsing ka abaka se itseng. ern = Furnace, n. leifo, sebopi, onto",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "right",
+      "image": "page_092_right.png",
+      "text_file": "page_092_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Furniture",
+    "pos": "n.",
+    "sesotho": "mesebetsi ea a. _ ntld, (ynaleka taféle, li-be tulo, ete. ) a, Furrow, n. moeli oa metsi, moeli o etsoang ka pluu, 10 ford.",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "right",
+      "image": "page_092_right.png",
+      "text_file": "page_092_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Further",
+    "pos": "adv.",
+    "sesotho": "ka peyana, ca hape; v ho ntetsa pele a. Fuse, v. ho qhibilihisa. »; Fusion, n. ghibilihiso.",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "right",
+      "image": "page_092_right.png",
+      "text_file": "page_092_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fuss",
+    "pos": "n.",
+    "sesotho": "khathatso tabeng to tse nyenyane, ho tlaka-D. lla; do not make such a",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "right",
+      "image": "page_092_right.png",
+      "text_file": "page_092_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fuss",
+    "pos": "use.",
+    "sesotho": "ke ua tlakalla LO hakalo.; e. Fustigate, v. ho shapa.",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "right",
+      "image": "page_092_right.png",
+      "text_file": "page_092_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Futile",
+    "pos": "adj.",
+    "sesotho": "e nyenyane, e sa 3i tsebisahaleng.",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "right",
+      "image": "page_092_right.png",
+      "text_file": "page_092_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Future",
+    "pos": "adj.",
+    "sesotho": "e tlang ho tla; n. nako e tlang.",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "right",
+      "image": "page_092_right.png",
+      "text_file": "page_092_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Fy",
+    "pos": "excl.",
+    "sesotho": "ea nyatso. ue! ao!",
+    "source": {
+      "page_index": 91,
+      "page_number": 92,
+      "column": "right",
+      "image": "page_092_right.png",
+      "text_file": "page_092_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  }
+]

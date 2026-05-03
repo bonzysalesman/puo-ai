@@ -1,0 +1,86 @@
+[
+  {
+    "entry_id": "st_G23_EX_01",
+    "headword_english": "To mourn / Lament",
+    "pos": [{ "tag": "v.", "full": "verb" }],
+    "headword_sesotho": [{ "orthographic": "bokollela", "tone_marked": "bōkōllēlā" }],
+    "syllables": [{ "orthographic": "bo-ko-lle-la", "syllable_count": 4 }],
+    "morphology": { "root": "bokolla", "noun_class": null, "derivation": "Applied form of 'bokolla' (to wail)" },
+    "senses": [{
+      "sense_id": "emotion_01",
+      "definition_en": "To express deep grief through loud wailing or lamentation.",
+      "sesotho_term": ["bokollela"],
+      "usage_example": { "sesotho": "...Abrahama a bokollela Sara le ho mo llela.", "english": "...Abraham came to mourn for Sarah and to weep for her.", "source": "Genesis 23" }
+    }]
+  },
+  {
+    "entry_id": "st_G23_EX_02",
+    "headword_english": "Burial Place",
+    "pos": [{ "tag": "n. phrase", "full": "noun phrase" }],
+    "headword_sesotho": [{ "orthographic": "sebaka sa lepato", "tone_marked": "sēbākā sā lēpātō" }],
+    "syllables": [{ "orthographic": "se-ba-ka sa le-pa-to", "syllable_count": 6 }],
+    "morphology": { "root": "pata", "noun_class": 7, "derivation": "Noun + genitive + noun from 'pata' (to bury/hide)" },
+    "senses": [{
+      "sense_id": "legal_01",
+      "definition_en": "A piece of property owned specifically for the purpose of burying the dead.",
+      "sesotho_term": ["sebaka sa lepato"],
+      "usage_example": { "sesotho": "Mpheng sebaka sa lepato har’a lōna.", "english": "Give me property for a burial place among you.", "source": "Genesis 23" }
+    }]
+  },
+  {
+    "entry_id": "st_G23_EX_03",
+    "headword_english": "Cave",
+    "pos": [{ "tag": "n.", "full": "noun" }],
+    "headword_sesotho": [{ "orthographic": "lehaha", "tone_marked": "lēhāhā" }],
+    "syllables": [{ "orthographic": "le-ha-ha", "syllable_count": 3 }],
+    "morphology": { "root": "lehaha", "noun_class": 5, "derivation": "Primary noun" },
+    "senses": [{
+      "sense_id": "nature_01",
+      "definition_en": "A natural chamber in the earth or rock; specifically the cave of Machpelah.",
+      "sesotho_term": ["lehaha"],
+      "usage_example": { "sesotho": "...hore a mphe lehaha la Makpela.", "english": "...that he may give me the cave of Machpelah.", "source": "Genesis 23" }
+    }]
+  },
+  {
+    "entry_id": "st_G23_EX_04",
+    "headword_english": "Full Price",
+    "pos": [{ "tag": "n. phrase", "full": "noun phrase" }],
+    "headword_sesotho": [{ "orthographic": "tekanyo e feletseng", "tone_marked": "tēkānyō ē fēlētsēng" }],
+    "syllables": [{ "orthographic": "te-ka-nyo e fe-le-tseng", "syllable_count": 7 }],
+    "morphology": { "root": "lekanya", "noun_class": 9, "derivation": "Noun from 'lekanya' (to measure) + relative of 'fela' (to end/complete)" },
+    "senses": [{
+      "sense_id": "legal_02",
+      "definition_en": "The total market value; paying in full without a discount or debt.",
+      "sesotho_term": ["tekanyo e feletseng"],
+      "usage_example": { "sesotho": "...ka tekanyo e feletseng ea silevera.", "english": "...at the full price of silver.", "source": "Genesis 23" }
+    }]
+  },
+  {
+    "entry_id": "st_G23_EX_05",
+    "headword_english": "To weigh out",
+    "pos": [{ "tag": "v.", "full": "verb" }],
+    "headword_sesotho": [{ "orthographic": "bekhela", "tone_marked": "bēkhēlā" }],
+    "syllables": [{ "orthographic": "be-khe-la", "syllable_count": 3 }],
+    "morphology": { "root": "bekha", "noun_class": null, "derivation": "Applied form of 'bekha' (to weigh)" },
+    "senses": [{
+      "sense_id": "commerce_01",
+      "definition_en": "To measure the mass of silver or gold used as currency.",
+      "sesotho_term": ["bekhela"],
+      "usage_example": { "sesotho": "...Abrahama o bekhela Efrone silevera.", "english": "...Abraham weighed out the silver for Ephron.", "source": "Genesis 23" }
+    }]
+  },
+  {
+    "entry_id": "st_G23_EX_06",
+    "headword_english": "Deeded / Confirmed",
+    "pos": [{ "tag": "v. pass", "full": "passive verb" }],
+    "headword_sesotho": [{ "orthographic": "tiisetsoa", "tone_marked": "tīīsētsōā" }],
+    "syllables": [{ "orthographic": "tii-se-tsoa", "syllable_count": 3 }],
+    "morphology": { "root": "tiisa", "noun_class": null, "derivation": "Passive of 'tiisa' (to make firm/strong)" },
+    "senses": [{
+      "sense_id": "legal_03",
+      "definition_en": "To be legally established as a possession; to transfer ownership formally.",
+      "sesotho_term": ["tiisetsoa"],
+      "usage_example": { "sesotho": "...tsa tiisetsoa Abrahama e le thepa ea hae.", "english": "...were deeded/confirmed to Abraham as his possession.", "source": "Genesis 23" }
+    }]
+  }
+]

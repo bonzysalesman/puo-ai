@@ -1,0 +1,3200 @@
+[
+  {
+    "headword_english": "Adjunction",
+    "pos_raw": "n.",
+    "definition_raw": "kekeletso.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "left",
+      "image": "page_012_left.png",
+      "text_file": "page_012_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Adjure",
+    "pos_raw": "v.",
+    "definition_raw": "ho hlapantéa, antsa.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "left",
+      "image": "page_012_left.png",
+      "text_file": "page_012_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aldminister",
+    "pos_raw": "v.",
+    "definition_raw": "ho lisa, tsa-mais.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "left",
+      "image": "page_012_left.png",
+      "text_file": "page_012_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Administration",
+    "pos_raw": "n.",
+    "definition_raw": "puso, tiso,",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "left",
+      "image": "page_012_left.png",
+      "text_file": "page_012_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Admire",
+    "pos_raw": "v.",
+    "definition_raw": "(to wonder at) ho makala ke, boha, tsota, babatsa; (to feel respect) ho hlonepia.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "left",
+      "image": "page_012_left.png",
+      "text_file": "page_012_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Admit",
+    "pos_raw": "v.",
+    "definition_raw": "(to permit to enter) ho amohéla, kenya; (te receive as true) ho lumé-",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "left",
+      "image": "page_012_left.png",
+      "text_file": "page_012_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Admonish",
+    "pos_raw": "v.",
+    "definition_raw": "ho laéa.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "left",
+      "image": "page_012_left.png",
+      "text_file": "page_012_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Adolescent",
+    "pos_raw": "n.",
+    "definition_raw": "mohlankana.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "left",
+      "image": "page_012_left.png",
+      "text_file": "page_012_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Adopt",
+    "pos_raw": "v.",
+    "definition_raw": "(to adopt a child) ho thola (nguana)",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "left",
+      "image": "page_012_left.png",
+      "text_file": "page_012_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Adoration",
+    "pos_raw": "n.",
+    "definition_raw": "ho khumaméla. ho sebeletsa Melimo.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "left",
+      "image": "page_012_left.png",
+      "text_file": "page_012_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Adorn",
+    "pos_raw": "v.",
+    "definition_raw": "ho khabisa, hlo-",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "left",
+      "image": "page_012_left.png",
+      "text_file": "page_012_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Adulterate",
+    "pos_raw": "v.",
+    "definition_raw": "ho tsueberenys,",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "left",
+      "image": "page_012_left.png",
+      "text_file": "page_012_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Adultery",
+    "pos_raw": "a.",
+    "definition_raw": "bofsbée.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "left",
+      "image": "page_012_left.png",
+      "text_file": "page_012_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Advance",
+    "pos_raw": "v.",
+    "definition_raw": "(lit, and fig ) ho tsnela pele.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "left",
+      "image": "page_012_left.png",
+      "text_file": "page_012_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Advantage",
+    "pos_raw": "n.",
+    "definition_raw": "molemo.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "left",
+      "image": "page_012_left.png",
+      "text_file": "page_012_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Adventure",
+    "pos_raw": "n.",
+    "definition_raw": "ntho e téohang e hlahéla mothé, tsietsi. ngope-a-set&oha.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "left",
+      "image": "page_012_left.png",
+      "text_file": "page_012_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Adversary",
+    "pos_raw": "n.",
+    "definition_raw": "sera, moha-nyetsi.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "left",
+      "image": "page_012_left.png",
+      "text_file": "page_012_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Adversity",
+    "pos_raw": "n.",
+    "definition_raw": "bomalibe, bo-soto.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "right",
+      "image": "page_012_right.png",
+      "text_file": "page_012_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Advice",
+    "pos_raw": "vn.",
+    "definition_raw": "keletso, teméso.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "right",
+      "image": "page_012_right.png",
+      "text_file": "page_012_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Advise",
+    "pos_raw": "v.",
+    "definition_raw": "ho lemésa, eletsa.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "right",
+      "image": "page_012_right.png",
+      "text_file": "page_012_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Advocate",
+    "pos_raw": "v.",
+    "definition_raw": "ho buélla, eméla; n. 'muelli, moemeli.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "right",
+      "image": "page_012_right.png",
+      "text_file": "page_012_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Afar",
+    "pos_raw": "adv.",
+    "definition_raw": "hole, monamo.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "right",
+      "image": "page_012_right.png",
+      "text_file": "page_012_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Affability",
+    "pos_raw": "n.",
+    "definition_raw": "mdsa, molemo.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "right",
+      "image": "page_012_right.png",
+      "text_file": "page_012_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Affair",
+    "pos_raw": "n.",
+    "definition_raw": "taba, mosebetsi.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "right",
+      "image": "page_012_right.png",
+      "text_file": "page_012_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Affect",
+    "pos_raw": "v.",
+    "definition_raw": "(to move or touch) ho ama peld, sisimésa; | (to be moved) ho perama, sisa pelo; (to be. affected, to make a show) ho ike-tsisa. al ffection, n. lerato.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "right",
+      "image": "page_012_right.png",
+      "text_file": "page_012_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Affirm",
+    "pos_raw": "v.",
+    "definition_raw": "ho tiisa, oméla.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "right",
+      "image": "page_012_right.png",
+      "text_file": "page_012_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Affirmation",
+    "pos_raw": "n.",
+    "definition_raw": "tiiso, komélo.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "right",
+      "image": "page_012_right.png",
+      "text_file": "page_012_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Afilict",
+    "pos_raw": "v.",
+    "definition_raw": "ho hlokofatsé; to be afflicted, ho hlémbha, suaba.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "right",
+      "image": "page_012_right.png",
+      "text_file": "page_012_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Affliction",
+    "pos_raw": "n.",
+    "definition_raw": "masnabi, mahlo-mola",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "right",
+      "image": "page_012_right.png",
+      "text_file": "page_012_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Affright",
+    "pos_raw": "v.",
+    "definition_raw": "ho t8dsa, tSabisa",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "right",
+      "image": "page_012_right.png",
+      "text_file": "page_012_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Affront",
+    "pos_raw": "v.",
+    "definition_raw": "ho fahla.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "right",
+      "image": "page_012_right.png",
+      "text_file": "page_012_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Afoot",
+    "pos_raw": "adv.",
+    "definition_raw": "ka madto.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "right",
+      "image": "page_012_right.png",
+      "text_file": "page_012_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aforetime",
+    "pos_raw": "adv.",
+    "definition_raw": "pele. khale.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "right",
+      "image": "page_012_right.png",
+      "text_file": "page_012_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Afraid",
+    "pos_raw": "adj.",
+    "definition_raw": "e tsohileng, e tSohang; to be afraid,: ho tsaba, tSoha, quaéa, | féha mahlo.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "right",
+      "image": "page_012_right.png",
+      "text_file": "page_012_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Afresh",
+    "pos_raw": "adv.",
+    "definition_raw": "hape, bocha.",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "right",
+      "image": "page_012_right.png",
+      "text_file": "page_012_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "After",
+    "pos_raw": "adv.",
+    "definition_raw": "morav, kamorao;",
+    "source": {
+      "page_index": 11,
+      "page_number": 12,
+      "column": "right",
+      "image": "page_012_right.png",
+      "text_file": "page_012_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "After",
+    "pos_raw": "conj.",
+    "definition_raw": "hobane, eitse ho-",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "left",
+      "image": "page_013_left.png",
+      "text_file": "page_013_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aflernoon",
+    "pos_raw": "n.",
+    "definition_raw": "motSeare oa mantsibdea.",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "left",
+      "image": "page_013_left.png",
+      "text_file": "page_013_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Afterwards",
+    "pos_raw": "adv.",
+    "definition_raw": "hamorao,",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "left",
+      "image": "page_013_left.png",
+      "text_file": "page_013_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Agarust",
+    "pos_raw": "prep.",
+    "definition_raw": "to be against ho leantSa, ho hanyetsa; to lean or rest against, ho itSetleha ka.",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "left",
+      "image": "page_013_left.png",
+      "text_file": "page_013_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Age",
+    "pos_raw": "n.",
+    "definition_raw": "(teme of life) lilemo; (a period of ttme ) motso",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "left",
+      "image": "page_013_left.png",
+      "text_file": "page_013_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Agent",
+    "pos_raw": "wn.",
+    "definition_raw": "“muelli, agente",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "left",
+      "image": "page_013_left.png",
+      "text_file": "page_013_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Agility",
+    "pos_raw": "n.",
+    "definition_raw": "bobbe, bobébo, lebelo.",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "left",
+      "image": "page_013_left.png",
+      "text_file": "page_013_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ayitate",
+    "pos_raw": "v.",
+    "definition_raw": "(to st'r) ho tsuku-",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "left",
+      "image": "page_013_left.png",
+      "text_file": "page_013_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ago",
+    "pos_raw": "adv.",
+    "definition_raw": "khale, pele; long",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "left",
+      "image": "page_013_left.png",
+      "text_file": "page_013_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ago",
+    "pos_raw": "khale.",
+    "definition_raw": "-khale.",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "left",
+      "image": "page_013_left.png",
+      "text_file": "page_013_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Agony",
+    "pos_raw": "vn.",
+    "definition_raw": "mahlémodla a ho",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "left",
+      "image": "page_013_left.png",
+      "text_file": "page_013_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Agreeable",
+    "pos_raw": "adj.",
+    "definition_raw": "(pleasing) e khahléhang, e khahli-",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "left",
+      "image": "page_013_left.png",
+      "text_file": "page_013_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Agree",
+    "pos_raw": "v.",
+    "definition_raw": "ho luméllana. ho",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "left",
+      "image": "page_013_left.png",
+      "text_file": "page_013_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Agriculture",
+    "pos_raw": "n.",
+    "definition_raw": "bolemi, temo.",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "right",
+      "image": "page_013_right.png",
+      "text_file": "page_013_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ahead",
+    "pos_raw": "adv.",
+    "definition_raw": "kapele; to yo a-head (lit. and fiz.), ho tsuela pele.",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "right",
+      "image": "page_013_right.png",
+      "text_file": "page_013_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aid",
+    "pos_raw": "v.",
+    "definition_raw": "ho thusa, tlatsa, tla-",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "right",
+      "image": "page_013_right.png",
+      "text_file": "page_013_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ail",
+    "pos_raw": "v.",
+    "definition_raw": "ho baba, kula, ba bé-hloké",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "right",
+      "image": "page_013_right.png",
+      "text_file": "page_013_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aclment",
+    "pos_raw": "n.",
+    "definition_raw": "bdh1Ok6, boloetse,",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "right",
+      "image": "page_013_right.png",
+      "text_file": "page_013_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aefu",
+    "pos_raw": "pabo.",
+    "definition_raw": "",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "right",
+      "image": "page_013_right.png",
+      "text_file": "page_013_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aim",
+    "pos_raw": "v.",
+    "definition_raw": "(to endeavour) ho pheélla, leka; (fo level at) ho korola, eka: n. (intention) phihlélo, pheéllo.",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "right",
+      "image": "page_013_right.png",
+      "text_file": "page_013_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aer",
+    "pos_raw": "n.",
+    "definition_raw": "(wind) mova; (ma-nners) sebdpeho, motsa-mao; (/mney pina; v. ho bea = moteng (here e hloekisoe ke moén).",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "right",
+      "image": "page_013_right.png",
+      "text_file": "page_013_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Alarm",
+    "pos_raw": "v.",
+    "definition_raw": "ho téosa, ho hlaba",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "right",
+      "image": "page_013_right.png",
+      "text_file": "page_013_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Albino",
+    "pos_raw": "n.",
+    "definition_raw": "lesofe.",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "right",
+      "image": "page_013_right.png",
+      "text_file": "page_013_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Alert",
+    "pos_raw": "adj.",
+    "definition_raw": "e phakisung, ite-mohelang.",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "right",
+      "image": "page_013_right.png",
+      "text_file": "page_013_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Alien",
+    "pos_raw": "n.",
+    "definition_raw": "molichaba.",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "right",
+      "image": "page_013_right.png",
+      "text_file": "page_013_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Alienate",
+    "pos_raw": "v.",
+    "definition_raw": "(to withdraw ay-fectim) ho selefatsa; (to transfer) ho nea ntho ho o sele.",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "right",
+      "image": "page_013_right.png",
+      "text_file": "page_013_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Alight",
+    "pos_raw": "v.",
+    "definition_raw": "(aa from a horse) ho",
+    "source": {
+      "page_index": 12,
+      "page_number": 13,
+      "column": "right",
+      "image": "page_013_right.png",
+      "text_file": "page_013_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Alive",
+    "pos_raw": "adj.",
+    "definition_raw": "and adv. e tiua-",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "left",
+      "image": "page_014_left.png",
+      "text_file": "page_014_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Alive",
+    "pos_raw": "adj.",
+    "definition_raw": "e utluang, phe-lang; to be alive, ho",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "left",
+      "image": "page_014_left.png",
+      "text_file": "page_014_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "All",
+    "pos_raw": "adj.",
+    "definition_raw": "eohle, tsohle, bohle, etc.; n. kaofela ha.",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "left",
+      "image": "page_014_left.png",
+      "text_file": "page_014_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Allay",
+    "pos_raw": "v.",
+    "definition_raw": "(to make quiet) ho khutsisa; (to make less im pain) ho bebdla, ko-kobetsa (boh16k6).",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "left",
+      "image": "page_014_left.png",
+      "text_file": "page_014_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Allege",
+    "pos_raw": "v.",
+    "definition_raw": "ho hlahisa moita-tdlo.",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "left",
+      "image": "page_014_left.png",
+      "text_file": "page_014_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Allegory",
+    "pos_raw": "n.",
+    "definition_raw": "setSuantso, pa-piso,",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "left",
+      "image": "page_014_left.png",
+      "text_file": "page_014_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Alliance",
+    "pos_raw": "n.",
+    "definition_raw": "selekane.",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "left",
+      "image": "page_014_left.png",
+      "text_file": "page_014_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Allot",
+    "pos_raw": "v.",
+    "definition_raw": "ho abéla, ardléla.",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "left",
+      "image": "page_014_left.png",
+      "text_file": "page_014_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Allow",
+    "pos_raw": "v.",
+    "definition_raw": "ho luméllana.",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "left",
+      "image": "page_014_left.png",
+      "text_file": "page_014_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Allowance",
+    "pos_raw": "n.",
+    "definition_raw": "(a salary) mo-putso.",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "left",
+      "image": "page_014_left.png",
+      "text_file": "page_014_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Allure",
+    "pos_raw": "v.",
+    "definition_raw": "ho qéka.",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "left",
+      "image": "page_014_left.png",
+      "text_file": "page_014_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Alms",
+    "pos_raw": "n.",
+    "definition_raw": "plur, phomosetso.",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "left",
+      "image": "page_014_left.png",
+      "text_file": "page_014_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Almigty",
+    "pos_raw": "adj.",
+    "definition_raw": "ea matla ‘ohie.",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "left",
+      "image": "page_014_left.png",
+      "text_file": "page_014_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Almost",
+    "pos_raw": "adv.",
+    "definition_raw": "e batlile ho, le-khatheng la; they are alinost here, ba se ba le",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "left",
+      "image": "page_014_left.png",
+      "text_file": "page_014_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aloe",
+    "pos_raw": "n.",
+    "definition_raw": "lekhala.",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "left",
+      "image": "page_014_left.png",
+      "text_file": "page_014_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aloft",
+    "pos_raw": "adv.",
+    "definition_raw": "phahameng, ho-",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "left",
+      "image": "page_014_left.png",
+      "text_file": "page_014_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aimo",
+    "pos_raw": "kaholi.",
+    "definition_raw": "mo.",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "left",
+      "image": "page_014_left.png",
+      "text_file": "page_014_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Alone",
+    "pos_raw": "adj.",
+    "definition_raw": "‘notsi; to be alone,",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "left",
+      "image": "page_014_left.png",
+      "text_file": "page_014_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Along",
+    "pos_raw": "adv.",
+    "definition_raw": "pele, koo; prep. ho ea Je, haufi Je, ham-",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "right",
+      "image": "page_014_right.png",
+      "text_file": "page_014_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Alvud",
+    "pos_raw": "adv.",
+    "definition_raw": "ka lentsue le pha-",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "right",
+      "image": "page_014_right.png",
+      "text_file": "page_014_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Alphabet",
+    "pos_raw": "n.",
+    "definition_raw": "nteteroane.",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "right",
+      "image": "page_014_right.png",
+      "text_file": "page_014_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Already",
+    "pos_raw": "adv.",
+    "definition_raw": "se; it is dark",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "right",
+      "image": "page_014_right.png",
+      "text_file": "page_014_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Already",
+    "pos_raw": "ho.",
+    "definition_raw": "se ho phizi-tile.",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "right",
+      "image": "page_014_right.png",
+      "text_file": "page_014_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Also",
+    "pos_raw": "adv.",
+    "definition_raw": "le, hape.",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "right",
+      "image": "page_014_right.png",
+      "text_file": "page_014_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Alter",
+    "pos_raw": "v.",
+    "definition_raw": "ho fetdla; to become",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "right",
+      "image": "page_014_right.png",
+      "text_file": "page_014_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Altered",
+    "pos_raw": "ho.",
+    "definition_raw": "fetoha.",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "right",
+      "image": "page_014_right.png",
+      "text_file": "page_014_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Altercation",
+    "pos_raw": "n.",
+    "definition_raw": "phapang,",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "right",
+      "image": "page_014_right.png",
+      "text_file": "page_014_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Although",
+    "pos_raw": "conj.",
+    "definition_raw": "leha.",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "right",
+      "image": "page_014_right.png",
+      "text_file": "page_014_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Altitude",
+    "pos_raw": "n.",
+    "definition_raw": ",. bolelele, bopha-",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "right",
+      "image": "page_014_right.png",
+      "text_file": "page_014_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Altogether",
+    "pos_raw": "adv.",
+    "definition_raw": "hammoho,",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "right",
+      "image": "page_014_right.png",
+      "text_file": "page_014_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Alway",
+    "pos_raw": "and.",
+    "definition_raw": "always, adv ka-",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "right",
+      "image": "page_014_right.png",
+      "text_file": "page_014_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Amaze",
+    "pos_raw": "v.",
+    "definition_raw": "ho makatsa; to be",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "right",
+      "image": "page_014_right.png",
+      "text_file": "page_014_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ambassador",
+    "pos_raw": "n.",
+    "definition_raw": "lengosa, le-",
+    "source": {
+      "page_index": 13,
+      "page_number": 14,
+      "column": "right",
+      "image": "page_014_right.png",
+      "text_file": "page_014_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ambition",
+    "pos_raw": "n.",
+    "definition_raw": "takatso ea bé-",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "left",
+      "image": "page_015_left.png",
+      "text_file": "page_015_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Amble",
+    "pos_raw": "v.",
+    "definition_raw": "ho théka, thabdka.",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "left",
+      "image": "page_015_left.png",
+      "text_file": "page_015_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ambush",
+    "pos_raw": "n.",
+    "definition_raw": "setallo, seti, le-",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "left",
+      "image": "page_015_left.png",
+      "text_file": "page_015_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Amend",
+    "pos_raw": "v.",
+    "definition_raw": "(tou make better) ho bakisa; (to grow better) ho baka.",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "left",
+      "image": "page_015_left.png",
+      "text_file": "page_015_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Amiable",
+    "pos_raw": "adj.",
+    "definition_raw": "e ratehang. Amédst, prep. har'a, malia-reng a, pakeng tsa.",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "left",
+      "image": "page_015_left.png",
+      "text_file": "page_015_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ammunition",
+    "pos_raw": "n.",
+    "definition_raw": "lintho tsa ntva (likulo, mesili).",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "left",
+      "image": "page_015_left.png",
+      "text_file": "page_015_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Amongst",
+    "pos_raw": "prep.",
+    "definition_raw": "hara, mahn-reng a.",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "left",
+      "image": "page_015_left.png",
+      "text_file": "page_015_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Amount",
+    "pos_raw": "un.",
+    "definition_raw": "palo, bongata.",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "left",
+      "image": "page_015_left.png",
+      "text_file": "page_015_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Amputate",
+    "pos_raw": "v.",
+    "definition_raw": "ho poma setho, ho khaodla.",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "left",
+      "image": "page_015_left.png",
+      "text_file": "page_015_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Amerlet",
+    "pos_raw": "vn.",
+    "definition_raw": "thathd.",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "left",
+      "image": "page_015_left.png",
+      "text_file": "page_015_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Amuse",
+    "pos_raw": "v.",
+    "definition_raw": "ho bapalisa, thetsa.",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "left",
+      "image": "page_015_left.png",
+      "text_file": "page_015_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ancestor",
+    "pos_raw": "n.",
+    "definition_raw": "utate-mohdlo-hélo; ancestors, boutate-moholé",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "left",
+      "image": "page_015_left.png",
+      "text_file": "page_015_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ancient",
+    "pos_raw": "udj.",
+    "definition_raw": "ea khale, ea",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "left",
+      "image": "page_015_left.png",
+      "text_file": "page_015_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "And",
+    "pos_raw": "conj.",
+    "definition_raw": "‘ne, homme, le.",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "left",
+      "image": "page_015_left.png",
+      "text_file": "page_015_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Angel",
+    "pos_raw": "n.",
+    "definition_raw": "lengeloi",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "left",
+      "image": "page_015_left.png",
+      "text_file": "page_015_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Angle",
+    "pos_raw": "n.",
+    "definition_raw": "ku, sekhutt.",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "right",
+      "image": "page_015_right.png",
+      "text_file": "page_015_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Angry",
+    "pos_raw": "adj.",
+    "definition_raw": "e huletileng, ec it8énang; fo be angry. ho",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "right",
+      "image": "page_015_right.png",
+      "text_file": "page_015_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Against",
+    "pos_raw": "ho.",
+    "definition_raw": "haleféla, to-néla mahte,",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "right",
+      "image": "page_015_right.png",
+      "text_file": "page_015_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aucmal",
+    "pos_raw": "uw.",
+    "definition_raw": "(a buddy possessed of life) sebdpuon; (a bea-st) phoofolo; a wild ani-",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "right",
+      "image": "page_015_right.png",
+      "text_file": "page_015_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Animosity",
+    "pos_raw": "n.",
+    "definition_raw": "hloname, hlodo.",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "right",
+      "image": "page_015_right.png",
+      "text_file": "page_015_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ankle",
+    "pos_raw": "n.",
+    "definition_raw": "leqayailane.",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "right",
+      "image": "page_015_right.png",
+      "text_file": "page_015_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Anuchilate",
+    "pos_raw": "v.",
+    "definition_raw": "ho timeletsa, felisa.",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "right",
+      "image": "page_015_right.png",
+      "text_file": "page_015_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Announce",
+    "pos_raw": "vv.",
+    "definition_raw": "ho tsebisa, beha, béhela, tumisa.",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "right",
+      "image": "page_015_right.png",
+      "text_file": "page_015_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Annoy",
+    "pos_raw": "v.",
+    "definition_raw": "ho khathatsa, hlo-liéa, téténi8a, hlopha,",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "right",
+      "image": "page_015_right.png",
+      "text_file": "page_015_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Annoyance",
+    "pos_raw": "nun.",
+    "definition_raw": "khathatso,",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "right",
+      "image": "page_015_right.png",
+      "text_file": "page_015_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Anuually",
+    "pos_raw": "adv.",
+    "definition_raw": "ka selemo se seng le se seng, ka nguaha o mong le o mong.",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "right",
+      "image": "page_015_right.png",
+      "text_file": "page_015_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Anocnt",
+    "pos_raw": "v.",
+    "definition_raw": "ho tlotsa.",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "right",
+      "image": "page_015_right.png",
+      "text_file": "page_015_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Another",
+    "pos_raw": "adj.",
+    "definition_raw": "e mong, e ugue, e sele, 0 sele.",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "right",
+      "image": "page_015_right.png",
+      "text_file": "page_015_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Answer",
+    "pos_raw": "v.",
+    "definition_raw": "ho arabs. arabtla,",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "right",
+      "image": "page_015_right.png",
+      "text_file": "page_015_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ant",
+    "pos_raw": "wn.",
+    "definition_raw": "bohloa, leroana.",
+    "source": {
+      "page_index": 14,
+      "page_number": 15,
+      "column": "right",
+      "image": "page_015_right.png",
+      "text_file": "page_015_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Antayonist",
+    "pos_raw": "n.",
+    "definition_raw": "ea hanyetsang, sera.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "left",
+      "image": "page_016_left.png",
+      "text_file": "page_016_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Antelope",
+    "pos_raw": "n.",
+    "definition_raw": "tképhée, — letsa, khama.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "left",
+      "image": "page_016_left.png",
+      "text_file": "page_016_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ant-hill",
+    "pos_raw": "un.",
+    "definition_raw": "sedld.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "left",
+      "image": "page_016_left.png",
+      "text_file": "page_016_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Avril",
+    "pos_raw": "n.",
+    "definition_raw": "tiehlo.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "left",
+      "image": "page_016_left.png",
+      "text_file": "page_016_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Anviety",
+    "pos_raw": "n.",
+    "definition_raw": "peladlo, tsiélého.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "left",
+      "image": "page_016_left.png",
+      "text_file": "page_016_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Anvious",
+    "pos_raw": "adj.",
+    "definition_raw": "(troubled) e be-laélang; (eayerly desi-vous) e lakatsang; I am anxious to see you, ke la-katsa haholo ho u bona.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "left",
+      "image": "page_016_left.png",
+      "text_file": "page_016_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Any",
+    "pos_raw": "adj.",
+    "definition_raw": "mang le mang, eng le eng, efe le efe.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "left",
+      "image": "page_016_left.png",
+      "text_file": "page_016_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Anywhere",
+    "pos_raw": "adv.",
+    "definition_raw": "kae le kae.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "left",
+      "image": "page_016_left.png",
+      "text_file": "page_016_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Apart",
+    "pos_raw": "adv.",
+    "definition_raw": "kathéko.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "left",
+      "image": "page_016_left.png",
+      "text_file": "page_016_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ape",
+    "pos_raw": "n.",
+    "definition_raw": "tSuene; v. ho etsisa, lekisa.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "left",
+      "image": "page_016_left.png",
+      "text_file": "page_016_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aperture",
+    "pos_raw": "n.",
+    "definition_raw": "molomo, monya-",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "left",
+      "image": "page_016_left.png",
+      "text_file": "page_016_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Apologise",
+    "pos_raw": "v.",
+    "definition_raw": "ho inyatsa.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "left",
+      "image": "page_016_left.png",
+      "text_file": "page_016_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Apologue",
+    "pos_raw": "n.",
+    "definition_raw": "t86mo, setsuan-tso.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "left",
+      "image": "page_016_left.png",
+      "text_file": "page_016_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Appall",
+    "pos_raw": "v.",
+    "definition_raw": "ho tsésa, tetemisa.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "left",
+      "image": "page_016_left.png",
+      "text_file": "page_016_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Apparel",
+    "pos_raw": "n.",
+    "definition_raw": "liaparo.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "left",
+      "image": "page_016_left.png",
+      "text_file": "page_016_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Apparent",
+    "pos_raw": "adj.",
+    "definition_raw": "e bonahalang.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "left",
+      "image": "page_016_left.png",
+      "text_file": "page_016_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Apparition",
+    "pos_raw": "n.",
+    "definition_raw": "sethdtsela, se-riti.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "left",
+      "image": "page_016_left.png",
+      "text_file": "page_016_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Appeal",
+    "pos_raw": "v.",
+    "definition_raw": "ho ipiletsa.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "left",
+      "image": "page_016_left.png",
+      "text_file": "page_016_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Appear",
+    "pos_raw": "v.",
+    "definition_raw": "(to be visible) ho",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "left",
+      "image": "page_016_left.png",
+      "text_file": "page_016_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Appearance",
+    "pos_raw": "n.",
+    "definition_raw": "(the look, the",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "left",
+      "image": "page_016_left.png",
+      "text_file": "page_016_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Appease",
+    "pos_raw": "v.",
+    "definition_raw": "ho khutsisa.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "right",
+      "image": "page_016_right.png",
+      "text_file": "page_016_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Appetite",
+    "pos_raw": "n.",
+    "definition_raw": "(for food) taka-tso ea liyo;] (a strony (desire) takatso.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "right",
+      "image": "page_016_right.png",
+      "text_file": "page_016_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Applaud",
+    "pos_raw": "v.",
+    "definition_raw": "(to clap the hands) ho etsa lehofi, ho opa ka liatla; (¢o praise) ho rorisa.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "right",
+      "image": "page_016_right.png",
+      "text_file": "page_016_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Applause",
+    "pos_raw": "n.",
+    "definition_raw": "lehofi, litlatse",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "right",
+      "image": "page_016_right.png",
+      "text_file": "page_016_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Apple",
+    "pos_raw": "n.",
+    "definition_raw": "apole.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "right",
+      "image": "page_016_right.png",
+      "text_file": "page_016_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Application",
+    "pos_raw": "n.",
+    "definition_raw": "(a petition) kopo qélo; (attention) pheélo, nahano.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "right",
+      "image": "page_016_right.png",
+      "text_file": "page_016_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Apply",
+    "pos_raw": "v.",
+    "definition_raw": "(to have recourse to) ho képa, géla; (to fiw the attention) ho se-betsa ka pheélo, ho na-hana ka pheélo; (to suit) ho lodkéla; (fo agree) ho luméllana le.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "right",
+      "image": "page_016_right.png",
+      "text_file": "page_016_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Appoint",
+    "pos_raw": "v.",
+    "definition_raw": "ho khétha, béa, thonya.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "right",
+      "image": "page_016_right.png",
+      "text_file": "page_016_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Apprehend",
+    "pos_raw": "v.",
+    "definition_raw": "(to sieze) ho tSuara; (to think of with fear) ho t&aba, ho ho-pola ka pelaélo.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "right",
+      "image": "page_016_right.png",
+      "text_file": "page_016_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Approach",
+    "pos_raw": "v.",
+    "definition_raw": "ho ataméla; n. katamélo.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "right",
+      "image": "page_016_right.png",
+      "text_file": "page_016_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Approbation",
+    "pos_raw": "n.",
+    "definition_raw": "ho chuéla, boka.",
+    "source": {
+      "page_index": 15,
+      "page_number": 16,
+      "column": "right",
+      "image": "page_016_right.png",
+      "text_file": "page_016_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Appropriate",
+    "pos_raw": "v.",
+    "definition_raw": "ho inkéla;.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "left",
+      "image": "page_017_left.png",
+      "text_file": "page_017_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Adj",
+    "pos_raw": "e.",
+    "definition_raw": "lokélang, e tSua-nélang.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "left",
+      "image": "page_017_left.png",
+      "text_file": "page_017_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Approve",
+    "pos_raw": "v.",
+    "definition_raw": "ho kholoa ke, eméla, chaéla.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "left",
+      "image": "page_017_left.png",
+      "text_file": "page_017_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "April",
+    "pos_raw": "n.",
+    "definition_raw": "Mesa.;",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "left",
+      "image": "page_017_left.png",
+      "text_file": "page_017_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Apron",
+    "pos_raw": "n.",
+    "definition_raw": "pinafore, foresko-to.;",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "left",
+      "image": "page_017_left.png",
+      "text_file": "page_017_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Argue",
+    "pos_raw": "v.",
+    "definition_raw": "ho tséka tabaka li-pélelo.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "left",
+      "image": "page_017_left.png",
+      "text_file": "page_017_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Arise",
+    "pos_raw": "v.",
+    "definition_raw": "(to.ascend) ho nvé-léha; (to emerge) ho hlaha; (40 get up) ho | tsdha, ¢ma; (to rise from the dead) ho tssha bafung.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "left",
+      "image": "page_017_left.png",
+      "text_file": "page_017_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Arm",
+    "pos_raw": "n.",
+    "definition_raw": "letsoho: v. ho hlo-méla.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "left",
+      "image": "page_017_left.png",
+      "text_file": "page_017_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Arms",
+    "pos_raw": "n.",
+    "definition_raw": "plar. libetsa, lihlo-mo. |",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "left",
+      "image": "page_017_left.png",
+      "text_file": "page_017_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Armour",
+    "pos_raw": "n.",
+    "definition_raw": "lhlomo, liaparo tsa tsepe tsa ntoa.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "left",
+      "image": "page_017_left.png",
+      "text_file": "page_017_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Armpit",
+    "pos_raw": "n.",
+    "definition_raw": "lehafi.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "left",
+      "image": "page_017_left.png",
+      "text_file": "page_017_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Army",
+    "pos_raw": "n.",
+    "definition_raw": "Jekhdétla la bahia.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "left",
+      "image": "page_017_left.png",
+      "text_file": "page_017_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Avound",
+    "pos_raw": "adv.",
+    "definition_raw": "and prep. ka ho pota kahohle, ka nga tsohle, ka ho ela hare.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "left",
+      "image": "page_017_left.png",
+      "text_file": "page_017_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Arowse",
+    "pos_raw": "v.",
+    "definition_raw": "ho tsdsa, radsa, su-sumetsa.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "left",
+      "image": "page_017_left.png",
+      "text_file": "page_017_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Arrange",
+    "pos_raw": "v.",
+    "definition_raw": "ho lékisa, hleka,",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "left",
+      "image": "page_017_left.png",
+      "text_file": "page_017_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Arrest",
+    "pos_raw": "v.",
+    "definition_raw": "ho tsuara, emisa, thibéla.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "right",
+      "image": "page_017_right.png",
+      "text_file": "page_017_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Arrive",
+    "pos_raw": "v.",
+    "definition_raw": "ho fihla, ho re qi; to arrive at, ho fihléla, tinyella.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "right",
+      "image": "page_017_right.png",
+      "text_file": "page_017_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Arrogance",
+    "pos_raw": "vy.",
+    "definition_raw": "boikakaso, boi-khantio.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "right",
+      "image": "page_017_right.png",
+      "text_file": "page_017_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Arrow",
+    "pos_raw": "n.",
+    "definition_raw": "motsu.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "right",
+      "image": "page_017_right.png",
+      "text_file": "page_017_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Artery",
+    "pos_raw": "n.",
+    "definition_raw": "mothapo oa mali a tsuang pelong.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "right",
+      "image": "page_017_right.png",
+      "text_file": "page_017_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Artful",
+    "pos_raw": "adj.",
+    "definition_raw": "ea maséné, ea bohlale.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "right",
+      "image": "page_017_right.png",
+      "text_file": "page_017_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Artless",
+    "pos_raw": "adj.",
+    "definition_raw": "e sé nang bohla-",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "right",
+      "image": "page_017_right.png",
+      "text_file": "page_017_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "As",
+    "pos_raw": "uly.",
+    "definition_raw": "yualeka, ka, ka mo-khoa oa; conj. yualeka",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "right",
+      "image": "page_017_right.png",
+      "text_file": "page_017_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ascend",
+    "pos_raw": "y.",
+    "definition_raw": "ho! nydloha, hloa.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "right",
+      "image": "page_017_right.png",
+      "text_file": "page_017_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ascent",
+    "pos_raw": "n.",
+    "definition_raw": "moepa, mothipo-",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "right",
+      "image": "page_017_right.png",
+      "text_file": "page_017_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aoha",
+    "pos_raw": "phaham.",
+    "definition_raw": "a, moqasa.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "right",
+      "image": "page_017_right.png",
+      "text_file": "page_017_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ascertain",
+    "pos_raw": "v.",
+    "definition_raw": "ho bdtsisisa, ho hatlisisa.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "right",
+      "image": "page_017_right.png",
+      "text_file": "page_017_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ashamed",
+    "pos_raw": "adj.",
+    "definition_raw": "e lihléng, sua-",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "right",
+      "image": "page_017_right.png",
+      "text_file": "page_017_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ashes",
+    "pos_raw": "vn.",
+    "definition_raw": "plur. molora.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "right",
+      "image": "page_017_right.png",
+      "text_file": "page_017_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Axide",
+    "pos_raw": "adv.",
+    "definition_raw": "kathoko.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "right",
+      "image": "page_017_right.png",
+      "text_file": "page_017_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Axleep",
+    "pos_raw": "adv.",
+    "definition_raw": "e robetseng; to be asleep, ho robala; to fall asleep (lit, and fig.) ho ithoballa.",
+    "source": {
+      "page_index": 16,
+      "page_number": 17,
+      "column": "right",
+      "image": "page_017_right.png",
+      "text_file": "page_017_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Asparagus",
+    "pos_raw": "n.",
+    "definition_raw": "leunyeli.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "left",
+      "image": "page_018_left.png",
+      "text_file": "page_018_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Asperse",
+    "pos_raw": "v.",
+    "definition_raw": "(to slander) ho etselletsa.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "left",
+      "image": "page_018_left.png",
+      "text_file": "page_018_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aspersion",
+    "pos_raw": "n.",
+    "definition_raw": "(a sprinkling with water) ho fafatsa.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "left",
+      "image": "page_018_left.png",
+      "text_file": "page_018_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Avs",
+    "pos_raw": "n.",
+    "definition_raw": "eséle. -Issa/l, v. ho qala, loant&a.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "left",
+      "image": "page_018_left.png",
+      "text_file": "page_018_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Assassin",
+    "pos_raw": "n.",
+    "definition_raw": "'molai.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "left",
+      "image": "page_018_left.png",
+      "text_file": "page_018_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Assault",
+    "pos_raw": "v.",
+    "definition_raw": "ho loantsa, futu-héla; n. ho — loantga, phutuhélo.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "left",
+      "image": "page_018_left.png",
+      "text_file": "page_018_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Assagay",
+    "pos_raw": "n.",
+    "definition_raw": "lerumo, bohlasa.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "left",
+      "image": "page_018_left.png",
+      "text_file": "page_018_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Assemble",
+    "pos_raw": "v.",
+    "definition_raw": "(to cause to axse-mble) ho phutha, béke-",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "left",
+      "image": "page_018_left.png",
+      "text_file": "page_018_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ala",
+    "pos_raw": "bokany.",
+    "definition_raw": "a; (fo meef together) ho phuthéha, biékana.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "left",
+      "image": "page_018_left.png",
+      "text_file": "page_018_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Assembly",
+    "pos_raw": "n.",
+    "definition_raw": "phuthdho, po-",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "left",
+      "image": "page_018_left.png",
+      "text_file": "page_018_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Assert",
+    "pos_raw": "v.",
+    "definition_raw": "ho tiisa, hélelisa,",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "left",
+      "image": "page_018_left.png",
+      "text_file": "page_018_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aoka",
+    "pos_raw": "lokoli.",
+    "definition_raw": "sa.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "left",
+      "image": "page_018_left.png",
+      "text_file": "page_018_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Assist",
+    "pos_raw": "vy.",
+    "definition_raw": "ho thnsa, tlatsa, eméla.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "left",
+      "image": "page_018_left.png",
+      "text_file": "page_018_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Associate",
+    "pos_raw": "v.",
+    "definition_raw": "ho kopana, ho etsa setsnalle.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "left",
+      "image": "page_018_left.png",
+      "text_file": "page_018_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Assorl",
+    "pos_raw": "v.",
+    "definition_raw": "ho bea ka lihlopha, ho teanya tse tSuanang, ho hlophisa, hlophélla.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "left",
+      "image": "page_018_left.png",
+      "text_file": "page_018_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Assuaye",
+    "pos_raw": "v.",
+    "definition_raw": "ho nolofatka, ko-kobetsa.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "left",
+      "image": "page_018_left.png",
+      "text_file": "page_018_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Assume",
+    "pos_raw": "y.",
+    "definition_raw": "(to take npon",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "left",
+      "image": "page_018_left.png",
+      "text_file": "page_018_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Assure",
+    "pos_raw": "v.",
+    "definition_raw": "ho t&episa, tiisa",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "right",
+      "image": "page_018_right.png",
+      "text_file": "page_018_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Asthma",
+    "pos_raw": "n.",
+    "definition_raw": "lefuba.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "right",
+      "image": "page_018_right.png",
+      "text_file": "page_018_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Astonish",
+    "pos_raw": "v.",
+    "definition_raw": "ho makatsa, tso-",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "right",
+      "image": "page_018_right.png",
+      "text_file": "page_018_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Astonishment",
+    "pos_raw": "n.",
+    "definition_raw": "makalo, hlo-",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "right",
+      "image": "page_018_right.png",
+      "text_file": "page_018_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Alo",
+    "pos_raw": "tsoto.",
+    "definition_raw": ", pabatso.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "right",
+      "image": "page_018_right.png",
+      "text_file": "page_018_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Astound",
+    "pos_raw": "v.",
+    "definition_raw": "ho makatsa ha-holo.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "right",
+      "image": "page_018_right.png",
+      "text_file": "page_018_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Alstray",
+    "pos_raw": "adv.",
+    "definition_raw": "ka ho khetdha, ka ho lahiéha; to go",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "right",
+      "image": "page_018_right.png",
+      "text_file": "page_018_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Astray",
+    "pos_raw": "ho.",
+    "definition_raw": "lahléha.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "right",
+      "image": "page_018_right.png",
+      "text_file": "page_018_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Asunder",
+    "pos_raw": "adv.",
+    "definition_raw": "ka ho khao-",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "right",
+      "image": "page_018_right.png",
+      "text_file": "page_018_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "At",
+    "pos_raw": "prep.",
+    "definition_raw": "ku, ho, ha, hanfi le.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "right",
+      "image": "page_018_right.png",
+      "text_file": "page_018_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Athirst",
+    "pos_raw": "adj.",
+    "definition_raw": "e nyoriloeng. -!tone, v. (to make amends) ho inyatsa; (+o expiate) ho leféla, ho etsa pheko.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "right",
+      "image": "page_018_right.png",
+      "text_file": "page_018_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Attack",
+    "pos_raw": "v.",
+    "definition_raw": "ho gala motho,",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "right",
+      "image": "page_018_right.png",
+      "text_file": "page_018_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aoantsa",
+    "pos_raw": "futnh.",
+    "definition_raw": "éla, tso-héla matla; n. phuthn-hélo, moqhdlé.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "right",
+      "image": "page_018_right.png",
+      "text_file": "page_018_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Attain",
+    "pos_raw": "v.",
+    "definition_raw": "ho fihl®a, rua.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "right",
+      "image": "page_018_right.png",
+      "text_file": "page_018_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Attempt",
+    "pos_raw": "v.",
+    "definition_raw": "ho leka.",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "right",
+      "image": "page_018_right.png",
+      "text_file": "page_018_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Attend",
+    "pos_raw": "v.",
+    "definition_raw": "(to be jpresent) ho",
+    "source": {
+      "page_index": 17,
+      "page_number": 18,
+      "column": "right",
+      "image": "page_018_right.png",
+      "text_file": "page_018_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Attention",
+    "pos_raw": "n.",
+    "definition_raw": "(paying heed) mameélo, temodho, hloko-mélo; (act of courtesy) ketso ea hlonepho, ku-tluo.",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "left",
+      "image": "page_019_left.png",
+      "text_file": "page_019_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Attest",
+    "pos_raw": "v.",
+    "definition_raw": "ho paka.",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "left",
+      "image": "page_019_left.png",
+      "text_file": "page_019_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Altire",
+    "pos_raw": "v.",
+    "definition_raw": "ho apesa; n._ lia-paro.",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "left",
+      "image": "page_019_left.png",
+      "text_file": "page_019_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Attract",
+    "pos_raw": "v.",
+    "definition_raw": "(to draw) ho hé-héla; (to allure) ho qé-ka.",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "left",
+      "image": "page_019_left.png",
+      "text_file": "page_019_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Andacious",
+    "pos_raw": "adj.",
+    "definition_raw": "ea sa_ tia-beng letho.",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "left",
+      "image": "page_019_left.png",
+      "text_file": "page_019_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "August",
+    "pos_raw": "n.",
+    "definition_raw": "Phato.",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "left",
+      "image": "page_019_left.png",
+      "text_file": "page_019_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aunt",
+    "pos_raw": "n.",
+    "definition_raw": "rakhali, ‘manguane.",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "left",
+      "image": "page_019_left.png",
+      "text_file": "page_019_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Authority",
+    "pos_raw": "n.",
+    "definition_raw": "(legal power)",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "left",
+      "image": "page_019_left.png",
+      "text_file": "page_019_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Antwnn",
+    "pos_raw": "n.",
+    "definition_raw": "lehoctla.",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "left",
+      "image": "page_019_left.png",
+      "text_file": "page_019_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Avail",
+    "pos_raw": "v.",
+    "definition_raw": "(to turn to profit) ho ithusa; (to be of use) ho thusa; i¢ avails me",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "left",
+      "image": "page_019_left.png",
+      "text_file": "page_019_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Avarice",
+    "pos_raw": "n.",
+    "definition_raw": "bokhonatha, ta-katso ea ho rua, qotho.",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "left",
+      "image": "page_019_left.png",
+      "text_file": "page_019_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Avenge",
+    "pos_raw": "v.",
+    "definition_raw": "ho phethetsa, le-fetsa; to arenge one's",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "right",
+      "image": "page_019_right.png",
+      "text_file": "page_019_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Avenger",
+    "pos_raw": "n.",
+    "definition_raw": "mophethetsi, mo-lefetsi.",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "right",
+      "image": "page_019_right.png",
+      "text_file": "page_019_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aversion",
+    "pos_raw": "n.",
+    "definition_raw": "kheso, qéno.",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "right",
+      "image": "page_019_right.png",
+      "text_file": "page_019_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Avert",
+    "pos_raw": "v.",
+    "definition_raw": "(to turn away) ho phemisa qobisa.",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "right",
+      "image": "page_019_right.png",
+      "text_file": "page_019_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aroid",
+    "pos_raw": "vy.",
+    "definition_raw": "ho knekuetla, phe-",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "right",
+      "image": "page_019_right.png",
+      "text_file": "page_019_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Alrow",
+    "pos_raw": "v.",
+    "definition_raw": "ho lumela, ipdléla.",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "right",
+      "image": "page_019_right.png",
+      "text_file": "page_019_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Await",
+    "pos_raw": "v.",
+    "definition_raw": "ho lebélla, éméla, leta.",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "right",
+      "image": "page_019_right.png",
+      "text_file": "page_019_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Awake",
+    "pos_raw": "or.",
+    "definition_raw": "Awaken, v. (to cause to awaken) ho tso-sa borokong; (to beco-me awake) ho tsdha,",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "right",
+      "image": "page_019_right.png",
+      "text_file": "page_019_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Award",
+    "pos_raw": "n.",
+    "definition_raw": "ho ahbldléla; n.",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "right",
+      "image": "page_019_right.png",
+      "text_file": "page_019_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Aiwe",
+    "pos_raw": "n.",
+    "definition_raw": "tiabo e kopaneng le hlompho.",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "right",
+      "image": "page_019_right.png",
+      "text_file": "page_019_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Awful",
+    "pos_raw": "adj.",
+    "definition_raw": "e téabéhang, tsa-bisang.",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "right",
+      "image": "page_019_right.png",
+      "text_file": "page_019_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Awhile",
+    "pos_raw": "adv.",
+    "definition_raw": "motséta6 0 se",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "right",
+      "image": "page_019_right.png",
+      "text_file": "page_019_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Awkward",
+    "pos_raw": "adj.",
+    "definition_raw": "(clumsy) e",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "right",
+      "image": "page_019_right.png",
+      "text_file": "page_019_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Ave",
+    "pos_raw": "n.",
+    "definition_raw": "selépe; battle-avre,",
+    "source": {
+      "page_index": 18,
+      "page_number": 19,
+      "column": "right",
+      "image": "page_019_right.png",
+      "text_file": "page_019_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  }
+]

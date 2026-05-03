@@ -1,0 +1,142 @@
+[
+  {
+    "entry_id": "st_G24_EX_01",
+    "headword_english": "Thigh (oath-taking)",
+    "pos": [{ "tag": "n.", "full": "noun" }],
+    "headword_sesotho": [{ "orthographic": "serope", "tone_marked": "sērōpē" }],
+    "syllables": [{ "orthographic": "se-ro-pe", "syllable_count": 3 }],
+    "morphology": { "root": "serope", "noun_class": 7, "derivation": "Primary noun" },
+    "senses": [{
+      "sense_id": "cult_01",
+      "definition_en": "The upper leg; placing a hand here during an oath signified a 'life-and-death' promise, often involving lineage or offspring.",
+      "sesotho_term": ["serope"],
+      "usage_example": { "sesotho": "...beha letsoho la hao tlas’a serope sa ka.", "english": "...put your hand under my thigh.", "source": "Genesis 24" }
+    }]
+  },
+  {
+    "entry_id": "st_G24_EX_02",
+    "headword_english": "Mesopotamia",
+    "pos": [{ "tag": "n. prop", "full": "proper noun" }],
+    "headword_sesotho": [{ "orthographic": "Mesopotamia", "tone_marked": "Mēsōpōtāmīā" }],
+    "syllables": [{ "orthographic": "Me-so-po-ta-mia", "syllable_count": 5 }],
+    "morphology": { "root": "Mesopotamia", "noun_class": 9, "derivation": "Greek loanword for Aram-naharaim" },
+    "senses": [{
+      "sense_id": "geo_01",
+      "definition_en": "The region 'between two rivers' (Tigris and Euphrates); the ancestral homeland of Abraham's family.",
+      "sesotho_term": ["Mesopotamia"],
+      "usage_example": { "sesotho": "...a tloha a ea Mesopotamia motseng oa Nakore.", "english": "...he departed for Mesopotamia, to the city of Nahor.", "source": "Genesis 24" }
+    }]
+  },
+  {
+    "entry_id": "st_G24_EX_03",
+    "headword_english": "To kneel (camels)",
+    "pos": [{ "tag": "v.", "full": "verb" }],
+    "headword_sesotho": [{ "orthographic": "khumame", "tone_marked": "khūmāmē" }],
+    "syllables": [{ "orthographic": "khu-ma-me", "syllable_count": 3 }],
+    "morphology": { "root": "khumama", "noun_class": null, "derivation": "Perfect/Stative form" },
+    "senses": [{
+      "sense_id": "act_01",
+      "definition_en": "The specific crouching posture of a camel resting on its haunches.",
+      "sesotho_term": ["khumame"],
+      "usage_example": { "sesotho": "...a etsa hore likamele li khumame ka ntle ho motse.", "english": "...he made the camels kneel down outside the city.", "source": "Genesis 24" }
+    }]
+  },
+  {
+    "entry_id": "st_G24_EX_04",
+    "headword_english": "Pitcher / Jar",
+    "pos": [{ "tag": "n.", "full": "noun" }],
+    "headword_sesotho": [{ "orthographic": "nkho", "tone_marked": "nkhō" }],
+    "syllables": [{ "orthographic": "nkho", "syllable_count": 1 }],
+    "morphology": { "root": "nkho", "noun_class": 9, "derivation": "Primary noun" },
+    "senses": [{
+      "sense_id": "obj_01",
+      "definition_en": "A clay vessel for water, usually carried on the shoulder (lehetla).",
+      "sesotho_term": ["nkho"],
+      "usage_example": { "sesotho": "...nkho ea hae ea metsi e ne e le lehetleng la hae.", "english": "...her water jar was on her shoulder.", "source": "Genesis 24" }
+    }]
+  },
+  {
+    "entry_id": "st_G24_EX_05",
+    "headword_english": "Trough",
+    "pos": [{ "tag": "n.", "full": "noun" }],
+    "headword_sesotho": [{ "orthographic": "senoelo", "tone_marked": "sēnōēlō" }],
+    "syllables": [{ "orthographic": "se-no-e-lo", "syllable_count": 4 }],
+    "morphology": { "root": "noa", "noun_class": 7, "derivation": "From 'noa' (to drink) + '-elo' (place/instrument suffix)" },
+    "senses": [{
+      "sense_id": "obj_02",
+      "definition_en": "A container or basin used for watering livestock.",
+      "sesotho_term": ["senoelo"],
+      "usage_example": { "sesotho": "...a tšollela nkho ea hae ka senoelong.", "english": "...she emptied her jar into the trough.", "source": "Genesis 24" }
+    }]
+  },
+  {
+    "entry_id": "st_G24_EX_06",
+    "headword_english": "Nose ring",
+    "pos": [{ "tag": "n. phrase", "full": "noun phrase" }],
+    "headword_sesotho": [{ "orthographic": "lesale la nko", "tone_marked": "lēsālē lā nkō" }],
+    "syllables": [{ "orthographic": "le-sa-le la nko", "syllable_count": 4 }],
+    "morphology": { "root": "sale", "noun_class": 5, "derivation": "Noun + genitive + noun (nose)" },
+    "senses": [{
+      "sense_id": "obj_03",
+      "definition_en": "Jewelry worn in the nose, serving as a formal betrothal gift.",
+      "sesotho_term": ["lesale la nko"],
+      "usage_example": { "sesotho": "...monna enoa a nka lesale la nko la khauta.", "english": "...the man took a golden nose ring.", "source": "Genesis 24" }
+    }]
+  },
+  {
+    "entry_id": "st_G24_EX_07",
+    "headword_english": "Straw & Feed",
+    "pos": [{ "tag": "n. phrase", "full": "noun phrase" }],
+    "headword_sesotho": [{ "orthographic": "joang le furu", "tone_marked": "jōāng lē fūrū" }],
+    "syllables": [{ "orthographic": "joang le fu-ru", "syllable_count": 4 }],
+    "morphology": { "root": "furu", "noun_class": 9, "derivation": "Noun (grass) + conjunction + loanword/noun (fodder)" },
+    "senses": [{
+      "sense_id": "agr_01",
+      "definition_en": "Dry vegetation and concentrated fodder for livestock.",
+      "sesotho_term": ["joang le furu"],
+      "usage_example": { "sesotho": "Re na le joang le furu e ngata.", "english": "We have plenty of straw and feed.", "source": "Genesis 24" }
+    }]
+  },
+  {
+    "entry_id": "st_G24_EX_08",
+    "headword_english": "Nurse / Caretaker",
+    "pos": [{ "tag": "n.", "full": "noun" }],
+    "headword_sesotho": [{ "orthographic": "mohlokomeli", "tone_marked": "mōhlōkōmēlī" }],
+    "syllables": [{ "orthographic": "mo-hlo-ko-me-li", "syllable_count": 5 }],
+    "morphology": { "root": "hlokomela", "noun_class": 1, "derivation": "Agent noun from 'hlokomela' (to care for)" },
+    "senses": [{
+      "sense_id": "soc_01",
+      "definition_en": "A woman responsible for the care and upbringing of a child.",
+      "sesotho_term": ["mohlokomeli"],
+      "usage_example": { "sesotho": "...a tsamaee le mohlokomeli oa hae.", "english": "...let her go with her nurse.", "source": "Genesis 24" }
+    }]
+  },
+  {
+    "entry_id": "st_G24_EX_09",
+    "headword_english": "To meditate",
+    "pos": [{ "tag": "v.", "full": "verb" }],
+    "headword_sesotho": [{ "orthographic": "thuise", "tone_marked": "thūīsē" }],
+    "syllables": [{ "orthographic": "thui-se", "syllable_count": 2 }],
+    "morphology": { "root": "thuisa", "noun_class": null, "derivation": "Perfect/Subjunctive form" },
+    "senses": [{
+      "sense_id": "psy_01",
+      "definition_en": "To reflect deeply, ponder, or engage in silent prayer.",
+      "sesotho_term": ["thuise"],
+      "usage_example": { "sesotho": "Isaka o ne a ntse a itsamaela e le hore a thuise.", "english": "Isaac was walking about to meditate.", "source": "Genesis 24" }
+    }]
+  },
+  {
+    "entry_id": "st_G24_EX_10",
+    "headword_english": "Veil",
+    "pos": [{ "tag": "n. phrase", "full": "noun phrase" }],
+    "headword_sesotho": [{ "orthographic": "lesela le roaloang hloohong", "tone_marked": "lēsēlā lē rōālōāng hlōōhōng" }],
+    "syllables": [{ "orthographic": "le-se-la le roa-lo-ang hloo-hong", "syllable_count": 9 }],
+    "morphology": { "root": "lesela", "noun_class": 5, "derivation": "Noun + relative clause (cloth worn on the head)" },
+    "senses": [{
+      "sense_id": "obj_04",
+      "definition_en": "A cloth used by a woman to cover her head and face, signifying modesty or marital status.",
+      "sesotho_term": ["lesela le roaloang hloohong"],
+      "usage_example": { "sesotho": "Eaba o nka lesela... oa ikhurumetsa.", "english": "So she took a veil... and covered herself.", "source": "Genesis 24" }
+    }]
+  }
+]

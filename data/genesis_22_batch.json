@@ -1,0 +1,142 @@
+[
+  {
+    "entry_id": "st_G22_EX_01",
+    "headword_english": "Burnt Offering",
+    "pos": [{ "tag": "n. phrase", "full": "noun phrase" }],
+    "headword_sesotho": [{ "orthographic": "nyehelo ea secheso", "tone_marked": "nyēhēlō ēā sēchēsō" }],
+    "syllables": [{ "orthographic": "nye-he-lo ea se-che-so", "syllable_count": 7 }],
+    "morphology": { "root": "chesa", "noun_class": 9, "derivation": "Noun + genitive + noun from 'chesa' (to burn)" },
+    "senses": [{
+      "sense_id": "rel_01",
+      "definition_en": "An offering entirely consumed by fire as a total act of devotion.",
+      "sesotho_term": ["nyehelo ea secheso"],
+      "usage_example": { "sesotho": "...u mo nyehele e le nyehelo ea secheso.", "english": "...offer him there as a burnt offering.", "source": "Genesis 22" }
+    }]
+  },
+  {
+    "entry_id": "st_G22_EX_02",
+    "headword_english": "To split/chop wood",
+    "pos": [{ "tag": "v. phrase", "full": "verb phrase" }],
+    "headword_sesotho": [{ "orthographic": "ratha patsi", "tone_marked": "rāthā pātsī" }],
+    "syllables": [{ "orthographic": "ra-tha pa-tsi", "syllable_count": 4 }],
+    "morphology": { "root": "ratha", "noun_class": null, "derivation": "Verb 'ratha' (to strike/chop) + noun 'patsi' (firewood)" },
+    "senses": [{
+      "sense_id": "act_01",
+      "definition_en": "The preparation of wood using an axe specifically for fire.",
+      "sesotho_term": ["ratha patsi"],
+      "usage_example": { "sesotho": "...eaba o ratha patsi bakeng sa nyehelo.", "english": "...and he split the wood for the offering.", "source": "Genesis 22" }
+    }]
+  },
+  {
+    "entry_id": "st_G22_EX_03",
+    "headword_english": "Slaughtering Knife",
+    "pos": [{ "tag": "n. phrase", "full": "noun phrase" }],
+    "headword_sesotho": [{ "orthographic": "thipa e selakhang", "tone_marked": "thīpā ē sēlākhāng" }],
+    "syllables": [{ "orthographic": "thi-pa e se-la-khang", "syllable_count": 6 }],
+    "morphology": { "root": "selakha", "noun_class": 9, "derivation": "Noun + relative of 'selakha' (to slaughter/butcher)" },
+    "senses": [{
+      "sense_id": "obj_01",
+      "definition_en": "A sharp knife used for ritual slaughter or the dressing of an animal.",
+      "sesotho_term": ["thipa e selakhang"],
+      "usage_example": { "sesotho": "...a nka mollo le thipa e selakhang.", "english": "...he took the fire and the slaughtering knife.", "source": "Genesis 22" }
+    }]
+  },
+  {
+    "entry_id": "st_G22_EX_04",
+    "headword_english": "Altar",
+    "pos": [{ "tag": "n.", "full": "noun" }],
+    "headword_sesotho": [{ "orthographic": "aletare", "tone_marked": "ālētārē" }],
+    "syllables": [{ "orthographic": "a-le-ta-re", "syllable_count": 4 }],
+    "morphology": { "root": "aletare", "noun_class": 9, "derivation": "Loanword (Latin/English 'altar')" },
+    "senses": [{
+      "sense_id": "rel_02",
+      "definition_en": "A raised structure, often made of stone, used for sacrifice.",
+      "sesotho_term": ["aletare"],
+      "usage_example": { "sesotho": "Abrahama o ne a haha aletare moo.", "english": "Abraham built an altar there.", "source": "Genesis 22" }
+    }]
+  },
+  {
+    "entry_id": "st_G22_EX_05",
+    "headword_english": "To bind",
+    "pos": [{ "tag": "v.", "full": "verb" }],
+    "headword_sesotho": [{ "orthographic": "tlama", "tone_marked": "tlāmā" }],
+    "syllables": [{ "orthographic": "tla-ma", "syllable_count": 2 }],
+    "morphology": { "root": "tlama", "noun_class": null, "derivation": "Primary verb" },
+    "senses": [{
+      "sense_id": "act_02",
+      "definition_en": "To tie or fasten securely; refers to the tying of the sacrificial victim.",
+      "sesotho_term": ["tlama"],
+      "usage_example": { "sesotho": "...o tlama mora oa hae Isaka maoto le matsoho.", "english": "...he bound his son Isaac hand and foot.", "source": "Genesis 22" }
+    }]
+  },
+  {
+    "entry_id": "st_G22_EX_06",
+    "headword_english": "Ram",
+    "pos": [{ "tag": "n.", "full": "noun" }],
+    "headword_sesotho": [{ "orthographic": "pheleu", "tone_marked": "phēlēū" }],
+    "syllables": [{ "orthographic": "phe-leu", "syllable_count": 2 }],
+    "morphology": { "root": "pheleu", "noun_class": 9, "derivation": "Primary animal noun" },
+    "senses": [{
+      "sense_id": "ani_01",
+      "definition_en": "A male sheep; in this context, the substitute sacrifice provided by God.",
+      "sesotho_term": ["pheleu"],
+      "usage_example": { "sesotho": "...ho ne ho e-na le pheleu e tšoasitsoeng.", "english": "...there was a ram caught.", "source": "Genesis 22" }
+    }]
+  },
+  {
+    "entry_id": "st_G22_EX_07",
+    "headword_english": "Thicket",
+    "pos": [{ "tag": "n.", "full": "noun" }],
+    "headword_sesotho": [{ "orthographic": "moferong", "tone_marked": "mōfērōng" }],
+    "syllables": [{ "orthographic": "mo-fe-ro-ng", "syllable_count": 3 }],
+    "morphology": { "root": "mofero", "noun_class": 3, "derivation": "Locative of 'mofero' (bush/shrubbery)" },
+    "senses": [{
+      "sense_id": "nat_01",
+      "definition_en": "A dense growth of bushes or shrubs.",
+      "sesotho_term": ["moferong"],
+      "usage_example": { "sesotho": "...hare-hare moferong.", "english": "...deep in the thicket.", "source": "Genesis 22" }
+    }]
+  },
+  {
+    "entry_id": "st_G22_EX_08",
+    "headword_english": "Jehovah-jire",
+    "pos": [{ "tag": "n. prop", "full": "proper noun phrase" }],
+    "headword_sesotho": [{ "orthographic": "Jehova-jire", "tone_marked": "Jēhōvā-jīrē" }],
+    "syllables": [{ "orthographic": "Je-ho-va ji-re", "syllable_count": 5 }],
+    "morphology": { "root": "tokisetso", "noun_class": null, "derivation": "Transliterated Hebrew title" },
+    "senses": [{
+      "sense_id": "rel_03",
+      "definition_en": "The LORD Will Provide; implies God sees the need and prepares the solution (tokisetso).",
+      "sesotho_term": ["Jehova-jire"],
+      "usage_example": { "sesotho": "Abrahama a reha sebaka seo Jehova-jire.", "english": "Abraham called that place Jehovah-jire.", "source": "Genesis 22" }
+    }]
+  },
+  {
+    "entry_id": "st_G22_EX_09",
+    "headword_english": "Offspring / Seed",
+    "pos": [{ "tag": "n.", "full": "noun" }],
+    "headword_sesotho": [{ "orthographic": "peō", "tone_marked": "pēō" }],
+    "syllables": [{ "orthographic": "pe-o", "syllable_count": 2 }],
+    "morphology": { "root": "peō", "noun_class": 9, "derivation": "Primary noun" },
+    "senses": [{
+      "sense_id": "fam_01",
+      "definition_en": "Descendants or lineage; literally 'seed'.",
+      "sesotho_term": ["peō"],
+      "usage_example": { "sesotho": "...ruri ke tla atisa peō ea hao.", "english": "...I will surely multiply your seed.", "source": "Genesis 22" }
+    }]
+  },
+  {
+    "entry_id": "st_G22_EX_10",
+    "headword_english": "Concubine",
+    "pos": [{ "tag": "n.", "full": "noun" }],
+    "headword_sesotho": [{ "orthographic": "serethe", "tone_marked": "sērēthē" }],
+    "syllables": [{ "orthographic": "se-re-the", "syllable_count": 3 }],
+    "morphology": { "root": "rethe", "noun_class": 7, "derivation": "Status-based noun" },
+    "senses": [{
+      "sense_id": "soc_01",
+      "definition_en": "A secondary wife, often of lower social or legal status.",
+      "sesotho_term": ["serethe"],
+      "usage_example": { "sesotho": "Ho ne ho boetse ho e-na le serethe sa hae.", "english": "There was also his concubine.", "source": "Genesis 22" }
+    }]
+  }
+]

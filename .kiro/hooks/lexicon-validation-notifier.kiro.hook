@@ -1,0 +1,18 @@
+{
+  "enabled": true,
+  "name": "Lexicon Validation Notifier",
+  "description": "Validates lexicon integrity after any data injection and sends status update via WhatsApp",
+  "version": "1",
+  "when": {
+    "type": "fileEdited",
+    "patterns": [
+      "data/lexicon.json",
+      "data/corpus.json",
+      "data/attestations.json"
+    ]
+  },
+  "then": {
+    "type": "askAgent",
+    "prompt": "The lexicon data has been modified. Please run validation tests using 'make validate-all' and send a WhatsApp status update about the validation results and current lexicon statistics."
+  }
+}

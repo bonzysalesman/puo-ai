@@ -1,0 +1,2121 @@
+[
+  {
+    "headword_english": "Dabble",
+    "pos": "v.",
+    "sesotho": "ho bapala metsing; ho kolobisa ka ho qopetsa hangata"
+  },
+  {
+    "headword_english": "Dagger",
+    "pos": "n.",
+    "sesotho": "thipa ea ho hlaba"
+  },
+  {
+    "headword_english": "Daily",
+    "pos": "adj.",
+    "sesotho": "ea matsatsi 'ohle"
+  },
+  {
+    "headword_english": "Dainty",
+    "pos": "adj.",
+    "sesotho": "seyo se hlabosang"
+  },
+  {
+    "headword_english": "Damage",
+    "pos": "n.",
+    "sesotho": "kotsi, tšenyo"
+  },
+  {
+    "headword_english": "Damn",
+    "pos": "v.",
+    "sesotho": "tšua, rohaka"
+  },
+  {
+    "headword_english": "Damnation",
+    "pos": "n.",
+    "sesotho": "kahlolo, tšuo, thohako"
+  },
+  {
+    "headword_english": "Damp",
+    "pos": "adj.",
+    "sesotho": "e mongobo, e metsi"
+  },
+  {
+    "headword_english": "Darken",
+    "pos": "v.",
+    "sesotho": "ho fifatsa, ho silafatsa"
+  },
+  {
+    "headword_english": "Darkness",
+    "pos": "n.",
+    "sesotho": "lefifi, botšo; lefifi la nko, bonkantjana (pitch blackness)"
+  },
+  {
+    "headword_english": "Darling",
+    "pos": "adj.",
+    "sesotho": "e ratehang; n. moratuoa, thatohatsi, 'nake"
+  },
+  {
+    "headword_english": "Darn",
+    "pos": "v.",
+    "sesotho": "ho lopa"
+  },
+  {
+    "headword_english": "Dart",
+    "pos": "n.",
+    "sesotho": "motsu; v. ho akha ka matla le ka potlako"
+  },
+  {
+    "headword_english": "Dash",
+    "pos": "v.",
+    "sesotho": "ho thulanya; to dash to the ground, ho lahlela fatše"
+  },
+  {
+    "headword_english": "Dastard",
+    "pos": "n.",
+    "sesotho": "lekuala, ea tšabang kotsi"
+  },
+  {
+    "headword_english": "Dastardly",
+    "pos": "adv.",
+    "sesotho": "ka bokuala"
+  },
+  {
+    "headword_english": "Date",
+    "pos": "n.",
+    "sesotho": "nako, letsatsi la taba; v. ho ngola letsatsi la ketso"
+  },
+  {
+    "headword_english": "Daub",
+    "pos": "v.",
+    "sesotho": "ho phara ka serétse"
+  },
+  {
+    "headword_english": "Daughter",
+    "pos": "n.",
+    "sesotho": "morali"
+  },
+  {
+    "headword_english": "Daughter-in-law",
+    "pos": "n.",
+    "sesotho": "ngoetsi"
+  },
+  {
+    "headword_english": "Daunt",
+    "pos": "v.",
+    "sesotho": "ho tšabisa, ho tepeletsa"
+  },
+  {
+    "headword_english": "Dawdle",
+    "pos": "v.",
+    "sesotho": "ho sisitheha, ho lahla nako"
+  },
+  {
+    "headword_english": "Dawn",
+    "pos": "n.",
+    "sesotho": "mafube, meso; v. ho sa ha bosiu, ho hlaha ha mafube"
+  },
+  {
+    "headword_english": "Day",
+    "pos": "n.",
+    "sesotho": "letsatsi, mots'are, nyene; to-day, kajeno"
+  },
+  {
+    "headword_english": "Daybreak",
+    "pos": "n.",
+    "sesotho": "bosiu ha bo sa, mafube"
+  },
+  {
+    "headword_english": "Dead",
+    "pos": "adj.",
+    "sesotho": "e shuileng; n. (a dead person) mofu; (a dead thing) sebole"
+  },
+  {
+    "headword_english": "Deaden",
+    "pos": "v.",
+    "sesotho": "ho thethefatsa, ho fokotsa matla; drug that deadens pain, sehlare se thethefatsang bohloko"
+  },
+  {
+    "headword_english": "Deadly",
+    "pos": "adj.",
+    "sesotho": "e bolaeang, e shuisang"
+  },
+  {
+    "headword_english": "Deaf",
+    "pos": "adj.",
+    "sesotho": "tsebe-tutu, ea thibaneng litsébe"
+  },
+  {
+    "headword_english": "Deafen",
+    "pos": "v.",
+    "sesotho": "ho thiba e mong litsébe"
+  },
+  {
+    "headword_english": "Deafness",
+    "pos": "n.",
+    "sesotho": "ho ba tsebe-tutu, ho thibana ha litsébe"
+  },
+  {
+    "headword_english": "Deal",
+    "pos": "n.",
+    "sesotho": "sekhutlo, karolo; v. ho aba, ho fa"
+  },
+  {
+    "headword_english": "Dear",
+    "pos": "adj.",
+    "sesotho": "(expensive) e theko e thata, ea bohlokoa; (beloved) e ratoang"
+  },
+  {
+    "headword_english": "Dearness",
+    "pos": "n.",
+    "sesotho": "theko e phahameng, bohlokoa"
+  },
+  {
+    "headword_english": "Dearth",
+    "pos": "n.",
+    "sesotho": "tlala e kholo, tlokotsi"
+  },
+  {
+    "headword_english": "Death",
+    "pos": "n.",
+    "sesotho": "lefu; to put to death, ho bolaea"
+  },
+  {
+    "headword_english": "Debar",
+    "pos": "v.",
+    "sesotho": "ho thibela, ho hlokisa sebaka"
+  },
+  {
+    "headword_english": "Debate",
+    "pos": "v.",
+    "sesotho": "ho tseka; n. tsekisano e pontšeng"
+  },
+  {
+    "headword_english": "Debauch",
+    "pos": "v.",
+    "sesotho": "ho senyeha ka ho ja le ho noa ho tlola"
+  },
+  {
+    "headword_english": "Debility",
+    "pos": "n.",
+    "sesotho": "phokolo, bofokoli"
+  },
+  {
+    "headword_english": "Debt",
+    "pos": "n.",
+    "sesotho": "molato, sekoloto"
+  },
+  {
+    "headword_english": "Debtor",
+    "pos": "n.",
+    "sesotho": "ea nang le molato oa chelete"
+  },
+  {
+    "headword_english": "Decant",
+    "pos": "v.",
+    "sesotho": "ho tšolla hantle; (beer) ho vokola"
+  },
+  {
+    "headword_english": "Decapitate",
+    "pos": "v.",
+    "sesotho": "ho khaola hloho"
+  },
+  {
+    "headword_english": "Decline",
+    "pos": "v.",
+    "sesotho": "ho hana; (to grow weak) ho senyeha, ho fokola"
+  },
+  {
+    "headword_english": "Declivity",
+    "pos": "n.",
+    "sesotho": "thapamo, moepa o eang fatše"
+  },
+  {
+    "headword_english": "Decompose",
+    "pos": "v.",
+    "sesotho": "ho bola, ho senyeha"
+  },
+  {
+    "headword_english": "Decorate",
+    "pos": "v.",
+    "sesotho": "ho khabisa"
+  },
+  {
+    "headword_english": "Decorous",
+    "pos": "adj.",
+    "sesotho": "e hlomphehang"
+  },
+  {
+    "headword_english": "Decoy",
+    "pos": "v.",
+    "sesotho": "ho goka, ho khelosa"
+  },
+  {
+    "headword_english": "Decrease",
+    "pos": "v.",
+    "sesotho": "ho fokotsa; ho fokoleha"
+  },
+  {
+    "headword_english": "Decreasing",
+    "pos": "n.",
+    "sesotho": "phokotseho"
+  },
+  {
+    "headword_english": "Decree",
+    "pos": "n.",
+    "sesotho": "taelo ea lekhotla kapa ea 'muso"
+  },
+  {
+    "headword_english": "Dedicate",
+    "pos": "v.",
+    "sesotho": "ho khethela; ho khakola ntlo"
+  },
+  {
+    "headword_english": "Deduct",
+    "pos": "v.",
+    "sesotho": "ho tlosa, ho fula"
+  },
+  {
+    "headword_english": "Deed",
+    "pos": "n.",
+    "sesotho": "ketso, ketsahalo, seetsahalo"
+  },
+  {
+    "headword_english": "Deem",
+    "pos": "v.",
+    "sesotho": "ho lekanya, ho hopola"
+  },
+  {
+    "headword_english": "Deep",
+    "pos": "adj.",
+    "sesotho": "e tebileng"
+  },
+  {
+    "headword_english": "Deepen",
+    "pos": "v.",
+    "sesotho": "ho eketsa botebo, ho tebisa"
+  },
+  {
+    "headword_english": "Deer",
+    "pos": "n.",
+    "sesotho": "mofuta oa khama"
+  },
+  {
+    "headword_english": "Defect",
+    "pos": "n.",
+    "sesotho": "koli, letheba, sekhopi"
+  },
+  {
+    "headword_english": "Defence",
+    "pos": "n.",
+    "sesotho": "tšireletso; boikarabelo (self defence)"
+  },
+  {
+    "headword_english": "Defendant",
+    "pos": "n.",
+    "sesotho": "motlalehoa, moqosuoa"
+  },
+  {
+    "headword_english": "Defender",
+    "pos": "n.",
+    "sesotho": "moemeli, mosireletsi"
+  },
+  {
+    "headword_english": "Defer",
+    "pos": "v.",
+    "sesotho": "ho suthisa, ho beela nako e 'ngoe; ho ea ka keletso ea e mong"
+  },
+  {
+    "headword_english": "Deferent",
+    "pos": "adj.",
+    "sesotho": "e hlomphehang"
+  },
+  {
+    "headword_english": "Defiance",
+    "pos": "n.",
+    "sesotho": "phephetso"
+  },
+  {
+    "headword_english": "Deficiency",
+    "pos": "n.",
+    "sesotho": "ho se phethehe, tlhaello"
+  },
+  {
+    "headword_english": "Defile",
+    "pos": "n.",
+    "sesotho": "khoro, tsela e patisaneng; v. ho silafatsa"
+  },
+  {
+    "headword_english": "Defilement",
+    "pos": "n.",
+    "sesotho": "tšilafalo, tšila"
+  },
+  {
+    "headword_english": "Define",
+    "pos": "v.",
+    "sesotho": "ho hlalosa; ho beela moeli oa naha kapa taba"
+  },
+  {
+    "headword_english": "Definition",
+    "pos": "n.",
+    "sesotho": "poleliso ea taba, tlhaloso"
+  },
+  {
+    "headword_english": "Deft",
+    "pos": "adj.",
+    "sesotho": "e masene, e hloekileng"
+  },
+  {
+    "headword_english": "Defy",
+    "pos": "v.",
+    "sesotho": "ho phephetsa"
+  },
+  {
+    "headword_english": "Degenerate",
+    "pos": "v.",
+    "sesotho": "ho senyeha ha mekhoa"
+  },
+  {
+    "headword_english": "Degrade",
+    "pos": "v.",
+    "sesotho": "ho theola, ho tlotlolla; to degrade oneself, ho itlotlolla"
+  },
+  {
+    "headword_english": "Deign",
+    "pos": "v.",
+    "sesotho": "ho lumela ka mosa"
+  },
+  {
+    "headword_english": "Delay",
+    "pos": "v.",
+    "sesotho": "ho liehisa, ho lieha; n. tieho"
+  },
+  {
+    "headword_english": "Delectable",
+    "pos": "adj.",
+    "sesotho": "e thabisang haholo"
+  },
+  {
+    "headword_english": "Delegate",
+    "pos": "v.",
+    "sesotho": "ho ruma; n. lengosa"
+  },
+  {
+    "headword_english": "Deliberate",
+    "pos": "v.",
+    "sesotho": "ho nahana, ho rera; adj. e kelello; e eang butle"
+  },
+  {
+    "headword_english": "Deliberation",
+    "pos": "n.",
+    "sesotho": "nahano, morero"
+  },
+  {
+    "headword_english": "Delicious",
+    "pos": "adj.",
+    "sesotho": "e thabisang, e hlabosehang"
+  },
+  {
+    "headword_english": "Delight",
+    "pos": "n.",
+    "sesotho": "thabo, nyakallo"
+  },
+  {
+    "headword_english": "Delirious",
+    "pos": "adj.",
+    "sesotho": "to be delirious, ho peta, ho fapana hloho, ho phofa"
+  },
+  {
+    "headword_english": "Deliver",
+    "pos": "v.",
+    "sesotho": "ho lopolla, ho loela"
+  },
+  {
+    "headword_english": "Deliverance",
+    "pos": "n.",
+    "sesotho": "topollo, pelo"
+  },
+  {
+    "headword_english": "Delude",
+    "pos": "v.",
+    "sesotho": "ho thetsa, ho khelosa"
+  },
+  {
+    "headword_english": "Deluge",
+    "pos": "n.",
+    "sesotho": "moroallo; v. ho khubela ka metsi"
+  },
+  {
+    "headword_english": "Demand",
+    "pos": "v.",
+    "sesotho": "ho botsa, ho batla; n. potso"
+  },
+  {
+    "headword_english": "Demeanour",
+    "pos": "n.",
+    "sesotho": "metsamao, mokhoa"
+  },
+  {
+    "headword_english": "Demented",
+    "pos": "adj.",
+    "sesotho": "ea hlanyang"
+  },
+  {
+    "headword_english": "Demise",
+    "pos": "n.",
+    "sesotho": "lefu"
+  },
+  {
+    "headword_english": "Demolish",
+    "pos": "v.",
+    "sesotho": "ho qhaqha, ho qhaqholla, ho heletsa, ho qhebulla"
+  },
+  {
+    "headword_english": "Demonstrate",
+    "pos": "v.",
+    "sesotho": "ho bontša"
+  },
+  {
+    "headword_english": "Demoralise",
+    "pos": "v.",
+    "sesotho": "ho senya mekhoa"
+  },
+  {
+    "headword_english": "Demur",
+    "pos": "v.",
+    "sesotho": "ho lika-lika"
+  },
+  {
+    "headword_english": "Denial",
+    "pos": "n.",
+    "sesotho": "tlatolo, khano"
+  },
+  {
+    "headword_english": "Denounce",
+    "pos": "v.",
+    "sesotho": "ho tlaleha, ho ngosa"
+  },
+  {
+    "headword_english": "Dense",
+    "pos": "adj.",
+    "sesotho": "e teteaneng"
+  },
+  {
+    "headword_english": "Dentition",
+    "pos": "n.",
+    "sesotho": "ho tsoa meno"
+  },
+  {
+    "headword_english": "Deny",
+    "pos": "v.",
+    "sesotho": "ho latola, ho itatola, ho phephetha, ho quqabula, ho hana"
+  },
+  {
+    "headword_english": "Depart",
+    "pos": "v.",
+    "sesotho": "ho tloha, ho tsamaea"
+  },
+  {
+    "headword_english": "Depend",
+    "pos": "v.",
+    "sesotho": "ho tšepa, ho itsharella ka"
+  },
+  {
+    "headword_english": "Deplore",
+    "pos": "v.",
+    "sesotho": "ho suabela, ho llela"
+  },
+  {
+    "headword_english": "Depose",
+    "pos": "v.",
+    "sesotho": "ho bea fatše, ho tlosa matleng"
+  },
+  {
+    "headword_english": "Deposit",
+    "pos": "n.",
+    "sesotho": "chelete e sinoang bankeng; letšopa la noka"
+  },
+  {
+    "headword_english": "Deposition",
+    "pos": "n.",
+    "sesotho": "bopaki"
+  },
+  {
+    "headword_english": "Depraved",
+    "pos": "adj.",
+    "sesotho": "e mpe, e khopo"
+  },
+  {
+    "headword_english": "Depravity",
+    "pos": "n.",
+    "sesotho": "tšenyeho, bolotsana, lonya"
+  },
+  {
+    "headword_english": "Depreciate",
+    "pos": "v.",
+    "sesotho": "ho nyatsa ntho thekong kapa botleng ba tsona"
+  },
+  {
+    "headword_english": "Depredate",
+    "pos": "v.",
+    "sesotho": "ho utsua, ho tlatlapa"
+  },
+  {
+    "headword_english": "Depress",
+    "pos": "v.",
+    "sesotho": "ho kokobetsa, ho nyahamisa"
+  },
+  {
+    "headword_english": "Deprive",
+    "pos": "v.",
+    "sesotho": "ho amoha, ho hlokisa"
+  },
+  {
+    "headword_english": "Depth",
+    "pos": "n.",
+    "sesotho": "botebo, boliba, botebo ba litaba"
+  },
+  {
+    "headword_english": "Deputation",
+    "pos": "n.",
+    "sesotho": "mangosa a eang hammoho"
+  },
+  {
+    "headword_english": "Depute",
+    "pos": "v.",
+    "sesotho": "ho roma motho ka bongosa"
+  },
+  {
+    "headword_english": "Derange",
+    "pos": "v.",
+    "sesotho": "ho ferekanya"
+  },
+  {
+    "headword_english": "Deride",
+    "pos": "v.",
+    "sesotho": "ho tšeha ka, ho nyelisa"
+  },
+  {
+    "headword_english": "Descend",
+    "pos": "v.",
+    "sesotho": "ho theoha, ho setleha"
+  },
+  {
+    "headword_english": "Descent",
+    "pos": "n.",
+    "sesotho": "mohehle, mothipoloha"
+  },
+  {
+    "headword_english": "Describe",
+    "pos": "v.",
+    "sesotho": "ho hlalosa, ho tsua-ntša taba ka mantsoe"
+  },
+  {
+    "headword_english": "Desecrate",
+    "pos": "v.",
+    "sesotho": "ho senya ntho e halalehang, ho tlotlolla"
+  },
+  {
+    "headword_english": "Desert",
+    "pos": "v.",
+    "sesotho": "ho tlohela, ho lahla; n. lefeella, naha e se nang batho"
+  },
+  {
+    "headword_english": "Deserter",
+    "pos": "n.",
+    "sesotho": "mothobi, lesea-phemo"
+  },
+  {
+    "headword_english": "Deserve",
+    "pos": "v.",
+    "sesotho": "ho tšoaneloa ke, ho lokeloa ke"
+  },
+  {
+    "headword_english": "Design",
+    "pos": "n.",
+    "sesotho": "morero; v. ho rera"
+  },
+  {
+    "headword_english": "Designate",
+    "pos": "v.",
+    "sesotho": "ho supa, ho khetha"
+  },
+  {
+    "headword_english": "Desire",
+    "pos": "n.",
+    "sesotho": "takatso, hlalehelo; v. ho lakatsa"
+  },
+  {
+    "headword_english": "Desist",
+    "pos": "v.",
+    "sesotho": "ho tlohela, ho lesa, ho tela"
+  },
+  {
+    "headword_english": "Desk",
+    "pos": "n.",
+    "sesotho": "tafole"
+  },
+  {
+    "headword_english": "Desolate",
+    "pos": "adj.",
+    "sesotho": "e feela, e mong"
+  },
+  {
+    "headword_english": "Desolation",
+    "pos": "n.",
+    "sesotho": "lithako, lesupi; masoabi"
+  },
+  {
+    "headword_english": "Despair",
+    "pos": "n.",
+    "sesotho": "tšerehano, teneho, ho nyahama; v. ho nyahama pelo"
+  },
+  {
+    "headword_english": "Despatch",
+    "pos": "v.",
+    "sesotho": "(to send) ho ruma; (to do quickly) ho sebetsa ka ho akofa; (to kill) ho bolaea; n. lengolo la 'muso"
+  },
+  {
+    "headword_english": "Desperate",
+    "pos": "adj.",
+    "sesotho": "e hlokang tšepo, ea itetseng, ea sa tšabeng letho"
+  },
+  {
+    "headword_english": "Despicable",
+    "pos": "adj.",
+    "sesotho": "e tšoaneloang ke ho nyelisoa"
+  },
+  {
+    "headword_english": "Despise",
+    "pos": "v.",
+    "sesotho": "ho nyelisa, ho nyatsa"
+  },
+  {
+    "headword_english": "Despond",
+    "pos": "v.",
+    "sesotho": "ho fela pelo, ho ntsofala pelo, ho tepella"
+  },
+  {
+    "headword_english": "Destiny",
+    "pos": "n.",
+    "sesotho": "se hlahelang motho seo a ke keng a se phema"
+  },
+  {
+    "headword_english": "Destitute",
+    "pos": "adj.",
+    "sesotho": "e hlokang, ea se nang metsoalle"
+  },
+  {
+    "headword_english": "Destroy",
+    "pos": "v.",
+    "sesotho": "ho timetsa, ho senya"
+  },
+  {
+    "headword_english": "Destruction",
+    "pos": "n.",
+    "sesotho": "timelo, phediso"
+  },
+  {
+    "headword_english": "Detach",
+    "pos": "v.",
+    "sesotho": "ho lopolla, ho arola"
+  },
+  {
+    "headword_english": "Detail",
+    "pos": "n.",
+    "sesotho": "litaba tse nyenyane; makolopetso"
+  },
+  {
+    "headword_english": "Detain",
+    "pos": "v.",
+    "sesotho": "ho thibela, ho hana ka motho"
+  },
+  {
+    "headword_english": "Detect",
+    "pos": "v.",
+    "sesotho": "ho fumana, ho senola"
+  },
+  {
+    "headword_english": "Deter",
+    "pos": "v.",
+    "sesotho": "ho thibela ka ho tšabisa"
+  },
+  {
+    "headword_english": "Deteriorate",
+    "pos": "v.",
+    "sesotho": "ho senya, ho mpefatsa"
+  },
+  {
+    "headword_english": "Determination",
+    "pos": "n.",
+    "sesotho": "morero o tiileng"
+  },
+  {
+    "headword_english": "Determine",
+    "pos": "v.",
+    "sesotho": "ho rera taba ka tieo"
+  },
+  {
+    "headword_english": "Detest",
+    "pos": "v.",
+    "sesotho": "ho hloea hampe"
+  },
+  {
+    "headword_english": "Devastate",
+    "pos": "v.",
+    "sesotho": "ho etsa naha-thethe, ho felisa"
+  },
+  {
+    "headword_english": "Devastation",
+    "pos": "n.",
+    "sesotho": "timetso"
+  },
+  {
+    "headword_english": "Deviate",
+    "pos": "v.",
+    "sesotho": "ho kheloha, ho fapana le tsela"
+  },
+  {
+    "headword_english": "Device",
+    "pos": "n.",
+    "sesotho": "morero, mano"
+  },
+  {
+    "headword_english": "Devil",
+    "pos": "n.",
+    "sesotho": "diabolose"
+  },
+  {
+    "headword_english": "Devise",
+    "pos": "v.",
+    "sesotho": "ho nahana, ho rera"
+  },
+  {
+    "headword_english": "Devoid",
+    "pos": "adj.",
+    "sesotho": "e hlokang"
+  },
+  {
+    "headword_english": "Devoted",
+    "pos": "adj.",
+    "sesotho": "e ratang haholo"
+  },
+  {
+    "headword_english": "Devotedness",
+    "pos": "n.",
+    "sesotho": "boikhethelo, boineelo"
+  },
+  {
+    "headword_english": "Devotion",
+    "pos": "n.",
+    "sesotho": "borapeli, boineelo bo tletseng"
+  },
+  {
+    "headword_english": "Devour",
+    "pos": "v.",
+    "sesotho": "ho ja, ho metsa"
+  },
+  {
+    "headword_english": "Dew",
+    "pos": "n.",
+    "sesotho": "phoka"
+  },
+  {
+    "headword_english": "Dewlap",
+    "pos": "n.",
+    "sesotho": "lebolu"
+  },
+  {
+    "headword_english": "Dexterous",
+    "pos": "adj.",
+    "sesotho": "ea masene ka matsoho"
+  },
+  {
+    "headword_english": "Diadem",
+    "pos": "n.",
+    "sesotho": "mofapahloho oa borena"
+  },
+  {
+    "headword_english": "Dial",
+    "pos": "n.",
+    "sesotho": "ntho ea ho supa nako ka leseli la letsatsi"
+  },
+  {
+    "headword_english": "Dialect",
+    "pos": "n.",
+    "sesotho": "puo"
+  },
+  {
+    "headword_english": "Dialogue",
+    "pos": "n.",
+    "sesotho": "puisano"
+  },
+  {
+    "headword_english": "Diamond",
+    "pos": "n.",
+    "sesotho": "daemane"
+  },
+  {
+    "headword_english": "Diarrhea",
+    "pos": "n.",
+    "sesotho": "letšollo, lepshehe; to have diarrhea, ho tšolla"
+  },
+  {
+    "headword_english": "Dictate",
+    "pos": "v.",
+    "sesotho": "ho ngolisa motho taba"
+  },
+  {
+    "headword_english": "Die",
+    "pos": "v.",
+    "sesotho": "ho shoa, ho timela, ho fela"
+  },
+  {
+    "headword_english": "Differ",
+    "pos": "v.",
+    "sesotho": "ho fapana, ho khethahana, ho se utluane"
+  },
+  {
+    "headword_english": "Difference",
+    "pos": "n.",
+    "sesotho": "phapano, bosele, khethano"
+  },
+  {
+    "headword_english": "Different",
+    "pos": "adj.",
+    "sesotho": "e sele, e sa tšoaneng"
+  },
+  {
+    "headword_english": "Difficult",
+    "pos": "adj.",
+    "sesotho": "e thata, e boima, e tsietsang"
+  },
+  {
+    "headword_english": "Difficulty",
+    "pos": "n.",
+    "sesotho": "bothata, tsietsi, tsieleho, boima, thibelo"
+  },
+  {
+    "headword_english": "Diffidence",
+    "pos": "n.",
+    "sesotho": "ho se tšepe, ho se itšepe"
+  },
+  {
+    "headword_english": "Diffuse",
+    "pos": "v.",
+    "sesotho": "ho hasa, ho hasanya"
+  },
+  {
+    "headword_english": "Dig",
+    "pos": "v.",
+    "sesotho": "ho cheka, ho epa, ho theba"
+  },
+  {
+    "headword_english": "Diligent",
+    "pos": "adj.",
+    "sesotho": "ea mafolofolo, ea tiisetsang, ea hlokomelang; n. sekhothali"
+  },
+  {
+    "headword_english": "Dilute",
+    "pos": "v.",
+    "sesotho": "ho elisa, ho hlaphola"
+  },
+  {
+    "headword_english": "Dim",
+    "pos": "adj.",
+    "sesotho": "e lerotho, e sa bonahaleng"
+  },
+  {
+    "headword_english": "Dimension",
+    "pos": "n.",
+    "sesotho": "tekanyo, boholo"
+  },
+  {
+    "headword_english": "Diminish",
+    "pos": "v.",
+    "sesotho": "ho fokotsa, ho nyenyefatsa, ho hlephisa; ho fokoleha"
+  },
+  {
+    "headword_english": "Din",
+    "pos": "n.",
+    "sesotho": "lerata, molumo"
+  },
+  {
+    "headword_english": "Dingy",
+    "pos": "adj.",
+    "sesotho": "e lititi, e litsila, e mpe"
+  },
+  {
+    "headword_english": "Dip",
+    "pos": "v.",
+    "sesotho": "ho ina, ho inela, ho qopela"
+  },
+  {
+    "headword_english": "Dire",
+    "pos": "adj.",
+    "sesotho": "e tšabehang"
+  },
+  {
+    "headword_english": "Direct",
+    "pos": "v.",
+    "sesotho": "ho isa, ho lisa, ho tsamaisa"
+  },
+  {
+    "headword_english": "Direction",
+    "pos": "n.",
+    "sesotho": "tsamaiso, tiso"
+  },
+  {
+    "headword_english": "Dirge",
+    "pos": "n.",
+    "sesotho": "koli ea malla"
+  },
+  {
+    "headword_english": "Dirtiness",
+    "pos": "n.",
+    "sesotho": "makhenefa"
+  },
+  {
+    "headword_english": "Disadvantage",
+    "pos": "n.",
+    "sesotho": "tšenyehelo"
+  },
+  {
+    "headword_english": "Disaster",
+    "pos": "n.",
+    "sesotho": "kotsi"
+  },
+  {
+    "headword_english": "Disavow",
+    "pos": "v.",
+    "sesotho": "ho latola, ho hana"
+  },
+  {
+    "headword_english": "Discard",
+    "pos": "v.",
+    "sesotho": "ho lahla"
+  },
+  {
+    "headword_english": "Discern",
+    "pos": "v.",
+    "sesotho": "ho khetha, ho lemoha"
+  },
+  {
+    "headword_english": "Disciple",
+    "pos": "n.",
+    "sesotho": "morutuoa"
+  },
+  {
+    "headword_english": "Discipline",
+    "pos": "n.",
+    "sesotho": "thapiso, tsamaiso, taeo, thuto"
+  },
+  {
+    "headword_english": "Disclaim",
+    "pos": "v.",
+    "sesotho": "ho latola"
+  },
+  {
+    "headword_english": "Discord",
+    "pos": "n.",
+    "sesotho": "phapang"
+  },
+  {
+    "headword_english": "Discourage",
+    "pos": "v.",
+    "sesotho": "ho tepeletsa; to be discouraged, ho nyahama pelo, ho tepella"
+  },
+  {
+    "headword_english": "Discourse",
+    "pos": "n.",
+    "sesotho": "puisano, thuto"
+  },
+  {
+    "headword_english": "Discriminate",
+    "pos": "v.",
+    "sesotho": "ho khetha, ho arola"
+  },
+  {
+    "headword_english": "Discuss",
+    "pos": "v.",
+    "sesotho": "ho phea khang, ho tseka"
+  },
+  {
+    "headword_english": "Discussion",
+    "pos": "n.",
+    "sesotho": "tseko, tsekiso"
+  },
+  {
+    "headword_english": "Disdain",
+    "pos": "v.",
+    "sesotho": "ho nyelisa, ho khesa, ho nyonya"
+  },
+  {
+    "headword_english": "Disease",
+    "pos": "n.",
+    "sesotho": "boloetse"
+  },
+  {
+    "headword_english": "Disengaged",
+    "pos": "adj.",
+    "sesotho": "ea lokolohi"
+  },
+  {
+    "headword_english": "Disentangle",
+    "pos": "v.",
+    "sesotho": "ho rarolla"
+  },
+  {
+    "headword_english": "Disfigure",
+    "pos": "v.",
+    "sesotho": "ho senya sebopeho sa ntho"
+  },
+  {
+    "headword_english": "Disgraceful",
+    "pos": "adj.",
+    "sesotho": "e hlabisang lihlong"
+  },
+  {
+    "headword_english": "Disinherit",
+    "pos": "v.",
+    "sesotho": "ho khaoha e mong lefa la hae"
+  },
+  {
+    "headword_english": "Dismember",
+    "pos": "v.",
+    "sesotho": "ho poma, ho khaola litho"
+  },
+  {
+    "headword_english": "Disobedient",
+    "pos": "adj.",
+    "sesotho": "e sa utloeng"
+  },
+  {
+    "headword_english": "Disobey",
+    "pos": "v.",
+    "sesotho": "ho se utloe, ho hana"
+  },
+  {
+    "headword_english": "Disorder",
+    "pos": "n.",
+    "sesotho": "mofere-fere, ho se loke, mahloke"
+  },
+  {
+    "headword_english": "Disorganize",
+    "pos": "v.",
+    "sesotho": "ho ferekanya"
+  },
+  {
+    "headword_english": "Disown",
+    "pos": "v.",
+    "sesotho": "ho latola, ho tela"
+  },
+  {
+    "headword_english": "Disparage",
+    "pos": "v.",
+    "sesotho": "ho nyatsa haholo, ho seba"
+  },
+  {
+    "headword_english": "Disparate",
+    "pos": "adj.",
+    "sesotho": "e sa lekaneng, e sa tšoaneng, e fetanang"
+  },
+  {
+    "headword_english": "Dispel",
+    "pos": "v.",
+    "sesotho": "ho qhalanya"
+  },
+  {
+    "headword_english": "Dispensary",
+    "pos": "n.",
+    "sesotho": "ngalo eo ho neoang lihlare"
+  },
+  {
+    "headword_english": "Display",
+    "pos": "v.",
+    "sesotho": "ho phutholla, ho bonahatsa, ho hlalosa"
+  },
+  {
+    "headword_english": "Disproportion",
+    "pos": "n.",
+    "sesotho": "ho se lekane"
+  },
+  {
+    "headword_english": "Disprove",
+    "pos": "v.",
+    "sesotho": "ho bontša leshano la taba"
+  },
+  {
+    "headword_english": "Dispute",
+    "pos": "v.",
+    "sesotho": "ho tšeka, ho tsekisana; n. tseko, tsekisano"
+  },
+  {
+    "headword_english": "Disqualify",
+    "pos": "v.",
+    "sesotho": "ho hlokisa motho tokelo ea ntho"
+  },
+  {
+    "headword_english": "Disregard",
+    "pos": "v.",
+    "sesotho": "ho se ele hloko; n. kheso"
+  },
+  {
+    "headword_english": "Disreputable",
+    "pos": "adj.",
+    "sesotho": "e hlokang lebitso le letle"
+  },
+  {
+    "headword_english": "Disrespect",
+    "pos": "n.",
+    "sesotho": "hlomphollo"
+  },
+  {
+    "headword_english": "Disrobe",
+    "pos": "v.",
+    "sesotho": "ho hlobola, ho apola"
+  },
+  {
+    "headword_english": "Dissatisfy",
+    "pos": "v.",
+    "sesotho": "ho se khahlise, ho se kholise, ho belaetsa; to be dissatisfied: ho belaela, ho tletleba"
+  },
+  {
+    "headword_english": "Dissemble",
+    "pos": "v.",
+    "sesotho": "ho etsa ka boikaketso"
+  },
+  {
+    "headword_english": "Disseminate",
+    "pos": "v.",
+    "sesotho": "ho phatlalatsa, ho hasanya"
+  },
+  {
+    "headword_english": "Dissension",
+    "pos": "n.",
+    "sesotho": "khang, phapano"
+  },
+  {
+    "headword_english": "Dissent",
+    "pos": "v.",
+    "sesotho": "ho se lumellane"
+  },
+  {
+    "headword_english": "Dissimulation",
+    "pos": "n.",
+    "sesotho": "boikhako"
+  },
+  {
+    "headword_english": "Dissipate",
+    "pos": "v.",
+    "sesotho": "ho qhalanya"
+  },
+  {
+    "headword_english": "Dissipated",
+    "pos": "adj.",
+    "sesotho": "e mekhoa e mebe"
+  },
+  {
+    "headword_english": "Dissipation",
+    "pos": "n.",
+    "sesotho": "qhalanyo ea leruo la motho, bohlola"
+  },
+  {
+    "headword_english": "Dissolute",
+    "pos": "adj.",
+    "sesotho": "e mekhoa e mebe"
+  },
+  {
+    "headword_english": "Dissuade",
+    "pos": "v.",
+    "sesotho": "ho eletsa motho hore a se ke a etsa ntho"
+  },
+  {
+    "headword_english": "Distant",
+    "pos": "adj.",
+    "sesotho": "e hōle, e nōmane"
+  },
+  {
+    "headword_english": "Distaste",
+    "pos": "v.",
+    "sesotho": "ho se rate"
+  },
+  {
+    "headword_english": "Distemper",
+    "pos": "n.",
+    "sesotho": "lefu, boloetse; (of dogs) semaka"
+  },
+  {
+    "headword_english": "Distend",
+    "pos": "v.",
+    "sesotho": "ho otlollela nqa tsohle"
+  },
+  {
+    "headword_english": "Distinct",
+    "pos": "adj.",
+    "sesotho": "e furallaneng, e sa tšoaneng"
+  },
+  {
+    "headword_english": "Distinguish",
+    "pos": "v.",
+    "sesotho": "ho khetha"
+  },
+  {
+    "headword_english": "Distort",
+    "pos": "v.",
+    "sesotho": "ho sokanya, ho khopamisa"
+  },
+  {
+    "headword_english": "Distract",
+    "pos": "v.",
+    "sesotho": "ho lika-likisa, ho ferekanya"
+  },
+  {
+    "headword_english": "Distracted",
+    "pos": "adj.",
+    "sesotho": "ea ferekantsoeng, ea tsielehileng"
+  },
+  {
+    "headword_english": "Distraction",
+    "pos": "n.",
+    "sesotho": "mehopolo ha e hapeloa ntho tse ngata"
+  },
+  {
+    "headword_english": "Distress",
+    "pos": "n.",
+    "sesotho": "tsietsi, tsieleho"
+  },
+  {
+    "headword_english": "Distribute",
+    "pos": "v.",
+    "sesotho": "ho aba, ho arola"
+  },
+  {
+    "headword_english": "Distrust",
+    "pos": "v.",
+    "sesotho": "ho se tšepe, ho belaela"
+  },
+  {
+    "headword_english": "Disturbance",
+    "pos": "n.",
+    "sesotho": "letsoso, mofere-fere"
+  },
+  {
+    "headword_english": "Disunite",
+    "pos": "v.",
+    "sesotho": "ho arola, ho arohana"
+  },
+  {
+    "headword_english": "Disuse",
+    "pos": "v.",
+    "sesotho": "ho lesa ho sebetsa ka ntho"
+  },
+  {
+    "headword_english": "Divers",
+    "pos": "adj.",
+    "sesotho": "tse ling, ba bang"
+  },
+  {
+    "headword_english": "Diversity",
+    "pos": "n.",
+    "sesotho": "ho se tšoaneng"
+  },
+  {
+    "headword_english": "Divest",
+    "pos": "v.",
+    "sesotho": "ho hlobolisa"
+  },
+  {
+    "headword_english": "Divide",
+    "pos": "v.",
+    "sesotho": "ho arola, ho arohanya"
+  },
+  {
+    "headword_english": "Divine",
+    "pos": "adj.",
+    "sesotho": "ea Molimo; n. moruti oa Evangeli"
+  },
+  {
+    "headword_english": "Divine",
+    "pos": "v.",
+    "sesotho": "ho noha"
+  },
+  {
+    "headword_english": "Diviner",
+    "pos": "n.",
+    "sesotho": "senohe, selepi"
+  },
+  {
+    "headword_english": "Divination",
+    "pos": "n.",
+    "sesotho": "bonohe"
+  },
+  {
+    "headword_english": "Divinity",
+    "pos": "n.",
+    "sesotho": "bo-Molimo, Molimo"
+  },
+  {
+    "headword_english": "Division",
+    "pos": "n.",
+    "sesotho": "karolo, khaoho"
+  },
+  {
+    "headword_english": "Divorce",
+    "pos": "n.",
+    "sesotho": "hlalo; v. ho hlala"
+  },
+  {
+    "headword_english": "Divulge",
+    "pos": "v.",
+    "sesotho": "ho tsebisa, ho hlahisa pontšeng, ho pepesa"
+  },
+  {
+    "headword_english": "Dizziness",
+    "pos": "n.",
+    "sesotho": "molikua-likuane"
+  },
+  {
+    "headword_english": "Dizzy",
+    "pos": "adj.",
+    "sesotho": "ea jeoang ke molikua-likuane; to become dizzy: ho eba mahlo-matshe"
+  },
+  {
+    "headword_english": "Do",
+    "pos": "v.",
+    "sesotho": "ho etsa, ho sebetsa; do so: etsa joalo; it will do: ho lokile; how do you do?: u sa phela na?"
+  },
+  {
+    "headword_english": "Docile",
+    "pos": "adj.",
+    "sesotho": "e ka rutoang, e utloang"
+  },
+  {
+    "headword_english": "Doctor",
+    "pos": "n.",
+    "sesotho": "ngaka; lebitso la motho ea phethileng ho ithuta"
+  },
+  {
+    "headword_english": "Doctrine",
+    "pos": "n.",
+    "sesotho": "lithuto, melao ea thuto"
+  },
+  {
+    "headword_english": "Dodge",
+    "pos": "v.",
+    "sesotho": "ho tlolela thoko"
+  },
+  {
+    "headword_english": "Doe",
+    "pos": "n.",
+    "sesotho": "khama e tšehali"
+  },
+  {
+    "headword_english": "Doff",
+    "pos": "v.",
+    "sesotho": "ho ntša, ho hlobola"
+  },
+  {
+    "headword_english": "Dog",
+    "pos": "n.",
+    "sesotho": "ntja; (male) pheeke; (small) lekesi; v. ho latella, ho tsoma"
+  },
+  {
+    "headword_english": "Dogged",
+    "pos": "adj.",
+    "sesotho": "motho ea hloentseng"
+  },
+  {
+    "headword_english": "Doings",
+    "pos": "n. pl.",
+    "sesotho": "liketso, metsamao"
+  },
+  {
+    "headword_english": "Doll",
+    "pos": "n.",
+    "sesotho": "setšoantšo, popi"
+  },
+  {
+    "headword_english": "Dollar",
+    "pos": "n.",
+    "sesotho": "chelete e etsang bo-ranta ba itseng"
+  },
+  {
+    "headword_english": "Dolt",
+    "pos": "n.",
+    "sesotho": "sethoto"
+  },
+  {
+    "headword_english": "Domestic",
+    "pos": "adj.",
+    "sesotho": "ea ntlo, e thapileng; n. mosebeletsi"
+  },
+  {
+    "headword_english": "Domesticate",
+    "pos": "v.",
+    "sesotho": "ho thapisa"
+  },
+  {
+    "headword_english": "Domination",
+    "pos": "n.",
+    "sesotho": "puso, borena"
+  },
+  {
+    "headword_english": "Dominate",
+    "pos": "v.",
+    "sesotho": "ho rena, ho busa"
+  },
+  {
+    "headword_english": "Dominion",
+    "pos": "n.",
+    "sesotho": "borena, puso"
+  },
+  {
+    "headword_english": "Doom",
+    "pos": "v.",
+    "sesotho": "ho isua, ho ahléla; to be doomed: ho ahloleloa; o ahloletsoe lefu"
+  },
+  {
+    "headword_english": "Dose",
+    "pos": "n.",
+    "sesotho": "tekanyo ea sehlare; v. ho arola lihlare"
+  },
+  {
+    "headword_english": "Dot",
+    "pos": "n.",
+    "sesotho": "khutlo, letheba"
+  },
+  {
+    "headword_english": "Dotage",
+    "pos": "n.",
+    "sesotho": "phokolo ea bo-qhē"
+  },
+  {
+    "headword_english": "Dote",
+    "pos": "v.",
+    "sesotho": "ho thotofala"
+  },
+  {
+    "headword_english": "Double-faced",
+    "pos": "adj.",
+    "sesotho": "ea ikaketsang"
+  },
+  {
+    "headword_english": "Double-dealer",
+    "pos": "n.",
+    "sesotho": "temepeli"
+  },
+  {
+    "headword_english": "Doubt",
+    "pos": "v.",
+    "sesotho": "ho belaela, ho raborabora"
+  },
+  {
+    "headword_english": "Doubtless",
+    "pos": "adv.",
+    "sesotho": "ho se pelaelo"
+  },
+  {
+    "headword_english": "Dough",
+    "pos": "n.",
+    "sesotho": "hlama"
+  },
+  {
+    "headword_english": "Dove",
+    "pos": "n.",
+    "sesotho": "leeba; turtle-dove: leebana-khoroana"
+  },
+  {
+    "headword_english": "Down",
+    "pos": "prep. & adv.",
+    "sesotho": "tlase, fatše; he works down in the mine: o sebetsa tlase; letsatsi le liketse"
+  },
+  {
+    "headword_english": "Downcast",
+    "pos": "adj.",
+    "sesotho": "e suabileng"
+  },
+  {
+    "headword_english": "Downright",
+    "pos": "adv.",
+    "sesotho": "ka mokhoa o phethehileng"
+  },
+  {
+    "headword_english": "Downs",
+    "pos": "n. pl.",
+    "sesotho": "thota, sehlaba se senyenyane"
+  },
+  {
+    "headword_english": "Downwards",
+    "pos": "adv.",
+    "sesotho": "ka ho theoha"
+  },
+  {
+    "headword_english": "Doze",
+    "pos": "v.",
+    "sesotho": "ho re shua, ho otsela; n. ho otsela, boroko-nyana"
+  },
+  {
+    "headword_english": "Dozen",
+    "pos": "n.",
+    "sesotho": "lintho tse leshome le metso e 'meli"
+  },
+  {
+    "headword_english": "Drag",
+    "pos": "v.",
+    "sesotho": "ho hula, ho hulanya; drag along the ground: ho hulanya fatše"
+  },
+  {
+    "headword_english": "Drain",
+    "pos": "n.",
+    "sesotho": "foro ea ho tlosa metsi"
+  },
+  {
+    "headword_english": "Drake",
+    "pos": "n.",
+    "sesotho": "letata le letona"
+  },
+  {
+    "headword_english": "Drape",
+    "pos": "v.",
+    "sesotho": "ho apesa, ho koahela ka lesela"
+  },
+  {
+    "headword_english": "Draper",
+    "pos": "n.",
+    "sesotho": "morekisi oa masela"
+  },
+  {
+    "headword_english": "Drapery",
+    "pos": "n.",
+    "sesotho": "moleketla"
+  },
+  {
+    "headword_english": "Draught",
+    "pos": "n.",
+    "sesotho": "bo-hula; (drink) se noang hang; (of air) moea; (of a ship) botebo ba sekepe metsing"
+  },
+  {
+    "headword_english": "Draw",
+    "pos": "v.",
+    "sesotho": "ho hula, ho hulela, ho kikitiela; (inhale) ho phefumoloha"
+  },
+  {
+    "headword_english": "Drawl",
+    "pos": "v.",
+    "sesotho": "ho bua ka ho lieha, ho namōlla"
+  },
+  {
+    "headword_english": "Dread",
+    "pos": "n.",
+    "sesotho": "tšabo e khōlō, se tšabisang; v. ho tšaba haholo, ho tšoha haholo"
+  },
+  {
+    "headword_english": "Dreadful",
+    "pos": "adj.",
+    "sesotho": "e tšabehang"
+  },
+  {
+    "headword_english": "Dreadfulness",
+    "pos": "n.",
+    "sesotho": "botšabeho"
+  },
+  {
+    "headword_english": "Dream",
+    "pos": "n.",
+    "sesotho": "toro; v. ho lora"
+  },
+  {
+    "headword_english": "Dreamy",
+    "pos": "adj.",
+    "sesotho": "e lorang"
+  },
+  {
+    "headword_english": "Dreary",
+    "pos": "adj.",
+    "sesotho": "e tlisang bolutu, e tepeletsang"
+  },
+  {
+    "headword_english": "Dregs",
+    "pos": "n.",
+    "sesotho": "litsifa, lenyafa, morekō, lehoe"
+  },
+  {
+    "headword_english": "Drench",
+    "pos": "v.",
+    "sesotho": "ho kolobisa haholo"
+  },
+  {
+    "headword_english": "Dress",
+    "pos": "n.",
+    "sesotho": "seaparo, kobo; v. ho apesa, ho apara"
+  },
+  {
+    "headword_english": "Drift",
+    "pos": "n.",
+    "sesotho": "ntho tse nkoang ke metsi kapa moea"
+  },
+  {
+    "headword_english": "Drill",
+    "pos": "n.",
+    "sesotho": "tšépe e phunyang"
+  },
+  {
+    "headword_english": "Drink",
+    "pos": "n.",
+    "sesotho": "seno; a strong drink: sekhahla; v. ho nua, ho phika; to drink little: ho qaboha; to drink much: ho tetepa, ho tuta"
+  },
+  {
+    "headword_english": "Dripping",
+    "pos": "n.",
+    "sesotho": "tšotso"
+  },
+  {
+    "headword_english": "Drive",
+    "pos": "v.",
+    "sesotho": "ho khanna, ho isa"
+  },
+  {
+    "headword_english": "Driver",
+    "pos": "n.",
+    "sesotho": "motsamaisi oa koloi"
+  },
+  {
+    "headword_english": "Drizzle",
+    "pos": "n. & v.",
+    "sesotho": "lefafatsane; it is drizzling: lea fafatsa"
+  },
+  {
+    "headword_english": "Dromedary",
+    "pos": "n.",
+    "sesotho": "kamele ea Arabia"
+  },
+  {
+    "headword_english": "Drone",
+    "pos": "n.",
+    "sesotho": "(bee) notsi e tona; (idler) motho ea botsoa"
+  },
+  {
+    "headword_english": "Droop",
+    "pos": "v.",
+    "sesotho": "ho leketla, ho tepella"
+  },
+  {
+    "headword_english": "Drop",
+    "pos": "n.",
+    "sesotho": "lerotholi, phophi; v. ho rotha, ho rothela, ho qhitsa; (let fall) ho liha"
+  },
+  {
+    "headword_english": "Dropsy",
+    "pos": "n.",
+    "sesotho": "seema"
+  },
+  {
+    "headword_english": "Dross",
+    "pos": "n.",
+    "sesotho": "manya, leloapi"
+  },
+  {
+    "headword_english": "Drought",
+    "pos": "n.",
+    "sesotho": "komello, komo, letsatsi ha le eme"
+  },
+  {
+    "headword_english": "Drove",
+    "pos": "n.",
+    "sesotho": "sehlopha sa liphoofolo tse khannoang, mohlape"
+  },
+  {
+    "headword_english": "Drown",
+    "pos": "v.",
+    "sesotho": "ho nōeloa ke metsi"
+  },
+  {
+    "headword_english": "Drowsy",
+    "pos": "adj.",
+    "sesotho": "ea otselang"
+  },
+  {
+    "headword_english": "Drubbing",
+    "pos": "n.",
+    "sesotho": "kotlo, taeo"
+  },
+  {
+    "headword_english": "Drudge",
+    "pos": "v.",
+    "sesotho": "ho sebetsa u khathala"
+  },
+  {
+    "headword_english": "Drudgery",
+    "pos": "n.",
+    "sesotho": "mosebetsi o boima"
+  },
+  {
+    "headword_english": "Drug",
+    "pos": "n.",
+    "sesotho": "sehlare"
+  },
+  {
+    "headword_english": "Drum",
+    "pos": "n.",
+    "sesotho": "moropa; v. ho letsa moropa"
+  },
+  {
+    "headword_english": "Drunk",
+    "pos": "adj.",
+    "sesotho": "e tahiloeng; to be very drunk: ho re fan"
+  },
+  {
+    "headword_english": "Drunkard",
+    "pos": "n.",
+    "sesotho": "letahoa"
+  },
+  {
+    "headword_english": "Drunkenness",
+    "pos": "n.",
+    "sesotho": "botahoa"
+  },
+  {
+    "headword_english": "Dry",
+    "pos": "adj. & v.",
+    "sesotho": "e pouneng, e omeleng; ho oma, ho pona, ho omella"
+  },
+  {
+    "headword_english": "Dryness",
+    "pos": "n.",
+    "sesotho": "pono, komello"
+  },
+  {
+    "headword_english": "Dubious",
+    "pos": "adj.",
+    "sesotho": "e belaetsang, e sa tšeptjoeng hantle"
+  },
+  {
+    "headword_english": "Duck",
+    "pos": "n.",
+    "sesotho": "letata"
+  },
+  {
+    "headword_english": "Dudgeon",
+    "pos": "n.",
+    "sesotho": "bohale, khalefo"
+  },
+  {
+    "headword_english": "Due",
+    "pos": "adv.",
+    "sesotho": "ka tšoanelo"
+  },
+  {
+    "headword_english": "Dull",
+    "pos": "adj.",
+    "sesotho": "e thotofetseng, e sa ncho"
+  },
+  {
+    "headword_english": "Dulness",
+    "pos": "n.",
+    "sesotho": "bothoto"
+  },
+  {
+    "headword_english": "Duly",
+    "pos": "adv.",
+    "sesotho": "ka nako ea teng, ka tšoanelo"
+  },
+  {
+    "headword_english": "Dumb",
+    "pos": "adj.",
+    "sesotho": "e semumu, e khutsitseng; to become dumb: ho mumufala"
+  },
+  {
+    "headword_english": "Dunce",
+    "pos": "n.",
+    "sesotho": "sethotohali"
+  },
+  {
+    "headword_english": "Dung",
+    "pos": "n.",
+    "sesotho": "boloke, bolokoe"
+  },
+  {
+    "headword_english": "Dungeon",
+    "pos": "n.",
+    "sesotho": "teronko e lefifi"
+  },
+  {
+    "headword_english": "Dupe",
+    "pos": "n.",
+    "sesotho": "ea thetsoang habonolo"
+  },
+  {
+    "headword_english": "Duplicity",
+    "pos": "n.",
+    "sesotho": "pelo-peli, thetso"
+  },
+  {
+    "headword_english": "Durable",
+    "pos": "adj.",
+    "sesotho": "e sa feleng kapele"
+  },
+  {
+    "headword_english": "Duration",
+    "pos": "n.",
+    "sesotho": "ho hloleha, nako e nkiloeng"
+  },
+  {
+    "headword_english": "During",
+    "pos": "prep.",
+    "sesotho": "ka, mehleng ea"
+  },
+  {
+    "headword_english": "Dusk",
+    "pos": "n.",
+    "sesotho": "shualane, lefifi le rotho"
+  },
+  {
+    "headword_english": "Dust",
+    "pos": "n.",
+    "sesotho": "lerōle, lithōle"
+  },
+  {
+    "headword_english": "Dutiful",
+    "pos": "adj.",
+    "sesotho": "e utloang haholo"
+  },
+  {
+    "headword_english": "Duty",
+    "pos": "n.",
+    "sesotho": "tšoanelo, kutlo"
+  },
+  {
+    "headword_english": "Dwarf",
+    "pos": "n.",
+    "sesotho": "qokofana, khokhotlo"
+  },
+  {
+    "headword_english": "Dwell",
+    "pos": "v.",
+    "sesotho": "ho aha, ho lula, ho hlola"
+  },
+  {
+    "headword_english": "Dwelling",
+    "pos": "n.",
+    "sesotho": "ntlo, mohaho, sehahelo"
+  },
+  {
+    "headword_english": "Dwindle",
+    "pos": "v.",
+    "sesotho": "ho kokobela, ho fela"
+  },
+  {
+    "headword_english": "Dye",
+    "pos": "v.",
+    "sesotho": "ho taka, ho etsa ntho 'mala o sele"
+  },
+  {
+    "headword_english": "Dysentery",
+    "pos": "n.",
+    "sesotho": "motlopo"
+  },
+  {
+    "headword_english": "Data",
+    "pos": "n.",
+    "sesotho": "datha, lintlha-tšhedimosetso",
+    "note": "Commonly used for mobile internet or computer information."
+  },
+  {
+    "headword_english": "Database",
+    "pos": "n.",
+    "sesotho": "bobolokelo-boitsebiso",
+    "note": "Literally: a storage place for information."
+  },
+  {
+    "headword_english": "Debit",
+    "pos": "n. & v.",
+    "sesotho": "debiti; ho ntša chelete akhaonteng",
+    "note": "Banking term for removing funds."
+  },
+  {
+    "headword_english": "Degree",
+    "pos": "n.",
+    "sesotho": "tikree, lengolo la thuto e phahameng",
+    "note": "Specifically referring to a University qualification."
+  },
+  {
+    "headword_english": "Democracy",
+    "pos": "n.",
+    "sesotho": "demokrasi, puso ea batho ka batho",
+    "note": "The standard political term in modern Lesotho."
+  },
+  {
+    "headword_english": "Department",
+    "pos": "n.",
+    "sesotho": "lefapha",
+    "note": "Used for government or corporate divisions."
+  },
+  {
+    "headword_english": "Designer",
+    "pos": "n.",
+    "sesotho": "moqapi",
+    "note": "Shifted from 'composer' to include graphic/fashion design."
+  },
+  {
+    "headword_english": "Diabetes",
+    "pos": "n.",
+    "sesotho": "lefu la tsoekere",
+    "note": "Commonly known as 'sugar disease'."
+  },
+  {
+    "headword_english": "Diesel",
+    "pos": "n.",
+    "sesotho": "disele",
+    "note": "Transliterated fuel term."
+  },
+  {
+    "headword_english": "Digital",
+    "pos": "adj.",
+    "sesotho": "dijithale",
+    "note": "Used for electronics and communications."
+  },
+  {
+    "headword_english": "Director",
+    "pos": "n.",
+    "sesotho": "molaoli, motsamaisi",
+    "note": "Standard for corporate or film roles."
+  },
+  {
+    "headword_english": "Download",
+    "pos": "v.",
+    "sesotho": "ho daonolouta, ho khoolla",
+    "note": "'Ho khoolla' is used technically to mean offloading data."
+  },
+  {
+    "headword_english": "Dairy",
+    "pos": "n.",
+    "sesotho": "theere, lefapha la lihlahisoa tsa lebese",
+    "note": "Refers to both the industry and modern commercial products."
+  },
+  {
+    "headword_english": "Dam",
+    "pos": "n.",
+    "sesotho": "letamo",
+    "note": "Crucial for Lesotho's economy (e.g., Katse Dam)."
+  },
+  {
+    "headword_english": "Deadline",
+    "pos": "n.",
+    "sesotho": "nako e behiloeng, nako ea ho qetela",
+    "note": "Common in professional and academic settings."
+  },
+  {
+    "headword_english": "Deaf-mute",
+    "pos": "n.",
+    "sesotho": "setho-mumu",
+    "note": "A modern, more sensitive descriptor than older colloquialisms."
+  },
+  {
+    "headword_english": "Declare",
+    "pos": "v.",
+    "sesotho": "ho phatlalatsa, ho hlahisa",
+    "note": "Used for tax (Sars/LRA) or customs declarations."
+  },
+  {
+    "headword_english": "Defend",
+    "pos": "v.",
+    "sesotho": "ho emela, ho sireletsa",
+    "note": "Modern legal usage: 'to defend in court'."
+  },
+  {
+    "headword_english": "Deficit",
+    "pos": "n.",
+    "sesotho": "tlhaelelo ea chelete",
+    "note": "Economic term for budget shortfalls."
+  },
+  {
+    "headword_english": "Delivery",
+    "pos": "n.",
+    "sesotho": "thomello, phatlalatso",
+    "note": "Used for courier services or 'service delivery' (phatlalatso ea litšebeletso)."
+  },
+  {
+    "headword_english": "Dentist",
+    "pos": "n.",
+    "sesotho": "ngaka ea meno",
+    "note": "Specific medical specialization missing from classical texts."
+  },
+  {
+    "headword_english": "Depression",
+    "pos": "n.",
+    "sesotho": "ho tepella maikutlo",
+    "note": "Modern clinical term for the mental health condition."
+  },
+  {
+    "headword_english": "Detective",
+    "pos": "n.",
+    "sesotho": "lepolesa la bofufutso, mofufutsi",
+    "note": "Derived from 'ho fufutsa' (to search/investigate)."
+  },
+  {
+    "headword_english": "Development",
+    "pos": "n.",
+    "sesotho": "tsoelopele, ntshetsopele",
+    "note": "Central to modern political and NGO discourse."
+  },
+  {
+    "headword_english": "Dictionary",
+    "pos": "n.",
+    "sesotho": "pukuntšu, bukantswe",
+    "note": "The modern standard term for a lexicon."
+  },
+  {
+    "headword_english": "Diploma",
+    "pos": "n.",
+    "sesotho": "diploma, lengolo la thuto",
+    "note": "Transliterated educational qualification."
+  },
+  {
+    "headword_english": "Discrimination",
+    "pos": "n.",
+    "sesotho": "kgethollo",
+    "note": "Modern human rights term."
+  },
+  {
+    "headword_english": "District",
+    "pos": "n.",
+    "sesotho": "setereke",
+    "note": "From Afrikaans 'streek'; refers to Lesotho’s 10 administrative regions."
+  },
+  {
+    "headword_english": "Document",
+    "pos": "n.",
+    "sesotho": "tokomane",
+    "note": "Used for passports, IDs, or legal papers."
+  },
+  {
+    "headword_english": "Donation",
+    "pos": "n.",
+    "sesotho": "monehelo, mpho",
+    "note": "Modern usage in charity and religious fundraising."
+  },
+  {
+    "headword_english": "Dormitory",
+    "pos": "n.",
+    "sesotho": "kamore ea boroko",
+    "note": "Specifically used for boarding schools or hostels."
+  },
+  {
+    "headword_english": "Driver's license",
+    "pos": "n.",
+    "sesotho": "laesense ea ho khanna",
+    "note": "Essential modern administrative term."
+  },
+  {
+    "headword_english": "Drug-addict",
+    "pos": "n.",
+    "sesotho": "lekhoba la litaola/lithethefatsi",
+    "note": "Modern social descriptor for substance abuse."
+  },
+  {
+    "headword_english": "Dynamite",
+    "pos": "n.",
+    "sesotho": "tanamane",
+    "note": "Transliterated term common in the mining sector."
+  }
+]

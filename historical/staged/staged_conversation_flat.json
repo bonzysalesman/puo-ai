@@ -1,0 +1,3150 @@
+[
+  {
+    "entry_id": "conv_flat_710300cd",
+    "headword_english": "Blot",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "selapa",
+        "tone_marked": "selapa",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "tšila",
+        "tone_marked": "tšila",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "selapa",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_710300cd_s1",
+        "definition_en": "selapa, tšila; v. ho silafatsa.",
+        "sesotho_term": [
+          "selapa",
+          "tšila"
+        ],
+        "usage_example": {
+          "sesotho": "selapa, tšila; v. ho silafatsa.",
+          "english": "Blot",
+          "source": "Casalis p.26 (left)"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_b96bcf7e",
+    "headword_english": "Cage",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "sehlahla",
+        "tone_marked": "sehlahla",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "ntlo ea linonyana",
+        "tone_marked": "ntlo ea linonyana",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "sehlahla",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_b96bcf7e_s1",
+        "definition_en": "sehlahla, ntlo ea linonyana.",
+        "sesotho_term": [
+          "sehlahla",
+          "ntlo ea linonyana"
+        ],
+        "usage_example": {
+          "sesotho": "sehlahla, ntlo ea linonyana.",
+          "english": "Cage",
+          "source": "Casalis p.31 (left)"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_0b36240e",
+    "headword_english": "Calm",
+    "pos": [
+      {
+        "tag": "adj.",
+        "full": "adjective"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "khotso",
+        "tone_marked": "khotso",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "thōlo",
+        "tone_marked": "thōlo",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "khotso",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_0b36240e_s1",
+        "definition_en": "khotso, thōlo; v. ho tholisa, ho kholisa.",
+        "sesotho_term": [
+          "khotso",
+          "thōlo"
+        ],
+        "usage_example": {
+          "sesotho": "khotso, thōlo; v. ho tholisa, ho kholisa.",
+          "english": "Calm",
+          "source": "Casalis p.31 (right)"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_3af2fe3b",
+    "headword_english": "Camel",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "kamele",
+        "tone_marked": "kamele",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "kamele",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_3af2fe3b_s1",
+        "definition_en": "kamele.",
+        "sesotho_term": [
+          "kamele"
+        ],
+        "usage_example": {
+          "sesotho": "kamele.",
+          "english": "Camel",
+          "source": "Casalis p.31 (right)"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_5be7658a",
+    "headword_english": "Cannon",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "kanono",
+        "tone_marked": "kanono",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "kanono",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_5be7658a_s1",
+        "definition_en": "kanono.",
+        "sesotho_term": [
+          "kanono"
+        ],
+        "usage_example": {
+          "sesotho": "kanono.",
+          "english": "Cannon",
+          "source": "Casalis p.32 (left)"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_35cf3b12",
+    "headword_english": "Canoe",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "mokoro",
+        "tone_marked": "mokoro",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "mokoro",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_35cf3b12_s1",
+        "definition_en": "mokoro.",
+        "sesotho_term": [
+          "mokoro"
+        ],
+        "usage_example": {
+          "sesotho": "mokoro.",
+          "english": "Canoe",
+          "source": "Casalis p.32 (left)"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_58ad3507",
+    "headword_english": "Carcase",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "setopo",
+        "tone_marked": "setopo",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "setopo",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_58ad3507_s1",
+        "definition_en": "setopo.",
+        "sesotho_term": [
+          "setopo"
+        ],
+        "usage_example": {
+          "sesotho": "setopo.",
+          "english": "Carcase",
+          "source": "Casalis p.32 (right)"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_fe82e34b",
+    "headword_english": "Chagrin",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "monyako",
+        "tone_marked": "monyako",
+        "ipa": "",
+        "tone_pattern": ""
+      },
+      {
+        "orthographic": "meutlo",
+        "tone_marked": "meutlo",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "monyako",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_fe82e34b_s1",
+        "definition_en": "monyako, meutlo",
+        "sesotho_term": [
+          "monyako",
+          "meutlo"
+        ],
+        "usage_example": {
+          "sesotho": "monyako, meutlo",
+          "english": "Chagrin",
+          "source": "Gemini conversation extract"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_a4f4f821",
+    "headword_english": "Face-lift",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "phetolo ea sebopeho sa sefahleho",
+        "tone_marked": "phetolo ea sebopeho sa sefahleho",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "phetolo ea sebopeho sa sefahleho",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_a4f4f821_s1",
+        "definition_en": "phetolo ea sebopeho sa sefahleho (ka karo-karolo).",
+        "sesotho_term": [
+          "phetolo ea sebopeho sa sefahleho"
+        ],
+        "usage_example": {
+          "sesotho": "phetolo ea sebopeho sa sefahleho (ka karo-karolo).",
+          "english": "Face-lift",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_8bb635ea",
+    "headword_english": "Fake news",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "litaba tsa bohata tse phatlalatsoang",
+        "tone_marked": "litaba tsa bohata tse phatlalatsoang",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "litaba tsa bohata tse phatlalatsoang",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_8bb635ea_s1",
+        "definition_en": "litaba tsa bohata tse phatlalatsoang.",
+        "sesotho_term": [
+          "litaba tsa bohata tse phatlalatsoang"
+        ],
+        "usage_example": {
+          "sesotho": "litaba tsa bohata tse phatlalatsoang.",
+          "english": "Fake news",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_098d9e37",
+    "headword_english": "Fast-food",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "lijo tse lokisoang kapele",
+        "tone_marked": "lijo tse lokisoang kapele",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "lijo tse lokisoang kapele",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_098d9e37_s1",
+        "definition_en": "lijo tse lokisoang kapele (lijo tsa mabenkele).",
+        "sesotho_term": [
+          "lijo tse lokisoang kapele"
+        ],
+        "usage_example": {
+          "sesotho": "lijo tse lokisoang kapele (lijo tsa mabenkele).",
+          "english": "Fast-food",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_8331db26",
+    "headword_english": "Fax",
+    "pos": [
+      {
+        "tag": "n./v.",
+        "full": "noun or verb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "fekse",
+        "tone_marked": "fekse",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "fekse",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_8331db26_s1",
+        "definition_en": "fekse; ho romela molaetsa ka mochini oa fekse.",
+        "sesotho_term": [
+          "fekse"
+        ],
+        "usage_example": {
+          "sesotho": "fekse; ho romela molaetsa ka mochini oa fekse.",
+          "english": "Fax",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_21b388be",
+    "headword_english": "Feminism",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "tumelo ea tekano ea bong le litokelo tsa basali",
+        "tone_marked": "tumelo ea tekano ea bong le litokelo tsa basali",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "tumelo ea tekano ea bong le litokelo tsa basali",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_21b388be_s1",
+        "definition_en": "tumelo ea tekano ea bong le litokelo tsa basali.",
+        "sesotho_term": [
+          "tumelo ea tekano ea bong le litokelo tsa basali"
+        ],
+        "usage_example": {
+          "sesotho": "tumelo ea tekano ea bong le litokelo tsa basali.",
+          "english": "Feminism",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_0f87f2d3",
+    "headword_english": "Fiber-optics",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "faeba",
+        "tone_marked": "faeba",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "faeba",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_0f87f2d3_s1",
+        "definition_en": "faeba; mehala ea khanya bakeng sa marang-rang a potlakileng.",
+        "sesotho_term": [
+          "faeba"
+        ],
+        "usage_example": {
+          "sesotho": "faeba; mehala ea khanya bakeng sa marang-rang a potlakileng.",
+          "english": "Fiber-optics",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_267e23e5",
+    "headword_english": "Filter",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "setlhotlo sa litšoantšo",
+        "tone_marked": "setlhotlo sa litšoantšo",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "setlhotlo sa litšoantšo",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_267e23e5_s1",
+        "definition_en": "setlhotlo sa litšoantšo (ho fetola ponahalo ea senepe).",
+        "sesotho_term": [
+          "setlhotlo sa litšoantšo"
+        ],
+        "usage_example": {
+          "sesotho": "setlhotlo sa litšoantšo (ho fetola ponahalo ea senepe).",
+          "english": "Filter",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_fde2fb14",
+    "headword_english": "Firewall",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "letlotlo la tšireletso khahlanong le linokoane tsa marang-rang",
+        "tone_marked": "letlotlo la tšireletso khahlanong le linokoane tsa marang-rang",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "letlotlo la tšireletso khahlanong le linokoane tsa marang-rang",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_fde2fb14_s1",
+        "definition_en": "letlotlo la tšireletso khahlanong le linokoane tsa marang-rang.",
+        "sesotho_term": [
+          "letlotlo la tšireletso khahlanong le linokoane tsa marang-rang"
+        ],
+        "usage_example": {
+          "sesotho": "letlotlo la tšireletso khahlanong le linokoane tsa marang-rang.",
+          "english": "Firewall",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_1c10f4eb",
+    "headword_english": "Flash-drive",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "folofoshe",
+        "tone_marked": "folofoshe",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "folofoshe",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_1c10f4eb_s1",
+        "definition_en": "folofoshe; ntho ea ho boloka boitsebiso ba k'homphieutha.",
+        "sesotho_term": [
+          "folofoshe"
+        ],
+        "usage_example": {
+          "sesotho": "folofoshe; ntho ea ho boloka boitsebiso ba k'homphieutha.",
+          "english": "Flash-drive",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_4df6d5f5",
+    "headword_english": "Folder",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "foltara",
+        "tone_marked": "foltara",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "foltara",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_4df6d5f5_s1",
+        "definition_en": "foltara; sebaka sa ho bokella lifaele ka har'a k'homphieutha.",
+        "sesotho_term": [
+          "foltara"
+        ],
+        "usage_example": {
+          "sesotho": "foltara; sebaka sa ho bokella lifaele ka har'a k'homphieutha.",
+          "english": "Folder",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_394f5922",
+    "headword_english": "Forensics",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "tsebo ea saense ea ho batlisisa litlolo tsa molao",
+        "tone_marked": "tsebo ea saense ea ho batlisisa litlolo tsa molao",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "tsebo ea saense ea ho batlisisa litlolo tsa molao",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_394f5922_s1",
+        "definition_en": "tsebo ea saense ea ho batlisisa litlolo tsa molao.",
+        "sesotho_term": [
+          "tsebo ea saense ea ho batlisisa litlolo tsa molao"
+        ],
+        "usage_example": {
+          "sesotho": "tsebo ea saense ea ho batlisisa litlolo tsa molao.",
+          "english": "Forensics",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_839316f4",
+    "headword_english": "Franchise",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "tumello ea ho khoebo tlas'a lebitso la khampani e kholo",
+        "tone_marked": "tumello ea ho khoebo tlas'a lebitso la khampani e kholo",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "tumello ea ho khoebo tlas'a lebitso la khampani e kholo",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_839316f4_s1",
+        "definition_en": "tumello ea ho khoebo tlas'a lebitso la khampani e kholo.",
+        "sesotho_term": [
+          "tumello ea ho khoebo tlas'a lebitso la khampani e kholo"
+        ],
+        "usage_example": {
+          "sesotho": "tumello ea ho khoebo tlas'a lebitso la khampani e kholo.",
+          "english": "Franchise",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_b2bf897d",
+    "headword_english": "Freelancer",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "mosebeletsi ea ikemetseng ea sa thunngoang ke khampani e le 'ngoe",
+        "tone_marked": "mosebeletsi ea ikemetseng ea sa thunngoang ke khampani e le 'ngoe",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "mosebeletsi ea ikemetseng ea sa thunngoang ke khampani e le 'ngoe",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_b2bf897d_s1",
+        "definition_en": "mosebeletsi ea ikemetseng ea sa thunngoang ke khampani e le 'ngoe.",
+        "sesotho_term": [
+          "mosebeletsi ea ikemetseng ea sa thunngoang ke khampani e le 'ngoe"
+        ],
+        "usage_example": {
+          "sesotho": "mosebeletsi ea ikemetseng ea sa thunngoang ke khampani e le 'ngoe.",
+          "english": "Freelancer",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_7da40290",
+    "headword_english": "Face-mask",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "maske",
+        "tone_marked": "maske",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "maske",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_7da40290_s1",
+        "definition_en": "maske; ntho e thibelang likokonyana le mafu a phefumoloho.",
+        "sesotho_term": [
+          "maske"
+        ],
+        "usage_example": {
+          "sesotho": "maske; ntho e thibelang likokonyana le mafu a phefumoloho.",
+          "english": "Face-mask",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_f314b4ea",
+    "headword_english": "Fan-base",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "sehlopha sa balateli ba sebini kapa sebapali",
+        "tone_marked": "sehlopha sa balateli ba sebini kapa sebapali",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "sehlopha sa balateli ba sebini kapa sebapali",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_f314b4ea_s1",
+        "definition_en": "sehlopha sa balateli ba sebini kapa sebapali.",
+        "sesotho_term": [
+          "sehlopha sa balateli ba sebini kapa sebapali"
+        ],
+        "usage_example": {
+          "sesotho": "sehlopha sa balateli ba sebini kapa sebapali.",
+          "english": "Fan-base",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_785f1c2e",
+    "headword_english": "Fast-track",
+    "pos": [
+      {
+        "tag": "v.",
+        "full": "verb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ho potlakisa tshebetso e itseng ka mokhoa o khethehileng",
+        "tone_marked": "ho potlakisa tshebetso e itseng ka mokhoa o khethehileng",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "ho potlakisa tshebetso e itseng ka mokhoa o khethehileng",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_785f1c2e_s1",
+        "definition_en": "ho potlakisa tshebetso e itseng ka mokhoa o khethehileng.",
+        "sesotho_term": [
+          "ho potlakisa tshebetso e itseng ka mokhoa o khethehileng"
+        ],
+        "usage_example": {
+          "sesotho": "ho potlakisa tshebetso e itseng ka mokhoa o khethehileng.",
+          "english": "Fast-track",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_f9ed9eb9",
+    "headword_english": "Feedback",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "karabelo kapa maikutlo a mabapi le mosebetsi o itseng",
+        "tone_marked": "karabelo kapa maikutlo a mabapi le mosebetsi o itseng",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "karabelo kapa maikutlo a mabapi le mosebetsi o itseng",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_f9ed9eb9_s1",
+        "definition_en": "karabelo kapa maikutlo a mabapi le mosebetsi o itseng.",
+        "sesotho_term": [
+          "karabelo kapa maikutlo a mabapi le mosebetsi o itseng"
+        ],
+        "usage_example": {
+          "sesotho": "karabelo kapa maikutlo a mabapi le mosebetsi o itseng.",
+          "english": "Feedback",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_8ce4c0d6",
+    "headword_english": "Ferry",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "sekepe se tsamaisang batho le likoloi ho tšela noka kapa leoatle",
+        "tone_marked": "sekepe se tsamaisang batho le likoloi ho tšela noka kapa leoatle",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "sekepe se tsamaisang batho le likoloi ho tšela noka kapa leoatle",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_8ce4c0d6_s1",
+        "definition_en": "sekepe se tsamaisang batho le likoloi ho tšela noka kapa leoatle.",
+        "sesotho_term": [
+          "sekepe se tsamaisang batho le likoloi ho tšela noka kapa leoatle"
+        ],
+        "usage_example": {
+          "sesotho": "sekepe se tsamaisang batho le likoloi ho tšela noka kapa leoatle.",
+          "english": "Ferry",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_cdb7175a",
+    "headword_english": "Fibre-glass",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "mofuta oa polasetiki e matlafalitsoeng ka likhoele tsa galase",
+        "tone_marked": "mofuta oa polasetiki e matlafalitsoeng ka likhoele tsa galase",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "mofuta oa polasetiki e matlafalitsoeng ka likhoele tsa galase",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_cdb7175a_s1",
+        "definition_en": "mofuta oa polasetiki e matlafalitsoeng ka likhoele tsa galase.",
+        "sesotho_term": [
+          "mofuta oa polasetiki e matlafalitsoeng ka likhoele tsa galase"
+        ],
+        "usage_example": {
+          "sesotho": "mofuta oa polasetiki e matlafalitsoeng ka likhoele tsa galase.",
+          "english": "Fibre-glass",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_a9119e40",
+    "headword_english": "File-sharing",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ho fana kapa ho fetisetsa lifaele ho ba bang marang-rang",
+        "tone_marked": "ho fana kapa ho fetisetsa lifaele ho ba bang marang-rang",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "ho fana kapa ho fetisetsa lifaele ho ba bang marang-rang",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_a9119e40_s1",
+        "definition_en": "ho fana kapa ho fetisetsa lifaele ho ba bang marang-rang.",
+        "sesotho_term": [
+          "ho fana kapa ho fetisetsa lifaele ho ba bang marang-rang"
+        ],
+        "usage_example": {
+          "sesotho": "ho fana kapa ho fetisetsa lifaele ho ba bang marang-rang.",
+          "english": "File-sharing",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_9ac689bf",
+    "headword_english": "Fintech",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "theknoloji e sebelisoang ho tsamaisa litaba tsa lichelete",
+        "tone_marked": "theknoloji e sebelisoang ho tsamaisa litaba tsa lichelete",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "theknoloji e sebelisoang ho tsamaisa litaba tsa lichelete",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_9ac689bf_s1",
+        "definition_en": "theknoloji e sebelisoang ho tsamaisa litaba tsa lichelete.",
+        "sesotho_term": [
+          "theknoloji e sebelisoang ho tsamaisa litaba tsa lichelete"
+        ],
+        "usage_example": {
+          "sesotho": "theknoloji e sebelisoang ho tsamaisa litaba tsa lichelete.",
+          "english": "Fintech",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_aeac32dc",
+    "headword_english": "First-aid kit",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "lebokose la lisebelisoa tsa phekolo ea potlako",
+        "tone_marked": "lebokose la lisebelisoa tsa phekolo ea potlako",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "lebokose la lisebelisoa tsa phekolo ea potlako",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_aeac32dc_s1",
+        "definition_en": "lebokose la lisebelisoa tsa phekolo ea potlako.",
+        "sesotho_term": [
+          "lebokose la lisebelisoa tsa phekolo ea potlako"
+        ],
+        "usage_example": {
+          "sesotho": "lebokose la lisebelisoa tsa phekolo ea potlako.",
+          "english": "First-aid kit",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_01cb17e3",
+    "headword_english": "Fitness-tracker",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "mochini o methang boitšollo ba mmele le bophelo bo botle",
+        "tone_marked": "mochini o methang boitšollo ba mmele le bophelo bo botle",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "mochini o methang boitšollo ba mmele le bophelo bo botle",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_01cb17e3_s1",
+        "definition_en": "mochini o methang boitšollo ba mmele le bophelo bo botle.",
+        "sesotho_term": [
+          "mochini o methang boitšollo ba mmele le bophelo bo botle"
+        ],
+        "usage_example": {
+          "sesotho": "mochini o methang boitšollo ba mmele le bophelo bo botle.",
+          "english": "Fitness-tracker",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_003b9c40",
+    "headword_english": "Flat-screen",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "thelevishene kapa sekerine se sephara se se nang mokokotlo",
+        "tone_marked": "thelevishene kapa sekerine se sephara se se nang mokokotlo",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "thelevishene kapa sekerine se sephara se se nang mokokotlo",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_003b9c40_s1",
+        "definition_en": "thelevishene kapa sekerine se sephara se se nang mokokotlo.",
+        "sesotho_term": [
+          "thelevishene kapa sekerine se sephara se se nang mokokotlo"
+        ],
+        "usage_example": {
+          "sesotho": "thelevishene kapa sekerine se sephara se se nang mokokotlo.",
+          "english": "Flat-screen",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_1eafac8e",
+    "headword_english": "Follow-up",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "tshetlehelo kapa tlhahlobo e etsoang ka mor'a ketso e itseng",
+        "tone_marked": "tshetlehelo kapa tlhahlobo e etsoang ka mor'a ketso e itseng",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "tshetlehelo kapa tlhahlobo e etsoang ka mor'a ketso e itseng",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_1eafac8e_s1",
+        "definition_en": "tshetlehelo kapa tlhahlobo e etsoang ka mor'a ketso e itseng.",
+        "sesotho_term": [
+          "tshetlehelo kapa tlhahlobo e etsoang ka mor'a ketso e itseng"
+        ],
+        "usage_example": {
+          "sesotho": "tshetlehelo kapa tlhahlobo e etsoang ka mor'a ketso e itseng.",
+          "english": "Follow-up",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_e4293b1e",
+    "headword_english": "Foodie",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "motho ea ratang le ho thahasella lijo tse fapaneng haholo",
+        "tone_marked": "motho ea ratang le ho thahasella lijo tse fapaneng haholo",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "motho ea ratang le ho thahasella lijo tse fapaneng haholo",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_e4293b1e_s1",
+        "definition_en": "motho ea ratang le ho thahasella lijo tse fapaneng haholo.",
+        "sesotho_term": [
+          "motho ea ratang le ho thahasella lijo tse fapaneng haholo"
+        ],
+        "usage_example": {
+          "sesotho": "motho ea ratang le ho thahasella lijo tse fapaneng haholo.",
+          "english": "Foodie",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_56cd0942",
+    "headword_english": "Footprint (Carbon)",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "tšusumetso ea motho kapa khampani tikolohong ka khase ea carbon",
+        "tone_marked": "tšusumetso ea motho kapa khampani tikolohong ka khase ea carbon",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "tšusumetso ea motho kapa khampani tikolohong ka khase ea carbon",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_56cd0942_s1",
+        "definition_en": "tšusumetso ea motho kapa khampani tikolohong ka khase ea carbon.",
+        "sesotho_term": [
+          "tšusumetso ea motho kapa khampani tikolohong ka khase ea carbon"
+        ],
+        "usage_example": {
+          "sesotho": "tšusumetso ea motho kapa khampani tikolohong ka khase ea carbon.",
+          "english": "Footprint (Carbon)",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_7319c56d",
+    "headword_english": "Foreclosure",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ho amohuoa ntlo ke banka ka baka la ho sitoa ho lefa sekoloto",
+        "tone_marked": "ho amohuoa ntlo ke banka ka baka la ho sitoa ho lefa sekoloto",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "ho amohuoa ntlo ke banka ka baka la ho sitoa ho lefa sekoloto",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_7319c56d_s1",
+        "definition_en": "ho amohuoa ntlo ke banka ka baka la ho sitoa ho lefa sekoloto.",
+        "sesotho_term": [
+          "ho amohuoa ntlo ke banka ka baka la ho sitoa ho lefa sekoloto"
+        ],
+        "usage_example": {
+          "sesotho": "ho amohuoa ntlo ke banka ka baka la ho sitoa ho lefa sekoloto.",
+          "english": "Foreclosure",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_66950d63",
+    "headword_english": "Fossil-fuel",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "mafura a ntšitsoeng tlas'a lefatše a kang mashala le oli",
+        "tone_marked": "mafura a ntšitsoeng tlas'a lefatše a kang mashala le oli",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "mafura a ntšitsoeng tlas'a lefatše a kang mashala le oli",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_66950d63_s1",
+        "definition_en": "mafura a ntšitsoeng tlas'a lefatše a kang mashala le oli.",
+        "sesotho_term": [
+          "mafura a ntšitsoeng tlas'a lefatše a kang mashala le oli"
+        ],
+        "usage_example": {
+          "sesotho": "mafura a ntšitsoeng tlas'a lefatše a kang mashala le oli.",
+          "english": "Fossil-fuel",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_87738333",
+    "headword_english": "Free-range",
+    "pos": [
+      {
+        "tag": "adj.",
+        "full": "adjective"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "liphoofolo tse furaneng kantle eseng masale",
+        "tone_marked": "liphoofolo tse furaneng kantle eseng masale",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "liphoofolo tse furaneng kantle eseng masale",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_87738333_s1",
+        "definition_en": "liphoofolo (haholo likhoho) tse furaneng kantle eseng masale.",
+        "sesotho_term": [
+          "liphoofolo tse furaneng kantle eseng masale"
+        ],
+        "usage_example": {
+          "sesotho": "liphoofolo (haholo likhoho) tse furaneng kantle eseng masale.",
+          "english": "Free-range",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_87211aba",
+    "headword_english": "Free-trade",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "khoebo ea machaba e sa lefisoeng lekhetho le phahameng",
+        "tone_marked": "khoebo ea machaba e sa lefisoeng lekhetho le phahameng",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "khoebo ea machaba e sa lefisoeng lekhetho le phahameng",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_87211aba_s1",
+        "definition_en": "khoebo ea machaba e sa lefisoeng lekhetho le phahameng.",
+        "sesotho_term": [
+          "khoebo ea machaba e sa lefisoeng lekhetho le phahameng"
+        ],
+        "usage_example": {
+          "sesotho": "khoebo ea machaba e sa lefisoeng lekhetho le phahameng.",
+          "english": "Free-trade",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_a50dc010",
+    "headword_english": "Frontline-worker",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "mosebeletsi ea sebetsang ka kotloloho le sechaba nakong ea tlokotsi",
+        "tone_marked": "mosebeletsi ea sebetsang ka kotloloho le sechaba nakong ea tlokotsi",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "mosebeletsi ea sebetsang ka kotloloho le sechaba nakong ea tlokotsi",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_a50dc010_s1",
+        "definition_en": "mosebeletsi ea sebetsang ka kotloloho le sechaba nakong ea tlokotsi.",
+        "sesotho_term": [
+          "mosebeletsi ea sebetsang ka kotloloho le sechaba nakong ea tlokotsi"
+        ],
+        "usage_example": {
+          "sesotho": "mosebeletsi ea sebetsang ka kotloloho le sechaba nakong ea tlokotsi.",
+          "english": "Frontline-worker",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_6b762021",
+    "headword_english": "Full-HD",
+    "pos": [
+      {
+        "tag": "adj.",
+        "full": "adjective"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boleng bo phahameng haholo ba setšoantšo kapa video",
+        "tone_marked": "boleng bo phahameng haholo ba setšoantšo kapa video",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "boleng bo phahameng haholo ba setšoantšo kapa video",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_6b762021_s1",
+        "definition_en": "boleng bo phahameng haholo ba setšoantšo kapa video.",
+        "sesotho_term": [
+          "boleng bo phahameng haholo ba setšoantšo kapa video"
+        ],
+        "usage_example": {
+          "sesotho": "boleng bo phahameng haholo ba setšoantšo kapa video.",
+          "english": "Full-HD",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_e8d39e5d",
+    "headword_english": "Face-recognition",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "theknoloji e tsebang motho ka sefahleho",
+        "tone_marked": "theknoloji e tsebang motho ka sefahleho",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "theknoloji e tsebang motho ka sefahleho",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_e8d39e5d_s1",
+        "definition_en": "theknoloji e tsebang motho ka sefahleho.",
+        "sesotho_term": [
+          "theknoloji e tsebang motho ka sefahleho"
+        ],
+        "usage_example": {
+          "sesotho": "theknoloji e tsebang motho ka sefahleho.",
+          "english": "Face-recognition",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_973a18d2",
+    "headword_english": "Fact-check",
+    "pos": [
+      {
+        "tag": "v.",
+        "full": "verb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ho netefatsa bonnete ba litaba kapa boitsebiso",
+        "tone_marked": "ho netefatsa bonnete ba litaba kapa boitsebiso",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "ho netefatsa bonnete ba litaba kapa boitsebiso",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_973a18d2_s1",
+        "definition_en": "ho netefatsa bonnete ba litaba kapa boitsebiso.",
+        "sesotho_term": [
+          "ho netefatsa bonnete ba litaba kapa boitsebiso"
+        ],
+        "usage_example": {
+          "sesotho": "ho netefatsa bonnete ba litaba kapa boitsebiso.",
+          "english": "Fact-check",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_c699a5ea",
+    "headword_english": "Fast-fashion",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "liaparo tse etsoang kapele le ka bongata bo boholo",
+        "tone_marked": "liaparo tse etsoang kapele le ka bongata bo boholo",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "liaparo tse etsoang kapele le ka bongata bo boholo",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_c699a5ea_s1",
+        "definition_en": "liaparo tse etsoang kapele le ka bongata bo boholo (le ka theko e tlaase).",
+        "sesotho_term": [
+          "liaparo tse etsoang kapele le ka bongata bo boholo"
+        ],
+        "usage_example": {
+          "sesotho": "liaparo tse etsoang kapele le ka bongata bo boholo (le ka theko e tlaase).",
+          "english": "Fast-fashion",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_84b81c71",
+    "headword_english": "Feature-film",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "baesekopo e tletseng kapa e telele",
+        "tone_marked": "baesekopo e tletseng kapa e telele",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "baesekopo e tletseng kapa e telele",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_84b81c71_s1",
+        "definition_en": "baesekopo e tletseng kapa e telele.",
+        "sesotho_term": [
+          "baesekopo e tletseng kapa e telele"
+        ],
+        "usage_example": {
+          "sesotho": "baesekopo e tletseng kapa e telele.",
+          "english": "Feature-film",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_fc70a304",
+    "headword_english": "Fiber-glass",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "lesela le matlafalitsoeng ka likhoele tsa khalase",
+        "tone_marked": "lesela le matlafalitsoeng ka likhoele tsa khalase",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "lesela le matlafalitsoeng ka likhoele tsa khalase",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_fc70a304_s1",
+        "definition_en": "lesela le matlafalitsoeng ka likhoele tsa khalase.",
+        "sesotho_term": [
+          "lesela le matlafalitsoeng ka likhoele tsa khalase"
+        ],
+        "usage_example": {
+          "sesotho": "lesela le matlafalitsoeng ka likhoele tsa khalase.",
+          "english": "Fiber-glass",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_847e78f8",
+    "headword_english": "File-format",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "fomate ea faele",
+        "tone_marked": "fomate ea faele",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "fomate ea faele",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_847e78f8_s1",
+        "definition_en": "fomate ea faele (mofuta oa hore na faele e buloa joang).",
+        "sesotho_term": [
+          "fomate ea faele"
+        ],
+        "usage_example": {
+          "sesotho": "fomate ea faele (mofuta oa hore na faele e buloa joang).",
+          "english": "File-format",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_e99a53e0",
+    "headword_english": "Filler (Dermal)",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ente ea ho thibela masuebe sefahlehong kapa ho eketsa boholo ba molomo",
+        "tone_marked": "ente ea ho thibela masuebe sefahlehong kapa ho eketsa boholo ba molomo",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "ente ea ho thibela masuebe sefahlehong kapa ho eketsa boholo ba molomo",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_e99a53e0_s1",
+        "definition_en": "ente ea ho thibela masuebe sefahlehong kapa ho eketsa boholo ba molomo.",
+        "sesotho_term": [
+          "ente ea ho thibela masuebe sefahlehong kapa ho eketsa boholo ba molomo"
+        ],
+        "usage_example": {
+          "sesotho": "ente ea ho thibela masuebe sefahlehong kapa ho eketsa boholo ba molomo.",
+          "english": "Filler (Dermal)",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_7733525d",
+    "headword_english": "Filter-bubble",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boemo ba ho bontšoa litaba tseo u li ratang feela marang-rang",
+        "tone_marked": "boemo ba ho bontšoa litaba tseo u li ratang feela marang-rang",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "boemo ba ho bontšoa litaba tseo u li ratang feela marang-rang",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_7733525d_s1",
+        "definition_en": "boemo ba ho bontšoa litaba tseo u li ratang feela marang-rang.",
+        "sesotho_term": [
+          "boemo ba ho bontšoa litaba tseo u li ratang feela marang-rang"
+        ],
+        "usage_example": {
+          "sesotho": "boemo ba ho bontšoa litaba tseo u li ratang feela marang-rang.",
+          "english": "Filter-bubble",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_a0c18a3e",
+    "headword_english": "Flash-mob",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "sehlopha sa batho se kopanang kapele ho etsa ntho e sa lebelloang",
+        "tone_marked": "sehlopha sa batho se kopanang kapele ho etsa ntho e sa lebelloang",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "sehlopha sa batho se kopanang kapele ho etsa ntho e sa lebelloang",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_a0c18a3e_s1",
+        "definition_en": "sehlopha sa batho se kopanang kapele ho etsa ntho e sa lebelloang.",
+        "sesotho_term": [
+          "sehlopha sa batho se kopanang kapele ho etsa ntho e sa lebelloang"
+        ],
+        "usage_example": {
+          "sesotho": "sehlopha sa batho se kopanang kapele ho etsa ntho e sa lebelloang.",
+          "english": "Flash-mob",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_2c9ca59c",
+    "headword_english": "Flight-mode",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "boemo ba fono bo thibelang marang-rang",
+        "tone_marked": "boemo ba fono bo thibelang marang-rang",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "boemo ba fono bo thibelang marang-rang",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_2c9ca59c_s1",
+        "definition_en": "boemo ba fono bo thibelang marang-rang (mokhoa oa sefofane).",
+        "sesotho_term": [
+          "boemo ba fono bo thibelang marang-rang"
+        ],
+        "usage_example": {
+          "sesotho": "boemo ba fono bo thibelang marang-rang (mokhoa oa sefofane).",
+          "english": "Flight-mode",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_33d50a0c",
+    "headword_english": "Font",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "mofuta oa litlhaku tse ngoliloeng k'homphieutheng",
+        "tone_marked": "mofuta oa litlhaku tse ngoliloeng k'homphieutheng",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "mofuta oa litlhaku tse ngoliloeng k'homphieutheng",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_33d50a0c_s1",
+        "definition_en": "mofuta oa litlhaku tse ngoliloeng k'homphieutheng.",
+        "sesotho_term": [
+          "mofuta oa litlhaku tse ngoliloeng k'homphieutheng"
+        ],
+        "usage_example": {
+          "sesotho": "mofuta oa litlhaku tse ngoliloeng k'homphieutheng.",
+          "english": "Font",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_12773f2f",
+    "headword_english": "Forensic-audit",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "tlhahlobo ea lichelete bakeng sa ho batla bomenemene",
+        "tone_marked": "tlhahlobo ea lichelete bakeng sa ho batla bomenemene",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "tlhahlobo ea lichelete bakeng sa ho batla bomenemene",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_12773f2f_s1",
+        "definition_en": "tlhahlobo ea lichelete bakeng sa ho batla bomenemene.",
+        "sesotho_term": [
+          "tlhahlobo ea lichelete bakeng sa ho batla bomenemene"
+        ],
+        "usage_example": {
+          "sesotho": "tlhahlobo ea lichelete bakeng sa ho batla bomenemene.",
+          "english": "Forensic-audit",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_44a4fd62",
+    "headword_english": "Freestyle",
+    "pos": [
+      {
+        "tag": "v./n.",
+        "full": "verb or noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ho bina kapa ho tantša u sa itokisa",
+        "tone_marked": "ho bina kapa ho tantša u sa itokisa",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "ho bina kapa ho tantša u sa itokisa",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_44a4fd62_s1",
+        "definition_en": "ho bina kapa ho tantša u sa itokisa (ka bolokolohi).",
+        "sesotho_term": [
+          "ho bina kapa ho tantša u sa itokisa"
+        ],
+        "usage_example": {
+          "sesotho": "ho bina kapa ho tantša u sa itokisa (ka bolokolohi).",
+          "english": "Freestyle",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_198cfd42",
+    "headword_english": "Fringe-benefits",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "menyetla e ekelitsoeng ka ntle ho moputso oa mosebetsi",
+        "tone_marked": "menyetla e ekelitsoeng ka ntle ho moputso oa mosebetsi",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "menyetla e ekelitsoeng ka ntle ho moputso oa mosebetsi",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_198cfd42_s1",
+        "definition_en": "menyetla e ekelitsoeng ka ntle ho moputso oa mosebetsi.",
+        "sesotho_term": [
+          "menyetla e ekelitsoeng ka ntle ho moputso oa mosebetsi"
+        ],
+        "usage_example": {
+          "sesotho": "menyetla e ekelitsoeng ka ntle ho moputso oa mosebetsi.",
+          "english": "Fringe-benefits",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_7928d9be",
+    "headword_english": "Front-end",
+    "pos": [
+      {
+        "tag": "adj.",
+        "full": "adjective"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "karolo ea websaete eo mosebelisi a e bonang",
+        "tone_marked": "karolo ea websaete eo mosebelisi a e bonang",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "karolo ea websaete eo mosebelisi a e bonang",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_7928d9be_s1",
+        "definition_en": "karolo ea websaete eo mosebelisi a e bonang.",
+        "sesotho_term": [
+          "karolo ea websaete eo mosebelisi a e bonang"
+        ],
+        "usage_example": {
+          "sesotho": "karolo ea websaete eo mosebelisi a e bonang.",
+          "english": "Front-end",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_7b2266e6",
+    "headword_english": "Frozen-assets",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "maruo a thibetsoeng ke molao hore a se ke a sebelisoa",
+        "tone_marked": "maruo a thibetsoeng ke molao hore a se ke a sebelisoa",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "maruo a thibetsoeng ke molao hore a se ke a sebelisoa",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_7b2266e6_s1",
+        "definition_en": "maruo a thibetsoeng ke molao hore a se ke a sebelisoa.",
+        "sesotho_term": [
+          "maruo a thibetsoeng ke molao hore a se ke a sebelisoa"
+        ],
+        "usage_example": {
+          "sesotho": "maruo a thibetsoeng ke molao hore a se ke a sebelisoa.",
+          "english": "Frozen-assets",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_47f9c4ca",
+    "headword_english": "Full-service",
+    "pos": [
+      {
+        "tag": "adj.",
+        "full": "adjective"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "tshebetso e akaretsang ntho e 'ngoe le e 'ngoe",
+        "tone_marked": "tshebetso e akaretsang ntho e 'ngoe le e 'ngoe",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "tshebetso e akaretsang ntho e 'ngoe le e 'ngoe",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_47f9c4ca_s1",
+        "definition_en": "tshebetso e akaretsang ntho e 'ngoe le e 'ngoe.",
+        "sesotho_term": [
+          "tshebetso e akaretsang ntho e 'ngoe le e 'ngoe"
+        ],
+        "usage_example": {
+          "sesotho": "tshebetso e akaretsang ntho e 'ngoe le e 'ngoe.",
+          "english": "Full-service",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_e1d27ae7",
+    "headword_english": "Functionality",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bokhoni ba mochini kapa lenaneo la ho etsa mosebetsi",
+        "tone_marked": "bokhoni ba mochini kapa lenaneo la ho etsa mosebetsi",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "bokhoni ba mochini kapa lenaneo la ho etsa mosebetsi",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_e1d27ae7_s1",
+        "definition_en": "bokhoni ba mochini kapa lenaneo la ho etsa mosebetsi.",
+        "sesotho_term": [
+          "bokhoni ba mochini kapa lenaneo la ho etsa mosebetsi"
+        ],
+        "usage_example": {
+          "sesotho": "bokhoni ba mochini kapa lenaneo la ho etsa mosebetsi.",
+          "english": "Functionality",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_753a6023",
+    "headword_english": "Funding",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "thuso ea lichelete bakeng sa morero o itseng",
+        "tone_marked": "thuso ea lichelete bakeng sa morero o itseng",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "thuso ea lichelete bakeng sa morero o itseng",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_753a6023_s1",
+        "definition_en": "thuso ea lichelete bakeng sa morero o itseng.",
+        "sesotho_term": [
+          "thuso ea lichelete bakeng sa morero o itseng"
+        ],
+        "usage_example": {
+          "sesotho": "thuso ea lichelete bakeng sa morero o itseng.",
+          "english": "Funding",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_7cc89f90",
+    "headword_english": "Gadget",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "mochini o monyenyane oa mahlale",
+        "tone_marked": "mochini o monyenyane oa mahlale",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "mochini o monyenyane oa mahlale",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_7cc89f90_s1",
+        "definition_en": "mochini o monyenyane oa mahlale (sesebediswa).",
+        "sesotho_term": [
+          "mochini o monyenyane oa mahlale"
+        ],
+        "usage_example": {
+          "sesotho": "mochini o monyenyane oa mahlale (sesebediswa).",
+          "english": "Gadget",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_d18670ff",
+    "headword_english": "Gallery (Digital)",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "polokelo ea litšoantšo k'homphieutheng kapa fonong",
+        "tone_marked": "polokelo ea litšoantšo k'homphieutheng kapa fonong",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "polokelo ea litšoantšo k'homphieutheng kapa fonong",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_d18670ff_s1",
+        "definition_en": "polokelo ea litšoantšo k'homphieutheng kapa fonong.",
+        "sesotho_term": [
+          "polokelo ea litšoantšo k'homphieutheng kapa fonong"
+        ],
+        "usage_example": {
+          "sesotho": "polokelo ea litšoantšo k'homphieutheng kapa fonong.",
+          "english": "Gallery (Digital)",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_e7d06731",
+    "headword_english": "Gaming",
+    "pos": [
+      {
+        "tag": "n./v.",
+        "full": "noun or verb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ho bapala lipapali tsa k'homphieutha kapa tsa marang-rang",
+        "tone_marked": "ho bapala lipapali tsa k'homphieutha kapa tsa marang-rang",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "ho bapala lipapali tsa k'homphieutha kapa tsa marang-rang",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_e7d06731_s1",
+        "definition_en": "ho bapala lipapali tsa k'homphieutha kapa tsa marang-rang.",
+        "sesotho_term": [
+          "ho bapala lipapali tsa k'homphieutha kapa tsa marang-rang"
+        ],
+        "usage_example": {
+          "sesotho": "ho bapala lipapali tsa k'homphieutha kapa tsa marang-rang.",
+          "english": "Gaming",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_dadd61df",
+    "headword_english": "Gateway (Digital)",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "monako oa ho kena marang-rang kapa litsamaisong tsa lichelete",
+        "tone_marked": "monako oa ho kena marang-rang kapa litsamaisong tsa lichelete",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "monako oa ho kena marang-rang kapa litsamaisong tsa lichelete",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_dadd61df_s1",
+        "definition_en": "monako oa ho kena marang-rang kapa litsamaisong tsa lichelete.",
+        "sesotho_term": [
+          "monako oa ho kena marang-rang kapa litsamaisong tsa lichelete"
+        ],
+        "usage_example": {
+          "sesotho": "monako oa ho kena marang-rang kapa litsamaisong tsa lichelete.",
+          "english": "Gateway (Digital)",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_d47d7b38",
+    "headword_english": "Gender-equality",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "tekano ea bong",
+        "tone_marked": "tekano ea bong",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "tekano ea bong",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_d47d7b38_s1",
+        "definition_en": "tekano ea bong (tokelo e lekanang ea banna le basali).",
+        "sesotho_term": [
+          "tekano ea bong"
+        ],
+        "usage_example": {
+          "sesotho": "tekano ea bong (tokelo e lekanang ea banna le basali).",
+          "english": "Gender-equality",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_70450aa3",
+    "headword_english": "Gene-editing",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ho fetola tlhaho ea lefutso ka mahlale",
+        "tone_marked": "ho fetola tlhaho ea lefutso ka mahlale",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "ho fetola tlhaho ea lefutso ka mahlale",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_70450aa3_s1",
+        "definition_en": "ho fetola tlhaho ea lefutso ka mahlale (saense).",
+        "sesotho_term": [
+          "ho fetola tlhaho ea lefutso ka mahlale"
+        ],
+        "usage_example": {
+          "sesotho": "ho fetola tlhaho ea lefutso ka mahlale (saense).",
+          "english": "Gene-editing",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_9b4811cb",
+    "headword_english": "General-practitioner (GP)",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ngaka e akaretsang",
+        "tone_marked": "ngaka e akaretsang",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "ngaka e akaretsang",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_9b4811cb_s1",
+        "definition_en": "ngaka e akaretsang (ngaka ea malapa).",
+        "sesotho_term": [
+          "ngaka e akaretsang"
+        ],
+        "usage_example": {
+          "sesotho": "ngaka e akaretsang (ngaka ea malapa).",
+          "english": "General-practitioner (GP)",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_6b96488a",
+    "headword_english": "Genomics",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "thuto ea mahlale a lefutso",
+        "tone_marked": "thuto ea mahlale a lefutso",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "thuto ea mahlale a lefutso",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_6b96488a_s1",
+        "definition_en": "thuto ea mahlale a lefutso (li-gene).",
+        "sesotho_term": [
+          "thuto ea mahlale a lefutso"
+        ],
+        "usage_example": {
+          "sesotho": "thuto ea mahlale a lefutso (li-gene).",
+          "english": "Genomics",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_bc10ade7",
+    "headword_english": "Geopolitics",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "lipolotiki tse amang likamano tsa linaha le sebaka sa tsona",
+        "tone_marked": "lipolotiki tse amang likamano tsa linaha le sebaka sa tsona",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "lipolotiki tse amang likamano tsa linaha le sebaka sa tsona",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_bc10ade7_s1",
+        "definition_en": "lipolotiki tse amang likamano tsa linaha le sebaka sa tsona.",
+        "sesotho_term": [
+          "lipolotiki tse amang likamano tsa linaha le sebaka sa tsona"
+        ],
+        "usage_example": {
+          "sesotho": "lipolotiki tse amang likamano tsa linaha le sebaka sa tsona.",
+          "english": "Geopolitics",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_238f6643",
+    "headword_english": "Gigabyte (GB)",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "tekanyo ea boholo ba boitsebiso k'homphieutheng",
+        "tone_marked": "tekanyo ea boholo ba boitsebiso k'homphieutheng",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "tekanyo ea boholo ba boitsebiso k'homphieutheng",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_238f6643_s1",
+        "definition_en": "tekanyo ea boholo ba boitsebiso k'homphieutheng (gikabaete).",
+        "sesotho_term": [
+          "tekanyo ea boholo ba boitsebiso k'homphieutheng"
+        ],
+        "usage_example": {
+          "sesotho": "tekanyo ea boholo ba boitsebiso k'homphieutheng (gikabaete).",
+          "english": "Gigabyte (GB)",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_78b1ea41",
+    "headword_english": "Global-warming",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ho futhumala ho feteletseng ha lefatše",
+        "tone_marked": "ho futhumala ho feteletseng ha lefatše",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "ho futhumala ho feteletseng ha lefatše",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_78b1ea41_s1",
+        "definition_en": "ho futhumala ho feteletseng ha lefatše.",
+        "sesotho_term": [
+          "ho futhumala ho feteletseng ha lefatše"
+        ],
+        "usage_example": {
+          "sesotho": "ho futhumala ho feteletseng ha lefatše.",
+          "english": "Global-warming",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_abd86505",
+    "headword_english": "Globalization",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "kopano ea moruo le litso tsa lefatše ka bophara",
+        "tone_marked": "kopano ea moruo le litso tsa lefatše ka bophara",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "kopano ea moruo le litso tsa lefatše ka bophara",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_abd86505_s1",
+        "definition_en": "kopano ea moruo le litso tsa lefatše ka bophara.",
+        "sesotho_term": [
+          "kopano ea moruo le litso tsa lefatše ka bophara"
+        ],
+        "usage_example": {
+          "sesotho": "kopano ea moruo le litso tsa lefatše ka bophara.",
+          "english": "Globalization",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_74ca4ecc",
+    "headword_english": "Google",
+    "pos": [
+      {
+        "tag": "v.",
+        "full": "verb"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ho batla litaba marang-rang",
+        "tone_marked": "ho batla litaba marang-rang",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "ho batla litaba marang-rang",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_74ca4ecc_s1",
+        "definition_en": "ho batla litaba marang-rang (ka mochini oa Google).",
+        "sesotho_term": [
+          "ho batla litaba marang-rang"
+        ],
+        "usage_example": {
+          "sesotho": "ho batla litaba marang-rang (ka mochini oa Google).",
+          "english": "Google",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_7438f393",
+    "headword_english": "Governance",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "tsamaiso e ntle le boikarabelo",
+        "tone_marked": "tsamaiso e ntle le boikarabelo",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "tsamaiso e ntle le boikarabelo",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_7438f393_s1",
+        "definition_en": "tsamaiso e ntle le boikarabelo (puso e nang le molao).",
+        "sesotho_term": [
+          "tsamaiso e ntle le boikarabelo"
+        ],
+        "usage_example": {
+          "sesotho": "tsamaiso e ntle le boikarabelo (puso e nang le molao).",
+          "english": "Governance",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_6a6cf944",
+    "headword_english": "GPS",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "tsamaiso ea mahlale e bontšang sebaka kapa tsela",
+        "tone_marked": "tsamaiso ea mahlale e bontšang sebaka kapa tsela",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "tsamaiso ea mahlale e bontšang sebaka kapa tsela",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_6a6cf944_s1",
+        "definition_en": "tsamaiso ea mahlale e bontšang sebaka kapa tsela (mochini oa tsela).",
+        "sesotho_term": [
+          "tsamaiso ea mahlale e bontšang sebaka kapa tsela"
+        ],
+        "usage_example": {
+          "sesotho": "tsamaiso ea mahlale e bontšang sebaka kapa tsela (mochini oa tsela).",
+          "english": "GPS",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_aed60d28",
+    "headword_english": "Graphic-design",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "bonono ba ho rala litšoantšo le melaetsa ka k'homphieutha",
+        "tone_marked": "bonono ba ho rala litšoantšo le melaetsa ka k'homphieutha",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "bonono ba ho rala litšoantšo le melaetsa ka k'homphieutha",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_aed60d28_s1",
+        "definition_en": "bonono ba ho rala litšoantšo le melaetsa ka k'homphieutha.",
+        "sesotho_term": [
+          "bonono ba ho rala litšoantšo le melaetsa ka k'homphieutha"
+        ],
+        "usage_example": {
+          "sesotho": "bonono ba ho rala litšoantšo le melaetsa ka k'homphieutha.",
+          "english": "Graphic-design",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_b4e0f64e",
+    "headword_english": "Green-energy",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "matla a hloekileng",
+        "tone_marked": "matla a hloekileng",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "matla a hloekileng",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_b4e0f64e_s1",
+        "definition_en": "matla a hloekileng (a kang a letsatsi kapa moea).",
+        "sesotho_term": [
+          "matla a hloekileng"
+        ],
+        "usage_example": {
+          "sesotho": "matla a hloekileng (a kang a letsatsi kapa moea).",
+          "english": "Green-energy",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_ed0ccbcc",
+    "headword_english": "Gross-profit",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "phaello eohle pele ho ntšoa litšenyehelo",
+        "tone_marked": "phaello eohle pele ho ntšoa litšenyehelo",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "phaello eohle pele ho ntšoa litšenyehelo",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_ed0ccbcc_s1",
+        "definition_en": "phaello eohle pele ho ntšoa litšenyehelo.",
+        "sesotho_term": [
+          "phaello eohle pele ho ntšoa litšenyehelo"
+        ],
+        "usage_example": {
+          "sesotho": "phaello eohle pele ho ntšoa litšenyehelo.",
+          "english": "Gross-profit",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_abff19fa",
+    "headword_english": "Guest-house",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "ntlo ea baeti",
+        "tone_marked": "ntlo ea baeti",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "ntlo ea baeti",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_abff19fa_s1",
+        "definition_en": "ntlo ea baeti (e fapaneng le hotele e kholo).",
+        "sesotho_term": [
+          "ntlo ea baeti"
+        ],
+        "usage_example": {
+          "sesotho": "ntlo ea baeti (e fapaneng le hotele e kholo).",
+          "english": "Guest-house",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  },
+  {
+    "entry_id": "conv_flat_47999fd4",
+    "headword_english": "Gymnasium (Modern Gym)",
+    "pos": [
+      {
+        "tag": "n.",
+        "full": "noun"
+      }
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "sebaka sa boitšollo ba mmele se nang le mechini",
+        "tone_marked": "sebaka sa boitšollo ba mmele se nang le mechini",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [],
+    "morphology": {
+      "root": "sebaka sa boitšollo ba mmele se nang le mechini",
+      "noun_class": null,
+      "derivation": ""
+    },
+    "senses": [
+      {
+        "sense_id": "conv_flat_47999fd4_s1",
+        "definition_en": "sebaka sa boitšollo ba mmele se nang le mechini.",
+        "sesotho_term": [
+          "sebaka sa boitšollo ba mmele se nang le mechini"
+        ],
+        "usage_example": {
+          "sesotho": "sebaka sa boitšollo ba mmele se nang le mechini.",
+          "english": "Gymnasium (Modern Gym)",
+          "source": "Casalis OCR"
+        }
+      }
+    ],
+    "thesaurus": {}
+  }
+]

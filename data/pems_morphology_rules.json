@@ -1,0 +1,37 @@
+[
+  {
+    "context": "nasal",
+    "input_char": "b",
+    "output_char": "mp",
+    "description": "be -> mpe (nasal mutation)",
+    "provenance_source": "morija_1906"
+  },
+  {
+    "context": "nasal",
+    "input_char": "f",
+    "output_char": "kh",
+    "description": "fubelu -> khubelu (nasal mutation)",
+    "provenance_source": "morija_1906"
+  },
+  {
+    "context": "nasal",
+    "input_char": "r",
+    "output_char": "th",
+    "description": "raro -> tharo (nasal mutation)",
+    "provenance_source": "morija_1906"
+  },
+  {
+    "context": "nasal",
+    "input_char": "h",
+    "output_char": "kh",
+    "description": "haufi -> khaufi (nasal mutation)",
+    "provenance_source": "morija_1906"
+  },
+  {
+    "context": "nasal",
+    "input_char": "s",
+    "output_char": "tš",
+    "description": "setle -> tšotle (nasal mutation, sibilant shift)",
+    "provenance_source": "morija_1906"
+  }
+]

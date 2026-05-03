@@ -1,0 +1,17 @@
+# Casalis Manual Review Sheet
+
+Use `Decision` as `KEEP`, `FIX`, or `DROP`.
+
+- Curated base entries: 222
+- OCR-added entries to review: 8
+
+| Headword | POS | Current Definition | Source Image | Source Text | Decision | Notes |
+|---|---|---|---|---|---|---|
+| Aer | n. | (wind) mova; (ma-nners) sebdpeho, motsa-mao; (/mney pina; v. ho bea = moteng (here e hloekisoe ke moén). | `/Users/bonzysalesman/Project/PUO-AI/ocr_splits/casalis_a/page_013_right.png` | `page_013_right.txt` |  |  |
+| Agarust | prep. | to be against ho leantSa, ho hanyetsa; to lean or rest against, ho itSetleha ka. | `/Users/bonzysalesman/Project/PUO-AI/ocr_splits/casalis_a/page_013_left.png` | `page_013_left.txt` |  |  |
+| Age | n. | (teme of life) lilemo; (a period of ttme ) motso | `/Users/bonzysalesman/Project/PUO-AI/ocr_splits/casalis_a/page_013_left.png` | `page_013_left.txt` |  |  |
+| Amend | v. | (tou make better) ho bakisa; (to grow better) ho baka. | `/Users/bonzysalesman/Project/PUO-AI/ocr_splits/casalis_a/page_015_left.png` | `page_015_left.txt` |  |  |
+| Ape | n. | tSuene; v. ho etsisa, lekisa. | `/Users/bonzysalesman/Project/PUO-AI/ocr_splits/casalis_a/page_016_left.png` | `page_016_left.txt` |  |  |
+| Arowse | v. | ho tsdsa, radsa, su-sumetsa. | `/Users/bonzysalesman/Project/PUO-AI/ocr_splits/casalis_a/page_017_left.png` | `page_017_left.txt` |  |  |
+| Athirst | adj. | e nyoriloeng. -!tone, v. (to make amends) ho inyatsa; (+o expiate) ho leféla, ho etsa pheko. | `/Users/bonzysalesman/Project/PUO-AI/ocr_splits/casalis_a/page_018_right.png` | `page_018_right.txt` |  |  |
+| Avound | adv. | and prep. ka ho pota kahohle, ka nga tsohle, ka ho ela hare. | `/Users/bonzysalesman/Project/PUO-AI/ocr_splits/casalis_a/page_017_left.png` | `page_017_left.txt` |  |  |

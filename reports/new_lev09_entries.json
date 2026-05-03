@@ -1,0 +1,30 @@
+[
+  {
+    "entry_id": "st_LEV09_01",
+    "headword_english": "Glory of the LORD",
+    "pos": [{ "tag": "n.", "full": "noun" }],
+    "headword_sesotho": [{ "orthographic": "khanya ea Jehova", "tone_marked": "khānyā ēā Jēhōvā" }],
+    "syllables": [{ "orthographic": "kha-nya ea Je-ho-va", "syllable_count": 7 }],
+    "morphology": { "root": "khanya", "noun_class": 9, "derivation": "From 'ho khanya' (to shine)." },
+    "senses": [{
+      "sense_id": "theo_06",
+      "definition_en": "The majestic and visible manifestation of God's presence, often associated with light or cloud.",
+      "sesotho_term": ["tlotlo ea Molimo"],
+      "usage_example": { "sesotho": "khanya ea Jehova ea bonahala ho sechaba sohle.", "english": "the glory of the LORD appeared to all the people." }
+    }]
+  },
+  {
+    "entry_id": "st_LEV09_02",
+    "headword_english": "To bless",
+    "pos": [{ "tag": "v.", "full": "verb" }],
+    "headword_sesotho": [{ "orthographic": "ho hlohonolofatsa", "tone_marked": "hō hlōhōnōlōfātsā" }],
+    "syllables": [{ "orthographic": "ho hlo-ho-no-lo-fa-tsa", "syllable_count": 8 }],
+    "morphology": { "root": "lehlohonolo", "noun_class": null, "derivation": "From 'lehlohonolo' (blessing/luck) + 'fatsa' (causative)." },
+    "senses": [{
+      "sense_id": "act_04",
+      "definition_en": "To pronounce a formal benediction or favor upon a group of people.",
+      "sesotho_term": ["ho hlohonolofatsa"],
+      "usage_example": { "sesotho": "Arone a phahamisetsa matsoho ho sechaba ’me a se hlohonolofatsa.", "english": "Aaron lifted his hands toward the people and blessed them." }
+    }]
+  }
+]

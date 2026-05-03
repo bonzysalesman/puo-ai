@@ -1,0 +1,211 @@
+# Casalis OCR-Split vs Curated Diff
+
+- Curated file: `casalis_a_cleaned.json` (222 entries)
+- OCR-split file: `casalis_a_cleaned_ocrsplit.json` (246 entries)
+- Common headwords: 179
+- Only in curated: 43
+- Only in OCR-split: 63
+- POS mismatches (common): 20
+- Low definition similarity < 0.75: 64
+
+## Only In Curated (first 40)
+
+- Administer
+- Affection
+- Afflict
+- Afternoon
+- Agitate
+- Agreement
+- Ailment
+- Air
+- Alas
+- Almighty
+- Aloud
+- Alternate
+- Always
+- Amass
+- Amidst
+- Amulet
+- Anger
+- Animal
+- Annihilate
+- Annually
+- Antagonist
+- Anvil
+- Anxiety
+- Anxious
+- Aside
+- Asleep
+- Assay
+- Assent
+- Assort
+- Assuage
+- Assurance
+- Atone
+- Attire
+- Audacious
+- Aurora
+- Autumn
+- Avaricious
+- Avoid
+- Avow
+- Awaken
+
+## Only In OCR-Split (first 40)
+
+- Aclment (page_013_right.txt)
+- Adj (page_017_left.txt)
+- Aefu (page_013_right.txt)
+- Aer (page_013_right.txt)
+- Afilict (page_012_right.txt)
+- Aflernoon (page_013_left.txt)
+- Against (page_015_right.txt)
+- Agarust (page_013_left.txt)
+- Age (page_013_left.txt)
+- Aimo (page_014_left.txt)
+- Aiwe (page_019_right.txt)
+- Ala (page_018_left.txt)
+- Aldminister (page_012_left.txt)
+- Alight (page_013_right.txt)
+- Almigty (page_014_left.txt)
+- Alo (page_018_right.txt)
+- Alrow (page_019_right.txt)
+- Alstray (page_018_right.txt)
+- Altered (page_014_right.txt)
+- Altire (page_019_left.txt)
+- Alvud (page_014_right.txt)
+- Alway (page_014_right.txt)
+- Ambition (page_015_left.txt)
+- Amble (page_015_left.txt)
+- Ambush (page_015_left.txt)
+- Amend (page_015_left.txt)
+- Amerlet (page_015_left.txt)
+- Andacious (page_019_left.txt)
+- Anocnt (page_015_right.txt)
+- Another (page_015_right.txt)
+- Answer (page_015_right.txt)
+- Ant (page_015_right.txt)
+- Antayonist (page_016_left.txt)
+- Antwnn (page_019_left.txt)
+- Anuchilate (page_015_right.txt)
+- Anuually (page_015_right.txt)
+- Anviety (page_016_left.txt)
+- Anvious (page_016_left.txt)
+- Aoantsa (page_018_right.txt)
+- Aoha (page_017_right.txt)
+
+## POS Mismatches (first 30)
+
+- Adultery: curated `n.` vs ocr `a.` (def-sim=0.57)
+- Advice: curated `n.` vs ocr `vn.` (def-sim=0.90)
+- After: curated `adv.` vs ocr `conj.` (def-sim=0.21)
+- Agent: curated `n.` vs ocr `wn.` (def-sim=0.62)
+- Ago: curated `adv.` vs ocr `khale.` (def-sim=0.56)
+- Agony: curated `n.` vs ocr `vn.` (def-sim=0.48)
+- Already: curated `adv.` vs ocr `ho.` (def-sim=0.43)
+- Amount: curated `n.` vs ocr `un.` (def-sim=0.90)
+- Ancient: curated `adj.` vs ocr `udj.` (def-sim=0.41)
+- Announce: curated `v.` vs ocr `vv.` (def-sim=0.82)
+- Annoyance: curated `n.` vs ocr `nun.` (def-sim=0.46)
+- Ant-hill: curated `n.` vs ocr `un.` (def-sim=0.55)
+- Arrogance: curated `n.` vs ocr `vy.` (def-sim=0.84)
+- As: curated `adv.` vs ocr `uly.` (def-sim=0.58)
+- Ascend: curated `v.` vs ocr `y.` (def-sim=0.75)
+- Ashes: curated `n.` vs ocr `vn.` (def-sim=0.53)
+- Assist: curated `v.` vs ocr `vy.` (def-sim=0.89)
+- Assume: curated `v.` vs ocr `y.` (def-sim=0.30)
+- Astray: curated `adv.` vs ocr `ho.` (def-sim=0.19)
+- Award: curated `v.` vs ocr `n.` (def-sim=0.46)
+
+## Low Definition Similarity (first 30)
+
+- Astray | sim=0.19 | page_018_right.txt
+  - curated: `ka ho kheloha, ka ho lahleha ; to go astray, ho lahleha`
+  - ocr: `lahléha.`
+- After | sim=0.21 | page_013_left.txt
+  - curated: `morao, ka morao ; prep. ka mora, ka morao`
+  - ocr: `hobane, eitse ho-`
+- Awkward | sim=0.22 | page_019_right.txt
+  - curated: `(clumsy) e thata, e sethoto, e so khuahilapa ; (difficult) e mietalang, e thata`
+  - ocr: `(clumsy) e`
+- Army | sim=0.23 | page_017_left.txt
+  - curated: `mabotho`
+  - ocr: `Jekhdétla la bahia.`
+- Appearance | sim=0.25 | page_016_left.txt
+  - curated: `(the look, the mien) ponahalo, ohali, molapo, sebopeho ; to make an appearance, ho hlaha, ho itiisa`
+  - ocr: `(the look, the`
+- Amiable | sim=0.26 | page_015_left.txt
+  - curated: `e latehang`
+  - ocr: `e ratehang. Amédst, prep. har'a, malia-reng a, pakeng tsa.`
+- Astonish | sim=0.28 | page_018_right.txt
+  - curated: `ho makatsa, tsotisa, hlolla ; to be astonished at, ho tjantjella, tsota, hlolloa ke, babatsa`
+  - ocr: `ho makatsa, tso-`
+- Assume | sim=0.30 | page_018_left.txt
+  - curated: `(to take upon oneself) ho inkela ; (to take for granted) ho lekanya`
+  - ocr: `(to take npon`
+- Attack | sim=0.31 | page_018_right.txt
+  - curated: `ho qala motho, loantsa, futuhela, tsohela matla ; n. phutuhelo, moqholo`
+  - ocr: `ho gala motho,`
+- Authority | sim=0.34 | page_019_left.txt
+  - curated: `(legal power) matla, bolaoli (bo loketseng, bo neoang ke molao)`
+  - ocr: `(legal power)`
+- Assembly | sim=0.35 | page_018_left.txt
+  - curated: `phutheho, pokano, lekhotla, mokhatlo, pitso, seema`
+  - ocr: `phuthdho, po-`
+- Awhile | sim=0.38 | page_019_right.txt
+  - curated: `motsotso o se okae, motsotso feela`
+  - ocr: `motséta6 0 se`
+- Angry | sim=0.38 | page_015_right.txt
+  - curated: `e halefang, e itsenang ; to be angry, ho halefa, tlokoma, itsena, llala pelo ; to be angry against, ho halefela, tonela motho`
+  - ocr: `e huletileng, ec it8énang; fo be angry. ho`
+- Appropriate | sim=0.38 | page_017_left.txt
+  - curated: `ho inkela ; adj. e lokelang, e tsoanelang`
+  - ocr: `ho inkéla;.`
+- And | sim=0.39 | page_015_left.txt
+  - curated: `'me, hammoho, le`
+  - ocr: `‘ne, homme, le.`
+- Alone | sim=0.39 | page_014_left.txt
+  - curated: `'notsi ; to be alone, ho ba mong, 'notsi ; I was quite alone, ea e-ba 'na qha`
+  - ocr: `‘notsi; to be alone,`
+- Appear | sim=0.40 | page_016_left.txt
+  - curated: `(to be visible) ho bonahala, boneha, rotoha ; (to come in sight) ho hlaha`
+  - ocr: `(to be visible) ho`
+- Ancient | sim=0.41 | page_015_left.txt
+  - curated: `ea khale, oa boholo, e tsofofang, e boneng`
+  - ocr: `ea khale, ea`
+- Already | sim=0.43 | page_014_right.txt
+  - curated: `se ; it is dark already, ho se ho phirimile`
+  - ocr: `se ho phizi-tile.`
+- Award | sim=0.46 | page_019_right.txt
+  - curated: `ho ahlolela ; n. kahlolo, khaolo ea nyeoe`
+  - ocr: `ho ahbldléla; n.`
+- Annoyance | sim=0.46 | page_015_right.txt
+  - curated: `khathallo, hlopha, khoreletso`
+  - ocr: `khathatso,`
+- Altogether | sim=0.47 | page_014_right.txt
+  - curated: `haramoho, mahong, hona`
+  - ocr: `hammoho,`
+- Advocate | sim=0.47 | page_012_right.txt
+  - curated: `ho bulelhi, emela`
+  - ocr: `ho buélla, eméla; n. 'muelli, moemeli.`
+- Agony | sim=0.48 | page_013_left.txt
+  - curated: `mahlomola a le tsona, bohloko bo boholo`
+  - ocr: `mahlémodla a ho`
+- Arrive | sim=0.49 | page_017_right.txt
+  - curated: `ho fihla, ho re qi`
+  - ocr: `ho fihla, ho re qi; to arrive at, ho fihléla, tinyella.`
+- Ashamed | sim=0.50 | page_017_right.txt
+  - curated: `e lihlong, suane, hlayoang ke lihlong`
+  - ocr: `e lihléng, sua-`
+- Asperse | sim=0.50 | page_018_left.txt
+  - curated: `(to slander) ho etselletsa ; aspersion: (a sprinkling with water) ho nfafatsa`
+  - ocr: `(to slander) ho etselletsa.`
+- Assemble | sim=0.50 | page_018_left.txt
+  - curated: `(to raise to assemble) ho phuntha, bokella, bokanya ; (to crowd together) ho phunthelela, bokana`
+  - ocr: `(to cause to axse-mble) ho phutha, béke-`
+- Astonishment | sim=0.52 | page_018_right.txt
+  - curated: `makalo, hlollo, tsoto, pabatso`
+  - ocr: `makalo, hlo-`
+- Ashes | sim=0.53 | page_017_right.txt
+  - curated: `mohora`
+  - ocr: `plur. molora.`

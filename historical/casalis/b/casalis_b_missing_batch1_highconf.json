@@ -1,0 +1,197 @@
+[
+  {
+    "headword_english": "Bee-hive",
+    "pos": "n.",
+    "sesotho": "ntld ea linotsi.",
+    "source": {
+      "page_index": 22,
+      "page_number": 23,
+      "column": "left",
+      "image": "page_023_left.png",
+      "text_file": "page_023_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Beet",
+    "pos": "n.",
+    "sesotho": "sehoete (se sefubelu).",
+    "source": {
+      "page_index": 22,
+      "page_number": 23,
+      "column": "left",
+      "image": "page_023_left.png",
+      "text_file": "page_023_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Beetle",
+    "pos": "n.",
+    "sesotho": "Kokoanyana.",
+    "source": {
+      "page_index": 22,
+      "page_number": 23,
+      "column": "left",
+      "image": "page_023_left.png",
+      "text_file": "page_023_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Befit",
+    "pos": "v.",
+    "sesotho": "ho téuandla, l6kéla.",
+    "source": {
+      "page_index": 22,
+      "page_number": 23,
+      "column": "left",
+      "image": "page_023_left.png",
+      "text_file": "page_023_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Bent",
+    "pos": "n.",
+    "sesotho": "kobamo, khopamo.",
+    "source": {
+      "page_index": 23,
+      "page_number": 24,
+      "column": "left",
+      "image": "page_024_left.png",
+      "text_file": "page_024_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Bestir",
+    "pos": "v.",
+    "sesotho": "ho tsdsa, radsa.",
+    "source": {
+      "page_index": 23,
+      "page_number": 24,
+      "column": "right",
+      "image": "page_024_right.png",
+      "text_file": "page_024_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Blend",
+    "pos": "v.",
+    "sesotho": "ho kopanya, tsuu kanya.",
+    "source": {
+      "page_index": 25,
+      "page_number": 26,
+      "column": "left",
+      "image": "page_026_left.png",
+      "text_file": "page_026_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Blindness",
+    "pos": "n.",
+    "sesotho": "bofofu.",
+    "source": {
+      "page_index": 25,
+      "page_number": 26,
+      "column": "left",
+      "image": "page_026_left.png",
+      "text_file": "page_026_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Blink",
+    "pos": "v.",
+    "sesotho": "ho panya, quatsi ma.",
+    "source": {
+      "page_index": 25,
+      "page_number": 26,
+      "column": "left",
+      "image": "page_026_left.png",
+      "text_file": "page_026_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Blithe",
+    "pos": "adj.",
+    "sesotho": "e thabileng.",
+    "source": {
+      "page_index": 25,
+      "page_number": 26,
+      "column": "right",
+      "image": "page_026_right.png",
+      "text_file": "page_026_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Bloodshed",
+    "pos": "n.",
+    "sesotho": "tsdlého ea mali, 5 tSdllo ea mali.",
+    "source": {
+      "page_index": 25,
+      "page_number": 26,
+      "column": "right",
+      "image": "page_026_right.png",
+      "text_file": "page_026_right.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Blur",
+    "pos": "n.",
+    "sesotho": "letheba; v. ho sila1 fatsa.",
+    "source": {
+      "page_index": 26,
+      "page_number": 27,
+      "column": "left",
+      "image": "page_027_left.png",
+      "text_file": "page_027_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Blush",
+    "pos": "v.",
+    "sesotho": "ho fubela.",
+    "source": {
+      "page_index": 26,
+      "page_number": 27,
+      "column": "left",
+      "image": "page_027_left.png",
+      "text_file": "page_027_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Bluster",
+    "pos": "v.",
+    "sesotho": "ho tlerdha.",
+    "source": {
+      "page_index": 26,
+      "page_number": 27,
+      "column": "left",
+      "image": "page_027_left.png",
+      "text_file": "page_027_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  },
+  {
+    "headword_english": "Boar",
+    "pos": "n.",
+    "sesotho": "kolobe ea raha.",
+    "source": {
+      "page_index": 26,
+      "page_number": 27,
+      "column": "left",
+      "image": "page_027_left.png",
+      "text_file": "page_027_left.txt",
+      "method": "split-image-tesseract-ocr"
+    }
+  }
+]

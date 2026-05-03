@@ -1,0 +1,54 @@
+{
+    "version": "1.0.0",
+    "description": "Mapping for Casalis 1841 historical Sesotho orthography to modern Lesotho PEMS standards.",
+    "historical_vowel_shifts": [
+        {
+            "original": "\u00e9a",
+            "replacement": "ea",
+            "context": "Verbal active ending"
+        },
+        {
+            "original": "is\u00e9uo",
+            "replacement": "isetso",
+            "context": "Applied causative noun ending"
+        },
+        {
+            "original": "oa",
+            "replacement": "wa",
+            "context": "Passive marker variant",
+            "note": "Use with caution; PEMS often retains 'oa'"
+        },
+        {
+            "original": "\u00e9",
+            "replacement": "e",
+            "context": "French-style terminal accent"
+        },
+        {
+            "original": "\u00e8",
+            "replacement": "e",
+            "context": "Grave accent normalization"
+        }
+    ],
+    "consonant_normalization": [
+        {
+            "original": "khu",
+            "replacement": "kho",
+            "example": "khu\u00e9la -> khoela"
+        },
+        {
+            "original": "tu",
+            "replacement": "to",
+            "example": "tuma -> toma"
+        },
+        {
+            "original": "sh",
+            "replacement": "\u0161",
+            "note": "Modern orthography standardization"
+        }
+    ],
+    "pems_firewall_rules": {
+        "strip_french_accents": true,
+        "standardize_ny_palatals": true,
+        "enforce_height_harmony": true
+    }
+}

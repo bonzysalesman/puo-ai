@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "name": "Feynman PDF Processor",
+  "description": "Automatically processes new PDF files using the Feynman technique for clear explanations and sends WhatsApp notification when complete",
+  "version": "1",
+  "when": {
+    "type": "fileCreated",
+    "patterns": [
+      "sources/pdfs/*.pdf"
+    ]
+  },
+  "then": {
+    "type": "askAgent",
+    "prompt": "A new PDF has been added to sources/pdfs/. Please run the Feynman processing pipeline on this file using: make feynman-process FILE=\"{file_path}\" and then send a WhatsApp notification about the completion."
+  }
+}

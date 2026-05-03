@@ -1,0 +1,30 @@
+[
+  {
+    "entry_id": "st_LEV10_01",
+    "headword_english": "Profane / Strange fire",
+    "pos": [{ "tag": "n.", "full": "noun" }],
+    "headword_sesotho": [{ "orthographic": "mollo oo e seng oa molao", "tone_marked": "mōllō ōō ē sēng ōā mōlāō" }],
+    "syllables": [{ "orthographic": "mol-lo oo e seng oa mo-la-o", "syllable_count": 9 }],
+    "morphology": { "root": "mollo", "noun_class": 3, "derivation": "Mollo (fire) + negative relative clause (not of the law)." },
+    "senses": [{
+      "sense_id": "sac_06",
+      "definition_en": "An unauthorized or illegitimate fire used in worship that violates God's specific commands.",
+      "sesotho_term": ["mollo o sa hloekang"],
+      "usage_example": { "sesotho": "...ba qala ho nyehela ka pel'a Jehova mollo oo e seng oa molao.", "english": "...they offered profane fire before the LORD." }
+    }]
+  },
+  {
+    "entry_id": "st_LEV10_02",
+    "headword_english": "To distinguish / Separate",
+    "pos": [{ "tag": "v.", "full": "verb" }],
+    "headword_sesotho": [{ "orthographic": "ho khetholla", "tone_marked": "hō khēthōllā" }],
+    "syllables": [{ "orthographic": "ho khe-tho-lla", "syllable_count": 4 }],
+    "morphology": { "root": "khetha", "noun_class": null, "derivation": "From 'ho khetha' (to choose/select)." },
+    "senses": [{
+      "sense_id": "cog_01",
+      "definition_en": "To perceive a difference; to separate things into categories based on their nature.",
+      "sesotho_term": ["ho arola"],
+      "usage_example": { "sesotho": "...e le hore ho khetholloe pakeng tsa ntho e halalelang le e silafetseng.", "english": "...that you may distinguish between holy and unholy." }
+    }]
+  }
+]

@@ -1,0 +1,389 @@
+[
+  {
+    "entry_id": "entry_f0956f74c53a2e49",
+    "headword_english": "Arithmetic",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "dipalo",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "di-pa-lo"
+    ],
+    "morphology": {
+      "root": "bala",
+      "derivation": "nominal suffix -o",
+      "noun_class": "10"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_f0956f74c53a2e49.sense_1",
+        "definition_en": "the branch of mathematics dealing with the properties and manipulation of numbers",
+        "sesotho_term": [
+          "dipalo",
+          "thuto ea dipalo"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [
+        "mathematics",
+        "calculation",
+        "computation"
+      ],
+      "synonyms_st": [
+        "palo"
+      ],
+      "antonyms_en": [],
+      "antonyms_st": []
+    },
+    "related_words": [
+      "Mathematics",
+      "Calculate"
+    ]
+  },
+  {
+    "entry_id": "entry_c787ad1af4949e55",
+    "headword_english": "Data",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "datha",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "datha"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_c787ad1af4949e55.sense_1",
+        "definition_en": "datha, lintlha-tšhedimosetso",
+        "sesotho_term": [
+          "datha"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_234a9f17f9cac5ae",
+    "headword_english": "Debit",
+    "pos": [
+      "unknown"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "debiti",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "debiti"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_234a9f17f9cac5ae.sense_1",
+        "definition_en": "debiti; ho ntša chelete akhaonteng",
+        "sesotho_term": [
+          "debiti"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_c17f84dec6a2d663",
+    "headword_english": "Democracy",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "demokrasi",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "demokrasi"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_c17f84dec6a2d663.sense_1",
+        "definition_en": "demokrasi, puso ea batho ka batho",
+        "sesotho_term": [
+          "demokrasi"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_9bb7945b9b2ac6b8",
+    "headword_english": "Devil",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "diabolose",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "diabolose"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_9bb7945b9b2ac6b8.sense_1",
+        "definition_en": "diabolose",
+        "sesotho_term": [
+          "diabolose"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_54cf4277d11fc4ac",
+    "headword_english": "Diamond",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "daemane",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "daemane"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_54cf4277d11fc4ac.sense_1",
+        "definition_en": "daemane",
+        "sesotho_term": [
+          "daemane"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_4ea3171dca1b85e2",
+    "headword_english": "Diesel",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "disele",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "disele"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_4ea3171dca1b85e2.sense_1",
+        "definition_en": "disele",
+        "sesotho_term": [
+          "disele"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_928d70823975db59",
+    "headword_english": "Digital",
+    "pos": [
+      "adjective"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "dijithale",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "dijithale"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_928d70823975db59.sense_1",
+        "definition_en": "dijithale",
+        "sesotho_term": [
+          "dijithale"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "entry_06c03962c20c618b",
+    "headword_english": "Diploma",
+    "pos": [
+      "noun"
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "diploma",
+        "tone_marked": "",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "diploma"
+    ],
+    "morphology": {
+      "root": "",
+      "derivation": "Historical Entry",
+      "noun_class": "unknown"
+    },
+    "senses": [
+      {
+        "sense_id": "entry_06c03962c20c618b.sense_1",
+        "definition_en": "diploma, lengolo la thuto",
+        "sesotho_term": [
+          "diploma"
+        ]
+      }
+    ],
+    "thesaurus": {
+      "synonyms_en": [],
+      "antonyms_en": [],
+      "synonyms_st": [],
+      "antonyms_st": []
+    }
+  },
+  {
+    "entry_id": "st_G7_008",
+    "headword_english": "Nostrils",
+    "pos": [
+      "n."
+    ],
+    "headword_sesotho": [
+      {
+        "orthographic": "dinko",
+        "tone_marked": "dīnkō",
+        "ipa": "",
+        "tone_pattern": ""
+      }
+    ],
+    "syllables": [
+      "di-nko"
+    ],
+    "morphology": {
+      "root": "nko",
+      "derivation": "",
+      "noun_class": "10"
+    },
+    "senses": [
+      {
+        "sense_id": "st_G7_008.sense_1",
+        "definition_en": "The two external openings of the nose.",
+        "sesotho_term": [
+          "dinko"
+        ]
+      }
+    ],
+    "thesaurus": {},
+    "related_words": []
+  }
+]

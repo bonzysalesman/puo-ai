@@ -1,0 +1,44 @@
+[
+  {
+    "entry_id": "st_LEV11_01",
+    "headword_english": "To chew the cud",
+    "pos": [{ "tag": "v.", "full": "verb" }],
+    "headword_sesotho": [{ "orthographic": "ho busolosa", "tone_marked": "hō būsōlōsā" }],
+    "syllables": [{ "orthographic": "ho bu-so-lo-sa", "syllable_count": 5 }],
+    "morphology": { "root": "busolosa", "noun_class": null, "derivation": "To bring up food from the first stomach to chew it again." },
+    "senses": [{
+      "sense_id": "bio_01",
+      "definition_en": "A digestive process in ruminants; used here as a marker for ritual purity in land animals.",
+      "sesotho_term": ["ho hlahuna"],
+      "usage_example": { "sesotho": "...leha e le efe e busolosang har'a liphoofolo, le ka e ja.", "english": "...whatever among the animals chews the cud, you may eat." }
+    }]
+  },
+  {
+    "entry_id": "st_LEV11_02",
+    "headword_english": "Scales",
+    "pos": [{ "tag": "n.", "full": "noun (plural)" }],
+    "headword_sesotho": [{ "orthographic": "makhakhapha", "tone_marked": "mākhākhāphā" }],
+    "syllables": [{ "orthographic": "ma-kha-kha-pha", "syllable_count": 4 }],
+    "morphology": { "root": "khakhapha", "noun_class": 6, "derivation": "Plural of lekhakhapha." },
+    "senses": [{
+      "sense_id": "bio_02",
+      "definition_en": "Small, stiff plates growing out of the skin of a fish; a requirement for clean seafood.",
+      "sesotho_term": ["likhapha"],
+      "usage_example": { "sesotho": "Ntho e 'ngoe le e 'ngoe e nang le makhakhapha le ka e ja.", "english": "Everything that has scales you may eat." }
+    }]
+  },
+  {
+    "entry_id": "st_LEV11_03",
+    "headword_english": "Unclean / Defiled",
+    "pos": [{ "tag": "adj.", "full": "adjective" }],
+    "headword_sesotho": [{ "orthographic": "sa hloekang", "tone_marked": "sā hlōēkāng" }],
+    "syllables": [{ "orthographic": "sa hlo-e-kang", "syllable_count": 4 }],
+    "morphology": { "root": "hloeka", "noun_class": null, "derivation": "Negative relative form of 'hloeka' (to be clean)." },
+    "senses": [{
+      "sense_id": "theo_07",
+      "definition_en": "Ritually impure; unfit for consumption or for entering the presence of God.",
+      "sesotho_term": ["e silafetseng"],
+      "usage_example": { "sesotho": "Ha ea hloeka bakeng sa lōna.", "english": "It is unclean to you." }
+    }]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  { "pattern": "tjh", "replacement": "ch", "scope": "consonant", "priority": 1, "description": "SA aspirated affricate to PEMS", "provenance_source": "morija_1906" },
+  { "pattern": "ny", "replacement": "ny", "scope": "consonant", "priority": 1, "description": "Nasal palatal anchor", "provenance_source": "morija_1906" },
+  { "pattern": "ng", "replacement": "ng", "scope": "consonant", "priority": 1, "description": "Velar nasal anchor", "provenance_source": "morija_1906" },
+  { "pattern": "ya", "replacement": "ea", "scope": "vowel_glide", "priority": 2, "description": "Informal glide to PEMS", "provenance_source": "morija_1906" },
+  { "pattern": "wa", "replacement": "oa", "scope": "vowel_glide", "priority": 2, "description": "Informal glide to PEMS", "provenance_source": "morija_1906" },
+  { "pattern": "ye", "replacement": "ee", "scope": "vowel_glide", "priority": 2, "description": "Informal glide to PEMS", "provenance_source": "morija_1906" },
+  { "pattern": "yo", "replacement": "eo", "scope": "vowel_glide", "priority": 2, "description": "Informal glide to PEMS", "provenance_source": "morija_1906" },
+  { "pattern": "we", "replacement": "oe", "scope": "vowel_glide", "priority": 2, "description": "Shift for words like 'oena'", "provenance_source": "morija_1906" },
+  { "pattern": "sh", "replacement": "š", "scope": "consonant", "priority": 3, "description": "PEMS sibilant", "provenance_source": "morija_1906" },
+  { "pattern": "tsh", "replacement": "tš", "scope": "consonant", "priority": 3, "description": "PEMS aspirated affricate", "provenance_source": "morija_1906" },
+  { "pattern": "wh", "replacement": "ho", "scope": "consonant", "priority": 3, "description": "SA/Archaic variant", "provenance_source": "morija_1906" },
+  { "pattern": "g", "replacement": "h", "scope": "consonant", "priority": 4, "description": "Universal SA g to h shift", "provenance_source": "morija_1906" },
+  { "pattern": "di", "replacement": "li", "scope": "consonant_vowel", "priority": 5, "description": "PEMS 'li' over SA 'di' (Lexical)", "provenance_source": "morija_1906" },
+  { "pattern": "du", "replacement": "lu", "scope": "consonant_vowel", "priority": 5, "description": "PEMS 'lu' over SA 'du' (Lexical)", "provenance_source": "morija_1906" }
+]

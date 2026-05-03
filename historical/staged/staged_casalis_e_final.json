@@ -1,0 +1,4507 @@
+[
+    {
+        "headword_english": [
+            "Ebullition"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho bela"
+        },
+        "senses": [
+            {
+                "definition": "ho bela",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Evcentric"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "motho"
+        },
+        "senses": [
+            {
+                "definition": "motho ea ho sele ho ba bang.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eeelesiastic"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "se"
+        },
+        "senses": [
+            {
+                "definition": "se e leng Kereke.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Economy"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "p"
+        },
+        "senses": [
+            {
+                "definition": "pōlōko ea lintho kapa ea chelete",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Edge"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "of"
+        },
+        "senses": [
+            {
+                "definition": "(of a tool) bohale; (of a cloth) nstē, nstia; (of a precipice) nstia-pa; v. ho loha nstē; ho nchofatsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Educate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho ruta"
+        },
+        "senses": [
+            {
+                "definition": "ho ruta, ho hōlisa kelellong",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Effects"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "thepa"
+        },
+        "senses": [
+            {
+                "definition": "thepa, thoto",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Effeminate"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea"
+        },
+        "senses": [
+            {
+                "definition": "ea booi, ea tšoanang le mosali",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Effort"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "teko"
+        },
+        "senses": [
+            {
+                "definition": "teko, matla",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Elapse"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho feta"
+        },
+        "senses": [
+            {
+                "definition": "ho feta (ha nako)",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Elbow"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "setsoe"
+        },
+        "senses": [
+            {
+                "definition": "setsoe",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Elder"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e moholo; n. moholo, hlooho ea kereke",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Elderly"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e tsofetseng, e hōlileng",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Elect"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho khetha"
+        },
+        "senses": [
+            {
+                "definition": "ho khetha",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Elephant"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tlou"
+        },
+        "senses": [
+            {
+                "definition": "tlou",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Elevate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho phahamisa"
+        },
+        "senses": [
+            {
+                "definition": "ho phahamisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eliminate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lahla"
+        },
+        "senses": [
+            {
+                "definition": "ho lahla, ho ntša",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Embellish"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho khabisa"
+        },
+        "senses": [
+            {
+                "definition": "ho khabisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Embers"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mashala"
+        },
+        "senses": [
+            {
+                "definition": "mashala a hlenneng, hlohlo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Embrace"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho kopa"
+        },
+        "senses": [
+            {
+                "definition": "ho kopa, ho tšoara ka matsoho; ho tlamela",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Embroidery"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mohomo"
+        },
+        "senses": [
+            {
+                "definition": "mohomo, mokhabiso",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Embroil"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to"
+        },
+        "senses": [
+            {
+                "definition": "to embroil onesely ho itharetsa..",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Emerge"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hlaha"
+        },
+        "senses": [
+            {
+                "definition": "ho hlaha, ho tsoa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Emetic"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mohlatsisi"
+        },
+        "senses": [
+            {
+                "definition": "mohlatsisi, se hlatsisang",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Emigrant"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mofalli"
+        },
+        "senses": [
+            {
+                "definition": "mofalli.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Emissary"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "leq"
+        },
+        "senses": [
+            {
+                "definition": "leqésa le ipa.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Emolument"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "moputso"
+        },
+        "senses": [
+            {
+                "definition": "moputso, tefo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Emotion"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho pafama"
+        },
+        "senses": [
+            {
+                "definition": "ho pafama, ho sisiseha maikutlo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Emperor"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "morena"
+        },
+        "senses": [
+            {
+                "definition": "morena oa 'musc¢ _ 0 moholo.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Empire"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "muso"
+        },
+        "senses": [
+            {
+                "definition": "muso oa marena",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Employ"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hira"
+        },
+        "senses": [
+            {
+                "definition": "ho hira; ho sebelisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Empower"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho neha"
+        },
+        "senses": [
+            {
+                "definition": "ho neha matla",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Empty"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e nang le letho, e feela; v. ho tšolla, ho ntša letho",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Encamp"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hloma"
+        },
+        "senses": [
+            {
+                "definition": "ho hloma liahelo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enchant"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho khoahlapisa"
+        },
+        "senses": [
+            {
+                "definition": "ho khoahlapisa, ho hlohlotsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Encroach"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho nka"
+        },
+        "senses": [
+            {
+                "definition": "ho nka sebaka sa e mong, ho tlola moeli",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Encumber"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho sitisa"
+        },
+        "senses": [
+            {
+                "definition": "ho sitisa, ho imetsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "End"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "utlha"
+        },
+        "senses": [
+            {
+                "definition": "utlha, ntsi, bofelo,",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "End"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "phetse"
+        },
+        "senses": [
+            {
+                "definition": "phetse, bofelo; v. ho fetsa, ho qeta",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Endear"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho ratisa"
+        },
+        "senses": [
+            {
+                "definition": "ho ratisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Endeavour"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho leka"
+        },
+        "senses": [
+            {
+                "definition": "ho leka, ho ikitlaetsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Endless"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e sa feleng",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Endurance"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mamello"
+        },
+        "senses": [
+            {
+                "definition": "mamello, tiisetso",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Energetic"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "matla"
+        },
+        "senses": [
+            {
+                "definition": "¢ matla",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Engender"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tsuala"
+        },
+        "senses": [
+            {
+                "definition": "ho tsuala, hla-hisa.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "English"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "sechaba"
+        },
+        "senses": [
+            {
+                "definition": "sechaba sa Engelane; Se-English",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "England"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "batho"
+        },
+        "senses": [
+            {
+                "definition": "batho ba naha ea England; an",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Engrave"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho ngola"
+        },
+        "senses": [
+            {
+                "definition": "ho ngola ka ho betla, ho hula",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Engraving"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "setsuantio"
+        },
+        "senses": [
+            {
+                "definition": "setsuantio se ngoliloeng.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enigma"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "selotho"
+        },
+        "senses": [
+            {
+                "definition": "selotho",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enjoin"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho laela"
+        },
+        "senses": [
+            {
+                "definition": "ho laela.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enjoy"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho thabela"
+        },
+        "senses": [
+            {
+                "definition": "ho thabela, ho natefeloa ke",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enlarge"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho holisa"
+        },
+        "senses": [
+            {
+                "definition": "ho holisa, ho atisa, ho oketsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enlightening"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "poneso"
+        },
+        "senses": [
+            {
+                "definition": "poneso, po-nesetsxo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enamity"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bora"
+        },
+        "senses": [
+            {
+                "definition": "bora, hloeano.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enormous"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e khōlō-khōlō",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enongh"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e lekaneng, |",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Envage"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho haletisa"
+        },
+        "senses": [
+            {
+                "definition": "ho haletisa.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enrich"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho n"
+        },
+        "senses": [
+            {
+                "definition": "ho nōnatša, ho ruisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ensnare"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tšoasa"
+        },
+        "senses": [
+            {
+                "definition": "ho tšoasa ka sefi",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Entangle"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho rara"
+        },
+        "senses": [
+            {
+                "definition": "ho rara, ho raranya",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enter"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho kena"
+        },
+        "senses": [
+            {
+                "definition": "ho kena",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enterprise"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mosebetsi"
+        },
+        "senses": [
+            {
+                "definition": "mosebetsi o boima o lekoang",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enterprising"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e tsuelang",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Entertain"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho amohela"
+        },
+        "senses": [
+            {
+                "definition": "ho amohela baeti ka mosa; ho thabisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enthusiasm"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "cheseho"
+        },
+        "senses": [
+            {
+                "definition": "cheseho e khōlō",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Entire"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "eohle"
+        },
+        "senses": [
+            {
+                "definition": "eohle, e phethehileng",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Entrails"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mala"
+        },
+        "senses": [
+            {
+                "definition": "mala",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Entrance"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "monako"
+        },
+        "senses": [
+            {
+                "definition": "monako, kōrō",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Entrap"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho kenya"
+        },
+        "senses": [
+            {
+                "definition": "ho kenya sefing.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enwmerate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho bala"
+        },
+        "senses": [
+            {
+                "definition": "ho bala, ro-panya. » Hurelop, vy phuthela, kua-hela © Huvelope, vn. mokotlana oa lengolo.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Envious"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea"
+        },
+        "senses": [
+            {
+                "definition": "ea nang le mona",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Epidemic"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e nkoang; n. lefu le nkoang, seda. — Epidermis, n. khuebd. Fipilepsy, » sethoathoa, ho shua sethoathoa.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Epoch"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lekhetlo"
+        },
+        "senses": [
+            {
+                "definition": "lekhetlo, motsé-ts6, nako.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Equal"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e lekaneng; n. ea bohold bo le bong ie e mong; fo he equal",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Equally"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ka"
+        },
+        "senses": [
+            {
+                "definition": "ka ho lekana.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Equanimity"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho s"
+        },
+        "senses": [
+            {
+                "definition": "ho sé fere-",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Equinox"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "nako"
+        },
+        "senses": [
+            {
+                "definition": "nako eo bosiu",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Equity"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "toka"
+        },
+        "senses": [
+            {
+                "definition": "toka, ho sé ¢e ka t3obotsi.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Equivalent"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e lekaneng.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eradicate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho foth"
+        },
+        "senses": [
+            {
+                "definition": "ho fothédla, ka-",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ebrase"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hlakola"
+        },
+        "senses": [
+            {
+                "definition": "ho hlakola.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ere"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "pele"
+        },
+        "senses": [
+            {
+                "definition": "pele, e-so ho; prep. pele ho.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Err"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "commit"
+        },
+        "senses": [
+            {
+                "definition": "(commit error) ho",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Essential"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea"
+        },
+        "senses": [
+            {
+                "definition": "ea selloho.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Esteem"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hlompha"
+        },
+        "senses": [
+            {
+                "definition": "ho hlompha — hlo-",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Estimate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lekanya"
+        },
+        "senses": [
+            {
+                "definition": "ho lekanya thé-",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eternal"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e sa feleng, hlo-",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eternity"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bosafeleng"
+        },
+        "senses": [
+            {
+                "definition": "bosafeleng, bo-",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Evacuate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "make"
+        },
+        "senses": [
+            {
+                "definition": "(make empty ), ho",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Even"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "wdj"
+        },
+        "senses": [
+            {
+                "definition": "wdj. e lekaneng, In-",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Event"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "taba"
+        },
+        "senses": [
+            {
+                "definition": "taba e hlahilen ketsahalo.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eventful"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "an"
+        },
+        "senses": [
+            {
+                "definition": "an eventful da tsatsi la taba tse ngat",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ever"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ka"
+        },
+        "senses": [
+            {
+                "definition": "ka nako efe le ef",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Everlasting"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e sa felen,",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Evermore"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "kamehla"
+        },
+        "senses": [
+            {
+                "definition": "kamehla, |} bosafeleng.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Every"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e mong le",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Everywhere"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "kahohl"
+        },
+        "senses": [
+            {
+                "definition": "kahohl kae le kae",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Evict"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho falatsa"
+        },
+        "senses": [
+            {
+                "definition": "ho falatsa, tlésa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Evidence"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "paki"
+        },
+        "senses": [
+            {
+                "definition": "paki, pontšo ea 'nete",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Evident"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e pepenene, e hlakileng",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eril"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mpe"
+        },
+        "senses": [
+            {
+                "definition": "mpe, e khopo; |",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ewe"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "nku"
+        },
+        "senses": [
+            {
+                "definition": "nku e tšehali",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exact"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e tšoanang hantle, e lekanyitsoeng",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ezactly"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ka"
+        },
+        "senses": [
+            {
+                "definition": ", ka ho nepahi",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Evailt"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho phahamisa"
+        },
+        "senses": [
+            {
+                "definition": "ho phahamisa.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Example"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mohlala"
+        },
+        "senses": [
+            {
+                "definition": "mohlala, sebono",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eeeitable"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e ka ts6-",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exrclaim"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho h"
+        },
+        "senses": [
+            {
+                "definition": "ho héa, héeletsa, meketsa.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exculpate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lat"
+        },
+        "senses": [
+            {
+                "definition": "ho latéla mo-lato",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Execrate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hloc"
+        },
+        "senses": [
+            {
+                "definition": "ho hlocéa.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exempt"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lokolla"
+        },
+        "senses": [
+            {
+                "definition": "ho lokolla mosebetsing kapa lekhetlong",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exercise"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho ikoetlisa"
+        },
+        "senses": [
+            {
+                "definition": "ho ikoetlisa, ho itloaetsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ezert"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho etsa"
+        },
+        "senses": [
+            {
+                "definition": "ho etsa ka matla, leku.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Evrhalatio"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mouvane"
+        },
+        "senses": [
+            {
+                "definition": "mouvane. Exhaust, \\ ho khathatsa,",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Evhibition"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tlhahiso"
+        },
+        "senses": [
+            {
+                "definition": "tlhahiso ea li-ntho pepeneneng ea bo-",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Evhort"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho kh"
+        },
+        "senses": [
+            {
+                "definition": "ho khéthatsa, ele-tsa E.chortation, un. khothatso, keletso.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exile"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mofalli"
+        },
+        "senses": [
+            {
+                "definition": "mofalli; v. ho leleka naheng",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exist"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho ba"
+        },
+        "senses": [
+            {
+                "definition": "ho ba teng, ho phela",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Expect"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lebella"
+        },
+        "senses": [
+            {
+                "definition": "ho lebella",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Expectorate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tšoela"
+        },
+        "senses": [
+            {
+                "definition": "ho tšoela, ho khohlela",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eapedition"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "haste"
+        },
+        "senses": [
+            {
+                "definition": "(haste ) pha-",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Expire"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho n"
+        },
+        "senses": [
+            {
+                "definition": "ho nééla mo shuésa moqhuéle, féla",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Expiain"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hlalosa"
+        },
+        "senses": [
+            {
+                "definition": "ho hlalosa. tl",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Explicit"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e utluahalar bonahalang.",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Explode"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho thunya"
+        },
+        "senses": [
+            {
+                "definition": "ho thunya",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Expose"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho pepesa"
+        },
+        "senses": [
+            {
+                "definition": "ho pepesa, ho hlobola",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exposition"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ehlanamel"
+        },
+        "senses": [
+            {
+                "definition": "\\ehlanamel",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Extremity"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bofdlo"
+        },
+        "senses": [
+            {
+                "definition": "bofdlo, pheletso. a, Extricate, v. ho lokélla, ntia, re rarolla. re Hault, v. ho thaba hahélo, ithorisa hahéJé. a. Hye,n leihlo, ( plur. mahlo ); ig a person with only one",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eccentric"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "motho"
+        },
+        "senses": [
+            {
+                "definition": "motho ea ho sele ho ba bang",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ecclesiastic"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "se"
+        },
+        "senses": [
+            {
+                "definition": "se e leng sa Kereke",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Effervescent"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e belang ha bobebe",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Efficacy"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "matla"
+        },
+        "senses": [
+            {
+                "definition": "matla a ho etsahatsa ntho",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Evil"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bobe"
+        },
+        "senses": [
+            {
+                "definition": "bobe, bokhopo; adj. e mpe",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exaggerate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho holisa"
+        },
+        "senses": [
+            {
+                "definition": "ho holisa taba, ho fana ka taba",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exalt"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho phahamisa"
+        },
+        "senses": [
+            {
+                "definition": "ho phahamisa, ho rorisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Examine"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hlahloba"
+        },
+        "senses": [
+            {
+                "definition": "ho hlahloba, ho botsisisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exasperate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho halefisa"
+        },
+        "senses": [
+            {
+                "definition": "ho halefisa haholo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Excavate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho cheka"
+        },
+        "senses": [
+            {
+                "definition": "ho cheka, ho rapa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exceed"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho feta"
+        },
+        "senses": [
+            {
+                "definition": "ho feta, ho fetisisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exceedingly"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "haholo"
+        },
+        "senses": [
+            {
+                "definition": "haholo-holo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Excel"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho khaba"
+        },
+        "senses": [
+            {
+                "definition": "ho khaba, ho feta ba bang",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Excellence"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bokhabane"
+        },
+        "senses": [
+            {
+                "definition": "bokhabane",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Except"
+        ],
+        "pos": [
+            "preposition"
+        ],
+        "headword_sesotho": {
+            "orthographic": "haese"
+        },
+        "senses": [
+            {
+                "definition": "haese, kantle ho",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exchange"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho ananya"
+        },
+        "senses": [
+            {
+                "definition": "ho ananya, ho fetola",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exclaim"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hooa"
+        },
+        "senses": [
+            {
+                "definition": "ho hooa, ho tlerola",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exclude"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho ntšetsa"
+        },
+        "senses": [
+            {
+                "definition": "ho ntšetsa ntle, ho thibella",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Excrement"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "masepa"
+        },
+        "senses": [
+            {
+                "definition": "masepa, khotlo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Excuse"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tšoarela"
+        },
+        "senses": [
+            {
+                "definition": "ho tšoarela, ho behela mabaka; n. boitšunyo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Execute"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho phetha"
+        },
+        "senses": [
+            {
+                "definition": "ho phetha; ho bolaea ka molao",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exhaust"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho fofotsa"
+        },
+        "senses": [
+            {
+                "definition": "ho fofotsa matla, ho qeta",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Expense"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "theko"
+        },
+        "senses": [
+            {
+                "definition": "theko, litšenyehelo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Explain"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hlalosa"
+        },
+        "senses": [
+            {
+                "definition": "ho hlalosa, ho hlakisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Export"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho romela"
+        },
+        "senses": [
+            {
+                "definition": "ho romela lintho linaheng tse ling",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Extend"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho otlolla"
+        },
+        "senses": [
+            {
+                "definition": "ho otlolla, ho lelefalatsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Extinguish"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tima"
+        },
+        "senses": [
+            {
+                "definition": "ho tima (mollo)",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Extort"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho amoga"
+        },
+        "senses": [
+            {
+                "definition": "ho amoga ka matla",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exult"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho nyakalla"
+        },
+        "senses": [
+            {
+                "definition": "ho nyakalla, ho tlolela thabo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eye"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "leihlo"
+        },
+        "senses": [
+            {
+                "definition": "leihlo; (eyeball) thaka ea leihlo; (eyebrow) nstia; (eyelash) lintši tsa mahlo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Each"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e 'ngoe le e 'ngoe; each man: motho ka mong",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eager"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea"
+        },
+        "senses": [
+            {
+                "definition": "ea nang le mafolofolo, ea chesehang",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eagerness"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mafolofolo"
+        },
+        "senses": [
+            {
+                "definition": "mafolofolo, tšollo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eagle"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "nontšoe"
+        },
+        "senses": [
+            {
+                "definition": "nontšoe, ntsu",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ear"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "of"
+        },
+        "senses": [
+            {
+                "definition": "(of the body) tsebē; (of corn) hōlo, lehōlo; to give ear: ho tšehisa tsebē",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Early"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ka"
+        },
+        "senses": [
+            {
+                "definition": "ka baka, e sa le hoseng; early in the morning: ka meso",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Earn"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho sebeletsa"
+        },
+        "senses": [
+            {
+                "definition": "ho sebeletsa (chelete)",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Earnest"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea"
+        },
+        "senses": [
+            {
+                "definition": "ea mafolofolo, ea tiisitseng; in earnest: ka 'nete",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Earnings"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "moputso"
+        },
+        "senses": [
+            {
+                "definition": "moputso oa mosebetsi",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Earring"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lesala"
+        },
+        "senses": [
+            {
+                "definition": "lesala",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Earth"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lefatše"
+        },
+        "senses": [
+            {
+                "definition": "lefatše; (soil) mobu",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Earthenware"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lijana"
+        },
+        "senses": [
+            {
+                "definition": "lijana tsa mobu",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Earthquake"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tšengoe"
+        },
+        "senses": [
+            {
+                "definition": "tšengoe, tšebetlelo ea lefatše",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ease"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "boiketlo"
+        },
+        "senses": [
+            {
+                "definition": "boiketlo, khotso; v. ho thoba, ho kokobetsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "East"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bochabela"
+        },
+        "senses": [
+            {
+                "definition": "bochabela",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Easter"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "Paseka"
+        },
+        "senses": [
+            {
+                "definition": "Paseka",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Easy"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e bobebe, e bonolo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eat"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho ja"
+        },
+        "senses": [
+            {
+                "definition": "ho ja; to eat much: ho jesa, ho rōna; to eat greedily: ho hlobaela; to eat everything: ho qeta",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eatable"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e jehang, ntho e jewang",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eaves"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "marulelo"
+        },
+        "senses": [
+            {
+                "definition": "marulelo a tsoelang kantle, mathule",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Echo"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "molioli"
+        },
+        "senses": [
+            {
+                "definition": "molioli, lio-lio; v. ho lialia",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eclipse"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "fifalo"
+        },
+        "senses": [
+            {
+                "definition": "fifalo ea letsatsi kapa ea khoeli; (of the sun) letsatsi le bolailoe ke khoeli",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Edible"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e jehang",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Edict"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "molao"
+        },
+        "senses": [
+            {
+                "definition": "molao, taelo ea morena",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Edify"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho haha"
+        },
+        "senses": [
+            {
+                "definition": "ho haha, ho ruta, ho khothatsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Editor"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mohlophisi"
+        },
+        "senses": [
+            {
+                "definition": "mohlophisi oa koranta",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Education"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "thuto"
+        },
+        "senses": [
+            {
+                "definition": "thuto, khōliso",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eel"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "thelele"
+        },
+        "senses": [
+            {
+                "definition": "thelele, tlhapi e tšoanang le noha",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Efface"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hlakola"
+        },
+        "senses": [
+            {
+                "definition": "ho hlakola, ho fafatsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Effect"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mosebetsi"
+        },
+        "senses": [
+            {
+                "definition": "mosebetsi, litholoana; v. ho etsa, ho phetha",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Egg"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lehe"
+        },
+        "senses": [
+            {
+                "definition": "lehe; (white of egg) lero la lehe; (yolk) bosehla ba lehe",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eight"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "robeli"
+        },
+        "senses": [
+            {
+                "definition": "robeli",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eighteen"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "leshome"
+        },
+        "senses": [
+            {
+                "definition": "leshome le metso e robeli",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eighty"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mashome"
+        },
+        "senses": [
+            {
+                "definition": "mashome a robeli",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Either"
+        ],
+        "pos": [
+            "conjunction"
+        ],
+        "headword_sesotho": {
+            "orthographic": "kapa"
+        },
+        "senses": [
+            {
+                "definition": "kapa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eject"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho ntša"
+        },
+        "senses": [
+            {
+                "definition": "ho ntša, ho raka",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Elaborate"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e entsoeng ka hloko e khōlō",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Elastic"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e otlohang, e thamoang",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Elated"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea"
+        },
+        "senses": [
+            {
+                "definition": "ea thabileng haholo, ea ikhohomosang",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Election"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "khetho"
+        },
+        "senses": [
+            {
+                "definition": "khetho",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eleven"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "leshome"
+        },
+        "senses": [
+            {
+                "definition": "leshome le motso o mong",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Elongate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lelefalatsa"
+        },
+        "senses": [
+            {
+                "definition": "ho lelefalatsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Elope"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho baleha"
+        },
+        "senses": [
+            {
+                "definition": "ho baleha le moratuoa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eloquent"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea"
+        },
+        "senses": [
+            {
+                "definition": "ea tsebang ho bua hantle",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Elsewhere"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e mong nstē, nstē e 'ngoe",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Elude"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho qoba"
+        },
+        "senses": [
+            {
+                "definition": "ho qoba, ho phonyoha",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Emaciated"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea"
+        },
+        "senses": [
+            {
+                "definition": "ea oeleng, ea otileng haholo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Emancipate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lopolla"
+        },
+        "senses": [
+            {
+                "definition": "ho lopolla, ho lokolla",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Embankment"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mokoakoa"
+        },
+        "senses": [
+            {
+                "definition": "mokoakoa, lerako la mobu",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Embark"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho kena"
+        },
+        "senses": [
+            {
+                "definition": "ho kena ka sekepeng",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Embarrass"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho sitisa"
+        },
+        "senses": [
+            {
+                "definition": "ho sitisa, ho hlabehisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Embassy"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "baemeli"
+        },
+        "senses": [
+            {
+                "definition": "baemeli ba morena",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Embezzle"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho utsoa"
+        },
+        "senses": [
+            {
+                "definition": "ho utsoa ntho eo u e bolokisitseng",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Embroider"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho khabisa"
+        },
+        "senses": [
+            {
+                "definition": "ho khabisa lesela ka mebala",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Emigrate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho falla"
+        },
+        "senses": [
+            {
+                "definition": "ho falla",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Eminent"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e phahameng, ea tumeng",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Emit"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho ntša"
+        },
+        "senses": [
+            {
+                "definition": "ho ntša (moea kapa khanya)",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Employer"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mong"
+        },
+        "senses": [
+            {
+                "definition": "mong a mosebetsi",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Employment"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mosebetsi"
+        },
+        "senses": [
+            {
+                "definition": "mosebetsi",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Emulate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho leka"
+        },
+        "senses": [
+            {
+                "definition": "ho leka ho tšoana le e mong",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enable"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho neha"
+        },
+        "senses": [
+            {
+                "definition": "ho neha matla, ho nolofatsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enact"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho etsa"
+        },
+        "senses": [
+            {
+                "definition": "ho etsa molao",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enclose"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho k"
+        },
+        "senses": [
+            {
+                "definition": "ho kōpēla, ho thibella ka hohle",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enclosure"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lesaka"
+        },
+        "senses": [
+            {
+                "definition": "lesaka, sebaka se kōpētsoeng",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Encounter"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho kopana"
+        },
+        "senses": [
+            {
+                "definition": "ho kopana le, ho khahlanyetsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Encourage"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho khothatsa"
+        },
+        "senses": [
+            {
+                "definition": "ho khothatsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Encouragement"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "khothatso"
+        },
+        "senses": [
+            {
+                "definition": "khothatso",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Endanger"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho beha"
+        },
+        "senses": [
+            {
+                "definition": "ho beha kotsing",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Endow"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho neha"
+        },
+        "senses": [
+            {
+                "definition": "ho neha, ho abela",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Endure"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho mamella"
+        },
+        "senses": [
+            {
+                "definition": "ho mamella, ho jara",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enemy"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "sera"
+        },
+        "senses": [
+            {
+                "definition": "sera",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Energy"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "matla"
+        },
+        "senses": [
+            {
+                "definition": "matla, mafolofolo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enervate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho fofotsa"
+        },
+        "senses": [
+            {
+                "definition": "ho fofotsa matla, ho fofora",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enforce"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tiisa"
+        },
+        "senses": [
+            {
+                "definition": "ho tiisa, ho qophella",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Engage"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hira"
+        },
+        "senses": [
+            {
+                "definition": "ho hira; ho itlama; ho qala ntoa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enlighten"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hlakisetsa"
+        },
+        "senses": [
+            {
+                "definition": "ho hlakisetsa, ho bonesetsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enlist"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho ngolisa"
+        },
+        "senses": [
+            {
+                "definition": "ho ngolisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enliven"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho thabisa"
+        },
+        "senses": [
+            {
+                "definition": "ho thabisa, ho mahlahlasetsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enmity"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lonya"
+        },
+        "senses": [
+            {
+                "definition": "lonya, bora",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enough"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lekane"
+        },
+        "senses": [
+            {
+                "definition": "ho lekane",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enrage"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho halefisa"
+        },
+        "senses": [
+            {
+                "definition": "ho halefisa haholo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enslave"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho thopha"
+        },
+        "senses": [
+            {
+                "definition": "ho thopha, ho etsa lekhoba",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Entice"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hlohlella"
+        },
+        "senses": [
+            {
+                "definition": "ho hlohlella, ho eka",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Entreat"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho k"
+        },
+        "senses": [
+            {
+                "definition": "ho kōpa ka tieo, ho rapela",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Entrust"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho bolokisa"
+        },
+        "senses": [
+            {
+                "definition": "ho bolokisa, ho tšepisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enumerate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho bala"
+        },
+        "senses": [
+            {
+                "definition": "ho bala ka bongoe",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Enunciate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho bolela"
+        },
+        "senses": [
+            {
+                "definition": "ho bolela hantle ka molomo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Envelop"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho phuthela"
+        },
+        "senses": [
+            {
+                "definition": "ho phuthela, ho koahela",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Excite"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho mofofutsa"
+        },
+        "senses": [
+            {
+                "definition": "ho mofofutsa, ho hlohlella",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Execrable"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e nyonyehang",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exhale"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho ntša"
+        },
+        "senses": [
+            {
+                "definition": "ho ntša moea",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exhibit"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho bontša"
+        },
+        "senses": [
+            {
+                "definition": "ho bontša pepenene",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exhort"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho khothatsa"
+        },
+        "senses": [
+            {
+                "definition": "ho khothatsa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Expand"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho nameletsa"
+        },
+        "senses": [
+            {
+                "definition": "ho nameletsa, ho ata",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Expel"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho leleka"
+        },
+        "senses": [
+            {
+                "definition": "ho leleka, ho ntša",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Experience"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tsebo"
+        },
+        "senses": [
+            {
+                "definition": "tsebo e fumanoeng ka ho leka kapa ka lilemo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Explore"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hloela"
+        },
+        "senses": [
+            {
+                "definition": "ho hloela, ho batlisisa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Expound"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hlalosa"
+        },
+        "senses": [
+            {
+                "definition": "ho hlalosa",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Express"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho bolela"
+        },
+        "senses": [
+            {
+                "definition": "ho bolela, ho ntša maikutlo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Extensive"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e khōlō, e batsi",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Exterminate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho felisa"
+        },
+        "senses": [
+            {
+                "definition": "ho felisa, ho ripitla",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "External"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e ka ntle",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Extol"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho rorisa"
+        },
+        "senses": [
+            {
+                "definition": "ho rorisa haholo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Extraordinary"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e sa tloaelehang, e makatsang",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Extravagant"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea"
+        },
+        "senses": [
+            {
+                "definition": "ea sanyang, ea senyang haholo",
+                "usage_examples": []
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Extreme"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e"
+        },
+        "senses": [
+            {
+                "definition": "e hōle-hōle, e qetellang",
+                "usage_examples": []
+            }
+        ]
+    }
+]

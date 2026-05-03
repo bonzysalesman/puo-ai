@@ -1,0 +1,170 @@
+[
+  {
+    "page_index": 80,
+    "page_number": 81,
+    "column": "left",
+    "image": "page_081_left.png",
+    "ocr_text": "page_081_left.txt"
+  },
+  {
+    "page_index": 80,
+    "page_number": 81,
+    "column": "right",
+    "image": "page_081_right.png",
+    "ocr_text": "page_081_right.txt"
+  },
+  {
+    "page_index": 81,
+    "page_number": 82,
+    "column": "left",
+    "image": "page_082_left.png",
+    "ocr_text": "page_082_left.txt"
+  },
+  {
+    "page_index": 81,
+    "page_number": 82,
+    "column": "right",
+    "image": "page_082_right.png",
+    "ocr_text": "page_082_right.txt"
+  },
+  {
+    "page_index": 82,
+    "page_number": 83,
+    "column": "left",
+    "image": "page_083_left.png",
+    "ocr_text": "page_083_left.txt"
+  },
+  {
+    "page_index": 82,
+    "page_number": 83,
+    "column": "right",
+    "image": "page_083_right.png",
+    "ocr_text": "page_083_right.txt"
+  },
+  {
+    "page_index": 83,
+    "page_number": 84,
+    "column": "left",
+    "image": "page_084_left.png",
+    "ocr_text": "page_084_left.txt"
+  },
+  {
+    "page_index": 83,
+    "page_number": 84,
+    "column": "right",
+    "image": "page_084_right.png",
+    "ocr_text": "page_084_right.txt"
+  },
+  {
+    "page_index": 84,
+    "page_number": 85,
+    "column": "left",
+    "image": "page_085_left.png",
+    "ocr_text": "page_085_left.txt"
+  },
+  {
+    "page_index": 84,
+    "page_number": 85,
+    "column": "right",
+    "image": "page_085_right.png",
+    "ocr_text": "page_085_right.txt"
+  },
+  {
+    "page_index": 85,
+    "page_number": 86,
+    "column": "left",
+    "image": "page_086_left.png",
+    "ocr_text": "page_086_left.txt"
+  },
+  {
+    "page_index": 85,
+    "page_number": 86,
+    "column": "right",
+    "image": "page_086_right.png",
+    "ocr_text": "page_086_right.txt"
+  },
+  {
+    "page_index": 86,
+    "page_number": 87,
+    "column": "left",
+    "image": "page_087_left.png",
+    "ocr_text": "page_087_left.txt"
+  },
+  {
+    "page_index": 86,
+    "page_number": 87,
+    "column": "right",
+    "image": "page_087_right.png",
+    "ocr_text": "page_087_right.txt"
+  },
+  {
+    "page_index": 87,
+    "page_number": 88,
+    "column": "left",
+    "image": "page_088_left.png",
+    "ocr_text": "page_088_left.txt"
+  },
+  {
+    "page_index": 87,
+    "page_number": 88,
+    "column": "right",
+    "image": "page_088_right.png",
+    "ocr_text": "page_088_right.txt"
+  },
+  {
+    "page_index": 88,
+    "page_number": 89,
+    "column": "left",
+    "image": "page_089_left.png",
+    "ocr_text": "page_089_left.txt"
+  },
+  {
+    "page_index": 88,
+    "page_number": 89,
+    "column": "right",
+    "image": "page_089_right.png",
+    "ocr_text": "page_089_right.txt"
+  },
+  {
+    "page_index": 89,
+    "page_number": 90,
+    "column": "left",
+    "image": "page_090_left.png",
+    "ocr_text": "page_090_left.txt"
+  },
+  {
+    "page_index": 89,
+    "page_number": 90,
+    "column": "right",
+    "image": "page_090_right.png",
+    "ocr_text": "page_090_right.txt"
+  },
+  {
+    "page_index": 90,
+    "page_number": 91,
+    "column": "left",
+    "image": "page_091_left.png",
+    "ocr_text": "page_091_left.txt"
+  },
+  {
+    "page_index": 90,
+    "page_number": 91,
+    "column": "right",
+    "image": "page_091_right.png",
+    "ocr_text": "page_091_right.txt"
+  },
+  {
+    "page_index": 91,
+    "page_number": 92,
+    "column": "left",
+    "image": "page_092_left.png",
+    "ocr_text": "page_092_left.txt"
+  },
+  {
+    "page_index": 91,
+    "page_number": 92,
+    "column": "right",
+    "image": "page_092_right.png",
+    "ocr_text": "page_092_right.txt"
+  }
+]

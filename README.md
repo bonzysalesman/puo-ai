@@ -15,106 +15,65 @@ python3 -m pip install -r requirements.txt
 
 ## Core Commands
 
-Run tests:
-
+### Validation & Testing
+Run all tests:
 ```bash
-python3 -m unittest discover -s tests -v
+make test
 ```
 
-Validate dictionary schema only:
-
+Validate lexicon schema only:
 ```bash
 python3 -m unittest tests.test_dictionary_schema -v
 ```
 
-Dry-run enrichment:
+### Enrichment Pipeline
+Enrich the split datasets (lexicon, corpus, attestations) using local parallel Bible HTML.
 
+**Dry-run enrichment:**
 ```bash
-python3 enricher.py --mode split --dry-run --source-label "JW Bible - Genesis 1"
+python3 pipeline/enrichment/enricher.py --mode split --dry-run --source-label "JW Bible - Genesis 1"
 ```
 
-Dry-run with generic terms ignored:
-
+**Write enrichment output:**
 ```bash
-python3 enricher.py --mode split --dry-run --source-label "JW Bible - Genesis 1" --stop-terms "le,ea,ho"
+python3 pipeline/enrichment/enricher.py --mode split --source-label "JW Bible - Genesis 1"
 ```
 
-Dry-run with custom scoring weights:
+**Options:**
+- `--stop-terms "le,ea,ho"`: Ignore generic terms during matching.
+- `--weight-term-count 1200`: Adjust scoring weights.
 
-```bash
-python3 enricher.py --mode split --dry-run --source-label "JW Bible - Genesis 1" --weight-term-count 1200 --weight-term-length 1 --weight-verse-length-penalty 0.02
-```
-
-Write enrichment output directly to `corpus.json` and `attestations.json`:
-
-```bash
-python3 enricher.py --mode split --source-label "JW Bible - Genesis 1"
-```
-
-Legacy mode (writes `usage_example` into dictionary-style JSON):
-
-```bash
-python3 enricher.py --mode legacy --dictionary dictionary.json --output dictionary.enriched.json --source-label "JW Bible - Genesis 1"
-```
-
-Generate deterministic diff report before promoting:
-
-```bash
-python3 review_enrichment_diff.py --base dictionary.json --candidate dictionary.enriched.json --output enrichment_diff.md
-```
-
-Staged workflow with `make`:
-
-```bash
-make enrich-stage
-make review-stage
-```
-
-Generate word list:
-
-```bash
-python3 extract_wordlist.py --dictionary dictionary.json --output wordlist.md
-```
-
-Split mixed dictionary+corpus data into linked datasets:
-
-```bash
-python3 split_datasets.py --dictionary dictionary.json --lexicon-out lexicon.json --corpus-out corpus.json --attestations-out attestations.json
-```
-
-Or with `make`:
-
+### Data Management
+**Split legacy dictionary into datasets:**
 ```bash
 make split-datasets
 ```
 
-Rebuild a backward-compatible dictionary view with `usage_example` fields:
-
-```bash
-python3 join_view.py --lexicon lexicon.json --corpus corpus.json --attestations attestations.json --output dictionary.joined.json
-```
-
-Or with `make`:
-
+**Rebuild backward-compatible joined view:**
 ```bash
 make join-view
 ```
 
-## Local Data Files
+**Generate word list:**
+```bash
+make wordlist
+```
 
-- `dictionary.json`: dictionary data and usage examples
-- `lexicon.json`: normalized dictionary-only dataset (generated)
-- `corpus.json`: parallel verse corpus dataset (generated)
-- `attestations.json`: linkage table from lexicon senses to corpus verses (generated)
-- `dictionary.joined.json`: reconstructed legacy-compatible combined view (generated)
-- `dictionary.json`: legacy mixed file (no longer source of truth)
-- `st_gen1.html`: Sesotho Genesis 1
-- `en_gen1.html`: English Genesis 1
-- `st_ps103.html`: placeholder (currently empty)
+## Data Architecture
+
+The project uses a normalized "split" architecture:
+- `data/lexicon.json`: Headwords and senses (Source of Truth).
+- `data/corpus.json`: Parallel verse corpus.
+- `data/attestations.json`: Linkage table between lexicon senses and corpus verses.
+- `data/dictionary.joined.json`: Generated legacy-compatible view for external tools.
+
+Legacy files are stored in `data/legacy/`.
+
+## Local Source Files
+- `sources/bible/`: Parallel HTML chapters (e.g., `st_gen1.html`, `en_gen1.html`).
+- `sources/nkjv_wordlist.txt`: Exhaustive English word list.
+- `schemas/`: JSON schemas for all datasets.
 
 ## Notes
-
 - `enricher.py` uses whole-term, case-insensitive matching to reduce false positives.
-- Split datasets (`lexicon/corpus/attestations`) are now the source of truth.
-- Use `--dry-run` before writing changes to validate expected match counts.
-- Match scoring can be tuned using `--weight-term-count`, `--weight-term-length`, and `--weight-verse-length-penalty`.
+- Always use `--dry-run` before writing changes to validate match quality.

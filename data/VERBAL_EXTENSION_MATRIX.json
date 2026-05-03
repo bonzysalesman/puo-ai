@@ -1,0 +1,36 @@
+{
+    "version": "1.0.0",
+    "extensions": [
+        {
+            "suffix": "uoa",
+            "type": "Passive",
+            "description": "Being acted upon",
+            "example": "ratuoa"
+        },
+        {
+            "suffix": "ana",
+            "type": "Reciprocal",
+            "description": "Interaction between two",
+            "example": "ratana"
+        },
+        {
+            "suffix": "isa",
+            "type": "Causative",
+            "description": "To cause to do",
+            "example": "tsamaisa"
+        },
+        {
+            "suffix": "ela",
+            "type": "Applied",
+            "description": "To do for or at",
+            "example": "bulella"
+        }
+    ],
+    "order_of_operation": [
+        "uoa",
+        "ana",
+        "isa",
+        "ela"
+    ],
+    "root_recovery_rule": "Apply longest-match-first suffix stripping to expose the semantic atom."
+}

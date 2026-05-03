@@ -1,0 +1,6985 @@
+[
+    {
+        "headword_english": [
+            "Fable"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "t&mo."
+        },
+        "senses": [
+            {
+                "definition": "t&mo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "t&mo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fabulous"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea litsémo."
+        },
+        "senses": [
+            {
+                "definition": "ea litsémo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ea litsémo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Face"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "sefahleho to be face ‘o face"
+        },
+        "senses": [
+            {
+                "definition": "sefahleho to be face ‘o face, ho talimana ka li-",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "sefahleho to be face ‘o face",
+                    "ho talimana ka li-"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fahleho"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lebisa se-fahleho nga e itseng"
+        },
+        "senses": [
+            {
+                "definition": "ho lebisa se-fahleho nga e itseng, ho ema u bapile le; fo sef one's face against, ho ha-nyetsa; to Jace the enemy, ho hlanamisa lira.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho lebisa se-fahleho nga e itseng",
+                    "ho ema u bapile le"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Facilitate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho nolofatsn."
+        },
+        "senses": [
+            {
+                "definition": "ho nolofatsn.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho nolofatsn."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Facility"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bobebé"
+        },
+        "senses": [
+            {
+                "definition": "bobebé, bonolo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "bobebé",
+                    "bonolo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fact"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ketso"
+        },
+        "senses": [
+            {
+                "definition": "ketso; ‘nete.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ketso"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fade"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho ponu"
+        },
+        "senses": [
+            {
+                "definition": "ho ponu, senyeha",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho ponu",
+                    "senyeha"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fail"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hlo-"
+        },
+        "senses": [
+            {
+                "definition": "(to be wanting) ho hlo-",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho hlo-"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Faint"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho akhéha"
+        },
+        "senses": [
+            {
+                "definition": ", ho akhéha, ilibana,",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho akhéha",
+                    "ilibana"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Faint-hearted"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e tiabang"
+        },
+        "senses": [
+            {
+                "definition": "e tiabang, e@ booi.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e tiabang",
+                    "e@ booi."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fair"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e ntle"
+        },
+        "senses": [
+            {
+                "definition": "( lovely ) e ntle, e hlokang letheba, e 16. kileng",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e ntle",
+                    "e hlokang letheba",
+                    "e 16. kileng"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fairly"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "hantle."
+        },
+        "senses": [
+            {
+                "definition": "hantle.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "hantle."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Faith"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tumelo"
+        },
+        "senses": [
+            {
+                "definition": "tumelo, té&po; bo-",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "tumelo",
+                    "té&po"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Faithful"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e tSepehang"
+        },
+        "senses": [
+            {
+                "definition": "e tSepehang,",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e tSepehang"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fall"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho da"
+        },
+        "senses": [
+            {
+                "definition": "ho da; to fall to the",
+                "usage_examples": [
+                    {
+                        "sesotho": "Jehova Molimo a robatsa monna. Ha a ntse a robetse, a nka e 'ngoe ea likhopo tsa hae 'me sebakeng seo a ntšitseng khopo ho sona a koahela ka nama.",
+                        "english": "So Jehovah God caused the man to fall into a deep sleep, and while he was sleeping, he took one of his ribs and then closed up the flesh over its place.",
+                        "source": "Gen2 (v1002021)"
+                    }
+                ],
+                "sesotho_term": [
+                    "ho da"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fall"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "phororo."
+        },
+        "senses": [
+            {
+                "definition": "( cascade ) phororo.",
+                "usage_examples": [
+                    {
+                        "sesotho": "Jehova Molimo a robatsa monna. Ha a ntse a robetse, a nka e 'ngoe ea likhopo tsa hae 'me sebakeng seo a ntšitseng khopo ho sona a koahela ka nama.",
+                        "english": "So Jehovah God caused the man to fall into a deep sleep, and while he was sleeping, he took one of his ribs and then closed up the flesh over its place.",
+                        "source": "Gen2 (v1002021)"
+                    }
+                ],
+                "sesotho_term": [
+                    "phororo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fallow"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mohéla"
+        },
+        "senses": [
+            {
+                "definition": "mohéla; udj.e sa",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "mohéla"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "False"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e hlukang"
+        },
+        "senses": [
+            {
+                "definition": "e hlukang,'nete, e",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e hlukang",
+                    "'nete",
+                    "e"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Falsehood"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "leshand"
+        },
+        "senses": [
+            {
+                "definition": "leshand, boha-",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "leshand",
+                    "boha-"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Falter"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lika-lika ho bueng."
+        },
+        "senses": [
+            {
+                "definition": "ho lika-lika ho bueng.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho lika-lika ho bueng."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fame"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "botumo"
+        },
+        "senses": [
+            {
+                "definition": "botumo, molun",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "botumo",
+                    "molun"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Familiar"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e tloaelane"
+        },
+        "senses": [
+            {
+                "definition": "e tloaelane",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e tloaelane"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Familiarity"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tloaelano"
+        },
+        "senses": [
+            {
+                "definition": "tloaelano, § tsualle.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "tloaelano",
+                    "§ tsualle."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Family"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bathd ba ntld e"
+        },
+        "senses": [
+            {
+                "definition": "bathd ba ntld e",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "bathd ba ntld e"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Family"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea ka"
+        },
+        "senses": [
+            {
+                "definition": "ea ka, ba ba ka.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ea ka",
+                    "ba ba ka."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Famine"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tlala"
+        },
+        "senses": [
+            {
+                "definition": "tlala, letsapa, tls ea sekoboto.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "tlala",
+                    "letsapa",
+                    "tls ea sekoboto."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Famous"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e tumileng"
+        },
+        "senses": [
+            {
+                "definition": "e tumileng; be famous, ho tuma.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e tumileng"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fang"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "leino le nchocl"
+        },
+        "senses": [
+            {
+                "definition": "leino le nchocl",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "leino le nchocl"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Farewell"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "u phele han sala hantle."
+        },
+        "senses": [
+            {
+                "definition": "u phele han sala hantle.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "u phele han sala hantle."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Farm"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "polasi"
+        },
+        "senses": [
+            {
+                "definition": "polasi; v. ho le masimo a mah6lo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "polasi"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Farmer"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mong a polasi."
+        },
+        "senses": [
+            {
+                "definition": "mong a polasi.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "mong a polasi."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Farther"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e hoyana"
+        },
+        "senses": [
+            {
+                "definition": "e hoyana; a hoyana.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e hoyana"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Farthest"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "© hole hahé e héle-héle Farthing"
+        },
+        "senses": [
+            {
+                "definition": "© hole hahé e héle-héle Farthing, 1. chelete e ‘n nyane.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "© hole hahé e héle-héle Farthing",
+                    "1. chelete e ‘n nyane."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fascinate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hahela."
+        },
+        "senses": [
+            {
+                "definition": "ho hahela.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho hahela."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fashion"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mokhoa (hah"
+        },
+        "senses": [
+            {
+                "definition": "mokhoa (hah",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "mokhoa (hah"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fast"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e tiileng"
+        },
+        "senses": [
+            {
+                "definition": "(fm) e tiileng, eemeng; (quick) e pha-",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e tiileng",
+                    "eemeng"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fastidious"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e khahlisoang la ka thata"
+        },
+        "senses": [
+            {
+                "definition": "e khahlisoang la ka thata, ipoulang.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e khahlisoang la ka thata",
+                    "ipoulang."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fastness"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "seqhobo. to Fat"
+        },
+        "senses": [
+            {
+                "definition": "seqhobo. to Fat, n. lefura, oftener mafura,",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "seqhobo. to Fat",
+                    "n. lefura",
+                    "oftener mafura"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fatness"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho itiona"
+        },
+        "senses": [
+            {
+                "definition": "ho itiona, nala, t8ila. 616 Fatten,v ho nontésa.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho itiona",
+                    "nala",
+                    "t8ila. 616 Fatten",
+                    "v ho nontésa."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fault"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "molaté"
+        },
+        "senses": [
+            {
+                "definition": "molaté, phoso, mo-",
+                "usage_examples": [
+                    {
+                        "sesotho": "9 A ke ke a lula a re tšoaea liphoso Ebile a ke ke a lula a re halefetse.",
+                        "english": "9 He will not always find fault, Nor will he stay resentful forever.",
+                        "source": "Ps103 (v19103009)"
+                    }
+                ],
+                "sesotho_term": [
+                    "molaté",
+                    "phoso",
+                    "mo-"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fault"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "fuma"
+        },
+        "senses": [
+            {
+                "definition": "fuma; to sind",
+                "usage_examples": [
+                    {
+                        "sesotho": "9 A ke ke a lula a re tšoaea liphoso Ebile a ke ke a lula a re halefetse.",
+                        "english": "9 He will not always find fault, Nor will he stay resentful forever.",
+                        "source": "Ps103 (v19103009)"
+                    }
+                ],
+                "sesotho_term": [
+                    "fuma"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fault"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bia molaté"
+        },
+        "senses": [
+            {
+                "definition": "bia molaté,.nyatsa.",
+                "usage_examples": [
+                    {
+                        "sesotho": "9 A ke ke a lula a re tšoaea liphoso Ebile a ke ke a lula a re halefetse.",
+                        "english": "9 He will not always find fault, Nor will he stay resentful forever.",
+                        "source": "Ps103 (v19103009)"
+                    }
+                ],
+                "sesotho_term": [
+                    "bia molaté",
+                    ".nyatsa."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Faulty"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e molaté"
+        },
+        "senses": [
+            {
+                "definition": "e molaté, fosang, fosehileng.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e molaté",
+                    "fosang",
+                    "fosehileng."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Favour"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mohau"
+        },
+        "senses": [
+            {
+                "definition": "mohau, lerekd,",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "mohau",
+                    "lerekd"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fear"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "t'abo"
+        },
+        "senses": [
+            {
+                "definition": "t'abo, tsdho, letsoso,",
+                "usage_examples": [
+                    {
+                        "sesotho": "Feela joalokaha maholimo a phahametse lefatše haholo,Ba mo tšabang o ba rata haholo.",
+                        "english": "For as the heavens are higher than the earth,So great is his loyal love toward those who fear him.",
+                        "source": "Ps103 (v19103011)"
+                    },
+                    {
+                        "sesotho": "Jehova o hauhetse ba mo tšabangFeela joalokaha ntate a hauhela bana ba hae.",
+                        "english": "As a father shows mercy to his sons,Jehovah has shown mercy to those who fear him.",
+                        "source": "Ps103 (v19103013)"
+                    },
+                    {
+                        "sesotho": "Empa Jehova o rata ba mo tšabang Ka lerato le sa felengLe litloholo tsa bona o tla li tšoara ka tsela e lokileng,",
+                        "english": "But the loyal love of Jehovah is for all eternity Toward those who fear him, And his righteousness toward their children's children,",
+                        "source": "Ps103 (v19103017)"
+                    },
+                    {
+                        "sesotho": "Balaoli ha ba tšajoe ke batho ba etsang lintho tse ntle empa ba tšajoa ke ba etsang lintho tse mpe. Ha u sa batle ho tšaba balaoli, u 'ne u etse lintho tse ntle 'me ba tla u rorisa.",
+                        "english": "For those rulers are an object of fear, not to the good deed, but to the bad. Do you want to be free of fear of the authority? Keep doing good, and you will have praise from it;",
+                        "source": "Rom13 (v45013003)"
+                    },
+                    {
+                        "sesotho": "Ba sebeletsa Molimo molemong oa hao. Empa u lokela ho tšoha haeba u etsa lintho tse fosahetseng hobane ba fuoe matla le tokelo ea ho otla ba etsang lintho tse fosahetseng. Ke basebeletsi ba Molimo ba otlang batho ba etsang lintho tse fosahetseng.",
+                        "english": "for it is God's minister to you for your good. But if you are doing what is bad, be in fear, for it is not without purpose that it bears the sword. It is God's minister, an avenger to express wrath against the one practicing what is bad.",
+                        "source": "Rom13 (v45013004)"
+                    },
+                    {
+                        "sesotho": "Fang bohle tse ba lokelang, ea batlang lekhetho la mofuta ofe kapa ofe le mo fe lona, ea batlang ho tšajoa le mo tšabe, ea batlang ho hlomphuoa le mo hlomphe.",
+                        "english": "Render to all their dues: to the one who calls for the tax, the tax; to the one who calls for the tribute, the tribute; to the one who calls for fear, such fear; to the one who calls for honor, such honor.",
+                        "source": "Rom13 (v45013007)"
+                    }
+                ],
+                "sesotho_term": [
+                    "t'abo",
+                    "tsdho",
+                    "letsoso"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fearful"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e t&8abang"
+        },
+        "senses": [
+            {
+                "definition": "e t&8abang, booi, t&dhileng.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e t&8abang",
+                    "booi",
+                    "t&dhileng."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Feast"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mokete"
+        },
+        "senses": [
+            {
+                "definition": "mokete, sebdka, *méka; v. ho ya tse mo-nate",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "mokete",
+                    "sebdka",
+                    "*méka"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Feat"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ketso"
+        },
+        "senses": [
+            {
+                "definition": "ketso, ketso e rorise-hang.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ketso",
+                    "ketso e rorise-hang."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Feather"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "\\esiba ."
+        },
+        "senses": [
+            {
+                "definition": "\\esiba (pl. litsiba).",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "\\esiba ."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Feature"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "sebépeho sa sefa-"
+        },
+        "senses": [
+            {
+                "definition": "sebépeho sa sefa-",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "sebépeho sa sefa-"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "February"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "Hiakéla."
+        },
+        "senses": [
+            {
+                "definition": "Hiakéla.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "Hiakéla."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Feeundity"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho béa"
+        },
+        "senses": [
+            {
+                "definition": "ho béa, ho tsuala.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho béa",
+                    "ho tsuala."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fer"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "moputso"
+        },
+        "senses": [
+            {
+                "definition": "moputso, patala, tefo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "moputso",
+                    "patala",
+                    "tefo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Feeble"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e fokotseng."
+        },
+        "senses": [
+            {
+                "definition": "e fokotseng.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e fokotseng."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Feebleness"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "phokolo."
+        },
+        "senses": [
+            {
+                "definition": "phokolo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "phokolo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Feed"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho fépa."
+        },
+        "senses": [
+            {
+                "definition": "ho fépa.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho fépa."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Feel"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho ama"
+        },
+        "senses": [
+            {
+                "definition": "ho ama, phéphdletsa; ho utlua.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho ama",
+                    "phéphdletsa"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Feeling"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "boikutlo"
+        },
+        "senses": [
+            {
+                "definition": "boikutlo, oftener",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "boikutlo",
+                    "oftener"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Feign"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho etsa yualoka ho-"
+        },
+        "senses": [
+            {
+                "definition": "ho etsa yualoka ho-",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho etsa yualoka ho-"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fellow"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "thaka"
+        },
+        "senses": [
+            {
+                "definition": "thaka, molekane,",
+                "usage_examples": [
+                    {
+                        "sesotho": "Le se ke la kolota mang kapa mang letho haese lerato kaha ea ratang oa habo o phethahalitse molao.",
+                        "english": "Do not owe anything to anyone except to love one another; for whoever loves his fellow man has fulfilled the law.",
+                        "source": "Rom13 (v45013008)"
+                    }
+                ],
+                "sesotho_term": [
+                    "thaka",
+                    "molekane"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fellowship"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bothaka"
+        },
+        "senses": [
+            {
+                "definition": "bothaka, se-",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "bothaka",
+                    "se-"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Female"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e téehali"
+        },
+        "senses": [
+            {
+                "definition": "e téehali; n.'mo-tha e mot& hati, ntho' e t8ehali.",
+                "usage_examples": [
+                    {
+                        "sesotho": "Molimo a bōpa motho ka setšoantšo sa hae, a mo bōpa ka setšoantšo sa Molimo; a ba bōpa e le e motona le e motšehali.",
+                        "english": "And God went on to create the man in his image, in God's image he created him; male and female he created them.",
+                        "source": "Gen1 (v1001027)"
+                    }
+                ],
+                "sesotho_term": [
+                    "e téehali"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Feminine"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e t8ehali."
+        },
+        "senses": [
+            {
+                "definition": "e t8ehali.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e t8ehali."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fence"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "motéro: v. ho etsa motéro"
+        },
+        "senses": [
+            {
+                "definition": "motéro: v. ho etsa motéro, sireletsa.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "motéro: v. ho etsa motéro",
+                    "sireletsa."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ferment"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho loméha"
+        },
+        "senses": [
+            {
+                "definition": "ho loméha",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho loméha"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ferocity"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bohale bo tad. Nang mali"
+        },
+        "senses": [
+            {
+                "definition": ", bohale bo tad. Nang mali, sehlohé, soré",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "bohale bo tad. Nang mali",
+                    "sehlohé",
+                    "soré"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fertile"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e beang"
+        },
+        "senses": [
+            {
+                "definition": "e beang, e tsua-lang haholo",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e beang",
+                    "e tsua-lang haholo"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fervour"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "cheseho."
+        },
+        "senses": [
+            {
+                "definition": "cheseho.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "cheseho."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fetch"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lata."
+        },
+        "senses": [
+            {
+                "definition": "ho lata.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho lata."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fetters"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mahlaahlela a ho tlama ma6été"
+        },
+        "senses": [
+            {
+                "definition": "mahlaahlela a ho tlama ma6été; v. ho tla-",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "mahlaahlela a ho tlama ma6été"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Feud"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "khang"
+        },
+        "senses": [
+            {
+                "definition": "khang, khadhano, hloéano.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "khang",
+                    "khadhano",
+                    "hloéano."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ferer"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "febere"
+        },
+        "senses": [
+            {
+                "definition": "febere",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "febere"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Few"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "nyenyane"
+        },
+        "senses": [
+            {
+                "definition": "nyenyane, e sé ekae; Jew people, batho ba seng bakune.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "nyenyane",
+                    "e sé ekae"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fickle"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e lika-likang"
+        },
+        "senses": [
+            {
+                "definition": "e lika-likang; to be fiekle, ho kuetja, khuehla.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e lika-likang"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fiction"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "t&dmo. Fidelity"
+        },
+        "senses": [
+            {
+                "definition": "t&dmo. Fidelity, 1 botaepehi, bokha-bane.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "t&dmo. Fidelity",
+                    "1 botaepehi",
+                    "bokha-bane."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fidget"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho etsa letsope"
+        },
+        "senses": [
+            {
+                "definition": "ho etsa letsope; letsope.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho etsa letsope"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Field"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tSimo"
+        },
+        "senses": [
+            {
+                "definition": "tSimo, tema, nah to take the field, ho ntoeng.",
+                "usage_examples": [
+                    {
+                        "sesotho": "Ho ne ho e-s'o ka ho e-ba le lihlahla le limela lefatšeng hobane Jehova Molimo o ne a e-s'o nese pula 'me ho ne ho se na motho ea ka lemang.",
+                        "english": "No bush of the field was yet on the earth and no vegetation of the field had begun sprouting, because Jehovah God had not made it rain on the earth and there was no man to cultivate the ground.",
+                        "source": "Gen2 (v1002005)"
+                    },
+                    {
+                        "sesotho": "Jehova Molimo o ne a entse liphoofolo tsohle tse hlaha le libopuoa tsohle tse fofang eaba o li tlisa ho motho ho bona hore na o tla li reha mabitso afe. Li ile tsa bitsoa ka mabitso ao motho a ileng a li reha 'ona.",
+                        "english": "Now Jehovah God had been forming from the ground every wild animal of the field and every flying creature of the heavens, and he began bringing them to the man to see what he would call each one; and whatever the man would call each living creature, that became its name.",
+                        "source": "Gen2 (v1002019)"
+                    },
+                    {
+                        "sesotho": "Motho a reha liphoofolo tsohle tse ruuoang mabitso le libopuoa tse fofang le liphoofolo tsohle tse hlaha empa motho eena o ne a se na mothusi ea mo tšoanelang.",
+                        "english": "So the man named all the domestic animals and the flying creatures of the heavens and every wild animal of the field, but for man there was no helper as a complement of him.",
+                        "source": "Gen2 (v1002020)"
+                    },
+                    {
+                        "sesotho": "Motho o shoa kapele joaloka joang. O thunya joaloka palesa ea naheng.",
+                        "english": "As for mortal man, his days are like those of grass; He blooms like a blossom of the field.",
+                        "source": "Ps103 (v19103015)"
+                    }
+                ],
+                "sesotho_term": [
+                    "tSimo",
+                    "tema",
+                    "nah to take the field",
+                    "ho ntoeng."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Field-mouse"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "\\eboli"
+        },
+        "senses": [
+            {
+                "definition": "\\eboli, tali.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "\\eboli",
+                    "tali."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fiend"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "sera se befileng."
+        },
+        "senses": [
+            {
+                "definition": "sera se befileng.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "sera se befileng."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fierce"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e bohale"
+        },
+        "senses": [
+            {
+                "definition": "e bohale, e 1 tang ho loana.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e bohale",
+                    "e 1 tang ho loana."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fisteen"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "leshome le m tso e mehlano."
+        },
+        "senses": [
+            {
+                "definition": "leshome le m tso e mehlano.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "leshome le m tso e mehlano."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fifth"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea bohlano."
+        },
+        "senses": [
+            {
+                "definition": "ea bohlano.",
+                "usage_examples": [
+                    {
+                        "sesotho": "Ea e-ba mantsiboea 'me ea e-ba hoseng, letsatsi la bohlano.",
+                        "english": "And there was evening and there was morning, a fifth day.",
+                        "source": "Gen1 (v1001023)"
+                    }
+                ],
+                "sesotho_term": [
+                    "ea bohlano."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fifty"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mashome a m hlano."
+        },
+        "senses": [
+            {
+                "definition": "mashome a m hlano.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "mashome a m hlano."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fig"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "feiga."
+        },
+        "senses": [
+            {
+                "definition": "feiga.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "feiga."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fight"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ntoa"
+        },
+        "senses": [
+            {
+                "definition": "ntoa, hlabano, | tlepe tlepe; v. ho loan",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ntoa",
+                    "hlabano",
+                    "| tlepe tlepe"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "File"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "feile"
+        },
+        "senses": [
+            {
+                "definition": "(tool) feile; v. ho Pp",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "feile"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "File"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lethatham mokoloko."
+        },
+        "senses": [
+            {
+                "definition": "(vow) lethatham mokoloko.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "lethatham mokoloko."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Filial"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e loketseng m ra kapa-morali motho."
+        },
+        "senses": [
+            {
+                "definition": "e loketseng m ra kapa-morali motho.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e loketseng m ra kapa-morali motho."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fill"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tlatsa"
+        },
+        "senses": [
+            {
+                "definition": "ho tlatsa, phas",
+                "usage_examples": [
+                    {
+                        "sesotho": "Eaba Molimo oa li hlohonolofatsa, o re: “Atang le ngatafale 'me le tlale metsi a bolibeng ba maoatle, 'me libōpuoa tse fofang li ke li ngatafale lefatšeng.”",
+                        "english": "With that God blessed them, saying: “Be fruitful and become many and fill the waters of the sea, and let the flying creatures become many in the earth.”",
+                        "source": "Gen1 (v1001022)"
+                    },
+                    {
+                        "sesotho": "Ho ekelletsa moo, Molimo a ba hlohonolofatsa 'me Molimo a re ho bona: “Atang le ngatafale le tlale lefatše 'me le le buse, 'me le laole litlhapi tsa leoatle le libōpuoa tse fofang tsa maholimo le sebōpuoa se seng le se seng se phelang se hahabang lefatšeng.”",
+                        "english": "Further, God blessed them, and God said to them: “Be fruitful and become many, fill the earth and subdue it, and have in subjection the fish of the sea and the flying creatures of the heavens and every living creature that is moving on the earth.”",
+                        "source": "Gen1 (v1001028)"
+                    }
+                ],
+                "sesotho_term": [
+                    "ho tlatsa",
+                    "phas"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Film"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "leloapi."
+        },
+        "senses": [
+            {
+                "definition": "leloapi.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "leloapi."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fin"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lepheo la hispi. ‘aFinal"
+        },
+        "senses": [
+            {
+                "definition": "lepheo la hispi. ‘aFinal, adj. en yetello.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "lepheo la hispi. ‘aFinal",
+                    "adj. en yetello."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Find"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho fumana"
+        },
+        "senses": [
+            {
+                "definition": "ho fumana, fihlela. eFine, adj. (thin) e t8esane; (heautiful) e utle.",
+                "usage_examples": [
+                    {
+                        "sesotho": "9 A ke ke a lula a re tšoaea liphoso Ebile a ke ke a lula a re halefetse.",
+                        "english": "9 He will not always find fault, Nor will he stay resentful forever.",
+                        "source": "Ps103 (v19103009)"
+                    }
+                ],
+                "sesotho_term": [
+                    "ho fumana",
+                    "fihlela. eFine",
+                    "adj.  e t8esane"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fine"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tefo"
+        },
+        "senses": [
+            {
+                "definition": "(penalty) tefo, tefiso, atefelo; v. ho lefisa; the chief has fined me ten",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "tefo",
+                    "tefiso",
+                    "atefelo"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Five"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mollo"
+        },
+        "senses": [
+            {
+                "definition": "mollo; to light a fire, 0, ho besa, phepha, fehla mollo; to keep the fire Oup, ho uta tollo; to set 2} on fire, ho chesa; to fire a gun, ho thunya. a, Fire-arms, nu. libetsa tse kang 18 lithunya.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "mollo"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fire-place"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "leifo"
+        },
+        "senses": [
+            {
+                "definition": "leifo, ‘sebeso.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "leifo",
+                    "‘sebeso."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Firm"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e tiileng"
+        },
+        "senses": [
+            {
+                "definition": "e tiileng, kopaneng.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e tiileng",
+                    "kopaneng."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Firmament"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "sebaka sa le-"
+        },
+        "senses": [
+            {
+                "definition": "sebaka sa le-",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "sebaka sa le-"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Firiuly"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ka matla"
+        },
+        "senses": [
+            {
+                "definition": "ka matla, ka 1 thata.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ka matla",
+                    "ka 1 thata."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Firmness"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "matla"
+        },
+        "senses": [
+            {
+                "definition": "matla, bonatla, tiisetso.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "matla",
+                    "bonatla",
+                    "tiisetso."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "First"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea pele"
+        },
+        "senses": [
+            {
+                "definition": "ea pele; adv. pele.",
+                "usage_examples": [
+                    {
+                        "sesotho": "Molimo a bitsa leseli Motšehare, empa lefifi a le bitsa Bosiu. Ea e-ba mantsiboea 'me ea e-ba hoseng, letsatsi la pele.",
+                        "english": "God called the light Day, but the darkness he called Night. And there was evening and there was morning, a first day.",
+                        "source": "Gen1 (v1001005)"
+                    },
+                    {
+                        "sesotho": "Lebitso la noka ea pele ke Pishone. Ke eona e potolohileng naha eohle ea Havila, e nang le khauta.",
+                        "english": "The name of the first is Piʹshon; it is the one encircling the entire land of Havʹi·lah, where there is gold.",
+                        "source": "Gen2 (v1002011)"
+                    }
+                ],
+                "sesotho_term": [
+                    "ea pele"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "First-born"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "letsibolo."
+        },
+        "senses": [
+            {
+                "definition": "letsibolo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "letsibolo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "First-fruits"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lithakangua."
+        },
+        "senses": [
+            {
+                "definition": "lithakangua.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "lithakangua."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Firstling"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "letsibolo la phoofolo."
+        },
+        "senses": [
+            {
+                "definition": "letsibolo la phoofolo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "letsibolo la phoofolo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fish"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "hlapi"
+        },
+        "senses": [
+            {
+                "definition": "hlapi; v. ho tšoasa.",
+                "usage_examples": [
+                    {
+                        "sesotho": "Molimo a tsoela pele ho re: “A re etse motho ka setšoantšo sa rōna, ho ea ka sebōpeho sa rōna, 'me ba laole litlhapi tsa leoatle le libōpuoa tse fofang tsa maholimo le liphoofolo tse ruuoang le lefatše lohle le phoofolo e 'ngoe le e 'ngoe e hahabang lefatšeng.”",
+                        "english": "Then God said: “Let us make man in our image, according to our likeness, and let them have in subjection the fish of the sea and the flying creatures of the heavens and the domestic animals and all the earth and every creeping animal that is moving on the earth.”",
+                        "source": "Gen1 (v1001026)"
+                    },
+                    {
+                        "sesotho": "Ho ekelletsa moo, Molimo a ba hlohonolofatsa 'me Molimo a re ho bona: “Atang le ngatafale le tlale lefatše 'me le le buse, 'me le laole litlhapi tsa leoatle le libōpuoa tse fofang tsa maholimo le sebōpuoa se seng le se seng se phelang se hahabang lefatšeng.”",
+                        "english": "Further, God blessed them, and God said to them: “Be fruitful and become many, fill the earth and subdue it, and have in subjection the fish of the sea and the flying creatures of the heavens and every living creature that is moving on the earth.”",
+                        "source": "Gen1 (v1001028)"
+                    }
+                ],
+                "sesotho_term": [
+                    "hlapi"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fisherman"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "motšoasi oa lihlapi."
+        },
+        "senses": [
+            {
+                "definition": "motšoasi oa lihlapi.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "motšoasi oa lihlapi."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fish-hook"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "selope."
+        },
+        "senses": [
+            {
+                "definition": "selope.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "selope."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fist"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "setebele."
+        },
+        "senses": [
+            {
+                "definition": "setebele.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "setebele."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fit"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e lokelang"
+        },
+        "senses": [
+            {
+                "definition": "e lokelang, tšoanelo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e lokelang",
+                    "tšoanelo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fit"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to have a fit"
+        },
+        "senses": [
+            {
+                "definition": "to have a fit, ho hlaheloa ke bohloko bo bong ka mokhoa o sa hloleheng, ho shoa sethoathoa; to have a fit of.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "to have a fit",
+                    "ho hlaheloa ke bohloko bo bong ka mokhoa o sa hloleheng",
+                    "ho shoa sethoathoa"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fitness"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tokelo"
+        },
+        "senses": [
+            {
+                "definition": "tokelo, tšoanelo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "tokelo",
+                    "tšoanelo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Five"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "hlano."
+        },
+        "senses": [
+            {
+                "definition": "hlano.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "hlano."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fix"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tiisa"
+        },
+        "senses": [
+            {
+                "definition": "ho tiisa, hloma, tlama.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho tiisa",
+                    "hloma",
+                    "tlama."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flake"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "pali ea lehloa."
+        },
+        "senses": [
+            {
+                "definition": "pali ea lehloa.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "pali ea lehloa."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flame"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lelakabe"
+        },
+        "senses": [
+            {
+                "definition": "lelakabe, khabo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "lelakabe",
+                    "khabo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flank"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lehlakore"
+        },
+        "senses": [
+            {
+                "definition": "lehlakore, lesaho.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "lehlakore",
+                    "lesaho."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flannel"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lesela la boea."
+        },
+        "senses": [
+            {
+                "definition": "lesela la boea.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "lesela la boea."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flap"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "qola"
+        },
+        "senses": [
+            {
+                "definition": "qola; v. to flap the.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "qola"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flare"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho benya ho se ho-kae."
+        },
+        "senses": [
+            {
+                "definition": "ho benya ho se ho-kae.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho benya ho se ho-kae."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flash"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho benya"
+        },
+        "senses": [
+            {
+                "definition": "ho benya, halima.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho benya",
+                    "halima."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flask"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mofuta oa botlolo"
+        },
+        "senses": [
+            {
+                "definition": "mofuta oa botlolo, koma ea mosili.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "mofuta oa botlolo",
+                    "koma ea mosili."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flat"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e sephara"
+        },
+        "senses": [
+            {
+                "definition": "e sephara, e tsitsitseng.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e sephara",
+                    "e tsitsitseng."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flatly"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ka mokhoa o hlakileng."
+        },
+        "senses": [
+            {
+                "definition": "ka mokhoa o hlakileng.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ka mokhoa o hlakileng."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flats"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "plur. thota"
+        },
+        "senses": [
+            {
+                "definition": "plur. thota, lehotata.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "plur. thota",
+                    "lehotata."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flatten"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho pharamisa"
+        },
+        "senses": [
+            {
+                "definition": "ho pharamisa, tsitsitsa.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho pharamisa",
+                    "tsitsitsa."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flatter"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho khahlisa ka."
+        },
+        "senses": [
+            {
+                "definition": "ho khahlisa ka.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho khahlisa ka."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flatterer"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "leseaqheme."
+        },
+        "senses": [
+            {
+                "definition": "leseaqheme.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "leseaqheme."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flattery"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "thoriso"
+        },
+        "senses": [
+            {
+                "definition": "thoriso, qeko.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "thoriso",
+                    "qeko."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flatulency"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to suffer from pipitlelo."
+        },
+        "senses": [
+            {
+                "definition": "to suffer from pipitlelo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "to suffer from pipitlelo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flavour"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tatso"
+        },
+        "senses": [
+            {
+                "definition": "tatso; v. ho noka lijo, ho li natefisa.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "tatso"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flavourless"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e bosula."
+        },
+        "senses": [
+            {
+                "definition": "e bosula.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e bosula."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flaw"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "letheba"
+        },
+        "senses": [
+            {
+                "definition": "letheba, sekoli.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "letheba",
+                    "sekoli."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flax"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "setlama sa ho etsa masela."
+        },
+        "senses": [
+            {
+                "definition": "setlama sa ho etsa masela.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "setlama sa ho etsa masela."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flay"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho bua letlalo."
+        },
+        "senses": [
+            {
+                "definition": "ho bua letlalo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho bua letlalo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flea"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "letsetse."
+        },
+        "senses": [
+            {
+                "definition": "letsetse.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "letsetse."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flee"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho baleha"
+        },
+        "senses": [
+            {
+                "definition": "ho baleha, phapha.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho baleha",
+                    "phapha."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fleece"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "letlalo la nku le nang le boea"
+        },
+        "senses": [
+            {
+                "definition": "letlalo la nku le nang le boea, boea ba nku bo kutiloeng; v. ho kuta.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "letlalo la nku le nang le boea",
+                    "boea ba nku bo kutiloeng"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fleet"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "sehlopha sa lisepe."
+        },
+        "senses": [
+            {
+                "definition": "sehlopha sa lisepe.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "sehlopha sa lisepe."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fleet"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e lebelo."
+        },
+        "senses": [
+            {
+                "definition": "e lebelo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e lebelo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flesh"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "nama"
+        },
+        "senses": [
+            {
+                "definition": "nama, letsuabo.",
+                "usage_examples": [
+                    {
+                        "sesotho": "Jehova Molimo a robatsa monna. Ha a ntse a robetse, a nka e 'ngoe ea likhopo tsa hae 'me sebakeng seo a ntšitseng khopo ho sona a koahela ka nama.",
+                        "english": "So Jehovah God caused the man to fall into a deep sleep, and while he was sleeping, he took one of his ribs and then closed up the flesh over its place.",
+                        "source": "Gen2 (v1002021)"
+                    },
+                    {
+                        "sesotho": "Monna a re: “Joale enoa ke lesapo la masapo a kaLe nama ea nama ea ka. O tla bitsoa MosaliHobane o nkiloe ho monna.”",
+                        "english": "Then the man said: “This is at last bone of my bonesAnd flesh of my flesh. This one will be called Woman,Because from man she was taken.”",
+                        "source": "Gen2 (v1002023)"
+                    },
+                    {
+                        "sesotho": "Ke ka lebaka leo monna a tla siea ntate oa hae le 'mè oa hae 'me a khomarele mosali oa hae, bobeli ba bona e tla ba nama e le 'ngoe.",
+                        "english": "That is why a man will leave his father and his mother and he will stick to his wife, and they will become one flesh.",
+                        "source": "Gen2 (v1002024)"
+                    },
+                    {
+                        "sesotho": "Empa le etsise Morena Jesu Kreste 'me le se ke la rera esale pele hore na le tla khotsofatsa litakatso tse fosahetseng joang.",
+                        "english": "But put on the Lord Jesus Christ, and do not be planning ahead for the desires of the flesh.",
+                        "source": "Rom13 (v45013014)"
+                    }
+                ],
+                "sesotho_term": [
+                    "nama",
+                    "letsuabo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fleshy"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e nama"
+        },
+        "senses": [
+            {
+                "definition": "e nama, e nonneng.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e nama",
+                    "e nonneng."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flexible"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "to be flexible"
+        },
+        "senses": [
+            {
+                "definition": "to be flexible, ho temeka.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "to be flexible",
+                    "ho temeka."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flight"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "paleho"
+        },
+        "senses": [
+            {
+                "definition": "paleho; to put to flight, ho lelekisa, qhala.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "paleho"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flinch"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho sutha"
+        },
+        "senses": [
+            {
+                "definition": "ho sutha, khutla ka santhao, honyela.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho sutha",
+                    "khutla ka santhao",
+                    "honyela."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fling"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho akhela"
+        },
+        "senses": [
+            {
+                "definition": "ho akhela, betsa.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho akhela",
+                    "betsa."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flock"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mohlape"
+        },
+        "senses": [
+            {
+                "definition": "mohlape; v. ho phutheha.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "mohlape"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flog"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho shapa"
+        },
+        "senses": [
+            {
+                "definition": "ho shapa, otla ka thupa.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho shapa",
+                    "otla ka thupa."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flooring"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "liplanka tsa ho kata fatshe ho ntlo."
+        },
+        "senses": [
+            {
+                "definition": "liplanka tsa ho kata fatshe ho ntlo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "liplanka tsa ho kata fatshe ho ntlo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Floriculture"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tsebo ea ho melisa lipalesa."
+        },
+        "senses": [
+            {
+                "definition": "tsebo ea ho melisa lipalesa.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "tsebo ea ho melisa lipalesa."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Florid"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e mokhunoana."
+        },
+        "senses": [
+            {
+                "definition": "e mokhunoana.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e mokhunoana."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Florin"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "chelete e etsang 2/."
+        },
+        "senses": [
+            {
+                "definition": "chelete e etsang 2/.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "chelete e etsang 2/."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flounder"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho poqa seretseng."
+        },
+        "senses": [
+            {
+                "definition": "ho poqa seretseng.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho poqa seretseng."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flour"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "phofo"
+        },
+        "senses": [
+            {
+                "definition": "phofo, letla la phofo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "phofo",
+                    "letla la phofo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flourish"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho atleha."
+        },
+        "senses": [
+            {
+                "definition": "ho atleha.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho atleha."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fluctuate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho ea kuana le mona."
+        },
+        "senses": [
+            {
+                "definition": "ho ea kuana le mona.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho ea kuana le mona."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fluency"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho bua ka bonolo."
+        },
+        "senses": [
+            {
+                "definition": "ho bua ka bonolo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho bua ka bonolo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fluid"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ntho e kang metsi."
+        },
+        "senses": [
+            {
+                "definition": "ntho e kang metsi.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ntho e kang metsi."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flurry"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "pherekano"
+        },
+        "senses": [
+            {
+                "definition": "pherekano, mofere-fere.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "pherekano",
+                    "mofere-fere."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flute"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lekoliloe."
+        },
+        "senses": [
+            {
+                "definition": "lekoliloe.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "lekoliloe."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flutter"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho phupusela"
+        },
+        "senses": [
+            {
+                "definition": "ho phupusela; ho ferekana.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho phupusela"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Flux"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "phallo"
+        },
+        "senses": [
+            {
+                "definition": "phallo, lelutla, ho phalla ho sa khotseng, ho kolla.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "phallo",
+                    "lelutla",
+                    "ho phalla ho sa khotseng",
+                    "ho kolla."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fly"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho fofa"
+        },
+        "senses": [
+            {
+                "definition": "ho fofa, rura.",
+                "usage_examples": [
+                    {
+                        "sesotho": "Molimo a tsoela pele ho re: “Metsi a ke a nyeunye boieane ba meea e phelang 'me libōpuoa tse fofang li ke li fofe holim'a lefatše sepakapakeng sa maholimo.”",
+                        "english": "Then God said: “Let the waters swarm with living creatures, and let flying creatures fly above the earth across the expanse of the heavens.”",
+                        "source": "Gen1 (v1001020)"
+                    }
+                ],
+                "sesotho_term": [
+                    "ho fofa",
+                    "rura."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fly"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ntsi."
+        },
+        "senses": [
+            {
+                "definition": "ntsi.",
+                "usage_examples": [
+                    {
+                        "sesotho": "Molimo a tsoela pele ho re: “Metsi a ke a nyeunye boieane ba meea e phelang 'me libōpuoa tse fofang li ke li fofe holim'a lefatše sepakapakeng sa maholimo.”",
+                        "english": "Then God said: “Let the waters swarm with living creatures, and let flying creatures fly above the earth across the expanse of the heavens.”",
+                        "source": "Gen1 (v1001020)"
+                    }
+                ],
+                "sesotho_term": [
+                    "ntsi."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Foal"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "petsana"
+        },
+        "senses": [
+            {
+                "definition": "petsana; v. ho tsoala ha pere.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "petsana"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Foam"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "makueba"
+        },
+        "senses": [
+            {
+                "definition": "makueba; v. ho tsua makueba, tsapola; (fig.) to be angry, ho halefa.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "makueba"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fodder"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "furu."
+        },
+        "senses": [
+            {
+                "definition": "furu.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "furu."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Foe"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "sera"
+        },
+        "senses": [
+            {
+                "definition": "sera, mohanyetsi.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "sera",
+                    "mohanyetsi."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fog"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "moholi"
+        },
+        "senses": [
+            {
+                "definition": "moholi, mouoane.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "moholi",
+                    "mouoane."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Foil"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho thibela"
+        },
+        "senses": [
+            {
+                "definition": "ho thibela, tsietsa; to be foiled, ho hleloa.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho thibela",
+                    "tsietsa"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fold"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lesaka la linku"
+        },
+        "senses": [
+            {
+                "definition": "(for sheep) lesaka la linku; (plait) lephutha, lesuebe; v. to fold up, ho honelesta, phutha, shoba.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "lesaka la linku"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Follow"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho latela"
+        },
+        "senses": [
+            {
+                "definition": "ho latela, latella.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho latela",
+                    "latella."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Follower"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "molateli"
+        },
+        "senses": [
+            {
+                "definition": "molateli, mohlahlami.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "molateli",
+                    "mohlahlami."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Folly"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bohlanya"
+        },
+        "senses": [
+            {
+                "definition": "bohlanya, booatla, bothoto.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "bohlanya",
+                    "booatla",
+                    "bothoto."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Foment"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho thoba."
+        },
+        "senses": [
+            {
+                "definition": "ho thoba.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho thoba."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fond"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e ratang"
+        },
+        "senses": [
+            {
+                "definition": "e ratang; to be very fond of, ho rata haholo, ho hlanyetsa.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e ratang"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fondle"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho phaphatha."
+        },
+        "senses": [
+            {
+                "definition": "ho phaphatha.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho phaphatha."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fondness"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lerato."
+        },
+        "senses": [
+            {
+                "definition": "lerato.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "lerato."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Food"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "seyo"
+        },
+        "senses": [
+            {
+                "definition": "seyo, liyo, mofahe nice food, litheohelan.",
+                "usage_examples": [
+                    {
+                        "sesotho": "Eaba Molimo o tsoela pele ho re: “Bonang! ke le file limela tsohle tse behang peō tse holim'a lefatše lohle le sefate se seng le se seng seo ho sona ho nang le litholoana tsa sefate se behang peō. E ke e be lijo tsa lōna.",
+                        "english": "Then God said: “Here I have given to you every seed-bearing plant that is on the entire earth and every tree with seed-bearing fruit. Let them serve as food for you.",
+                        "source": "Gen1 (v1001029)"
+                    },
+                    {
+                        "sesotho": "'Me sebata se seng le se seng sa lefatše le sebōpuoa se seng le se seng se fofang sa maholimo le ntho e 'ngoe le e 'ngoe e tsamaeang lefatšeng eo ho eona ho nang le bophelo e le moea [ke li file] limela tsohle tse tala hore e be lijo.” 'Me ha e-ba joalo.",
+                        "english": "And to every wild animal of the earth and to every flying creature of the heavens and to everything moving on the earth in which there is life, I have given all green vegetation for food.” And it was so.",
+                        "source": "Gen1 (v1001030)"
+                    },
+                    {
+                        "sesotho": "Jehova Molimo a melisa lifate tsohle tse ntle le tseo litholoana tsa tsona li ka jeoang a ba a melisa sefate sa bophelo hammoho le sefate sa tsebo ea botle le bobe har'a serapa.",
+                        "english": "Thus Jehovah God made to grow out of the ground every tree that was pleasing to look at and good for food and also the tree of life in the middle of the garden and the tree of the knowledge of good and bad.",
+                        "source": "Gen2 (v1002009)"
+                    }
+                ],
+                "sesotho_term": [
+                    "seyo",
+                    "liyo",
+                    "mofahe nice food",
+                    "litheohelan."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fool"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "leoatla"
+        },
+        "senses": [
+            {
+                "definition": "leoatla, sethoto.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "leoatla",
+                    "sethoto."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fool"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho thetsa"
+        },
+        "senses": [
+            {
+                "definition": "ho thetsa, ho bapala ka; he made a fool of.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho thetsa",
+                    "ho bapala ka"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Foolish"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e sethoto"
+        },
+        "senses": [
+            {
+                "definition": "e sethoto, e hlanyang.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e sethoto",
+                    "e hlanyang."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Foolishly"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ha sethoto you speak foolishly"
+        },
+        "senses": [
+            {
+                "definition": "ha sethoto you speak foolishly, u bua kapepe.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ha sethoto you speak foolishly",
+                    "u bua kapepe."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Foolishness"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "booatla"
+        },
+        "senses": [
+            {
+                "definition": "booatla, bothoto.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "booatla",
+                    "bothoto."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Foot"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "leoto."
+        },
+        "senses": [
+            {
+                "definition": "leoto.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "leoto."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Footmark"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bohato"
+        },
+        "senses": [
+            {
+                "definition": "bohato, mohlala. Foot and mouth disease, n. mokaka.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "bohato",
+                    "mohlala. Foot and mouth disease",
+                    "n. mokaka."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Footpath"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tsela ea batho ba maoto."
+        },
+        "senses": [
+            {
+                "definition": "tsela ea batho ba maoto.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "tsela ea batho ba maoto."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Footstep"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "hlabo"
+        },
+        "senses": [
+            {
+                "definition": "hlabo, lika, mohlala.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "hlabo",
+                    "lika",
+                    "mohlala."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fop"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lekako."
+        },
+        "senses": [
+            {
+                "definition": "lekako.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "lekako."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Foppery"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bokako."
+        },
+        "senses": [
+            {
+                "definition": "bokako.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "bokako."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "For"
+        ],
+        "pos": [
+            "preposition"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ka"
+        },
+        "senses": [
+            {
+                "definition": "ka, kabaka la, bakeng sa; conj. kahoba.",
+                "usage_examples": [
+                    {
+                        "sesotho": "Molimo a tsoela pele ho re: “Ho ke ho be le mehloli ea leseli sepakapakeng sa maholimo ho etsa karohano pakeng tsa motšehare le bosiu; 'me e tla ba lipontšo le linako tsa selemo le matsatsi le lilemo.",
+                        "english": "Then God said: “Let there be luminaries in the expanse of the heavens to make a division between the day and the night, and they will serve as signs for seasons and for days and years.",
+                        "source": "Gen1 (v1001014)"
+                    },
+                    {
+                        "sesotho": "Molimo a etsa mehloli e 'meli e meholo ea leseli, mohloli o moholo oa leseli bakeng sa ho laola motšehare le mohloli o monyenyane oa leseli bakeng sa ho laola bosiu, le linaleli.",
+                        "english": "And God went on to make the two great luminaries, the greater luminary for dominating the day and the lesser luminary for dominating the night, and also the stars.",
+                        "source": "Gen1 (v1001016)"
+                    },
+                    {
+                        "sesotho": "Eaba Molimo o tsoela pele ho re: “Bonang! ke le file limela tsohle tse behang peō tse holim'a lefatše lohle le sefate se seng le se seng seo ho sona ho nang le litholoana tsa sefate se behang peō. E ke e be lijo tsa lōna.",
+                        "english": "Then God said: “Here I have given to you every seed-bearing plant that is on the entire earth and every tree with seed-bearing fruit. Let them serve as food for you.",
+                        "source": "Gen1 (v1001029)"
+                    },
+                    {
+                        "sesotho": "'Me sebata se seng le se seng sa lefatše le sebōpuoa se seng le se seng se fofang sa maholimo le ntho e 'ngoe le e 'ngoe e tsamaeang lefatšeng eo ho eona ho nang le bophelo e le moea [ke li file] limela tsohle tse tala hore e be lijo.” 'Me ha e-ba joalo.",
+                        "english": "And to every wild animal of the earth and to every flying creature of the heavens and to everything moving on the earth in which there is life, I have given all green vegetation for food.” And it was so.",
+                        "source": "Gen1 (v1001030)"
+                    },
+                    {
+                        "sesotho": "Molimo a hlohonolofatsa letsatsi la bosupa 'me a re lea halalela hobane letsatsing leo o ile a phomola ka mor'a mosebetsi oohle oo a o entseng.",
+                        "english": "And God went on to bless the seventh day and to declare it sacred, for on it God has been resting from all the work that he has created, all that he purposed to make.",
+                        "source": "Gen2 (v1002003)"
+                    },
+                    {
+                        "sesotho": "Jehova Molimo a melisa lifate tsohle tse ntle le tseo litholoana tsa tsona li ka jeoang a ba a melisa sefate sa bophelo hammoho le sefate sa tsebo ea botle le bobe har'a serapa.",
+                        "english": "Thus Jehovah God made to grow out of the ground every tree that was pleasing to look at and good for food and also the tree of life in the middle of the garden and the tree of the knowledge of good and bad.",
+                        "source": "Gen2 (v1002009)"
+                    },
+                    {
+                        "sesotho": "Empa ha e le sefate sa tsebo ea botle le bobe, u se ke oa ja litholoana tsa sona hobane letsatsing leo ka lona u li jang, kannete u tla shoa.”",
+                        "english": "But as for the tree of the knowledge of good and bad, you must not eat from it, for in the day you eat from it you will certainly die.”",
+                        "source": "Gen2 (v1002017)"
+                    },
+                    {
+                        "sesotho": "Eaba Jehova Molimo o re: “Ha ho hotle hore monna a be mong. Ke tla mo etsetsa mothusi ea mo tšoanelang.”",
+                        "english": "Then Jehovah God said: “It is not good for the man to continue to be alone. I am going to make a helper for him, as a complement of him.”",
+                        "source": "Gen2 (v1002018)"
+                    },
+                    {
+                        "sesotho": "Motho a reha liphoofolo tsohle tse ruuoang mabitso le libopuoa tse fofang le liphoofolo tsohle tse hlaha empa motho eena o ne a se na mothusi ea mo tšoanelang.",
+                        "english": "So the man named all the domestic animals and the flying creatures of the heavens and every wild animal of the field, but for man there was no helper as a complement of him.",
+                        "source": "Gen2 (v1002020)"
+                    },
+                    {
+                        "sesotho": "Feela joalokaha maholimo a phahametse lefatše haholo,Ba mo tšabang o ba rata haholo.",
+                        "english": "For as the heavens are higher than the earth,So great is his loyal love toward those who fear him.",
+                        "source": "Ps103 (v19103011)"
+                    },
+                    {
+                        "sesotho": "O tseba hantle tsela eo re bopiloeng ka eona, Oa hopola hore re lerole.",
+                        "english": "For he well knows how we are formed, Remembering that we are dust.",
+                        "source": "Ps103 (v19103014)"
+                    },
+                    {
+                        "sesotho": "Motho o shoa kapele joaloka joang. O thunya joaloka palesa ea naheng.",
+                        "english": "As for mortal man, his days are like those of grass; He blooms like a blossom of the field.",
+                        "source": "Ps103 (v19103015)"
+                    },
+                    {
+                        "sesotho": "Empa Jehova o rata ba mo tšabang Ka lerato le sa felengLe litloholo tsa bona o tla li tšoara ka tsela e lokileng,",
+                        "english": "But the loyal love of Jehovah is for all eternity Toward those who fear him, And his righteousness toward their children's children,",
+                        "source": "Ps103 (v19103017)"
+                    },
+                    {
+                        "sesotho": "Motho e mong le e mong a hlomphe balaoli ba phahameng kaha ba teng ka lebaka la Molimo. Balaoli ba leng teng ba behiloe maemong a bona a fapaneng ke Molimo.",
+                        "english": "Let every person be in subjection to the superior authorities, for there is no authority except by God; the existing authorities stand placed in their relative positions by God.",
+                        "source": "Rom13 (v45013001)"
+                    },
+                    {
+                        "sesotho": "Balaoli ha ba tšajoe ke batho ba etsang lintho tse ntle empa ba tšajoa ke ba etsang lintho tse mpe. Ha u sa batle ho tšaba balaoli, u 'ne u etse lintho tse ntle 'me ba tla u rorisa.",
+                        "english": "For those rulers are an object of fear, not to the good deed, but to the bad. Do you want to be free of fear of the authority? Keep doing good, and you will have praise from it;",
+                        "source": "Rom13 (v45013003)"
+                    },
+                    {
+                        "sesotho": "Ba sebeletsa Molimo molemong oa hao. Empa u lokela ho tšoha haeba u etsa lintho tse fosahetseng hobane ba fuoe matla le tokelo ea ho otla ba etsang lintho tse fosahetseng. Ke basebeletsi ba Molimo ba otlang batho ba etsang lintho tse fosahetseng.",
+                        "english": "for it is God's minister to you for your good. But if you are doing what is bad, be in fear, for it is not without purpose that it bears the sword. It is God's minister, an avenger to express wrath against the one practicing what is bad.",
+                        "source": "Rom13 (v45013004)"
+                    },
+                    {
+                        "sesotho": "Ka hona, le na le mabaka a le tlamang hore le mamele, eseng feela hore le balehe kotlo empa hape hore le be le matsoalo a khutsitseng.",
+                        "english": "There is therefore compelling reason for you to be in subjection, not only on account of that wrath but also on account of your conscience.",
+                        "source": "Rom13 (v45013005)"
+                    },
+                    {
+                        "sesotho": "Ke ka lebaka leo hape le ntšang makhetho hobane Molimo oa ba sebelisa hore ba sebeletse sechaba kamehla.",
+                        "english": "That is why you are also paying taxes; for they are God's public servants constantly serving this very purpose.",
+                        "source": "Rom13 (v45013006)"
+                    },
+                    {
+                        "sesotho": "Fang bohle tse ba lokelang, ea batlang lekhetho la mofuta ofe kapa ofe le mo fe lona, ea batlang ho tšajoa le mo tšabe, ea batlang ho hlomphuoa le mo hlomphe.",
+                        "english": "Render to all their dues: to the one who calls for the tax, the tax; to the one who calls for the tribute, the tribute; to the one who calls for fear, such fear; to the one who calls for honor, such honor.",
+                        "source": "Rom13 (v45013007)"
+                    },
+                    {
+                        "sesotho": "Le se ke la kolota mang kapa mang letho haese lerato kaha ea ratang oa habo o phethahalitse molao.",
+                        "english": "Do not owe anything to anyone except to love one another; for whoever loves his fellow man has fulfilled the law.",
+                        "source": "Rom13 (v45013008)"
+                    },
+                    {
+                        "sesotho": "Etsoe molao o reng, “U se ke oa feba, u se ke oa bolaea, u se ke oa utsoa, u se ke oa lakatsa lintho tsa motho e mong” le taelo efe kapa efe e teng, e akarelitsoe polelong ena e reng: “U rate moahisani oa hao joalokaha u ithata.”",
+                        "english": "For the law code, “You must not commit adultery, you must not murder, you must not steal, you must not covet,” and whatever other commandment there is, is summed up in this saying: “You must love your neighbor as yourself.”",
+                        "source": "Rom13 (v45013009)"
+                    },
+                    {
+                        "sesotho": "Le etse lintho tsena hobane lea tseba hore nako e se e fihlile ea hore le tsohe borokong. Nako ea hore re pholosoe e haufi haholo ho feta ha re ne re e-ba balumeli.",
+                        "english": "And do this because you know the season, that it is already the hour for you to awake from sleep, for now our salvation is nearer than at the time when we became believers.",
+                        "source": "Rom13 (v45013011)"
+                    },
+                    {
+                        "sesotho": "Empa le etsise Morena Jesu Kreste 'me le se ke la rera esale pele hore na le tla khotsofatsa litakatso tse fosahetseng joang.",
+                        "english": "But put on the Lord Jesus Christ, and do not be planning ahead for the desires of the flesh.",
+                        "source": "Rom13 (v45013014)"
+                    }
+                ],
+                "sesotho_term": [
+                    "ka",
+                    "kabaka la",
+                    "bakeng sa"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forage"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "furu"
+        },
+        "senses": [
+            {
+                "definition": "furu, habore; v.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "furu",
+                    "habore"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forbear"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lesa"
+        },
+        "senses": [
+            {
+                "definition": "ho lesa, tlohela; khaotsa, mamella.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho lesa",
+                    "tlohela"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forbearance"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mamello"
+        },
+        "senses": [
+            {
+                "definition": "mamello, sebete.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "mamello",
+                    "sebete."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forbid"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho hanela"
+        },
+        "senses": [
+            {
+                "definition": "ho hanela, thibela.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho hanela",
+                    "thibela."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Force"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "matla"
+        },
+        "senses": [
+            {
+                "definition": "matla, sekhahla.",
+                "usage_examples": [
+                    {
+                        "sesotho": "Joale lefatše le ne le se na sebōpeho ebile le se na letho 'me lefifi le ne le le holim'a boliba; matla a sebetsang a Molimo a ne a e-ea koana le koana holim'a metsi.",
+                        "english": "Now the earth was formless and desolate, and there was darkness upon the surface of the watery deep, and God's active force was moving about over the surface of the waters.",
+                        "source": "Gen1 (v1001002)"
+                    }
+                ],
+                "sesotho_term": [
+                    "matla",
+                    "sekhahla."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Ford"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "leliboho"
+        },
+        "senses": [
+            {
+                "definition": "leliboho, letsiboho; v. ho tsela noka.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "leliboho",
+                    "letsiboho"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fore"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "eapele"
+        },
+        "senses": [
+            {
+                "definition": "eapele; adv. pele; khale.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "eapele"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forebode"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho noha."
+        },
+        "senses": [
+            {
+                "definition": "ho noha.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho noha."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forecast"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho bona pele."
+        },
+        "senses": [
+            {
+                "definition": "ho bona pele.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho bona pele."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forefather"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ntate moholo-holo."
+        },
+        "senses": [
+            {
+                "definition": "ntate moholo-holo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ntate moholo-holo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forego"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lesa"
+        },
+        "senses": [
+            {
+                "definition": "ho lesa, tela.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho lesa",
+                    "tela."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Foreigner"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "molivhaba"
+        },
+        "senses": [
+            {
+                "definition": "molivhaba, o",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "molivhaba",
+                    "o"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Foremost"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea kapele ho"
+        },
+        "senses": [
+            {
+                "definition": "ea kapele ho",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ea kapele ho"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forenoon"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "motseare oa"
+        },
+        "senses": [
+            {
+                "definition": ", motseare oa, ho-sasa.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "motseare oa",
+                    "ho-sasa."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Foresee"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho bonela pele"
+        },
+        "senses": [
+            {
+                "definition": "ho bonela pele, noha, _ Porest, n. moru.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho bonela pele",
+                    "noha",
+                    "_ Porest",
+                    "n. moru."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Foretaste"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho latsua pele"
+        },
+        "senses": [
+            {
+                "definition": "ho latsua pele,",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho latsua pele"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Foretell"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho bolela pele."
+        },
+        "senses": [
+            {
+                "definition": "ho bolela pele.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho bolela pele."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forever"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "kamehla"
+        },
+        "senses": [
+            {
+                "definition": "kamehla, ka",
+                "usage_examples": [
+                    {
+                        "sesotho": "9 A ke ke a lula a re tšoaea liphoso Ebile a ke ke a lula a re halefetse.",
+                        "english": "9 He will not always find fault, Nor will he stay resentful forever.",
+                        "source": "Ps103 (v19103009)"
+                    }
+                ],
+                "sesotho_term": [
+                    "kamehla",
+                    "ka"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forewarn"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho eletsa pele"
+        },
+        "senses": [
+            {
+                "definition": "ho eletsa pele,",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho eletsa pele"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forfeit"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho senyeheloa ke ntho ka molato."
+        },
+        "senses": [
+            {
+                "definition": "ho senyeheloa ke ntho ka molato.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho senyeheloa ke ntho ka molato."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forge"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "futho"
+        },
+        "senses": [
+            {
+                "definition": "futho, sefutho; v ho tea Forgery, ». molaté oa ho tii-sa lengolo la. bopaki, kapa la chelete, ka le-bitso leo e seng Ja hao.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "futho",
+                    "sefutho"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forget"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lebala"
+        },
+        "senses": [
+            {
+                "definition": "ho lebala, hakuoa",
+                "usage_examples": [
+                    {
+                        "sesotho": "2 Ke tla rorisa Jehova. E se eka le ka mohla nke ke ka lebala lintho tsohle tseo a li entseng.",
+                        "english": "2 Let me praise Jehovah;May I never forget all that he has done.",
+                        "source": "Ps103 (v19103002)"
+                    }
+                ],
+                "sesotho_term": [
+                    "ho lebala",
+                    "hakuoa"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forgetful"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea lebalang"
+        },
+        "senses": [
+            {
+                "definition": "ea lebalang; a forgetful person, mole-bali",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ea lebalang"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forgetfulness"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bolebali"
+        },
+        "senses": [
+            {
+                "definition": "bolebali,",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "bolebali"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forgive"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tiuarela"
+        },
+        "senses": [
+            {
+                "definition": "ho tiuarela, lese-",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho tiuarela",
+                    "lese-"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forgiveness"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "teballo"
+        },
+        "senses": [
+            {
+                "definition": "teballo, teselo, tkuarelo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "teballo",
+                    "teselo",
+                    "tkuarelo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fork"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "fereko"
+        },
+        "senses": [
+            {
+                "definition": "fereko",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "fereko"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forlorn"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e lebetsoeng"
+        },
+        "senses": [
+            {
+                "definition": "e lebetsoeng,",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e lebetsoeng"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Furaletsoeny"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ng. Form"
+        },
+        "senses": [
+            {
+                "definition": "ng. Form, 1 \"mép6. sebopeho,",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ng. Form",
+                    "1 \"mép6. sebopeho"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Former"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea kapele ho ba"
+        },
+        "senses": [
+            {
+                "definition": "ea kapele ho ba",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ea kapele ho ba"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Formerly"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "pele"
+        },
+        "senses": [
+            {
+                "definition": "pele, khale, mohla-mouéne",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "pele",
+                    "khale",
+                    "mohla-mouéne"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Formidable"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e khéloha-"
+        },
+        "senses": [
+            {
+                "definition": "e khéloha-",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e khéloha-"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fornication"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "bohtola."
+        },
+        "senses": [
+            {
+                "definition": "bohtola.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "bohtola."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forsake"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho lahla"
+        },
+        "senses": [
+            {
+                "definition": "ho lahla, tlohela, furalla.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho lahla",
+                    "tlohela",
+                    "furalla."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forsooth"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ka ‘nete."
+        },
+        "senses": [
+            {
+                "definition": "ka ‘nete.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ka ‘nete."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fort"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "qhoboshéane"
+        },
+        "senses": [
+            {
+                "definition": "qhoboshéane, seqho-bo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "qhoboshéane",
+                    "seqho-bo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forth"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "pele"
+        },
+        "senses": [
+            {
+                "definition": "pele, kantlé.",
+                "usage_examples": [
+                    {
+                        "sesotho": "Molimo a tsoela pele ho re: “Lefatše le ke le hlahise meea e phelang ho ea ka mefuta ea eona, phoofolo e ruuoang le phoofolo e hahabang le sebata sa lefatše ho ea ka mofuta oa sona.” 'Me ha e-ba joalo.",
+                        "english": "Then God said: “Let the earth bring forth living creatures according to their kinds, domestic animals and creeping animals and wild animals of the earth according to their kinds.” And it was so.",
+                        "source": "Gen1 (v1001024)"
+                    }
+                ],
+                "sesotho_term": [
+                    "pele",
+                    "kantlé."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forthcoming"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "en tla hia-ha hona yuale."
+        },
+        "senses": [
+            {
+                "definition": "en tla hia-ha hona yuale.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "en tla hia-ha hona yuale."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forthwith"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "honu yuale."
+        },
+        "senses": [
+            {
+                "definition": "honu yuale.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "honu yuale."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fortify"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho natlafala"
+        },
+        "senses": [
+            {
+                "definition": "ho natlafala, ma-tlafatsa.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho natlafala",
+                    "ma-tlafatsa."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fortitude"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "matla"
+        },
+        "senses": [
+            {
+                "definition": "matla, tiisetso.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "matla",
+                    "tiisetso."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fortnight"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "veke tse peli."
+        },
+        "senses": [
+            {
+                "definition": "veke tse peli.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "veke tse peli."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fortress"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "qhoboshéane"
+        },
+        "senses": [
+            {
+                "definition": "qhoboshéane, se-qhobo",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "qhoboshéane",
+                    "se-qhobo"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fortunate"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e malimatle. e lehlohonolo."
+        },
+        "senses": [
+            {
+                "definition": "e malimatle. e lehlohonolo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e malimatle. e lehlohonolo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fortune"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lerno"
+        },
+        "senses": [
+            {
+                "definition": "lerno; good for-",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "lerno"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forty"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mashome mane."
+        },
+        "senses": [
+            {
+                "definition": "mashome mane.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "mashome mane."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Forward"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea ka pele ho ba bang. ea hlaha"
+        },
+        "senses": [
+            {
+                "definition": "ea ka pele ho ba bang. ea hlaha; v. ho utsetsa pele. Foster, ¥. ho fépa, hdlisa, rata. Foster-child, 0 nguana ea hé-lisoang ke basele ho ba-holo ba hae.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ea ka pele ho ba bang. ea hlaha"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Foul"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e litsila"
+        },
+        "senses": [
+            {
+                "definition": "e litsila, e molate; v_ ho silafatsa.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e litsila",
+                    "e molate"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Found"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho thea motheo"
+        },
+        "senses": [
+            {
+                "definition": "ho thea motheo;",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho thea motheo"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Foundation"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mothéo"
+        },
+        "senses": [
+            {
+                "definition": "mothéo, m« ralo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "mothéo",
+                    "m« ralo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Founder"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "moghibilihis mothei."
+        },
+        "senses": [
+            {
+                "definition": "moghibilihis mothei.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "moghibilihis mothei."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Founder"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho teba ha se képé ha se senyeha."
+        },
+        "senses": [
+            {
+                "definition": "ho teba ha se képé ha se senyeha.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho teba ha se képé ha se senyeha."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Foundling"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "nguana ea la hliloeng ke bahdlé b"
+        },
+        "senses": [
+            {
+                "definition": "nguana ea la hliloeng ke bahdlé b",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "nguana ea la hliloeng ke bahdlé b"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fountain"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "seliba."
+        },
+        "senses": [
+            {
+                "definition": "seliba.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "seliba."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Four"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "\"ne."
+        },
+        "senses": [
+            {
+                "definition": "\"ne.",
+                "usage_examples": [
+                    {
+                        "sesotho": "Ho ne ho e-na le noka e tsoang Edene e nosetsang serapa seo 'me ho tloha moo e ne e arohana e e-ba linoka tse 'nè.",
+                        "english": "Now there was a river flowing out of Eʹden to water the garden, and from there it divided into four rivers.",
+                        "source": "Gen2 (v1002010)"
+                    }
+                ],
+                "sesotho_term": [
+                    "\"ne."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fourfooted"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e madto | mane."
+        },
+        "senses": [
+            {
+                "definition": "e madto | mane.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e madto | mane."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fourteen"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "leshome le me tso e mene."
+        },
+        "senses": [
+            {
+                "definition": "leshome le me tso e mene.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "leshome le me tso e mene."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fowl"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "khoh6"
+        },
+        "senses": [
+            {
+                "definition": "khoh6, nonyana.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "khoh6",
+                    "nonyana."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fuivler"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "motsuasi oa lino nyana."
+        },
+        "senses": [
+            {
+                "definition": "motsuasi oa lino nyana.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "motsuasi oa lino nyana."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fox"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "phikoyoe."
+        },
+        "senses": [
+            {
+                "definition": "phikoyoe.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "phikoyoe."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fracture"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "thobého"
+        },
+        "senses": [
+            {
+                "definition": "thobého; v. he robéha; J have fracture: my arm, ke vobehile le tsoho.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "thobého"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fragile"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e vobehang ha bonolo feela."
+        },
+        "senses": [
+            {
+                "definition": "e vobehang ha bonolo feela.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e vobehang ha bonolo feela."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fragment"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "sekoto"
+        },
+        "senses": [
+            {
+                "definition": "sekoto",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "sekoto"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fragrance"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "monko o mo. nate."
+        },
+        "senses": [
+            {
+                "definition": "monko o mo. nate.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "monko o mo. nate."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Frail"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e felang"
+        },
+        "senses": [
+            {
+                "definition": "e felang, e foko-",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e felang",
+                    "e foko-"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Frame"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "foromo"
+        },
+        "senses": [
+            {
+                "definition": "foromo; kosene ea",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "foromo"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Frantic"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e halefileng ha-J holo"
+        },
+        "senses": [
+            {
+                "definition": "e halefileng ha-J holo, e hlanyang. 1 Fraternise, v. ho phela ka A boena le ba bang.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e halefileng ha-J holo",
+                    "e hlanyang. 1 Fraternise",
+                    "v. ho phela ka A boena le ba bang."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fraternity"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "boena."
+        },
+        "senses": [
+            {
+                "definition": "boena.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "boena."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fratricide"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "'molai oa nguan'abo"
+        },
+        "senses": [
+            {
+                "definition": "'molai oa nguan'abo, 2 = Fraud, n. thetso, mano, bo-mene-mene.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "'molai oa nguan'abo",
+                    "2 = Fraud",
+                    "n. thetso",
+                    "mano",
+                    "bo-mene-mene."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fray"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ntoa"
+        },
+        "senses": [
+            {
+                "definition": "ntoa, qabang.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ntoa",
+                    "qabang."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Free"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "© lokdlohileng"
+        },
+        "senses": [
+            {
+                "definition": "© lokdlohileng; v. ho lok6lla, naméla, loela,; tlamélla, holla.",
+                "usage_examples": [
+                    {
+                        "sesotho": "Balaoli ha ba tšajoe ke batho ba etsang lintho tse ntle empa ba tšajoa ke ba etsang lintho tse mpe. Ha u sa batle ho tšaba balaoli, u 'ne u etse lintho tse ntle 'me ba tla u rorisa.",
+                        "english": "For those rulers are an object of fear, not to the good deed, but to the bad. Do you want to be free of fear of the authority? Keep doing good, and you will have praise from it;",
+                        "source": "Rom13 (v45013003)"
+                    }
+                ],
+                "sesotho_term": [
+                    "© lokdlohileng"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Freedom"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tokélého."
+        },
+        "senses": [
+            {
+                "definition": "tokélého.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "tokélého."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Free-booter"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "sendkuane"
+        },
+        "senses": [
+            {
+                "definition": "sendkuane, se-) rabele. 1 Freewill, un. boithatelo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "sendkuane",
+                    "se-) rabele. 1 Freewill",
+                    "un. boithatelo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Freeze"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho fetoha leqhoa"
+        },
+        "senses": [
+            {
+                "definition": "ho fetoha leqhoa, hoama.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho fetoha leqhoa",
+                    "hoama."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "French"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea France"
+        },
+        "senses": [
+            {
+                "definition": "ea France ( Ko-ra); n. puo ea se-Fora; a Frenchman, le-Fora.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ea France"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Frenzy"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho se ikutine"
+        },
+        "senses": [
+            {
+                "definition": "ho se ikutine, bo-hlanya.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho se ikutine",
+                    "bo-hlanya."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Frequent"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e atileng."
+        },
+        "senses": [
+            {
+                "definition": "e atileng.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e atileng."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Frequently"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "khafetsa"
+        },
+        "senses": [
+            {
+                "definition": "khafetsa, ha-",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "khafetsa",
+                    "ha-"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fresh"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e pholileng"
+        },
+        "senses": [
+            {
+                "definition": "e pholileng, ba-",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e pholileng",
+                    "ba-"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fret"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho belaela ka"
+        },
+        "senses": [
+            {
+                "definition": "ho belaela ka, Inma-",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho belaela ka",
+                    "Inma-"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Friable"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e ka thuhoang habonolo."
+        },
+        "senses": [
+            {
+                "definition": "e ka thuhoang habonolo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e ka thuhoang habonolo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Friday"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "‘etsatsi la bohland."
+        },
+        "senses": [
+            {
+                "definition": "‘etsatsi la bohland.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "‘etsatsi la bohland."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Friend"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "motsualle"
+        },
+        "senses": [
+            {
+                "definition": "motsualle, mole",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "motsualle",
+                    "mole"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Friendship"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "setsualle"
+        },
+        "senses": [
+            {
+                "definition": "setsualle, sei-",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "setsualle",
+                    "sei-"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fright"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "tsohe"
+        },
+        "senses": [
+            {
+                "definition": "tsohe, tkabo",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "tsohe",
+                    "tkabo"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Frighten"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tose"
+        },
+        "senses": [
+            {
+                "definition": "ho tose, t&abis»,",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho tose",
+                    "t&abis»"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Frightened"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "t&oha"
+        },
+        "senses": [
+            {
+                "definition": "t&oha, fe-hla mahlo, neneta. Fright{ul, adj e t&abehang, tha bisang.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "t&oha",
+                    "fe-hla mahlo",
+                    "neneta. Fright{ul",
+                    "adj e t&abehang",
+                    "tha bisang."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fringe"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "phello ea ntho e kang lexela. lintsi tea eonn"
+        },
+        "senses": [
+            {
+                "definition": "phello ea ntho e kang lexela. lintsi tea eonn,",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "phello ea ntho e kang lexela. lintsi tea eonn"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Frisk"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho tlélaka"
+        },
+        "senses": [
+            {
+                "definition": "ho tlélaka",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho tlélaka"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Frivolous"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e hlokomelang litaba tse nyenyane."
+        },
+        "senses": [
+            {
+                "definition": "e hlokomelang litaba tse nyenyane.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e hlokomelang litaba tse nyenyane."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Frock"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "roko."
+        },
+        "senses": [
+            {
+                "definition": "roko.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "roko."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Frolic"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho thale"
+        },
+        "senses": [
+            {
+                "definition": "ho thale, thalaba-nya.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho thale",
+                    "thalaba-nya."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "From"
+        ],
+        "pos": [
+            "preposition"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho"
+        },
+        "senses": [
+            {
+                "definition": "ho, ho tloha ho. Front,» —sefahleho, kapa karolo ea” sefahleho; boikhant&o; in front of, ka pele ho, pel'a, pele ho; to be in front, ho ba oa pele; v. hoema ma-bapa le.",
+                "usage_examples": [
+                    {
+                        "sesotho": "Ka mor'a moo Molimo a bona hore leseli le molemo, 'me Molimo a hlahisa karohano pakeng tsa leseli le lefifi.",
+                        "english": "After that God saw that the light was good, and God began to divide the light from the darkness.",
+                        "source": "Gen1 (v1001004)"
+                    },
+                    {
+                        "sesotho": "Joale Molimo a etsa sepakapaka 'me a etsa karohano pakeng tsa metsi a lokelang ho ba ka tlas'a sepakapaka le metsi a lokelang ho ba ka holim'a sepakapaka. 'Me ha e-ba joalo.",
+                        "english": "Then God went on to make the expanse and divided the waters beneath the expanse from the waters above the expanse. And it was so.",
+                        "source": "Gen1 (v1001007)"
+                    },
+                    {
+                        "sesotho": "Ka letsatsi la bosupa, Molimo o ne a qetile mosebetsi oohle oo a neng a o etsa. Ka lona letsatsi leo, a phomola ka mor'a mosebetsi oohle oo a o entseng.",
+                        "english": "And by the seventh day, God had completed the work that he had been doing, and he began to rest on the seventh day from all his work that he had been doing.",
+                        "source": "Gen2 (v1002002)"
+                    },
+                    {
+                        "sesotho": "Molimo a hlohonolofatsa letsatsi la bosupa 'me a re lea halalela hobane letsatsing leo o ile a phomola ka mor'a mosebetsi oohle oo a o entseng.",
+                        "english": "And God went on to bless the seventh day and to declare it sacred, for on it God has been resting from all the work that he has created, all that he purposed to make.",
+                        "source": "Gen2 (v1002003)"
+                    },
+                    {
+                        "sesotho": "Empa moholi o ne o nyoloha fatše 'me o nosetsa lefatše lohle.",
+                        "english": "But a mist would go up from the earth, and it watered the entire surface of the ground.",
+                        "source": "Gen2 (v1002006)"
+                    },
+                    {
+                        "sesotho": "Jehova Molimo a etsa motho ka lerole la lefatše 'me a bululela moea oa bophelo linkong tsa hae e le hore a phele eaba motho oa phela.",
+                        "english": "And Jehovah God went on to form the man out of dust from the ground and to blow into his nostrils the breath of life, and the man became a living person.",
+                        "source": "Gen2 (v1002007)"
+                    },
+                    {
+                        "sesotho": "Ho ne ho e-na le noka e tsoang Edene e nosetsang serapa seo 'me ho tloha moo e ne e arohana e e-ba linoka tse 'nè.",
+                        "english": "Now there was a river flowing out of Eʹden to water the garden, and from there it divided into four rivers.",
+                        "source": "Gen2 (v1002010)"
+                    },
+                    {
+                        "sesotho": "Jehova Molimo a fa motho taelo ena: “U ka ja litholoana tsa lifate tsohle tse serapeng hore u khotsofale.",
+                        "english": "Jehovah God also gave this command to the man: “From every tree of the garden you may eat to satisfaction.",
+                        "source": "Gen2 (v1002016)"
+                    },
+                    {
+                        "sesotho": "Empa ha e le sefate sa tsebo ea botle le bobe, u se ke oa ja litholoana tsa sona hobane letsatsing leo ka lona u li jang, kannete u tla shoa.”",
+                        "english": "But as for the tree of the knowledge of good and bad, you must not eat from it, for in the day you eat from it you will certainly die.”",
+                        "source": "Gen2 (v1002017)"
+                    },
+                    {
+                        "sesotho": "Jehova Molimo o ne a entse liphoofolo tsohle tse hlaha le libopuoa tsohle tse fofang eaba o li tlisa ho motho ho bona hore na o tla li reha mabitso afe. Li ile tsa bitsoa ka mabitso ao motho a ileng a li reha 'ona.",
+                        "english": "Now Jehovah God had been forming from the ground every wild animal of the field and every flying creature of the heavens, and he began bringing them to the man to see what he would call each one; and whatever the man would call each living creature, that became its name.",
+                        "source": "Gen2 (v1002019)"
+                    },
+                    {
+                        "sesotho": "Jehova Molimo a etsa mosali ka khopo eo a e nkileng ho monna eaba o mo tlisa ho monna.",
+                        "english": "And Jehovah God built the rib that he had taken from the man into a woman, and he brought her to the man.",
+                        "source": "Gen2 (v1002022)"
+                    },
+                    {
+                        "sesotho": "Monna a re: “Joale enoa ke lesapo la masapo a kaLe nama ea nama ea ka. O tla bitsoa MosaliHobane o nkiloe ho monna.”",
+                        "english": "Then the man said: “This is at last bone of my bonesAnd flesh of my flesh. This one will be called Woman,Because from man she was taken.”",
+                        "source": "Gen2 (v1002023)"
+                    },
+                    {
+                        "sesotho": "4 O pholosa bophelo ba hae lebitleng. O pota-potiloe ke lerako le mohau oa hae.",
+                        "english": "4 He reclaims your life from the pit And crowns you with his loyal love and mercy.",
+                        "source": "Ps103 (v19103004)"
+                    },
+                    {
+                        "sesotho": "Feela joalokaha bochabela bo le hole le bophirimela,Ka ho tšoanang o suthiselitse liphoso tsa rona hole le rona.",
+                        "english": "As far off as the sunrise is from the sunset,So far off from us he has put our transgressions.",
+                        "source": "Ps103 (v19103012)"
+                    },
+                    {
+                        "sesotho": "Balaoli ha ba tšajoe ke batho ba etsang lintho tse ntle empa ba tšajoa ke ba etsang lintho tse mpe. Ha u sa batle ho tšaba balaoli, u 'ne u etse lintho tse ntle 'me ba tla u rorisa.",
+                        "english": "For those rulers are an object of fear, not to the good deed, but to the bad. Do you want to be free of fear of the authority? Keep doing good, and you will have praise from it;",
+                        "source": "Rom13 (v45013003)"
+                    },
+                    {
+                        "sesotho": "Le etse lintho tsena hobane lea tseba hore nako e se e fihlile ea hore le tsohe borokong. Nako ea hore re pholosoe e haufi haholo ho feta ha re ne re e-ba balumeli.",
+                        "english": "And do this because you know the season, that it is already the hour for you to awake from sleep, for now our salvation is nearer than at the time when we became believers.",
+                        "source": "Rom13 (v45013011)"
+                    }
+                ],
+                "sesotho_term": [
+                    "ho",
+                    "ho tloha ho. Front",
+                    "» —sefahleho",
+                    "kapa karolo ea” sefahleho"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Frontver"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "moeli oa naha."
+        },
+        "senses": [
+            {
+                "definition": "moeli oa naha.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "moeli oa naha."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Frost"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lebabo"
+        },
+        "senses": [
+            {
+                "definition": "lebabo, serame.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "lebabo",
+                    "serame."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Frostbitten"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho bayoa"
+        },
+        "senses": [
+            {
+                "definition": "ho bayoa, chatsoa.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho bayoa",
+                    "chatsoa."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Froth"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lefilo"
+        },
+        "senses": [
+            {
+                "definition": "lefilo; v. ho tlé-koma.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "lefilo"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Frovn"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho yekétsa"
+        },
+        "senses": [
+            {
+                "definition": "ho yekétsa, soso-",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho yekétsa",
+                    "soso-"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Frugal"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea yang hanye-"
+        },
+        "senses": [
+            {
+                "definition": "ea yang hanye-",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ea yang hanye-"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fruit"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "thdloana"
+        },
+        "senses": [
+            {
+                "definition": "thdloana, se be-",
+                "usage_examples": [
+                    {
+                        "sesotho": "Molimo a tsoela pele ho re: “Lefatše le ke le hlahise joang, limela tse behang peō, lifate tsa litholoana tse behang litholoana ho ea ka mefuta ea tsona, tseo peō ea tsona e leng ho tsona, holim'a lefatše.” 'Me ha e-ba joalo.",
+                        "english": "Then God said: “Let the earth cause grass to sprout, seed-bearing plants and fruit trees according to their kinds, yielding fruit along with seed on the earth.” And it was so.",
+                        "source": "Gen1 (v1001011)"
+                    },
+                    {
+                        "sesotho": "Lefatše la qala ho hlahise joang, limela tse behang peō ho ea ka mefuta ea tsona le lifate tse behang litholoana, tseo peō ea tsona e leng ho tsona ho ea ka mefuta ea tsona. Joale Molimo a bona hore ho molemo.",
+                        "english": "And the earth began to produce grass, seed-bearing plants and trees yielding fruit along with seed, according to their kinds. Then God saw that it was good.",
+                        "source": "Gen1 (v1001012)"
+                    },
+                    {
+                        "sesotho": "Eaba Molimo o tsoela pele ho re: “Bonang! ke le file limela tsohle tse behang peō tse holim'a lefatše lohle le sefate se seng le se seng seo ho sona ho nang le litholoana tsa sefate se behang peō. E ke e be lijo tsa lōna.",
+                        "english": "Then God said: “Here I have given to you every seed-bearing plant that is on the entire earth and every tree with seed-bearing fruit. Let them serve as food for you.",
+                        "source": "Gen1 (v1001029)"
+                    }
+                ],
+                "sesotho_term": [
+                    "thdloana",
+                    "se be-"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Frutful"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e beang hantie"
+        },
+        "senses": [
+            {
+                "definition": "e beang hantie, e hlahisang lithdloana.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e beang hantie",
+                    "e hlahisang lithdloana."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fruct-tree"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "sefate se beang lithdloana tae yeoang."
+        },
+        "senses": [
+            {
+                "definition": "sefate se beang lithdloana tae yeoang.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "sefate se beang lithdloana tae yeoang."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Frustrate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho améha. tima"
+        },
+        "senses": [
+            {
+                "definition": "ho améha. tima,",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho améha. tima"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fry"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho pheha ka mafm halika."
+        },
+        "senses": [
+            {
+                "definition": "ho pheha ka mafm halika.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho pheha ka mafm halika."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fuel"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "libeso"
+        },
+        "senses": [
+            {
+                "definition": "libeso, (patsi, lis",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "libeso",
+                    "(patsi",
+                    "lis"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fulfil"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho phétha"
+        },
+        "senses": [
+            {
+                "definition": "ho phétha, qatéll",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho phétha",
+                    "qatéll"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Full"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e tletseng"
+        },
+        "senses": [
+            {
+                "definition": "e tletseng; to",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e tletseng"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Full"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "phasoa"
+        },
+        "senses": [
+            {
+                "definition": "phasoa, tla! penama.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "phasoa",
+                    "tla! penama."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fully"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "haholo"
+        },
+        "senses": [
+            {
+                "definition": "haholo, ka | tlala.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "haholo",
+                    "ka | tlala."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fulminate"
+        ],
+        "pos": [
+            "verb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ho qhéma } matla a mahdlé"
+        },
+        "senses": [
+            {
+                "definition": "ho qhéma } matla a mahdlé, ho lum",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ho qhéma } matla a mahdlé",
+                    "ho lum"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fume"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mdosi"
+        },
+        "senses": [
+            {
+                "definition": "mdosi, mouoane v. ho itSéna, ho halefa.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "mdosi",
+                    "mouoane v. ho itSéna",
+                    "ho halefa."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fun"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "papali"
+        },
+        "senses": [
+            {
+                "definition": "papali, mosusso: make fun of, ho soholl",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "papali",
+                    "mosusso: make fun of",
+                    "ho soholl"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Function"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "kabelo."
+        },
+        "senses": [
+            {
+                "definition": "kabelo.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "kabelo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Funds"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "lichelete"
+        },
+        "senses": [
+            {
+                "definition": "lichelete; 1 have 1",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "lichelete"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Funds"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ke na chelet"
+        },
+        "senses": [
+            {
+                "definition": "ke na chelet",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ke na chelet"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Funeral"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "képélo. Funnel"
+        },
+        "senses": [
+            {
+                "definition": "képélo. Funnel, 1 set8elo, moo mé o fetang.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "képélo. Funnel",
+                    "1 set8elo",
+                    "moo mé o fetang."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Funny"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e t8ehisang."
+        },
+        "senses": [
+            {
+                "definition": "e t8ehisang.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e t8ehisang."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fur"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "letlalo le boéa."
+        },
+        "senses": [
+            {
+                "definition": "letlalo le boéa.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "letlalo le boéa."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Furious"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e itéenang"
+        },
+        "senses": [
+            {
+                "definition": "e itéenang, ha-ie lefileng. Furlong, 1 kuardlo ea boroba u, meno e ‘meli ea mile. eFurlough, n. tumello: ea ho lok6loha mosebetsing ka abaka se itseng. ern = Furnace, n. leifo, sebopi, onto",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e itéenang",
+                    "ha-ie lefileng. Furlong",
+                    "1 kuardlo ea boroba u",
+                    "meno e ‘meli ea mile. eFurlough",
+                    "n. tumello: ea ho lok6loha mosebetsing ka abaka se itseng. ern = Furnace",
+                    "n. leifo",
+                    "sebopi",
+                    "onto"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Furniture"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "mesebetsi ea a. _ ntld"
+        },
+        "senses": [
+            {
+                "definition": "mesebetsi ea a. _ ntld, (ynaleka taféle, li-be tulo, ete. ) a, Furrow, n. moeli oa metsi, moeli o etsoang ka pluu, 10 ford.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "mesebetsi ea a. _ ntld",
+                    "(ynaleka taféle",
+                    "li-be tulo",
+                    "ete. ) a",
+                    "Furrow",
+                    "n. moeli oa metsi",
+                    "moeli o etsoang ka pluu",
+                    "10 ford."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Further"
+        ],
+        "pos": [
+            "adverb"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ka peyana"
+        },
+        "senses": [
+            {
+                "definition": "ka peyana, ca hape; v ho ntetsa pele a. Fuse, v. ho qhibilihisa. »; Fusion, n. ghibilihiso.",
+                "usage_examples": [
+                    {
+                        "sesotho": "Ho ekelletsa moo, Molimo a ba hlohonolofatsa 'me Molimo a re ho bona: “Atang le ngatafale le tlale lefatše 'me le le buse, 'me le laole litlhapi tsa leoatle le libōpuoa tse fofang tsa maholimo le sebōpuoa se seng le se seng se phelang se hahabang lefatšeng.”",
+                        "english": "Further, God blessed them, and God said to them: “Be fruitful and become many, fill the earth and subdue it, and have in subjection the fish of the sea and the flying creatures of the heavens and every living creature that is moving on the earth.”",
+                        "source": "Gen1 (v1001028)"
+                    },
+                    {
+                        "sesotho": "Ho ekelletsa moo, Jehova Molimo a lema serapa Edene, ho elella ka bochabela 'me a beha motho eo a mo entseng teng.",
+                        "english": "Further, Jehovah God planted a garden in Eʹden, toward the east; and there he put the man whom he had formed.",
+                        "source": "Gen2 (v1002008)"
+                    }
+                ],
+                "sesotho_term": [
+                    "ka peyana",
+                    "ca hape"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fuss"
+        ],
+        "pos": [
+            "noun"
+        ],
+        "headword_sesotho": {
+            "orthographic": "khathatso tabeng to tse nyenyane"
+        },
+        "senses": [
+            {
+                "definition": "khathatso tabeng to tse nyenyane, ho tlaka-D. lla; do not make such a",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "khathatso tabeng to tse nyenyane",
+                    "ho tlaka-D. lla"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fuss"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ke ua tlakalla LO hakalo."
+        },
+        "senses": [
+            {
+                "definition": "ke ua tlakalla LO hakalo.; e. Fustigate, v. ho shapa.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ke ua tlakalla LO hakalo."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Futile"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e nyenyane"
+        },
+        "senses": [
+            {
+                "definition": "e nyenyane, e sa 3i tsebisahaleng.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e nyenyane",
+                    "e sa 3i tsebisahaleng."
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Future"
+        ],
+        "pos": [
+            "adjective"
+        ],
+        "headword_sesotho": {
+            "orthographic": "e tlang ho tla"
+        },
+        "senses": [
+            {
+                "definition": "e tlang ho tla; n. nako e tlang.",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "e tlang ho tla"
+                ]
+            }
+        ]
+    },
+    {
+        "headword_english": [
+            "Fy"
+        ],
+        "pos": [
+            "unknown"
+        ],
+        "headword_sesotho": {
+            "orthographic": "ea nyatso. ue! ao!"
+        },
+        "senses": [
+            {
+                "definition": "ea nyatso. ue! ao!",
+                "usage_examples": [],
+                "sesotho_term": [
+                    "ea nyatso. ue! ao!"
+                ]
+            }
+        ]
+    }
+]

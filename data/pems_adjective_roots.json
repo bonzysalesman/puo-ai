@@ -1,0 +1,11 @@
+[
+  { "root": "tle", "definition": "good/beautiful", "is_nasal_sensitive": 0 },
+  { "root": "be", "definition": "bad/ugly", "is_nasal_sensitive": 1 },
+  { "root": "kholo", "definition": "big", "is_nasal_sensitive": 0 },
+  { "root": "nyenyane", "definition": "small", "is_nasal_sensitive": 1 },
+  { "root": "ngata", "definition": "many", "is_nasal_sensitive": 0 },
+  { "root": "fubelu", "definition": "red", "is_nasal_sensitive": 1 },
+  { "root": "fofonyane", "definition": "few", "is_nasal_sensitive": 1 },
+  { "root": "raro", "definition": "three-ish", "is_nasal_sensitive": 1 },
+  { "root": "nne", "definition": "four", "is_nasal_sensitive": 0 }
+]
