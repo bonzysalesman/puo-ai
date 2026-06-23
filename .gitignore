@@ -1,0 +1,79 @@
+# OS / editor cruft
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+.venv/
+.venv-3.9-backup/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# Project-specific caches
+.qwen/
+archive/
+backups/
+
+# Generated reports (large, regenerable, mostly noise)
+reports/*.md
+reports/*.txt
+# one-off audit/verification scripts
+reports/_run_*.py
+# dated OCR audit artifacts
+reports/ocr_pipeline_audit*/
+# all reports JSON outputs
+reports/*.json
+
+# OCR image dumps (large, regenerable from PDFs)
+historical/casalis/images*/
+historical/casalis/*/images*/
+historical/jacottet/images*/
+historical/mabille/images*/
+historical/mabille/images_batch_*/
+historical/mabille/images_full/
+historical/mabille/images_refined/
+historical/mabille/images_batch_9_fixed/
+historical/mabille/verify_images/
+historical/mabille/batch_demo_images/
+historical/mabille/debug_page*.png
+historical/paroz/images*/
+# input image chunks (regenerable)
+ocr_splits/
+
+# Historical raw/parsed/staged demo artifacts
+historical/mabille/batch_*_raw.json
+historical/mabille/batch_demo_raw*.json
+historical/mabille/mabille_*_raw.json
+historical/mabille/mabille_*_parsed.json
+historical/mabille/mabille_*_staged.json
+historical/mabille/mabille_raw_vision*.json
+historical/mabille/mabille_final_*.json
+historical/mabille/verify_raw.json
+historical/mabille/vision_extraction_test.json
+historical/staged/staged_demo*.json
+
+# Lexicon backups (kept locally, regenerable from corpus.json)
+data/lexicon.backup.json
+data/lexicon.json.backup
+data/*.backup
+# rebuild via `make join-view`
+data/dictionary.joined.json
+
+# Source corpora (raw PDFs already gitignored by *.zip, but some
+# PDFs are committed; protect new_ingest dumps)
+sources/**/*.zip
+sources/new_ingest/*.pdf
+sources/pdfs/**/images*/
+
+# Top-level scratch files
+test_casalis_cleaned.json
+test_surya_output.json
+test_surya_pdf_output.json
+scratch.py
+walkthrough.md
+wordlist.md
+fix_lexicon_schema.py
+OCR_UPGRADE_COMPLETE.md
+WORKSPACE_PLAN.md
