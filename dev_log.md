@@ -153,3 +153,65 @@
 - Audit recent high-volume entries for empty POS fields and skeletal metadata.
 - Begin staging and refining **Mabille Batch A** historical entries.
 
+
+## 2026-05-10
+
+### Historical Extraction (Mabille Batch 3 & 4)
+- **Batch 3**: Processed PDF pages 51-52 (dictionary pages 41-42). Injected 80 entries (Bophefali to Borafi).
+- **Batch 4**: Processed PDF pages 53-57 (dictionary pages 43-47). Injected 194 entries (Borahane to Bothaōthè).
+- **Tooling**: Verified refined PDF splitter and vision-based extraction pipeline. Standardized staging scripts for rapid ingestion.
+- **Batch 5**: Processed PDF pages 58-62 (dictionary pages 48-51). Injected 148 entries (Bothapisi to Botsoali).
+- **Batch 6**: Processed PDF pages 62-66 (dictionary pages 52-54). Injected 53 entries (Botsoalle to Butsoèla).
+
+## 2026-06-23
+
+### OCR Stack Verification + eng+fra Default
+
+Verified the OCR → headword-extraction → dictionary chain end-to-end on 3 sample Casalis-A pages (page_012 left/right, page_013 left). The pipeline works at 100% precision against the combined lexicon: every re-OCR'd headword corresponds to a real entry in either `historical/staged/staged_casalis_a.json` or `data/lexicon.json`, including OCR-corruption variants recoverable by fuzzy match.
+
+**Headline numbers (3 pages × 35 baseline lines = 105 lines total):**
+
+| Engine | Baseline-line recovery | Headword match vs lexicon |
+|---|---|---|
+| Tesseract 5.5.2 (eng) | 92.4% (97/105) | 38/42 = 90.5% direct, +4 fuzzy = 100% precision |
+| Tesseract 5.5.2 (eng+fra) | 54.3% by exact-line / 92% by structure | **40/44 = 90.9% direct, +4 fuzzy = 100% precision** |
+| Surya 0.20+ | 29.5% (31/105) | wins on per-character conf (0.97) but collapses column-flow into single lines — wrong tool for 2-column dictionaries |
+
+**Key finding:** `eng+fra` is strictly better than `eng`-only for this corpus. It picks up 2 additional real headwords per 3 pages (`Against`, `Agility`) that `eng`-only garbled into variants. Patched `OCRConfig.languages` to default to `["eng", "fra"]` (commit `7c6e00a`).
+
+**Important caveat:** `eng+fra` improves Sesotho diacritics (`mothé` → `mothô`, `éohang` → `tëohang`) but introduces *occasional* new errors in non-Sesotho English words. The "baseline line recovery" metric went *down* on `eng+fra` despite the text being objectively more correct — because the metric does exact-string matching on full lines, and small character-level differences (better diacritics) count as "misses". Don't trust that metric alone; always ground-truth against the lexicon.
+
+### Tools, Lessons, and Gotchas
+
+- **Tesseract lang packs** are not bundled with `tesseract` on Homebrew. `brew install tesseract-lang` pulls the entire ~700 MB bottle — slow on flaky networks (took 22 min before throttling). Workaround: download individual packs (e.g. `fra.traineddata` is 1.1 MB) directly from `https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/main/<lang>.traineddata` into `/opt/homebrew/share/tessdata/`. No Sesotho pack exists in `tessdata_fast` (`st`, `sso`, `sot` all 404). French is the closest match for Casalis/Mabille/Jacottet/Paroz sources.
+
+- **Surya is the wrong tool for column-scan dictionary OCR.** 121 s/page vs Tesseract 0.6 s/page, and 92% vs 29% line recovery. Surya's architecture is tuned for prose documents and it collapses multi-line definitions into single lines. Keep Tesseract as the primary engine for `casalis_*`/`mabille_*` flows; reserve Surya for full-page scans.
+
+- **OCR "noise" is often a feature, not a bug.** The 4 OCR-corruption variants we found (`Aflernoon`→`Afternoon`, `Ayitate`→`Agitate`, `Afilict`→`Afflict`, `Agarust`→`Against`) all fuzzy-match to real headwords via `difflib.get_close_matches(cutoff=0.7)`. Any downstream inject step should include a fuzzy-match layer or validate against the lexicon before injection. The existing `inject_historical_entries.py` has dedupe but no fuzzy-correct step — candidate improvement.
+
+- **OCR audits must always check the lexicon, not just line counts.** "92% baseline line recovery" sounds great until you learn the 8% miss is real headwords, and "54% line recovery" sounds bad until you learn those lines are actually more correct. Always end-to-end ground-truth against `data/lexicon.json` + `historical/staged/*.json`.
+
+- **`python -m` vs direct invocation**: `pipeline/ocr/test_casalis_extraction.py` line 11 uses `from enhanced_ocr_stack import ...` (bare). Runs fine via `python -m unittest` but fails with `ImportError: attempted relative import` when invoked directly. Pre-existing on `main HEAD`; not caused by today's edits. **Fix candidate**: change to `from .sesotho_ocr_enhancer import ...` is already correct in `enhanced_ocr_stack.py` line 17; the test file just needs the matching relative imports.
+
+### Repo Hygiene Findings (audit, not fixes)
+
+- **5 OCR files were untracked on `main`**, including the very files we just patched. `enhanced_ocr_stack.py` and `test_casalis_extraction.py` were committed in `7c6e00a`. `sesotho_ocr_enhancer.py` is a required runtime dependency of `enhanced_ocr_stack.py` and is committed today as a separate "missing dependency" patch. **6 more `pipeline/ocr/*.py` files remain untracked** (`general_vision_extractor.py`, `vision_model_extractor.py`, `ocr_paroz.py`, `ocr_split_pages_refined.py`, `parse_mabille_batch_12.py`, `parse_mabille_batch_13.py`); none are imported by the committed code, so they can stay untracked for now.
+
+- **`brew install tesseract-lang` failed on flaky ghcr.io download**; **workaround**: direct `fra.traineddata` download. Documented in skill update.
+
+- **`.gitignore` is too narrow.** Doesn't cover `historical/**/images*`, `historical/mabille/batch_*_raw.json`, `historical/staged/staged_demo*.json`, `data/*.backup*`, `reports/_run_*.py`, `reports/ocr_pipeline_audit_*/`. Adding ~3,500 files to staging by accident is a real risk (encountered during this session — recovered via `git reset HEAD --`).
+
+### Files Modified Today
+
+- `pipeline/ocr/enhanced_ocr_stack.py` — `OCRConfig.languages` defaults to `["eng", "fra"]`; `__post_init__` mutator; `DEFAULT_LANGUAGES` constant exported.
+- `pipeline/ocr/test_casalis_extraction.py` — hardcoded `languages=["eng"]` → `["eng", "fra"]`.
+- `pipeline/ocr/sesotho_ocr_enhancer.py` — committed as required dependency (no functional changes).
+- `_agents/skills/historical_pdf_extraction/SKILL.md` — added "Tesseract Language Packs" and "Audit Before Commit" sections.
+- `dev_log.md` — this entry.
+
+### Artifacts (audit trail in `reports/`)
+
+- `reports/ocr_pipeline_audit_20260623T045518Z/` — eng-only baseline (3 pages)
+- `reports/ocr_pipeline_audit_v2_20260623T062007Z/` — eng+fra results
+- `reports/_run_*.py` — 6 helper scripts (intentionally untracked, see `.gitignore` candidate)
+- `reports/enhanced_ocr_test_results.json`, `reports/sesotho_enhancement_test_results.json` — pre-existing
