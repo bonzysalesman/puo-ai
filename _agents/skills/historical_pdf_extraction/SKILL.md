@@ -38,3 +38,47 @@ When a user requests to extract more pages:
 1. Ensure the target PDF is in the workspace.
 2. Modify `scripts/test_historical_extraction.py` to target the desired page range.
 3. Execute the Python scripts sequentially to generate the `*_cleaned.json` output.
+
+## Tesseract Language Packs
+
+Tesseract on Homebrew installs **without any language data** beyond `eng`. For historical Sesotho sources (Casalis, Mabille, Jacottet, Paroz) the source language is French, so `fra` improves Sesotho diacritic handling dramatically.
+
+**Install `fra` directly (recommended, ~1 MB, fast):**
+```bash
+sudo curl -sSL -o /opt/homebrew/share/tessdata/fra.traineddata \
+  https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/main/fra.traineddata
+```
+
+**Verify available languages:** `tesseract --list-langs` should list `eng fra osd snum`.
+
+**Avoid `brew install tesseract-lang`** — it pulls a ~700 MB bottle that is slow on flaky networks (took 22 min in a 2026-06-23 audit before throttling). Individual packs are 1-3 MB each and install in seconds.
+
+**No Sesotho pack exists** in `tessdata_fast` (`st`, `sso`, `sot` all 404). `fra` is the closest match.
+
+**Use both:** pass `-l eng+fra` to Tesseract. `pipeline/ocr/enhanced_ocr_stack.py` defaults to `["eng", "fra"]` for historical work as of 2026-06-23.
+
+## Audit Before Commit (Repo Hygiene)
+
+When committing OCR-related changes, **always check that required runtime dependencies are tracked in git**. The 2026-06-23 audit caught `pipeline/ocr/enhanced_ocr_stack.py` and `pipeline/ocr/test_casalis_extraction.py` being committed without their required dependency `pipeline/ocr/sesotho_ocr_enhancer.py` (which had been sitting untracked on `main`). A fresh checkout from that commit would have failed at import time.
+
+Before committing any change to `pipeline/ocr/`:
+1. `git ls-files pipeline/ocr/` to see what's tracked.
+2. `ls pipeline/ocr/*.py | xargs -I {} sh -c 'git ls-files {} >/dev/null 2>&1 || echo "UNTRACKED: {}"'` to find untracked siblings.
+3. If the file you're editing imports a sibling that's untracked, **commit the sibling in the same commit** or split the commit so the dependency lands first.
+
+When staging OCR work:
+- `git add -- pipeline/ocr/enhanced_ocr_stack.py` (use `--` to avoid accidentally staging thousands of untracked image dumps, raw OCR JSON, and demo files that lack `.gitignore` entries).
+- Always run `git diff --staged --stat` before committing.
+- If you accidentally stage everything: `git reset HEAD --` (preserves working-tree edits).
+
+## Engine Selection (Tesseract vs Surya)
+
+For 2-column historical dictionaries, **Tesseract wins** decisively:
+
+| | Tesseract (eng+fra) | Surya 0.20+ |
+|---|---|---|
+| Wall time per page | ~0.6 s | ~120 s |
+| Baseline-line recovery | 92% | 29% |
+| Best for | Column-scan dictionary OCR | Full-page prose scans |
+
+Surya collapses multi-line definitions onto single lines (good for prose, bad for dictionaries). Reserve Surya for full-page prose documents where per-character confidence matters more than column-flow ordering.
